@@ -1,2 +1,2 @@
 # Makerspace-Academy
-Repositorio de contenidos educativos del Makersapce Academy
+Repositorio de contenidos educativos del Makerspace Academy
