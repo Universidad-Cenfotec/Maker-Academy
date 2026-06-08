@@ -2,7 +2,7 @@
 
 Esta carpeta contiene el modelo pedagógico oficial de **Makerspace Academy**, el cual orienta el diseño, implementación, evaluación y documentación de experiencias maker para estudiantes desde preescolar hasta secundaria.
 
-El modelo se basa en **XperiencED Kids**, una adaptación de la metodología XperiencED de CENFOTEC, dirigida para niños, niñas y jóvenes. Esta metodología organiza las experiencias de aprendizaje en tres momentos pedagógicos:
+El modelo se basa en la metodología **XperiencED Kids**, una adaptación de XperiencED de CENFOTEC, dirigida para niños, niñas y jóvenes. Esta metodología organiza las experiencias de aprendizaje en tres momentos pedagógicos:
 
 1. **Inspiración**
 2. **Experimentación**
