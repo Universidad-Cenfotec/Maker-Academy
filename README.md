@@ -47,8 +47,6 @@ La experiencia maker no se centra únicamente en el producto final. También val
 | [`09. Procedimientos Makerspace`](./09. Procedimientos Makerspace/) | Seguridad, operación, inventario, mantenimiento, publicación y documentación del espacio.                             |
 | [`10. Dashboard e Indicadores`](./10. Dashboard e Indicadores/)     | Indicadores, instrumentos y reportes para el seguimiento del programa.                                                |
 | [`11. Comunidad Show Your Work`](./11. Comunidad Show Your Work/)   | Show Your Work, Open House, mentorías, comunicación de resultados y buenas prácticas.                                 |
-                                                                               |
-                                                                                                                                                   |
 
 ---
 
