@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio institucional de **Maker Academy**, un espacio diseñado para acompañar a docentes, facilitadores y equipos educativos en la planificación, implementación, documentación y mejora de experiencias maker desde preescolar hasta undécimo año.
 
-Este repositorio organiza el modelo pedagógico, los bloques temáticos, el programa anual K11, ejemplos de proyectos por grado, proyectos integrados, recursos docentes, Gemas y Prompts, evidencias de implementación, insignias, procedimientos del makerspace, dashboard de indicadores y la comunidad **Show Your Work**.
+Este repositorio organiza el modelo pedagógico, los bloques temáticos, la propuesta anual K11, ejemplos de proyectos por grado, proyectos integrados, recursos docentes, Gemas y Prompts, evidencias de implementación, insignias, procedimientos del makerspace, dashboard de indicadores y la comunidad **Show Your Work**.
 
 ---
 
@@ -33,35 +33,36 @@ La experiencia maker no se centra únicamente en el producto final. También val
 
 ## Estructura del repositorio
 
-| Carpeta                                                             | Contenido principal                                                                                                   |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [`00. Modelo Pedagógico`](./00. Modelo Pedagógico/)                 | Fundamentos, metodología XperiencED Kids, PNFT, cultura maker, 4P, evaluación y roles.                                |
-| [`01. Bloques Temáticos`](./01. Bloques Temáticos/)                 | Los ocho bloques tecnológicos del programa.                                                                           |
-| [`02. Programa Anual K11`](./02. Programa Anual K11/)               | Propuesta base de implementación anual por niveles, grados, módulos, proyectos, herramientas y evidencias.            |
-| [`03. Proyectos por Grado`](./03. Proyectos por Grado/)             | Banco de ejemplos de proyectos aislados por grado. Estos proyectos desarrollan competencias y contenidos específicos. |
-| [`04. Proyectos Integrados`](./04. Proyectos Integrados/)           | Proyectos maker vinculados con otras materias y experiencias interdisciplinarias.                                     |
-| [`05. Gemas y Prompts`](./05. Gemas y Prompts/)                     | Gemas, prompts institucionales, ejemplos de uso y criterios de revisión humana.                                       |
-| [`06. Recursos para Docentes`](./06. Recursos para Docentes/)       | Plantillas, rúbricas, guías rápidas, presentaciones y recursos para formación docente.                                |
-| [`07. Evidencias de Escuelas`](./07. Evidencias de Escuelas/)       | Evidencias de implementación por escuela, año, nivel, grado y proyecto.                                               |
-| [`08. Insignias`](./08. Insignias/)                                 | Sistema de reconocimiento para estudiantes, docentes y escuelas.                                                      |
-| [`09. Procedimientos Makerspace`](./09. Procedimientos Makerspace/) | Seguridad, operación, inventario, mantenimiento, publicación y documentación del espacio.                             |
-| [`10. Dashboard e Indicadores`](./10. Dashboard e Indicadores/)     | Indicadores, instrumentos y reportes para el seguimiento del programa.                                                |
-| [`11. Comunidad Show Your Work`](./11. Comunidad Show Your Work/)   | Show Your Work, Open House, mentorías, comunicación de resultados y buenas prácticas.                                 |
+| Carpeta                                                             | Contenido principal                                                                                                                                                                                    |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [`00. Modelo Pedagógico`](./00. Modelo Pedagógico/)                 | Fundamentos, metodología XperiencED Kids, PNFT, cultura maker, 4P, evaluación y roles.                                                                                                                 |
+| [`01. Bloques Temáticos`](./01. Bloques Temáticos/)                 | Los ocho bloques tecnológicos del programa.                                                                                                                                                            |
+| [`02. Programa Anual K11`](./02. Programa Anual K11/)               | Propuesta base de implementación anual por niveles, grados, módulos, proyectos, herramientas y evidencias.                                                                                             |
+| [`03. Proyectos por Grado`](./03. Proyectos por Grado/)             | Banco de ejemplos de proyectos aislados por grado. Estos proyectos desarrollan competencias y contenidos específicos, pero no sustituyen ni siguen necesariamente la propuesta del Programa Anual K11. |
+| [`04. Proyectos Integrados`](./04. Proyectos Integrados/)           | Proyectos maker vinculados con otras materias y experiencias interdisciplinarias.                                                                                                                      |
+| [`05. Gemas y Prompts`](./05. Gemas y Prompts/)                     | Gemas, prompts institucionales, ejemplos de uso y criterios de revisión humana.                                                                                                                        |
+| [`06. Recursos para Docentes`](./06. Recursos para Docentes/)       | Plantillas, rúbricas, guías rápidas, presentaciones y recursos para formación docente.                                                                                                                 |
+| [`07. Evidencias de Escuelas`](./07. Evidencias de Escuelas/)       | Evidencias de implementación por escuela, año, nivel, grado y proyecto.                                                                                                                                |
+| [`08. Insignias`](./08. Insignias/)                                 | Sistema de reconocimiento para estudiantes, docentes y escuelas.                                                                                                                                       |
+| [`09. Procedimientos Makerspace`](./09. Procedimientos Makerspace/) | Seguridad, operación, inventario, mantenimiento, publicación y documentación del espacio.                                                                                                              |
+| [`10. Dashboard e Indicadores`](./10. Dashboard e Indicadores/)     | Indicadores, instrumentos y reportes para el seguimiento del programa.                                                                                                                                 |
+| [`11. Comunidad Show Your Work`](./11. Comunidad Show Your Work/)   | Show Your Work, Open House, mentorías, comunicación de resultados y buenas prácticas.                                                                                                                  |
 
 ---
 
 ## Ruta rápida para docentes
 
-### Para trabajar con la ruta oficial del programa
+### Para trabajar con la propuesta anual K11
 
 1. Revisar el enfoque pedagógico en `00. Modelo Pedagógico`.
-2. Consultar la progresión anual en `02. Programa Anual K11`.
-3. Identificar el nivel, grado, módulo y proyecto correspondiente.
+2. Consultar la propuesta de implementación anual en `02. Programa Anual K11`.
+3. Identificar el nivel, grado, módulo o proyecto de referencia.
 4. Revisar los bloques temáticos vinculados en `01. Bloques Temáticos`.
-5. Preparar materiales, seguridad, evidencias y evaluación.
-6. Implementar la experiencia.
-7. Documentar evidencias en `07. Evidencias de Escuelas`.
-8. Compartir aprendizajes en `11. Comunidad Show Your Work`.
+5. Adaptar la propuesta según el contexto del centro educativo, los recursos disponibles y las necesidades del grupo.
+6. Preparar materiales, seguridad, evidencias y evaluación.
+7. Implementar la experiencia.
+8. Documentar evidencias en `07. Evidencias de Escuelas`.
+9. Compartir aprendizajes en `11. Comunidad Show Your Work`.
 
 ### Para buscar ideas o proyectos complementarios
 
@@ -127,4 +128,3 @@ Este repositorio busca que cada docente pueda:
 > Encontrar una experiencia maker, comprender su propósito, adaptarla a su contexto, implementarla con seguridad, recoger evidencias, evaluar aprendizajes y compartir resultados con la comunidad.
 
 **Maker Academy no es solo un conjunto de documentos. Es una infraestructura pedagógica para aprender creando.**
-
