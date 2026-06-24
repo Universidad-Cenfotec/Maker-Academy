@@ -33,20 +33,21 @@ La experiencia maker no se centra únicamente en el producto final. También val
 
 ## Estructura del repositorio
 
-| Carpeta                                                             | Contenido principal                                                                                                                                                                               |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`00. Modelo Pedagógico`](./00. Modelo Pedagógico/)                 | Fundamentos, metodología XperiencED Kids, PNFT, cultura maker, 4P, evaluación y roles.                                                                                                            |
-| [`01. Bloques Temáticos`](./01. Bloques Temáticos/)                 | Los ocho bloques tecnológicos del programa.                                                                                                                                                       |
-| [`02. Programa Anual K11`](./02. Programa Anual K11/)               | Ruta oficial anual por niveles, grados, módulos, proyectos, herramientas y evidencias.                                                                                                            |
+| Carpeta                                                             | Contenido principal                                                                                                   |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [`00. Modelo Pedagógico`](./00. Modelo Pedagógico/)                 | Fundamentos, metodología XperiencED Kids, PNFT, cultura maker, 4P, evaluación y roles.                                |
+| [`01. Bloques Temáticos`](./01. Bloques Temáticos/)                 | Los ocho bloques tecnológicos del programa.                                                                           |
+| [`02. Programa Anual K11`](./02. Programa Anual K11/)               | Propuesta base de implementación anual por niveles, grados, módulos, proyectos, herramientas y evidencias.            |
 | [`03. Proyectos por Grado`](./03. Proyectos por Grado/)             | Banco de ejemplos de proyectos aislados por grado. Estos proyectos desarrollan competencias y contenidos específicos. |
-| [`04. Proyectos Integrados`](./04. Proyectos Integrados/)           | Proyectos maker vinculados con otras materias y experiencias interdisciplinarias.                                                                                                                 |
-| [`05. Gemas y Prompts`](./05. Gemas y Prompts/)                     | Gemas, prompts institucionales, ejemplos de uso y criterios de revisión humana.                                                                                                                   |
-| [`06. Recursos para Docentes`](./06. Recursos para Docentes/)       | Plantillas, rúbricas, guías rápidas, presentaciones y recursos para formación docente.                                                                                                            |
-| [`07. Evidencias de Escuelas`](./07. Evidencias de Escuelas/)       | Evidencias de implementación por escuela, año, nivel, grado y proyecto.                                                                                                                           |
-| [`08. Insignias`](./08. Insignias/)                                 | Sistema de reconocimiento para estudiantes, docentes y escuelas.                                                                                                                                  |
-| [`09. Procedimientos Makerspace`](./09. Procedimientos Makerspace/) | Seguridad, operación, inventario, mantenimiento, publicación y documentación del espacio.                                                                                                         |
-| [`10. Dashboard e Indicadores`](./10. Dashboard e Indicadores/)     | Indicadores, instrumentos y reportes para el seguimiento del programa.                                                                                                                            |
-| [`11. Comunidad Show Your Work`](./11. Comunidad Show Your Work/)   | Show Your Work, Open House, mentorías, comunicación de resultados y buenas prácticas.                                                                                                             |
+| [`04. Proyectos Integrados`](./04. Proyectos Integrados/)           | Proyectos maker vinculados con otras materias y experiencias interdisciplinarias.                                     |
+| [`05. Gemas y Prompts`](./05. Gemas y Prompts/)                     | Gemas, prompts institucionales, ejemplos de uso y criterios de revisión humana.                                       |
+| [`06. Recursos para Docentes`](./06. Recursos para Docentes/)       | Plantillas, rúbricas, guías rápidas, presentaciones y recursos para formación docente.                                |
+| [`07. Evidencias de Escuelas`](./07. Evidencias de Escuelas/)       | Evidencias de implementación por escuela, año, nivel, grado y proyecto.                                               |
+| [`08. Insignias`](./08. Insignias/)                                 | Sistema de reconocimiento para estudiantes, docentes y escuelas.                                                      |
+| [`09. Procedimientos Makerspace`](./09. Procedimientos Makerspace/) | Seguridad, operación, inventario, mantenimiento, publicación y documentación del espacio.                             |
+| [`10. Dashboard e Indicadores`](./10. Dashboard e Indicadores/)     | Indicadores, instrumentos y reportes para el seguimiento del programa.                                                |
+| [`11. Comunidad Show Your Work`](./11. Comunidad Show Your Work/)   | Show Your Work, Open House, mentorías, comunicación de resultados y buenas prácticas.                                 |
+                                                                               |
                                                                                                                                                    |
 
 ---
