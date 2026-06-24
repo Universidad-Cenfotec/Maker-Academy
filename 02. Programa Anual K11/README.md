@@ -59,7 +59,7 @@ Toda adaptación debe procurar mantener coherencia con:
 
 ---
 
-## Estructura sugerida de la carpeta
+## Estructura de la carpeta
 
 | Archivo o sección                              | Propósito                                                                             |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------- |
