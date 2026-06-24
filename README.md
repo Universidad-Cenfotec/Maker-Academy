@@ -85,7 +85,7 @@ El programa organiza el aprendizaje tecnológico en ocho bloques:
 
 ## Organización anual
 
-La ruta anual de Maker Academy se organiza en **cuatro módulos por grado**.
+La ruta anual del Programa Crear, Conectar, Programar e Innovar, de Maker Academy se organiza en **cuatro módulos por grado**.
 
 | Módulo       | Función pedagógica                                                                            |
 | ------------ | --------------------------------------------------------------------------------------------- |
