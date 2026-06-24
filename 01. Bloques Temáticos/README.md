@@ -34,7 +34,7 @@ Los bloques ayudan a responder preguntas como:
 
 ---
 
-## Estructura sugerida de cada bloque
+## Estructura de cada bloque
 
 Cada bloque puede incluir recursos como:
 
