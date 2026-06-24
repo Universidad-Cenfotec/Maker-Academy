@@ -1,7 +1,7 @@
-# De Boceto a Archivo Digital
+# Ensambles Simples
 
 > Este archivo pertenece a: **Mini Lecciones**  
-> Ruta: `01_bloques-tematicos/02_fabricacion-digital/mini-lecciones/de-boceto-a-archivo.md`
+> Ruta: `01_bloques-tematicos/02_fabricacion-digital/mini-lecciones/ensambles-simples.md`
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## Descripción
 
-_Describe aquí el propósito y contenido de `de-boceto-a-archivo`._
+_Describe aquí el propósito y contenido de `ensambles-simples`._
 
 ---
 

@@ -1,7 +1,7 @@
-# De Boceto a Archivo Digital
+# Lista de Cotejo Fabricación
 
-> Este archivo pertenece a: **Mini Lecciones**  
-> Ruta: `01_bloques-tematicos/02_fabricacion-digital/mini-lecciones/de-boceto-a-archivo.md`
+> Este archivo pertenece a: **Evaluación**  
+> Ruta: `01_bloques-tematicos/02_fabricacion-digital/evaluacion/lista-cotejo-fabricacion.md`
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## Descripción
 
-_Describe aquí el propósito y contenido de `de-boceto-a-archivo`._
+_Describe aquí el propósito y contenido de `lista-cotejo-fabricacion`._
 
 ---
 
