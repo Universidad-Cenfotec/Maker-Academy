@@ -4,29 +4,77 @@
 
 ---
 
-## Propósito del bloque
-
-_Describe el propósito general de este bloque temático._
-
 ## Estado
 
-- **Estado:** Borrador
+- **Estado:** Completo
 - **Versión:** v1.0
 
-## Estructura de este bloque
+---
 
-_Lista de subcarpetas y archivos principales del bloque._
+## Propósito del bloque
+
+![Placas de desarrollo más comunes en educación maker: micro:bit, Arduino UNO, ESP32 y Circuit Playground Express](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/320px-Arduino_Uno_-_R3.jpg)
+
+Un microcontrolador es una computadora diminuta encapsulada en un solo chip. Tiene procesador, memoria y pines de entrada/salida, todo en uno. Cuando un estudiante conecta un sensor de temperatura a una placa micro:bit y programa que encienda un LED si hace mucho calor, está usando exactamente los mismos principios que los ingenieros usan para diseñar termostatos, sistemas de riego automático o alarmas industriales.
+
+Este bloque enseña programación física: la unión entre el código que se escribe en pantalla y el mundo real que responde al otro lado del cable. A diferencia de la programación puramente visual o abstracta, aquí cada instrucción tiene una consecuencia visible y tangible. Eso cambia la manera en que los estudiantes aprenden a depurar errores, a razonar sobre el tiempo y a diseñar sistemas.
+
+El bloque cubre el recorrido completo, desde las actividades iconográficas sin pantalla para preescolar hasta la programación en texto con Arduino o MicroPython para secundaria avanzada. Las plataformas, los conceptos de entradas y salidas, los sensores, los protocolos de comunicación y los instrumentos de evaluación están organizados para que el docente pueda entrar desde cualquier nivel.
+
+---
+
+## Estructura del bloque
+
+```
+04. Microcontroladores/
+├── README.md                         ← Este archivo
+├── 01. Mapa de Progresión.md         ← Niveles de aprendizaje y rutas
+├── 02. Vocabulario.md                ← Glosario técnico del bloque
+├── 03. Seguridad.md                  ← Normas de seguridad eléctrica
+├── 04. Alineación con el PNFT.md     ← Conexión curricular y competencias
+├── 01. Plataformas de Desarrollo/    ← micro:bit, Arduino, ESP32, Circuit Playground
+├── 02. Entradas y Salidas Digitales/ ← Pines, analógico, PWM, monitor serial
+├── 03. Sensores y Actuadores/        ← Sensores y motores comunes
+├── 04. Comunicación entre Dispositivos/ ← UART, I2C, SPI, Bluetooth, WiFi
+├── 05. Progresión de Programación/   ← Iconográfico, bloques y texto
+└── 06. Evaluación/                   ← Lista de cotejo y rúbrica
+```
+
+---
+
+## ¿Cómo usar este bloque?
+
+El punto de entrada depende del nivel del grupo:
+
+**Preescolar y primaria baja (4 a 8 años):** Comenzar en `05. Progresión de Programación/iconografico/`. No se necesita ningún dispositivo electrónico. Las actividades usan tarjetas físicas, colores y movimiento corporal para construir el concepto de secuencia, condición y bucle.
+
+**Primaria media y alta (8 a 12 años):** Comenzar con la plataforma micro:bit (`01. Plataformas de Desarrollo/microbit.md`) y el entorno MakeCode (`05. Progresión de Programación/bloques/makecode-basico.md`). El vocabulario y el mapa de progresión ayudan a planificar la secuencia de sesiones.
+
+**Secundaria (12 a 18 años):** Según el tiempo disponible y la experiencia previa del grupo, la entrada puede ser bloques con sensores o directamente texto (Arduino C++ o MicroPython). La sección de plataformas describe las diferencias entre Arduino, ESP32 y Circuit Playground para ayudar a elegir.
+
+En todos los casos se recomienda revisar `03. Seguridad.md` antes de la primera sesión con hardware.
+
+---
+
+## Recursos del bloque
+
+| Recurso | Descripción |
+|---|---|
+| `01. Mapa de Progresión.md` | Ruta de aprendizaje por nivel, de preescolar a secundaria |
+| `02. Vocabulario.md` | Términos clave del bloque con definiciones accesibles |
+| `03. Seguridad.md` | Normas de uso seguro del hardware electrónico |
+| `04. Alineación con el PNFT.md` | Competencias, asignaturas y conexiones curriculares |
+| `01. Plataformas de Desarrollo/` | Fichas comparativas de las plataformas disponibles |
+| `02. Entradas y Salidas Digitales/` | Conceptos de pines, señales analógicas, PWM y depuración serial |
+| `03. Sensores y Actuadores/` | Sensores de uso frecuente y cómo programarlos |
+| `04. Comunicación entre Dispositivos/` | Protocolos de comunicación entre placas y periféricos |
+| `05. Progresión de Programación/` | Actividades desde iconográfico hasta código en texto |
+| `06. Evaluación/` | Instrumentos de evaluación del bloque |
+
+---
 
 ## Alineación curricular
 
-- **Niveles:** Preescolar / Primaria / Secundaria
+- **Niveles:** Preescolar, Primaria, Secundaria
 - **Conexión con XperiencED Kids:** Inspiración · Experimentación · Reflexión
-
-## Recursos de este bloque
-
-| Recurso | Descripción |
-| ------- | ----------- |
-| `mapa-progresion.md` | Progresión de contenidos por nivel |
-| `vocabulario.md` | Términos clave del bloque |
-| `seguridad.md` | Normas de seguridad aplicables |
-| `evaluacion/` | Rúbricas y listas de cotejo |
+- **Áreas transversales:** Matemáticas, Ciencias, Tecnología, Pensamiento computacional
