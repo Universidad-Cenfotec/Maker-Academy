@@ -60,7 +60,7 @@ Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curi
 | `practicas-guiadas/` | Incluye actividades cortas para vivir la cultura maker. |
 | `recursos-docentes/` | Reúne apoyos para la mediación docente. |
 | `evaluacion/` | Contiene instrumentos de observación y valoración. |
-```
+
 
 ## Cómo usar este bloque
 
