@@ -8,7 +8,7 @@ Ruta: 01_bloques-tematicos/01_pensamiento-maker
 
 > Pensar como maker es mirar un reto y decir: “puedo imaginar una solución, construir una primera versión, probarla y mejorarla”.
 
-## ¿Qué es este bloque?
+## ¿Qué es el pensamiento maker?
 
 El Pensamiento Maker es una forma de aprender creando. Invita a niñas, niños y jóvenes a observar su entorno, imaginar soluciones, construir prototipos, probarlos, equivocarse, mejorar y compartir lo aprendido.
 
@@ -20,7 +20,7 @@ Este bloque es la puerta de entrada al makerspace. Aquí se construyen las bases
 
 La progresión dentro del bloque va de la exploración libre a la creación con propósito. En los primeros niveles, el énfasis está en descubrir materiales, construir y contar lo que se hizo. En niveles intermedios y avanzados, el foco se amplía hacia el diseño de soluciones, la iteración, la documentación y la presentación de proyectos.
 
-## Propósito
+## Propósito de est bloque
 
 Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curiosidad, la creación, la prueba, la mejora continua y el trabajo con otros.
 
