@@ -1,4 +1,5 @@
-# Fundamentos del Pensamiento Maker
+## Fundamentos del Pensamiento Maker
+
 Ruta: 01_bloques-tematicos/01_pensamiento-maker
 
 **Estado:** Borrador  
@@ -6,7 +7,7 @@ Ruta: 01_bloques-tematicos/01_pensamiento-maker
 **Última actualización:** 2026-06-30  
 
 
-> Pensar como maker es mirar un reto y decir: “puedo imaginar una solución, construir una primera versión, probarla y mejorarla”.
+Pensar como maker es mirar un reto y decir: “puedo imaginar una solución, construir una primera versión, probarla y mejorarla”.
 
 ## ¿Qué es el pensamiento maker?
 
