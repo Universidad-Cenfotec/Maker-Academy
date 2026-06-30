@@ -4,7 +4,7 @@ Bienvenido al repositorio institucional de **Maker Academy** de la Universidad C
 
 Este repositorio organiza el modelo pedagógico, los bloques temáticos, la propuesta anual K11, ejemplos de proyectos por grado, proyectos integrados, recursos docentes, Gemas y Prompts, evidencias de implementación, insignias, procedimientos del makerspace, dashboard de indicadores y la comunidad **Show Your Work**.
 
-![](Recursos visuales/Fotografías/fotomaker001.jpg)
+![](<Recursos visuales/Fotografías/fotomaker001.jpg>)
 ---
 
 ## ¿Qué es Maker Academy?
