@@ -1,32 +1,60 @@
-# Pensamiento Maker
+# B01. Fundamentos del Pensamiento Maker
 
-> Ruta: `01_bloques-tematicos/01_pensamiento-maker`
+**Estado:** Borrador  
+**Versión:** v1.0  
+**Última actualización:** 2026-06-30  
 
----
 
-## Propósito del bloque
+> Pensar como maker es mirar un reto y decir: “puedo imaginar una solución, construir una primera versión, probarla y mejorarla”.
 
-_Describe el propósito general de este bloque temático._
+## ¿Qué es este bloque?
 
-## Estado
+Este bloque introduce la mentalidad maker: aprender haciendo, colaborar, experimentar, equivocarse con propósito y compartir lo aprendido.
 
-- **Estado:** Borrador
-- **Versión:** v1.0
+Es la base para que los estudiantes se acerquen al makerspace no solo como un lugar con herramientas, sino como un espacio para crear, pensar y resolver problemas.
 
-## Estructura de este bloque
+## Propósito
 
-_Lista de subcarpetas y archivos principales del bloque._
+Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curiosidad, la creación, la prueba, la mejora continua y el trabajo con otros.
 
-## Alineación curricular
+## Ideas clave
 
-- **Niveles:** Preescolar / Primaria / Secundaria
-- **Conexión con XperiencED Kids:** Inspiración · Experimentación · Reflexión
+- Crear es una forma de aprender.
+- El error es una pista para mejorar.
+- Un prototipo no tiene que ser perfecto: debe ayudar a probar una idea.
+- La colaboración permite llegar más lejos.
+- Documentar ayuda a recordar, explicar y compartir.
+- La seguridad es parte de la cultura maker.
 
-## Recursos de este bloque
+## Relación con metodología XperiencED Kids de CENFOTEC
 
-| Recurso | Descripción |
-| ------- | ----------- |
-| `mapa-progresion.md` | Progresión de contenidos por nivel |
-| `vocabulario.md` | Términos clave del bloque |
-| `seguridad.md` | Normas de seguridad aplicables |
-| `evaluacion/` | Rúbricas y listas de cotejo |
+| Momento | En este bloque se vive cuando... |
+|---|---|
+| Inspiración | Observamos una necesidad, una curiosidad o un reto cercano. |
+| Experimentación | Construimos, probamos, nos equivocamos y ajustamos. |
+| Reflexión | Explicamos qué hicimos, qué aprendimos y cómo podemos mejorar. |
+
+## Evidencias esperadas
+
+- Bocetos o dibujos de ideas.
+- Prototipos simples.
+- Fotografías del proceso.
+- Bitácoras o notas breves.
+- Mejoras realizadas después de probar.
+- Presentaciones cortas tipo *show your work*.
+
+## Archivos del bloque
+
+| Archivo                      | Descripción                                    |
+| ---------------------------- | ---------------------------------------------- |
+| `mapa-progresion.md`         | Cómo evoluciona la mentalidad maker por nivel. |
+| `vocabulario.md`             | Palabras clave del bloque.                     |
+| `seguridad.md`               | Acuerdos básicos para trabajar con cuidado.    |
+| `alineacion-pnft.md`         | Conexión con competencias tecnológicas.        |
+| `cultura-diy-diwio.md`       | Hacer por cuenta propia y con otros.           |
+| `diseno-centrado-usuario.md` | Crear pensando en las personas.                |
+| `prototipado-rapido.md`      | Convertir ideas en pruebas rápidas.            |
+| `xperienced-kids.md`         | Conexión metodológica.                         |
+
+
+
