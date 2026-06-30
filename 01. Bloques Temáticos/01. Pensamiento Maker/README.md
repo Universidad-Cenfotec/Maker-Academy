@@ -45,38 +45,21 @@ Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curi
 
 ## Estructura del bloque
 
-```text
-01_pensamiento-maker/
-├── README.md
-├── mapa-progresion.md
-├── vocabulario.md
-├── seguridad.md
-├── alineacion-pnft.md
-├── cultura-diy-diwio.md
-├── diseno-centrado-usuario.md
-├── prototipado-rapido.md
-├── xperienced-kids.md
-│
-├── mini-lecciones/
-│   ├── que-es-un-maker.md
-│   ├── aprender-del-error.md
-│   ├── colaborar-y-compartir.md
-│   ├── dar-retroalimentacion.md
-│   └── documentar-proceso.md
-│
-├── practicas-guiadas/
-│   ├── reto-torre-materiales/
-│   ├── boceto-a-prototipo/
-│   └── critica-amable.md
-│
-├── recursos-docentes/
-│   ├── presentacion-cultura-maker.md
-│   ├── guia-mediacion-preguntas.md
-│   └── checklist-activacion-reto.md
-│
-└── evaluacion/
-    ├── lista-cotejo-cultura-maker.md
-    └── rubrica-colaboracion-reflexion.md
+| Carpeta o archivo | Función |
+|---|---|
+| `README.md` | Presenta el bloque y orienta su uso. |
+| `mapa-progresion.md` | Muestra cómo evoluciona la mentalidad maker por nivel. |
+| `vocabulario.md` | Define palabras clave del bloque. |
+| `seguridad.md` | Presenta acuerdos básicos para trabajar con cuidado. |
+| `alineacion-pnft.md` | Conecta el bloque con competencias tecnológicas. |
+| `cultura-diy-diwio.md` | Explica la cultura de hacer por cuenta propia y con otros. |
+| `diseno-centrado-usuario.md` | Introduce el diseño pensado en las personas. |
+| `prototipado-rapido.md` | Explica cómo convertir ideas en pruebas rápidas. |
+| `xperienced-kids.md` | Relaciona el bloque con Inspiración, Experimentación y Reflexión. |
+| `mini-lecciones/` | Contiene cápsulas breves para activar conceptos clave. |
+| `practicas-guiadas/` | Incluye actividades cortas para vivir la cultura maker. |
+| `recursos-docentes/` | Reúne apoyos para la mediación docente. |
+| `evaluacion/` | Contiene instrumentos de observación y valoración. |
 ```
 
 ## Cómo usar este bloque
