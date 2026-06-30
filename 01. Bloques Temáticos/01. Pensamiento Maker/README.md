@@ -45,34 +45,39 @@ Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curi
 
 ## Estructura del bloque
 
-01. Pensamiento Maker/
-├── README.md                         ← este archivo
-├── mapa-progresion.md                ← secuencia de aprendizaje por nivel
-├── vocabulario.md                    ← glosario esencial del bloque
-├── seguridad.md                      ← acuerdos básicos para trabajar con cuidado
-├── alineacion-pnft.md                ← conexión con competencias tecnológicas
-├── cultura-diy-diwio.md              ← hacer por cuenta propia y con otros
-├── diseno-centrado-usuario.md        ← crear pensando en las personas
-├── prototipado-rapido.md             ← convertir ideas en pruebas rápidas
-├── xperienced-kids.md                ← relación con la metodología institucional
+```text
+01_pensamiento-maker/
+├── README.md
+├── mapa-progresion.md
+├── vocabulario.md
+├── seguridad.md
+├── alineacion-pnft.md
+├── cultura-diy-diwio.md
+├── diseno-centrado-usuario.md
+├── prototipado-rapido.md
+├── xperienced-kids.md
 │
-├── mini-lecciones/                   ← cápsulas breves para activar conceptos clave
+├── mini-lecciones/
 │   ├── que-es-un-maker.md
 │   ├── aprender-del-error.md
 │   ├── colaborar-y-compartir.md
 │   ├── dar-retroalimentacion.md
 │   └── documentar-proceso.md
 │
-├── practicas-guiadas/                ← actividades cortas para vivir la cultura maker
+├── practicas-guiadas/
 │   ├── reto-torre-materiales/
 │   ├── boceto-a-prototipo/
 │   └── critica-amable.md
 │
-├── recursos-docentes/                ← apoyos para la mediación docente
+├── recursos-docentes/
 │   ├── presentacion-cultura-maker.md
 │   ├── guia-mediacion-preguntas.md
 │   └── checklist-activacion-reto.md
 │
+└── evaluacion/
+    ├── lista-cotejo-cultura-maker.md
+    └── rubrica-colaboracion-reflexion.md
+```
 
 ## Cómo usar este bloque
 
@@ -85,12 +90,6 @@ Revisar seguridad.md antes de cualquier actividad práctica.
 Iniciar con una mini-lección breve, como que-es-un-maker.md o aprender-del-error.md.
 Activar una práctica guiada sencilla, como reto-torre-materiales/.
 Cerrar con reflexión, documentación y retroalimentación amable.
-
-## Para el docente con experiencia previa
-
-Los contenidos pueden usarse de forma independiente. Es posible entrar directamente a temas como cultura DIY/DIWO, diseño centrado en el usuario o prototipado rápido, según el proyecto que se vaya a desarrollar.
-
-## Para el docente que quiere preparar a su grupo para otros bloques
 
 Este bloque funciona como base para Fabricación Digital, Electrónica, Microcontroladores, Robótica, IoT y Creatividad Digital. Antes de usar máquinas, sensores o programación, es importante que el grupo comprenda cómo trabajar con seguridad, colaborar, probar ideas y aprender del error.
 
