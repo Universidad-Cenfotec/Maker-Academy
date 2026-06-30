@@ -57,4 +57,5 @@ Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curi
 | `xperienced-kids.md`         | Conexión metodológica.                         |
 
 
-![Foto Maker](Recursos%20visuales/Fotograf%C3%ADas/fotomaker002.jpeg)
+![Foto Maker](../../Recursos%20visuales/Fotograf%C3%ADas/fotomaker002.jpeg)
+
