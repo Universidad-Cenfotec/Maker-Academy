@@ -1,4 +1,4 @@
-Fundamentos del Pensamiento Maker
+# Fundamentos del Pensamiento Maker
 Ruta: 01_bloques-tematicos/01_pensamiento-maker
 
 **Estado:** Borrador  
