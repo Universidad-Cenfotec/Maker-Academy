@@ -20,7 +20,7 @@ Este bloque es la puerta de entrada al makerspace. Aquí se construyen las bases
 
 La progresión dentro del bloque va de la exploración libre a la creación con propósito. En los primeros niveles, el énfasis está en descubrir materiales, construir y contar lo que se hizo. En niveles intermedios y avanzados, el foco se amplía hacia el diseño de soluciones, la iteración, la documentación y la presentación de proyectos.
 
-## Propósito de este bloque
+## Propósito de este bloque temático
 
 Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curiosidad, la creación, la prueba, la mejora continua y el trabajo con otros.
 
@@ -43,7 +43,7 @@ Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curi
 | Experimentación | Construimos, probamos, nos equivocamos y ajustamos. |
 | Reflexión | Explicamos qué hicimos, qué aprendimos y cómo podemos mejorar. |
 
-## Estructura del bloque
+## Estructura del bloque temático
 
 | Carpeta o archivo | Función |
 |---|---|
@@ -77,7 +77,7 @@ Cerrar con reflexión, documentación y retroalimentación amable.
 Este bloque funciona como base para Fabricación Digital, Electrónica, Microcontroladores, Robótica, IoT y Creatividad Digital. Antes de usar máquinas, sensores o programación, es importante que el grupo comprenda cómo trabajar con seguridad, colaborar, probar ideas y aprender del error.
 
 
-## Recursos del bloque
+## Recursos 
 
 | Archivo                      | Descripción                                    |
 | ---------------------------- | ---------------------------------------------- |
