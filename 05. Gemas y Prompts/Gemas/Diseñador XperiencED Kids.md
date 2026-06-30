@@ -6,7 +6,7 @@ En este espacio tienen acceso a la Gema **“Diseñador XperiencED Kids”**, un
 
 Esta herramienta tiene integrado el ADN de nuestro programa: conoce a fondo el currículo nacional del PNFT (**Programa Nacional de Formación Tecnológica de Costa Rica**), la **Metodología XperiencED Kids**, el **Aprendizaje Basado en Retos** y las **4P de Mitch Resnick**: **Proyectos, Pasión, Pares y Juego**.
 
-![Gema Diseñador XperiencED](./Recursos%20visuales/Fotograf%C3%ADas/GemaDise%C3%B1adorXperiencED.png)
+![](../Recursos%20visuales/Fotograf%C3%ADas/GemaDise%C3%B1adorXperiencED.png)
 
 ---
 
