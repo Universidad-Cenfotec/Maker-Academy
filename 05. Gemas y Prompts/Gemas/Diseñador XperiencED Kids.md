@@ -95,4 +95,4 @@ La inteligencia artificial puede ahorrar tiempo en la estructura, pero no sustit
 * El proceso de construcción, prueba y error.
 * La reflexión docente sobre lo que funciona y lo que debe mejorar.
 
-En **Makerspace Academy**, la IA es una aliada para potenciar la creatividad, no un reemplazo del rol docente.
+En **Maker Academy**, la IA es una aliada para potenciar la creatividad, no un reemplazo del rol docente.
