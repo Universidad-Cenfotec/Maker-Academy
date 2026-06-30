@@ -1,4 +1,4 @@
-# 🚀 Tu Asesor Pedagógico Maker: Diseñador XperiencED Kids
+# Tu Asesor Pedagógico Maker: Diseñador XperiencED Kids
 
 ¡Hola, equipo docente!
 
@@ -6,15 +6,16 @@ En este espacio tienen acceso a la Gema **“Diseñador XperiencED Kids”**, un
 
 Esta herramienta tiene integrado el ADN de nuestro programa: conoce a fondo el currículo nacional del PNFT (**Programa Nacional de Formación Tecnológica de Costa Rica**), la **Metodología XperiencED Kids**, el **Aprendizaje Basado en Retos** y las **4P de Mitch Resnick**: **Proyectos, Pasión, Pares y Juego**.
 
+![](<Recursos visuales/Fotografías/GemaDiseñadorXperiencED.png>)
 ---
 
-## 🔗 Enlace de acceso
+## Enlace de acceso
 
 [Haz clic aquí para iniciar un chat con el Diseñador XperiencED Kids](https://gemini.google.com/gem/1Gh6KMcOB1SdwX9_xpykXoq2CgO9JXTvG?usp=sharing)
 
 ---
 
-## 🛠️ ¿Cómo utilizar esta herramienta?
+## ¿Cómo utilizar esta herramienta?
 
 Para que la inteligencia artificial te genere planificaciones o evaluaciones verdaderamente útiles, sigue estos tres pasos al escribirle:
 
@@ -52,7 +53,7 @@ Si la propuesta es muy avanzada o requiere otros materiales, puedes pedirle ajus
 
 ---
 
-## 📋 Prompts de ejemplo
+## Prompts de ejemplo
 
 Aquí tienes instrucciones listas para usar. Solo adapta los detalles según el módulo que estés impartiendo.
 
