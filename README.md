@@ -34,8 +34,6 @@ La experiencia maker no se centra únicamente en el producto final. También val
 
 ## Estructura del repositorio
 
-## Estructura del repositorio
-
 | Carpeta                                                                 | Contenido principal                                                                                                                                                                                    |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [00. Modelo Pedagógico](./00.%20Modelo%20Pedag%C3%B3gico/)              | Fundamentos, metodología XperiencED Kids, PNFT, cultura maker, 4P, evaluación y roles.                                                                                                                 |
