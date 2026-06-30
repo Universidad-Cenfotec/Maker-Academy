@@ -1,4 +1,5 @@
 # B01. Fundamentos del Pensamiento Maker
+Ruta: 01_bloques-tematicos/01_pensamiento-maker
 
 **Estado:** Borrador  
 **Versión:** v1.0  
@@ -9,15 +10,23 @@
 
 ## ¿Qué es este bloque?
 
-Este bloque introduce la mentalidad maker: aprender haciendo, colaborar, experimentar, equivocarse con propósito y compartir lo aprendido.
+El Pensamiento Maker es una forma de aprender creando. Invita a niñas, niños y jóvenes a observar su entorno, imaginar soluciones, construir prototipos, probarlos, equivocarse, mejorar y compartir lo aprendido.
 
-Es la base para que los estudiantes se acerquen al makerspace no solo como un lugar con herramientas, sino como un espacio para crear, pensar y resolver problemas.
+Este bloque introduce la mentalidad maker como base del programa Maker Academy. No se trata únicamente de usar herramientas o fabricar objetos, sino de desarrollar una actitud activa frente a los retos: mirar un problema con curiosidad, hacer preguntas, experimentar con materiales y trabajar con otras personas para encontrar soluciones.
+
+En el contexto educativo, el Pensamiento Maker ayuda a que los estudiantes comprendan que la tecnología no es solo algo que se consume, sino algo que también se puede explorar, modificar, reparar, crear y poner al servicio de una necesidad real.
+
+Este bloque es la puerta de entrada al makerspace. Aquí se construyen las bases para trabajar con seguridad, colaborar, aprender del error, documentar procesos, diseñar pensando en las personas y prototipar ideas de manera rápida y sencilla.
+
+La progresión dentro del bloque va de la exploración libre a la creación con propósito. En los primeros niveles, el énfasis está en descubrir materiales, construir y contar lo que se hizo. En niveles intermedios y avanzados, el foco se amplía hacia el diseño de soluciones, la iteración, la documentación y la presentación de proyectos.
 
 ## Propósito
 
 Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curiosidad, la creación, la prueba, la mejora continua y el trabajo con otros.
 
-## Ideas clave
+
+
+## Ideas clave del pensamiento maker
 
 - Crear es una forma de aprender.
 - El error es una pista para mejorar.
@@ -34,16 +43,59 @@ Desarrollar en niñas, niños y jóvenes una forma de aprender basada en la curi
 | Experimentación | Construimos, probamos, nos equivocamos y ajustamos. |
 | Reflexión | Explicamos qué hicimos, qué aprendimos y cómo podemos mejorar. |
 
-## Evidencias esperadas
+## Estructura del bloque
 
-- Bocetos o dibujos de ideas.
-- Prototipos simples.
-- Fotografías del proceso.
-- Bitácoras o notas breves.
-- Mejoras realizadas después de probar.
-- Presentaciones cortas tipo *show your work*.
+01. Pensamiento Maker/
+├── README.md                         ← este archivo
+├── mapa-progresion.md                ← secuencia de aprendizaje por nivel
+├── vocabulario.md                    ← glosario esencial del bloque
+├── seguridad.md                      ← acuerdos básicos para trabajar con cuidado
+├── alineacion-pnft.md                ← conexión con competencias tecnológicas
+├── cultura-diy-diwio.md              ← hacer por cuenta propia y con otros
+├── diseno-centrado-usuario.md        ← crear pensando en las personas
+├── prototipado-rapido.md             ← convertir ideas en pruebas rápidas
+├── xperienced-kids.md                ← relación con la metodología institucional
+│
+├── mini-lecciones/                   ← cápsulas breves para activar conceptos clave
+│   ├── que-es-un-maker.md
+│   ├── aprender-del-error.md
+│   ├── colaborar-y-compartir.md
+│   ├── dar-retroalimentacion.md
+│   └── documentar-proceso.md
+│
+├── practicas-guiadas/                ← actividades cortas para vivir la cultura maker
+│   ├── reto-torre-materiales/
+│   ├── boceto-a-prototipo/
+│   └── critica-amable.md
+│
+├── recursos-docentes/                ← apoyos para la mediación docente
+│   ├── presentacion-cultura-maker.md
+│   ├── guia-mediacion-preguntas.md
+│   └── checklist-activacion-reto.md
+│
 
-## Archivos del bloque
+## Cómo usar este bloque
+
+## Para el docente que empieza desde cero
+
+Leer primero el README.md para comprender el sentido del bloque.
+Revisar mapa-progresion.md para adaptar la profundidad según el nivel del grupo.
+Usar vocabulario.md para introducir palabras clave antes de iniciar retos.
+Revisar seguridad.md antes de cualquier actividad práctica.
+Iniciar con una mini-lección breve, como que-es-un-maker.md o aprender-del-error.md.
+Activar una práctica guiada sencilla, como reto-torre-materiales/.
+Cerrar con reflexión, documentación y retroalimentación amable.
+
+## Para el docente con experiencia previa
+
+Los contenidos pueden usarse de forma independiente. Es posible entrar directamente a temas como cultura DIY/DIWO, diseño centrado en el usuario o prototipado rápido, según el proyecto que se vaya a desarrollar.
+
+## Para el docente que quiere preparar a su grupo para otros bloques
+
+Este bloque funciona como base para Fabricación Digital, Electrónica, Microcontroladores, Robótica, IoT y Creatividad Digital. Antes de usar máquinas, sensores o programación, es importante que el grupo comprenda cómo trabajar con seguridad, colaborar, probar ideas y aprender del error.
+
+
+## Recursos del bloque
 
 | Archivo                      | Descripción                                    |
 | ---------------------------- | ---------------------------------------------- |
