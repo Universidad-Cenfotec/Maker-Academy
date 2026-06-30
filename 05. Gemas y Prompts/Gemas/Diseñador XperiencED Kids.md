@@ -16,6 +16,7 @@ Esta herramienta tiene integrado el ADN de nuestro programa: conoce a fondo el c
 
 [Haz clic aquí para iniciar un chat con el Diseñador XperiencED Kids](https://gemini.google.com/gem/1Gh6KMcOB1SdwX9_xpykXoq2CgO9JXTvG?usp=sharing)
 
+> Recomendación: abrir con **Ctrl + clic** para verla en una nueva pestaña.
 ---
 
 ## ¿Cómo utilizar esta herramienta?
