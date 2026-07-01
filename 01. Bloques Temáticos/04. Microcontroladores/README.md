@@ -13,8 +13,6 @@
 
 ## Propósito del bloque
 
-![Placas de desarrollo más comunes en educación maker: micro:bit, Arduino UNO, ESP32 y Circuit Playground Express](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/320px-Arduino_Uno_-_R3.jpg)
-
 Un microcontrolador es una computadora diminuta encapsulada en un solo chip. Tiene procesador, memoria y pines de entrada/salida, todo en uno. Cuando un estudiante conecta un sensor de temperatura a una placa micro:bit y programa que encienda un LED si hace mucho calor, está usando exactamente los mismos principios que los ingenieros usan para diseñar termostatos, sistemas de riego automático o alarmas industriales.
 
 Este bloque enseña programación física: la unión entre el código que se escribe en pantalla y el mundo real que responde al otro lado del cable. A diferencia de la programación puramente visual o abstracta, aquí cada instrucción tiene una consecuencia visible y tangible. Eso cambia la manera en que los estudiantes aprenden a depurar errores, a razonar sobre el tiempo y a diseñar sistemas.
@@ -46,11 +44,11 @@ El bloque cubre el recorrido completo, desde las actividades iconográficas sin 
 
 El punto de entrada depende del nivel del grupo:
 
-**Preescolar y primaria baja (4 a 8 años):** Comenzar en `05. Progresión de Programación/iconografico/`. No se necesita ningún dispositivo electrónico. Las actividades usan tarjetas físicas, colores y movimiento corporal para construir el concepto de secuencia, condición y bucle.
+**Nivel Inicial:** Comenzar en `05. Progresión de Programación/iconografico/`. No se necesita ningún dispositivo electrónico. Las actividades usan tarjetas físicas, colores y movimiento corporal para construir el concepto de secuencia, condición y bucle.
 
-**Primaria media y alta (8 a 12 años):** Comenzar con la plataforma micro:bit (`01. Plataformas de Desarrollo/microbit.md`) y el entorno MakeCode (`05. Progresión de Programación/bloques/makecode-basico.md`). El vocabulario y el mapa de progresión ayudan a planificar la secuencia de sesiones.
+**Nivel Intermedio:** Comenzar con la plataforma micro:bit (`01. Plataformas de Desarrollo/microbit.md`) y el entorno MakeCode (`05. Progresión de Programación/bloques/makecode-basico.md`). El vocabulario y el mapa de progresión ayudan a planificar la secuencia de sesiones.
 
-**Secundaria (12 a 18 años):** Según el tiempo disponible y la experiencia previa del grupo, la entrada puede ser bloques con sensores o directamente texto (Arduino C++ o MicroPython). La sección de plataformas describe las diferencias entre Arduino, ESP32 y Circuit Playground para ayudar a elegir.
+**Nivel Experto:** Según el tiempo disponible y la experiencia previa del grupo, la entrada puede ser bloques con sensores o directamente texto (Arduino C++ o MicroPython). La sección de plataformas describe las diferencias entre Arduino, ESP32 y Circuit Playground para ayudar a elegir.
 
 En todos los casos se recomienda revisar `03. Seguridad.md` antes de la primera sesión con hardware.
 
@@ -75,6 +73,6 @@ En todos los casos se recomienda revisar `03. Seguridad.md` antes de la primera 
 
 ## Alineación curricular
 
-- **Niveles:** Preescolar, Primaria, Secundaria
+- **Niveles:** Secundaria
 - **Conexión con XperiencED Kids:** Inspiración · Experimentación · Reflexión
 - **Áreas transversales:** Matemáticas, Ciencias, Tecnología, Pensamiento computacional
