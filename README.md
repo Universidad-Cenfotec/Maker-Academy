@@ -4,6 +4,7 @@ Bienvenido al repositorio institucional de **Maker Academy** de la Universidad C
 
 Este repositorio organiza el modelo pedagógico, los bloques temáticos, la propuesta anual K11, ejemplos de proyectos por grado, proyectos integrados, recursos docentes, Gemas y Prompts, evidencias de implementación, insignias, procedimientos del makerspace, dashboard de indicadores y la comunidad **Show Your Work**.
 
+![](<Recursos visuales/Fotografías/fotomaker001.jpg>)
 ---
 
 ## ¿Qué es Maker Academy?
@@ -30,8 +31,6 @@ Maker Academy utiliza **XperiencED Kids**, una metodología basada en tres momen
 La experiencia maker no se centra únicamente en el producto final. También valora el proceso, la colaboración, el error, la documentación y la mejora continua.
 
 ---
-
-## Estructura del repositorio
 
 ## Estructura del repositorio
 
