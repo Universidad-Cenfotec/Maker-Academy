@@ -1,4 +1,4 @@
-# Programa Anual K11
+# Programa Anual K11: Crear, Conectar, Programar e Innovar
 
 Esta carpeta contiene una **propuesta de implementación anual** de **Maker Academy** desde preescolar hasta undécimo año.
 
