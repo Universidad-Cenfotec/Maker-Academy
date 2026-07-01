@@ -38,5 +38,5 @@ Llegó el momento de compartir lo que descubriste y documentar tu invento:
   2. ¿Qué problema o error encontraste en el camino y cómo lo solucionaste?
   3. Si tuvieras más tiempo, ¿qué otra función genial le agregarías a tu proyecto?
 
-* <a href="hhttps://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing>🚀 Plantilla: Guía del Estudiante (XperiencED Kids)</a>
+* <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla: Guía del Estudiante (XperiencED Kids)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
