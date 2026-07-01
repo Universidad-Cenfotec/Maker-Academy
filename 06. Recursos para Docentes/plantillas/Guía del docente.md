@@ -50,3 +50,5 @@ Establezca los niveles de logro según las evidencias presentadas en la bitácor
 | :--- | :--- | :--- | :--- |
 | **Apropiación Tecnológica (PNFT)** | El prototipo cumple con la función lógica y técnica planteada de forma autónoma. | El prototipo funciona de manera intermitente o requiere asistencia constante para operar. | El prototipo no logra ejecutar la función básica y no se identifican las conexiones correctas. |
 | **Cultura Maker y Documentación** | Documenta de forma clara en su bitácora el proceso, los errores encontrados y cómo los solucionó. | Registra los pasos del proyecto pero no profundiza en la reflexión ni en la resolución de problemas. | No presenta evidencias del proceso ni completó las preguntas de la bitácora. |
+
+* <a href="[https://docs.google.com/document/d/1EbIZOwcJPjZejUpdg6G4sysuoKcYlBj6ArLuREcPQCY/edit?usp=drive_web](https://docs.google.com/document/d/1EbIZOwcJPjZejUpdg6G4sysuoKcYlBj6ArLuREcPQCY/edit?usp=sharing)" target="_blank">👩‍🏫 Plantilla: Guía Docente (XperiencED Kids)</a>
