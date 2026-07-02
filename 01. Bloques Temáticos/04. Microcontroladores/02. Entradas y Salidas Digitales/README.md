@@ -1,46 +1,71 @@
 # Entradas y Salidas Digitales
 
-Esta sección cubre los conceptos fundamentales para que un microcontrolador lea información del mundo (entradas) y produzca respuestas (salidas). Es el núcleo técnico de la programación física: sin entender cómo funciona un pin digital, cómo el ADC convierte voltaje en número, qué hace exactamente PWM o cómo usar el monitor serial para depurar, el resto del bloque queda sin base.
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/02. Entradas y Salidas Digitales/README.md`
 
 ---
 
-## Contenido de esta sección
+## Estado
 
-| Archivo | Qué cubre |
-|---|---|
-| `01. Pines Digitales.md` | pinMode, digitalWrite, digitalRead, pull-up, anti-rebote |
-| `02. Entradas Analogicas.md` | ADC, potenciómetro, divisor de tensión para LDR y termistor, map(), promediado |
-| `03. PWM.md` | Duty cycle, analogWrite(), fade de LED, control de velocidad, servos, tone() |
-| `04. Monitor Serial.md` | Serial.begin(), print vs println, depuración, Serial Plotter |
+**Estado:** Completo
+**Versión:** v1.1
+**Bloque:** 04_microcontroladores
 
 ---
 
-## La distinción fundamental: entrada vs. salida
+## Propósito
 
-Un pin configurado como **entrada** (INPUT) lee el estado eléctrico del mundo exterior. El microcontrolador escucha. Un pin configurado como **salida** (OUTPUT) impone un estado eléctrico al mundo exterior. El microcontrolador habla.
+<img width="480" alt="Comparación de señal digital (cuadrada 0/1) y señal analógica (sinusoidal) en un osciloscopio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Duty_Cycle_Examples.png/480px-Duty_Cycle_Examples.png" />
 
-Esta distinción es tan simple que parece trivial, pero sus implicaciones son profundas. Un LED en un pin de entrada no encenderá porque el pin no suministra corriente. Un botón conectado a un pin de salida puede dañar el microcontrolador si el pin está en HIGH y el botón lo conecta a GND directamente. Configurar correctamente la dirección de cada pin antes de usarlo es el primer paso en cualquier programa.
-
----
-
-## Digital vs. analógico
-
-La frontera entre lo digital y lo analógico es uno de los conceptos más importantes de la electrónica aplicada.
-
-Lo **digital** es binario: encendido o apagado, 1 o 0, HIGH o LOW. Un botón es digital: está presionado o no lo está. Una señal digital es inmune al ruido pequeño porque basta con que supere la mitad del voltaje para interpretarse como HIGH.
-
-Lo **analógico** es continuo: la temperatura puede ser 23.4 °C o 23.41 °C o cualquier valor intermedio. La luz, el sonido, la presión, la humedad son fenómenos analógicos. Los microcontroladores procesan números enteros, así que el ADC (Convertidor Analógico a Digital) es el traductor entre el mundo físico continuo y el mundo computacional discreto.
-
-El PWM va en la dirección opuesta: convierte un número entero en una señal que parece analógica usando pulsos digitales de duración variable. Es la forma en que el microcontrolador "habla analógico" a pesar de ser un dispositivo digital.
+Esta carpeta cubre cómo el microcontrolador se comunica con el mundo a través de sus pines: cómo leer sensores y botones (entradas) y cómo controlar LEDs, motores y actuadores (salidas).
 
 ---
 
-## Corriente máxima por pin: la regla que más se viola
+## Contenido
 
-Cada pin GPIO de un microcontrolador puede suministrar o absorber una corriente máxima. En el ATmega328P (Arduino UNO) ese límite es 40 mA por pin y 200 mA en total por toda la placa. En el nRF52840 (Circuit Playground Bluefruit) el límite es 15 mA por pin.
+| Archivo | Concepto | Nivel recomendado |
+|---|---|---|
+| `01. Pines Digitales.md` | Señales de encendido/apagado | Primaria alta, Secundaria |
+| `02. Entradas Analógicas.md` | Leer valores continuos (temperatura, luz, posición) | Secundaria |
+| `03. PWM.md` | Control de brillo y velocidad | Secundaria |
+| `04. Monitor Serial.md` | Ver lo que pasa dentro del programa | Secundaria |
 
-Un LED rojo típico con 3.3 V necesita alrededor de 10 mA a 20 mA. Con una resistencia de 220 Ω conectado a 5 V, la corriente es aproximadamente (5 - 2) / 220 ≈ 13.6 mA. Bien dentro del límite.
+---
 
-Un motor DC pequeño puede necesitar 200 mA a 500 mA. Conectarlo directamente a un pin destruiría el microcontrolador. La solución es usar un transistor o driver L298N como intermediario: el pin controla la compuerta del transistor con pocos mA, y el transistor controla el motor con los mA que necesite de una fuente externa.
+## La diferencia entre digital y analógico
 
-Entender este límite antes de conectar cualquier componente es tan importante como saber cuál es el voltaje correcto.
+**Digital:** solo tiene dos estados posibles. Como un interruptor de luz: encendido o apagado, 1 o 0.
+- Ejemplos: botones, LEDs, sensores de movimiento PIR, relés
+
+**Analógico:** puede tener cualquier valor dentro de un rango. Como la temperatura: no es solo "caliente o frío", sino exactamente cuántos grados.
+- Ejemplos: potenciómetros, sensores de luz (LDR), termistores, sensores de humedad
+
+**PWM:** una técnica para simular valores intermedios usando señales digitales. Permite controlar el brillo de un LED o la velocidad de un motor con una señal que técnicamente solo tiene dos estados.
+
+---
+
+## Aplicación en Maker Academy
+
+Se usa como punto de entrada al módulo de E/S para que los docentes entiendan la diferencia entre señales digitales y analógicas antes de trabajar con sensores y actuadores.
+
+## Recursos relacionados
+
+- [Pines Digitales](01. Pines Digitales.md)
+- [Entradas Analógicas](02. Entradas Analogicas.md)
+- [PWM](03. PWM.md)
+- [Monitor Serial](04. Monitor Serial.md)
+
+## Imagen sugerida
+
+Diagrama comparativo entre señal digital (cuadrada, 0 y 1) y señal analógica (sinusoidal, valores continuos).
+
+## Nota docente
+
+Para introducir estos conceptos, se recomienda esta progresión:
+
+1. **Pines digitales:** hacer parpadear un LED (OUTPUT) y luego leer un botón (INPUT). Son los conceptos más concretos y visuales.
+2. **Entradas analógicas:** conectar un potenciómetro y ver cómo los números cambian en el Monitor Serial al girar la perilla.
+3. **PWM:** controlar el brillo del LED con el potenciómetro. Aquí se conectan los dos conceptos anteriores.
+4. **Monitor Serial:** usarlo desde el principio como herramienta de exploración, no como tema separado.
+
+El Monitor Serial no es un tema aparte: es una herramienta que se usa en todos los demás temas. Se recomienda presentarlo desde la primera sesión y usarlo constantemente.

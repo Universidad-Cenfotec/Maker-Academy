@@ -1,49 +1,96 @@
-# Plataformas de Desarrollo , Microcontroladores
+# Plataformas de Desarrollo — Microcontroladores
 
-> Ruta: `01_bloques-tematicos/04_microcontroladores/plataformas`
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/01. Plataformas de Desarrollo/README.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Completo
-- **Versión:** v1.0
+**Estado:** Completo
+**Versión:** v1.1
+**Bloque:** 04_microcontroladores
 
 ---
 
 ## Propósito
 
-Elegir la plataforma de desarrollo correcta para un grupo o proyecto es una de las decisiones más importantes que toma el docente antes de empezar. Cada plataforma tiene un ecosistema de software, un nivel de dificultad de acceso y un conjunto de capacidades integradas que la hacen más o menos apropiada según el contexto.
+<img width="400" alt="Arduino UNO, una de las plataformas más populares para aprender electrónica y programación en secundaria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg" />
 
-Esta carpeta contiene fichas detalladas de las cuatro plataformas más utilizadas en espacios makers escolares. Ninguna es universalmente "la mejor": cada una tiene contextos donde brilla y contextos donde no es la opción óptima.
+<img width="200" alt="Logo de Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/320px-Arduino_Logo.svg.png" />
+
+Elegir la plataforma de desarrollo correcta para un grupo o proyecto es una de las decisiones más importantes antes de empezar. Cada plataforma tiene un nivel de dificultad diferente, distintos componentes integrados y un ecosistema propio de software y proyectos.
+
+Esta carpeta tiene fichas detalladas de las seis plataformas más utilizadas en espacios makers escolares. Ninguna es "la mejor" en todos los casos: cada una tiene contextos donde es ideal.
 
 ---
 
 ## Plataformas disponibles
 
-| Plataforma | Nivel recomendado | Programación | Conectividad | Costo aproximado |
+| Plataforma | Nivel recomendado | Programación | Conectividad | Precio aprox. |
 |---|---|---|---|---|
-| `microbit.md` | Primaria alta, Secundaria inicial | Bloques (MakeCode), MicroPython | Radio, Bluetooth | USD 15-20 |
-| `circuit-playground.md` | Primaria, Secundaria | Bloques (MakeCode), CircuitPython | Bluetooth (Bluefruit), IR | USD 25-35 |
-| `arduino-uno-nano.md` | Secundaria | C++ (Arduino IDE) | Ninguna (requiere módulos) | USD 5-15 |
-| `esp32.md` | Secundaria avanzada | Arduino, MicroPython | WiFi + Bluetooth | USD 5-10 |
+| **micro:bit** | Primaria alta, Secundaria inicial | Bloques (MakeCode), MicroPython | Radio, Bluetooth | USD 15–20 |
+| **Circuit Playground** | Primaria, Secundaria | Bloques (MakeCode), CircuitPython | Bluetooth (Bluefruit), IR | USD 25–35 |
+| **Arduino UNO / Nano** | Secundaria | C++ (Arduino IDE) | Ninguna integrada | USD 5–15 |
+| **ESP32** | Secundaria avanzada | Arduino, MicroPython | WiFi + Bluetooth | USD 5–10 |
+| **IdeaBoard** | Secundaria | Bloques (IdeaScratch), CircuitPython, Arduino | WiFi + Bluetooth | USD 30 |
+| **IdeaSense** | Secundaria | CircuitPython (IdeaCode) | Ninguna integrada | Consultar CRCibernética |
 
 ---
 
-## ¿Cómo elegir?
+## ¿Cuál elegir según el contexto?
 
-**Para grupos sin experiencia previa (cualquier edad):** micro:bit o Circuit Playground. Ambas tienen componentes integrados que permiten resultados inmediatos sin necesidad de circuitos externos.
+**Para grupos sin ninguna experiencia previa (cualquier edad):**
+→ **micro:bit** o **Circuit Playground**. Las dos tienen muchos componentes integrados y permiten hacer proyectos interesantes desde el primer día, sin conectar nada externo.
 
-**Para secundaria con tiempo de un semestre o más:** Arduino UNO. El ecosistema más amplio, la mayor cantidad de recursos en línea y la plataforma más utilizada en educación técnica formal.
+**Para secundaria que quiere aprender a programar en texto:**
+→ **Arduino UNO**. El ecosistema más amplio del mundo, con millones de proyectos y tutoriales disponibles.
 
-**Para proyectos con conectividad inalámbrica o IoT:** ESP32. Precio bajo, potencia alta, WiFi y Bluetooth integrados. Requiere más conocimiento previo de programación.
+**Para proyectos con internet o robots con motores:**
+→ **ESP32** o **IdeaBoard**. Tienen WiFi y Bluetooth integrados. La IdeaBoard además incluye controladores de motor, ideal para robótica sin módulos adicionales.
 
-**Para coexistencia de niveles en el mismo espacio:** micro:bit en niveles iniciales y Arduino/ESP32 en niveles avanzados. Sus ecosistemas son independientes, no interfieren.
+**Para proyectos de ciencias con medición ambiental:**
+→ **IdeaSense** o **micro:bit V2**. La IdeaSense tiene temperatura, humedad, luz y movimiento integrados; es como un pequeño laboratorio portátil.
+
+**Para grupos con niveles mixtos en el mismo espacio:**
+→ **micro:bit** para niveles iniciales, **Arduino/ESP32** para niveles avanzados. Sus ecosistemas son independientes.
 
 ---
 
-## Notas docentes
+## Comparación visual de hardware integrado
 
-Evitar la trampa de comprar muchas plataformas diferentes para "tener opciones". Un espacio maker con 10 micro:bits enseña mejor que uno con 2 de cada cosa, porque los estudiantes pueden trabajar en grupos pequeños y el docente puede dominar una sola herramienta profundamente.
+| Plataforma | LEDs/Pantalla | Sensores integrados | Control de motores | WiFi |
+|---|---|---|---|---|
+| micro:bit V2 | Matriz 5×5 | Temp, luz, movimiento, micrófono, altavoz | ❌ | ❌ |
+| Circuit Playground | 10 LEDs RGB | Luz, temp, movimiento, micrófono, altavoz | ❌ (con Crickit) | ❌ |
+| Arduino UNO | 1 LED | ❌ | ❌ | ❌ |
+| ESP32 | ❌ | ❌ | ❌ | ✅ |
+| IdeaBoard | 1 LED RGB | ❌ | ✅ (2 motores DC) | ✅ |
+| IdeaSense | Matriz 5×5 | Temp, humedad, luz, acelerómetro, giroscopio | ❌ | ❌ |
 
-La plataforma es un medio, no el fin. El objetivo es que el estudiante desarrolle pensamiento computacional y comprensión de sistemas físicos, no que aprenda a usar una marca específica. Cuando eso queda claro, la elección de plataforma se vuelve mucho más práctica.
+---
+
+## Aplicación en Maker Academy
+
+Es el recurso de orientación principal para docentes que empiezan a trabajar con hardware en el aula. Se usa antes de elegir una plataforma y como referencia para justificar esa elección ante el equipo educativo.
+
+## Recursos relacionados
+
+- [micro:bit](01. Micro:bit.md)
+- [Circuit Playground](02. Circuit Playground.md)
+- [Arduino UNO y Nano](03. Arduino UNO y Nano.md)
+- [ESP32](04. ESP32.md)
+- [IdeaBoard](05. IdeaBoard.md)
+- [IdeaSense](06. IdeaSense.md)
+
+## Imagen sugerida
+
+Tabla visual comparativa con las seis plataformas en columnas y sus características principales en filas.
+
+## Nota docente
+
+**Evitar comprar muchas plataformas diferentes "para tener opciones".** Un espacio con 10 micro:bits enseña mejor que uno con 2 de cada cosa, porque los estudiantes pueden trabajar en grupos y el docente puede dominar una sola herramienta en profundidad.
+
+La plataforma es solo el medio. El objetivo es que el estudiante desarrolle pensamiento lógico, capacidad de resolver problemas y comprensión de cómo funciona la tecnología. Cuando eso queda claro, la elección de plataforma se vuelve mucho más sencilla.
+
+**Para docentes que nunca han usado microcontroladores:** empezar con micro:bit es la apuesta más segura. El simulador de MakeCode permite aprender sin miedo a dañar nada, y la comunidad educativa en español es la más grande de todas las plataformas.

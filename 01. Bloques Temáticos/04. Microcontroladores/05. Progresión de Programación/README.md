@@ -1,75 +1,96 @@
-# Progresión de Programación , Microcontroladores
+# Progresión de Programación — Microcontroladores
 
-> Ruta: `01_bloques-tematicos/04_microcontroladores/progresion-programacion`
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/05. Progresión de Programación/README.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Completo
-- **Versión:** v1.0
+**Estado:** Completo
+**Versión:** v1.1
+**Bloque:** 04_microcontroladores
 
 ---
 
 ## Propósito
 
-La programación no empieza con una pantalla. Empieza con la comprensión de que una instrucción tiene un significado preciso, que el orden importa y que si algo no funciona, se puede encontrar el error de forma sistemática. Esta sección organiza el camino desde esa comprensión más básica hasta la escritura de código en texto complejo.
+<img width="280" alt="Logo de MakeCode, entorno de programación por bloques de Microsoft para micro:bit y otras placas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MakeCode_logo.svg/320px-MakeCode_logo.svg.png" />
 
-La progresión está dividida en tres niveles que corresponden a distintas formas de expresar instrucciones:
+La programación no empieza frente a una computadora. Empieza con entender que las instrucciones tienen un orden, que los detalles importan y que cuando algo no funciona, se puede buscar el error de forma sistemática.
 
-- **Iconográfico:** instrucciones físicas, sin pantalla ni dispositivo electrónico
-- **Bloques:** instrucciones visuales en entornos de programación gráfica
-- **Texto:** código escrito en lenguajes como Arduino C++ o MicroPython
+Esta sección organiza el camino desde las primeras experiencias sin tecnología hasta la escritura de código en texto.
 
 ---
 
-## Estructura de la progresión
+## Tres niveles
+
+| Nivel | ¿Qué es? | ¿Para quién? |
+|---|---|---|
+| **Iconográfico** | Instrucciones físicas y visuales, sin pantalla | Preescolar y primaria |
+| **Bloques** | Programación visual arrastrando piezas en la computadora | Primaria y secundaria inicial |
+| **Texto** | Código escrito en lenguajes como Python o C++ | Secundaria |
+
+---
+
+## Contenido
 
 ```
 05. Progresión de Programación/
-├── README.md                  ← Este archivo
-├── iconografico/
-│   ├── README.md
-│   ├── tarjetas-flechas.md   ← Dar instrucciones con tarjetas físicas
-│   ├── secuencias-colores.md ← Programar secuencias con bloques de colores
-│   └── rutas-en-piso.md      ← Planificar rutas en el suelo con cinta
-├── bloques/
-│   ├── README.md
-│   ├── makecode-basico.md    ← MakeCode para micro:bit y Circuit Playground
-│   ├── scratch-basico.md     ← Scratch con hardware usando extensiones
-│   └── bloques-con-sensores.md ← Condicionales y umbrales con sensores
-└── texto/
-    ├── README.md
-    ├── arduino-basico.md     ← C++ con Arduino IDE
-    ├── micropython-basico.md ← MicroPython en micro:bit y ESP32
-    ├── circuitpython-basico.md ← CircuitPython en Circuit Playground
-    └── python-robotica.md    ← Python para proyectos más complejos
+├── 01. Iconografico/
+│   ├── Tarjetas de Flechas       ← Dar instrucciones con tarjetas físicas
+│   ├── Secuencias de Colores     ← Programar con bloques de colores
+│   └── Rutas en el Piso          ← Planificar caminos en el suelo con cinta
+├── 02. Bloques/
+│   ├── MakeCode Basico           ← MakeCode para micro:bit y Circuit Playground
+│   ├── Scratch con Hardware      ← Scratch con extensiones de hardware
+│   └── Bloques con Sensores      ← Condicionales y sensores con bloques
+└── 03. Texto/
+    ├── Arduino Basico            ← C++ con Arduino IDE
+    ├── MicroPython Basico        ← Python para micro:bit y ESP32
+    ├── CircuitPython Basico      ← Python para Circuit Playground e IdeaBoard
+    └── Python para Robotica      ← Python en proyectos más complejos
 ```
 
 ---
 
-## ¿Por qué tres niveles?
+## ¿Por qué empezar con lo iconográfico?
 
-Cada nivel desarrolla un tipo distinto de comprensión:
+Muchos docentes sienten la tentación de saltarse las actividades sin pantalla por considerarlas "demasiado simples". Sin embargo, son las que más claramente desarrollan el pensamiento lógico:
 
-**Iconográfico:** construye el modelo mental de "instrucción" sin la distracción de la sintaxis o la interfaz. El error es inmediato y corporal: el compañero-robot va a donde no debía. Eso hace la depuración completamente intuitiva.
+- El estudiante da una instrucción y otro estudiante (el "robot") la sigue literalmente. Si algo sale mal, el error es inmediato y visible.
+- No hay tecnología que oculte o "corrija" el error automáticamente.
+- La depuración es completamente concreta: "¿En qué paso te equivocaste? ¿Qué instrucción fue incorrecta?"
 
-**Bloques:** permite expresar ideas complejas (bucles, condiciones, variables) sin la barrera de la sintaxis. El estudiante puede enfocarse en la lógica del programa porque los bloques lo ayudan a construir instrucciones sintácticamente correctas por construcción.
-
-**Texto:** introduce la disciplina de la sintaxis exacta y la lectura de mensajes de error. Este nivel desarrolla habilidades directamente transferibles a entornos profesionales de programación.
-
----
-
-## Cuándo avanzar de nivel
-
-El criterio para avanzar de nivel no es la edad ni el tiempo transcurrido: es la fluidez. Un estudiante está listo para pasar de iconográfico a bloques cuando puede crear secuencias de más de 10 pasos con confianza y depurar errores de forma independiente. Está listo para pasar de bloques a texto cuando puede leer un programa de bloques de otra persona y predecir el comportamiento sin ejecutarlo.
-
-No es necesario completar un nivel antes de explorar el siguiente. Muchos estudiantes se benefician de ver código en texto mientras todavía trabajan con bloques: desmitifica el código y reduce la ansiedad ante el cambio de nivel.
+Dos sesiones de 45 minutos con actividades iconográficas antes de tocar una computadora hacen que el trabajo con bloques sea mucho más sólido.
 
 ---
 
-## Notas docentes
+## ¿Cuándo pasar al siguiente nivel?
 
-La tendencia en muchos contextos es saltarse el nivel iconográfico por considerarlo "demasiado simple" para la edad del grupo. Es un error frecuente con consecuencias reales: grupos que llegan a bloques sin haber desarrollado el modelo mental de "instrucción exacta" tienen dificultades específicas para entender por qué sus programas no hacen lo que ellos quieren.
+No se trata de cumplir tiempo ni de llegar a cierta edad. La clave es la **fluidez**:
 
-El nivel iconográfico puede completarse en dos sesiones de 45 minutos con cualquier grupo que no tenga experiencia previa en programación, independientemente de su edad.
+- De iconográfico a bloques: cuando el estudiante puede crear secuencias de más de 10 pasos y corregir sus propios errores de forma independiente.
+- De bloques a texto: cuando puede leer el programa de otra persona y predecir lo que va a hacer antes de ejecutarlo.
+
+Se puede explorar el siguiente nivel mientras se sigue en el actual. Muchos estudiantes se benefician de ver código en texto mientras todavía trabajan con bloques: desmitifica el código y reduce el miedo al cambio.
+
+---
+
+## Aplicación en Maker Academy
+
+Se usa para planificar la secuencia de enseñanza de programación dentro del bloque de Microcontroladores. Permite a los docentes identificar en qué nivel están sus estudiantes y hacia dónde avanzar.
+
+## Recursos relacionados
+
+- [Nivel Iconográfico](01. Iconografico/README.md)
+- [Nivel Bloques](02. Bloques/README.md)
+- [Nivel Texto](03. Texto/README.md)
+
+## Imagen sugerida
+
+Diagrama de progresión lineal con tres etapas: Iconográfico (flechas y colores), Bloques (MakeCode), Texto (Arduino/Python).
+
+## Nota docente
+
+Para docentes que nunca han programado: la mejor manera de prepararse es hacer una vez el mismo recorrido que harán sus estudiantes. Empezar con una actividad iconográfica sencilla, luego crear un proyecto básico en MakeCode. No hace falta dominar todo antes de enseñarlo: aprender junto con los estudiantes es una experiencia valiosa en sí misma.

@@ -1,13 +1,18 @@
 # Evaluación , Microcontroladores y Programación Física
 
-> Ruta: `01_bloques-tematicos/04_microcontroladores/evaluacion`
+<img width="400" alt="Placa Arduino UNO conectada a un protoboard con componentes — representación de un proyecto de evaluación práctica en el aula Makerspace" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg" />
+
+
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/06. Evaluación/README.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Completo
-- **Versión:** v1.0
+**Estado:** Completo
+**Versión:** v1.0
+**Bloque:** 04_microcontroladores
 
 ---
 
@@ -59,6 +64,18 @@ Se recomienda que el docente use la rúbrica como evaluación sumativa y que los
 
 ---
 
-## Notas docentes
+## Aplicación en Maker Academy
+
+Se consulta como material de apoyo durante la planificación y ejecución de actividades del bloque de Microcontroladores en Maker Academy.
+
+## Recursos relacionados
+
+- [README del bloque](../../README.md)
+
+## Imagen sugerida
+
+Imagen o diagrama ilustrativo relacionado con el tema 'README'.
+
+## Nota docente
 
 La evaluación de proyectos de programación física tiene un reto particular: es difícil evaluar el proceso porque sucede en tiempo real y no queda registro visible. La lista de cotejo resuelve esto pidiendo al estudiante que registre sus acciones durante el proceso, no solo al final. Enseñar al grupo a completar la lista durante el proyecto (no como tarea posterior) requiere establecer el hábito desde el primer proyecto, aunque sea de forma parcial.

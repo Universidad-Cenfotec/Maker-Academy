@@ -1,50 +1,65 @@
 # Comunicación entre Dispositivos
 
-Llega un momento en todo proyecto de programación física donde un solo microcontrolador no es suficiente: se necesita enviar datos a un teléfono, mostrar información en una pantalla OLED, leer un sensor digital que habla I2C o conectar la placa a internet. Para eso existen los protocolos de comunicación.
-
-Un protocolo de comunicación es un conjunto de reglas que dos o más dispositivos siguen para entenderse. Igual que un idioma: no basta con hablar, hay que hablar el mismo idioma al mismo ritmo.
-
----
-
-## Contenido de esta sección
-
-| Archivo | Qué cubre |
-|---|---|
-| `01. UART.md` | Comunicación serial, baudrate, SoftwareSerial, módulos HC-05 y GPS |
-| `02. I2C.md` | Bus de dos cables, direcciones, scanner, pantalla OLED |
-| `03. SPI.md` | Bus de cuatro cables, tarjeta SD, pantalla TFT, NRF24L01 |
-| `04. Bluetooth y WiFi.md` | HC-05, ESP32 servidor web, plataformas IoT |
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/04. Comunicacion entre Dispositivos/README.md`
 
 ---
 
-## Tabla comparativa de protocolos
+## Estado
 
-| Protocolo | Cables | Dispositivos | Velocidad | Uso típico |
-|---|---|---|---|---|
-| UART | 2 (TX, RX) | 2 (punto a punto) | 9600 a 115200 bps | Módulos Bluetooth, GPS, monitor serial |
-| I2C | 2 (SDA, SCL) | Hasta 127 (con dirección única) | 100 kHz a 400 kHz | Pantallas OLED, sensores digitales, acelerómetros |
-| SPI | 4 (MOSI, MISO, SCK, CS) | Múltiples (un CS por dispositivo) | 1 MHz a 20 MHz | Tarjetas SD, pantallas TFT, radio NRF24L01 |
-| Bluetooth | Inalámbrico | 2 (maestro/esclavo en BT clásico) | Hasta 3 Mbps | Control remoto, envío de datos a celular |
-| WiFi | Inalámbrico | Múltiples en la red | Hasta 150 Mbps | IoT, servidor web, MQTT |
+**Estado:** Completo
+**Versión:** v1.1
+**Bloque:** 04_microcontroladores
 
 ---
 
-## Cómo elegir el protocolo
+## Propósito
 
-**Usar UART cuando:** se conecta un módulo externo que ya usa UART (HC-05, GPS NEO-6M, DFPlayer), o cuando se necesita comunicación serial simple entre dos dispositivos.
+<img width="320" alt="Módulo Bluetooth HC-05 para comunicación serial inalámbrica, uno de los módulos más usados en proyectos educativos con UART" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bluetooth_module_HC-05.jpg/320px-Bluetooth_module_HC-05.jpg" />
 
-**Usar I2C cuando:** se conectan múltiples sensores o pantallas y se quiere minimizar el número de cables. Todos los dispositivos I2C comparten el mismo bus de dos cables.
+<img width="500" alt="Diagrama del bus I2C mostrando un maestro conectado a múltiples esclavos con las líneas SDA y SCL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/I2C.svg/640px-I2C.svg.png" />
 
-**Usar SPI cuando:** se necesita alta velocidad de transferencia (mostrar imágenes en una pantalla TFT o escribir datos rápido en una tarjeta SD). SPI es más rápido que I2C pero usa más cables.
-
-**Usar Bluetooth cuando:** se quiere control inalámbrico desde un celular sin necesidad de red WiFi. El módulo HC-05 convierte UART en Bluetooth clásico de forma transparente.
-
-**Usar WiFi cuando:** el proyecto necesita conectarse a internet, publicar datos en una plataforma online, o controlarse desde cualquier lugar del mundo. El ESP32 es la plataforma natural para esto.
+Los microcontroladores raramente trabajan solos. Necesitan comunicarse con sensores, pantallas, módulos inalámbricos y otros microcontroladores. Esta carpeta cubre los protocolos de comunicación más usados en proyectos educativos.
 
 ---
 
-## GND siempre compartido
+## Los cuatro protocolos
 
-Independientemente del protocolo, todos los dispositivos en un mismo sistema deben compartir el GND. Sin GND común, las señales de comunicación no tienen referencia y los datos llegan corruptos o no llegan.
+| Protocolo | Cables | Velocidad | Ideal para |
+|---|---|---|---|
+| **UART** (Serial) | 2 | Media | Bluetooth, GPS, módulos simples |
+| **I2C** | 2 | Media | Pantallas OLED, sensores múltiples |
+| **SPI** | 4 | Alta | Tarjetas SD, pantallas TFT a color |
+| **Bluetooth / WiFi** | Inalámbrico | Variable | Control remoto, IoT |
 
-Si un módulo externo se alimenta con voltaje diferente al Arduino (por ejemplo, un módulo de 3.3 V conectado a un Arduino de 5 V), hay que verificar la compatibilidad de voltaje de las señales. Los pines de un ESP32 (3.3 V) pueden dañarse si reciben señales de 5 V directamente. En esos casos se usa un divisor de tensión o un convertidor de nivel lógico (level shifter).
+---
+
+## ¿Cuál usar?
+
+**Conectar un módulo Bluetooth o GPS** → UART
+**Conectar una pantalla pequeña o varios sensores** → I2C
+**Guardar datos en tarjeta SD** → SPI
+**Controlar desde el celular o enviar datos a internet** → Bluetooth o WiFi
+
+---
+
+## Aplicación en Maker Academy
+
+Se usa como introducción antes de trabajar con módulos Bluetooth, sensores I2C, tarjetas SD u otros componentes que requieren protocolos de comunicación específicos.
+
+## Recursos relacionados
+
+- [UART](01. UART.md)
+- [I2C](02. I2C.md)
+- [SPI](03. SPI.md)
+- [Bluetooth y WiFi](04. Bluetooth y WiFi.md)
+
+## Imagen sugerida
+
+Diagrama comparativo de UART, I2C y SPI mostrando el número de cables y la topología de conexión de cada protocolo.
+
+## Nota docente
+
+Para la mayoría de proyectos educativos de nivel secundaria, con UART y I2C es suficiente. SPI se introduce cuando hay un proyecto específico que lo requiere (datalogger con SD, pantalla a color).
+
+Lo más importante para los estudiantes no es memorizar los protocolos, sino entender que **los dispositivos electrónicos necesitan "idiomas" compartidos para comunicarse**, y que elegir el protocolo correcto es parte del diseño del sistema.

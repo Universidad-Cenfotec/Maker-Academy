@@ -1,17 +1,21 @@
 # Programación en Texto
 
-> Ruta: `01_bloques-tematicos/04_microcontroladores/progresion-programacion/texto`
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/05. Progresión de Programación/03. Texto/README.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Completo
-- **Versión:** v1.0
+**Estado:** Completo
+**Versión:** v1.0
+**Bloque:** 04_microcontroladores
 
 ---
 
 ## Propósito
+
+<img width="200" alt="Logo de Python, lenguaje base de MicroPython y CircuitPython usados en el nivel de programación de texto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/320px-Python-logo-notext.svg.png" />
 
 La programación en texto es el nivel donde la interfaz visual de bloques desaparece y el programador escribe instrucciones directamente en el lenguaje que el compilador o intérprete puede procesar. Es un salto cognitivo real: ahora los errores de sintaxis son posibles, los mensajes de error deben interpretarse y la estructura del programa depende completamente de la disciplina del programador.
 
@@ -50,6 +54,18 @@ MakeCode facilita esto con su vista JavaScript: cualquier programa de bloques ti
 
 ---
 
-## Notas docentes
+## Aplicación en Maker Academy
+
+Se consulta como material de apoyo durante la planificación y ejecución de actividades del bloque de Microcontroladores en Maker Academy.
+
+## Recursos relacionados
+
+- [README del bloque](../../README.md)
+
+## Imagen sugerida
+
+Imagen o diagrama ilustrativo relacionado con el tema 'README'.
+
+## Nota docente
 
 El primer contacto con mensajes de error de compilación puede ser frustrante para los estudiantes acostumbrados a bloques (donde los errores de sintaxis son imposibles). Es importante normalizar los errores como parte del proceso, no como indicadores de fracaso. Una estrategia: el docente comete errores deliberadamente frente al grupo, lee el mensaje de error en voz alta, lo interpreta y lo corrige. Eso modela el comportamiento de un programador competente: los errores no son vergonzosos, son información.

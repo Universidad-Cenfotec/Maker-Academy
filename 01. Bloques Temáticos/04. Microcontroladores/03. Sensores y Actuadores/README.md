@@ -1,79 +1,96 @@
 # Sensores y Actuadores
 
-Esta sección cubre los componentes físicos que conectan el programa con el mundo real. Los sensores traen información desde el exterior hacia el microcontrolador; los actuadores llevan las decisiones del programa de vuelta al mundo físico. La combinación de ambos es lo que hace de la programación física algo cualitativamente distinto de la programación de pantalla.
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/03. Sensores y Actuadores/README.md`
 
 ---
 
-## Contenido de esta sección
+## Estado
 
-| Archivo | Qué cubre |
-|---|---|
-| `01. Sensor de Luz.md` | LDR, divisor de tensión, calibración, módulo KY-018 |
-| `02. Sensor de Distancia.md` | HC-SR04, tiempo de vuelo, fórmula, librería NewPing |
-| `03. Servomotor.md` | SG90 / MG996, colores de cables, librería Servo.h, fuente externa |
-| `04. Motor DC y Driver.md` | L298N, puente H, tabla de dirección, control de velocidad por PWM |
+**Estado:** Completo
+**Versión:** v1.1
+**Bloque:** 04_microcontroladores
 
 ---
 
-## El principio "sensor antes que lógica"
+## Propósito
 
-Una práctica de diseño que conviene instalar desde el principio: nunca programar la lógica de respuesta antes de haber verificado que el sensor funciona correctamente y que los valores que entrega tienen sentido.
+<img width="320" alt="Servomotor SG90, el actuador de movimiento más básico usado en proyectos de robótica educativa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Micro_servo_motor_SG-90.jpg/320px-Micro_servo_motor_SG-90.jpg" />
 
-El flujo correcto es:
+<img width="320" alt="Sensor ultrasónico HC-SR04 para medición de distancias, uno de los sensores más comunes en proyectos educativos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ultrasonic_distance_sensor_-_HC-SR04.jpg/320px-Ultrasonic_distance_sensor_-_HC-SR04.jpg" />
+<img width="320" alt="Fotorresistencia LDR, sensor de luz básico para proyectos de automatización" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LDR_1480405_6_7_HDR_Enhancer_1.jpg/320px-LDR_1480405_6_7_HDR_Enhancer_1.jpg" />
 
-1. Conectar el sensor
-2. Leer y mostrar sus valores en el monitor serial sin ninguna lógica de respuesta
-3. Observar el rango real en el ambiente real donde se usará el proyecto
-4. Definir umbrales y lógica basándose en esos valores observados
-5. Agregar los actuadores y probarlos por separado
-6. Integrar sensor + lógica + actuador
-
-Saltarse los pasos 2 y 3 es la causa más frecuente de proyectos que "no funcionan" en el makerspace. Los valores de un sensor de luz en una habitación iluminada con fluorescentes son completamente diferentes a los de un sensor en una habitación con luz solar directa. No hay valores de umbral universales: hay valores que funcionan en ese ambiente específico, que se descubren midiendo.
+Los microcontroladores por sí solos no hacen nada. Su valor está en que pueden **leer el mundo** (sensores) y **actuar sobre él** (actuadores). Esta carpeta cubre los sensores y actuadores más utilizados en proyectos educativos.
 
 ---
 
-## Sensores cubiertos en esta sección
+## ¿Qué es un sensor?
 
-**Sensor de luz (LDR):** El más simple de los sensores analógicos. No requiere librerías ni protocolos especiales: es una resistencia que cambia su valor con la luz, conectada en un divisor de tensión. Es el mejor primer sensor para aprender el flujo lectura → conversión → umbral → acción.
-
-**Sensor de distancia (HC-SR04):** Sensor ultrasónico de uso muy extendido en robótica educativa. Introduce el concepto de medición por tiempo de vuelo, que es también el principio del radar y del LiDAR de vehículos autónomos. Requiere una función de lectura con temporización precisa.
-
----
-
-## Actuadores cubiertos en esta sección
-
-**Servomotor:** Permite controlar posición angular con precisión. La capacidad de decirle a un motor "ve exactamente a 90 grados" (en lugar de simplemente "gira") abre proyectos de robótica articulada, mecanismos, y control preciso de movimiento.
-
-**Motor DC con driver L298N:** La base de casi todo robot con ruedas. Introduce el concepto de puente H para control de dirección y PWM para control de velocidad, y enseña por qué es necesario aislar el motor del pin del microcontrolador.
+Un sensor es cualquier componente que convierte algo del mundo físico en una señal eléctrica que el microcontrolador puede leer:
+- **Sensor de luz (LDR):** convierte la intensidad de luz en un número
+- **Sensor de distancia (HC-SR04):** convierte la distancia a un objeto en un número
+- **Sensor de temperatura:** convierte la temperatura en un número
 
 ---
 
-## Flujo de trabajo general para un nuevo sensor
+## ¿Qué es un actuador?
 
-```
-1. Revisar el datasheet o ficha del sensor
-   → ¿Qué voltaje necesita? ¿Qué tipo de señal produce?
-   → ¿Cuántos cables tiene y qué función tiene cada uno?
+Un actuador es cualquier componente que convierte una señal eléctrica del microcontrolador en algo del mundo físico:
+- **LED:** convierte electricidad en luz
+- **Servomotor:** convierte una señal en movimiento a un ángulo específico
+- **Motor DC:** convierte electricidad en rotación continua
+- **Buzzer:** convierte electricidad en sonido
 
-2. Conectar en protoboard antes de soldar
-   → GND, VCC (voltaje correcto), señal
+---
 
-3. Programa mínimo: solo leer e imprimir
-   → No hay lógica, no hay actuadores, solo Serial.println()
+## Sensores y actuadores disponibles
 
-4. Observar en monitor serial o plotter
-   → Rango real en el ambiente de uso
-   → ¿Hay ruido? ¿Hay saturación en algún extremo?
+| Componente | Tipo | Nivel recomendado |
+|---|---|---|
+| `01. Sensor de Luz.md` | Sensor analógico | Primaria alta, Secundaria |
+| `02. Sensor de Distancia.md` | Sensor digital | Secundaria |
+| `03. Servomotor.md` | Actuador de posición | Secundaria |
+| `04. Motor DC y Driver.md` | Actuador de movimiento | Secundaria |
 
-5. Definir umbrales
-   → Basados en observación, no en suposición
+---
 
-6. Agregar actuador y lógica
-   → Probar actuador solo primero (¿funciona el servo? ¿el motor gira?)
-   → Luego integrar todo
+## Sensores adicionales frecuentes en proyectos
 
-7. Iterar
-   → El primer umbral rara vez es el correcto
-```
+Estos no tienen ficha propia aquí pero se usan mucho en proyectos educativos:
 
-Este flujo aplica al sensor de luz, al sensor de distancia, al sensor de temperatura o a cualquier sensor nuevo. La diferencia entre proyectos que funcionan y proyectos que no reside casi siempre en haber (o no haber) seguido estos pasos.
+| Sensor | ¿Qué mide? | Fácil de usar |
+|---|---|---|
+| DHT11 / DHT22 | Temperatura y humedad del aire | ✅ (librería simple) |
+| HC-SR501 (PIR) | Movimiento de personas | ✅ (solo HIGH/LOW) |
+| Sensor de suelo | Humedad del suelo para plantas | ✅ |
+| Sensor de sonido | Nivel de ruido o aplausos | ✅ |
+| Sensor de color | Detecta el color de superficies | ✅ (con librería) |
+| Sensor de gas (MQ-2) | Detecta gas, humo o alcohol | ⚠️ (necesita calibración) |
+| Sensor de pulso cardíaco | Frecuencia cardíaca | ✅ |
+
+---
+
+## Aplicación en Maker Academy
+
+Se usa como guía de referencia para seleccionar los componentes adecuados según el proyecto. Ayuda a los docentes a entender la diferencia entre sensores (entrada) y actuadores (salida).
+
+## Recursos relacionados
+
+- [Sensor de Luz](01. Sensor de Luz.md)
+- [Sensor de Distancia](02. Sensor de Distancia.md)
+- [Servomotor](03. Servomotor.md)
+- [Motor DC y Driver](04. Motor DC y Driver.md)
+
+## Imagen sugerida
+
+Fotografía de los cuatro componentes principales: LDR, HC-SR04, servomotor SG90 y motor DC con driver L298N.
+
+## Nota docente
+
+La secuencia recomendada para introducir sensores y actuadores es:
+
+1. **Primero el actuador:** hacer que un LED parpadee, que un servo se mueva. El estudiante "controla" algo.
+2. **Luego el sensor:** leer un valor del ambiente (luz, temperatura, distancia). El estudiante "escucha" algo.
+3. **Finalmente, conectarlos:** cuando detecta oscuridad, encender el LED. Cuando detecta que alguien se acerca, mover el servo. El estudiante crea un sistema que "toma decisiones".
+
+Esta progresión construye la intuición de los sistemas de control, que es el corazón de la robótica y la automatización.

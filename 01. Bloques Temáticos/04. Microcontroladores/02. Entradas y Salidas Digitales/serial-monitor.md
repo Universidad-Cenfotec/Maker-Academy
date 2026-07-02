@@ -1,13 +1,18 @@
 # Monitor Serial
 
-> Ruta: `01_bloques-tematicos/04_microcontroladores/entradas-salidas/serial-monitor.md`
+<img width="560" alt="Monitor Serial del IDE de Arduino mostrando la comunicación en tiempo real entre el microcontrolador y la computadora" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Arduino_Serial_Monitor.png/640px-Arduino_Serial_Monitor.png" />
+
+
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/02. Entradas y Salidas Digitales/serial-monitor.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Completo
-- **Versión:** v1.0
+**Estado:** Completo
+**Versión:** v1.0
+**Bloque:** 04_microcontroladores
 
 ---
 
@@ -18,6 +23,10 @@ El monitor serial es la herramienta de depuración más importante que tiene un 
 Sin el monitor serial, depurar un programa es como intentar arreglar un motor sin instrumentos: posible, pero innecesariamente difícil.
 
 ---
+
+## Propósito
+
+Documentar el tema 'serial-monitor' dentro del bloque de Microcontroladores para que los docentes de Maker Academy cuenten con una referencia clara y accesible.
 
 ## Configuración básica en Arduino
 
@@ -156,7 +165,19 @@ Para activarlo: Herramientas > Plotter Serial (solo en Arduino IDE 2.x).
 
 ---
 
-## Notas docentes
+## Aplicación en Maker Academy
+
+Se consulta como material de apoyo durante la planificación y ejecución de actividades del bloque de Microcontroladores en Maker Academy.
+
+## Recursos relacionados
+
+- [README del bloque](../../README.md)
+
+## Imagen sugerida
+
+Imagen o diagrama ilustrativo relacionado con el tema 'serial-monitor'.
+
+## Nota docente
 
 Enseñar el monitor serial desde la primera sesión con sensores evita muchas sesiones de frustración. El flujo de trabajo correcto es: conectar sensor → leer valores en el monitor serial → entender el rango real del sensor → escribir la lógica del programa. Los estudiantes que saltan directamente al programa sin ver los valores primero frecuentemente usan umbrales incorrectos y no entienden por qué su programa no funciona.
 

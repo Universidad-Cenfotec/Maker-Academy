@@ -1,13 +1,18 @@
 # Programación Iconográfica , Sin Pantalla ni Dispositivo
 
-> Ruta: `01_bloques-tematicos/04_microcontroladores/progresion-programacion/iconografico`
+<img width="360" alt="Robot Ozobot, herramienta de programación iconográfica para preescolar y primaria baja que usa colores en lugar de código" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ozobot.jpeg/320px-Ozobot.jpeg" />
+
+
+> Este archivo pertenece a: **Microcontroladores**
+> Ruta: `01. Bloques Temáticos/04. Microcontroladores/05. Progresión de Programación/01. Iconografico/README.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Completo
-- **Versión:** v1.0
+**Estado:** Completo
+**Versión:** v1.0
+**Bloque:** 04_microcontroladores
 
 ---
 
@@ -41,7 +46,19 @@ Su objetivo no es enseñar sintaxis ni herramientas: es construir el modelo ment
 
 ---
 
-## Notas docentes
+## Aplicación en Maker Academy
+
+Se consulta como material de apoyo durante la planificación y ejecución de actividades del bloque de Microcontroladores en Maker Academy.
+
+## Recursos relacionados
+
+- [README del bloque](../../README.md)
+
+## Imagen sugerida
+
+Imagen o diagrama ilustrativo relacionado con el tema 'README'.
+
+## Nota docente
 
 Estas actividades funcionan con grupos de todas las edades, aunque el nivel de complejidad de las secuencias se ajusta. Con preescolar (4-6 años), secuencias de 4 a 6 pasos son suficientes. Con secundaria, se pueden introducir condicionales ("si hay un obstáculo rojo en el camino, girar a la derecha") y bucles ("repetir 3 veces el bloque de instrucciones").
 
