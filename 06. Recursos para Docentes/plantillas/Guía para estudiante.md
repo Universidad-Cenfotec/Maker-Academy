@@ -25,9 +25,9 @@ Esta plantilla busca que cada estudiante cuente con instrucciones claras, pregun
 * <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla editable: Guía del Estudiante (XperiencED Kids)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
-# Contenido
+## Contenido
 
-## Guía del Estudiante: [Nombre del Proyecto o Reto]
+# Guía del Estudiante: [Nombre del Proyecto o Reto]
 
 ## Mi Desafío de Hoy
 [Una frase corta, clara y emocionante que resuma lo que vas a crear o resolver hoy].
