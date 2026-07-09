@@ -23,7 +23,7 @@ Este módulo cubre todo el recorrido de la tecnología: desde entender la máqui
 
 > _Esto no afecta a la estructura predeterminda, cada subcarpeta contiene con su respectivo enlace al recurso y PPT del mismo independiente_
 
-Con el fin de facilitar la accesibilidad de los recursos audiovisuales creados para este módulo hemos habilitado una lista de reproducción en nuestro canal de Youtube con el respectivo orden sugerido. Haga clic en el enlace para continuar.
+Con el fin de facilitar la accesibilidad de los recursos audiovisuales creados para este módulo hemos habilitado una lista de reproducción en nuestro canal de Youtube con el respectivo orden sugerido donde podrá encontrar todo el contenido de Corte Láser. Haga clic en el enlace para continuar.
 
 [--](url)
 
