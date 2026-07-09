@@ -16,6 +16,7 @@
 > Recomendación: redactar los objetivos bajo el criterio SMART, es decir, que sean específicos, medibles, alcanzables, relevantes y definidos en el tiempo. Esto facilita orientar la mediación, evaluar el logro esperado y mantener coherencia entre el reto, las actividades y las evidencias de aprendizaje.
 
 ## Competencias a Desarrollar
+Las competencias propuestas funcionan como un ejemplo base. 
 
 | Competencia | Descripción |
 | :--- | :--- |
@@ -38,17 +39,17 @@ Antes o durante la sesión, asegúrese de que los estudiantes comprendan e inter
 
 ## 🧭 Guía de Mediación Pedagógica (XperiencED Kids)
 
-### 💡 1. Momento: Inspiración
+### 💡 1. Momento: Inspiración (20% del tiempo)
 **Objetivo:** Despertar la curiosidad y conectar con el contexto real de los estudiantes.
 * **Estrategia sugerida:** [Colocar aquí la dinámica, historia o pregunta rompehielos].
 * **Rol del docente:** Actuar como provocador de ideas. Evite dar respuestas directas; fomente que ellos planteen hipótesis iniciales.
 
-### 🛠️ 2. Momento: Experimentación
+### 🛠️ 2. Momento: Experimentación (60% del tiempo)
 **Objetivo:** Aprender haciendo a través del juego, la construcción y el codesarrollo.
 * **Monitoreo en el aula:** Camine por el espacio validando el trabajo en equipo (pares) y el uso seguro de las herramientas.
 * **Uso de IA (Gemini):** Oriente a los estudiantes a usar la IA de manera ética para buscar alternativas si se estancan con un código o diseño (revisión humana indispensable).
 
-### 📸 3. Momento: Reflexión
+### 📸 3. Momento: Reflexión (20% del tiempo)
 **Objetivo:** Sistematizar el aprendizaje, valorar el proceso y socializar resultados.
 * **Dinámica de cierre (Show your work):** Dedique los últimos minutos para que compartan sus prototipos. 
 * **Preguntas de metacognición:** Guíe el plenario preguntando: *¿Qué cambiarían si tuvieran que empezar de nuevo?* o *¿Cómo aplicarían esto fuera del colegio?*
