@@ -22,12 +22,12 @@ Orientar la creación de guías estudiantiles alineadas con la metodología Xper
 
 Esta plantilla busca que cada estudiante cuente con instrucciones claras, preguntas orientadoras, espacios para documentar su proceso y una ruta sencilla para construir, probar, mejorar y compartir su trabajo.
 
-* <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla: Guía del Estudiante (XperiencED Kids)</a>
+* <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla editable: Guía del Estudiante (XperiencED Kids)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
-## Contenido
+# Contenido
 
-# Guía del Estudiante: [Nombre del Proyecto o Reto]
+## Guía del Estudiante: [Nombre del Proyecto o Reto]
 
 ## Mi Desafío de Hoy
 [Una frase corta, clara y emocionante que resuma lo que vas a crear o resolver hoy].
