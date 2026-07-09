@@ -1,3 +1,32 @@
+# Plantilla de Guía del Estudiante XperiencED Kids
+
+Este archivo pertenece a: Recursos para Docentes Maker Academy  
+Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Guia_Estudiante_XperiencED_Kids.md
+
+## Estado
+
+Estado: Borrador  
+Versión: v1.0
+
+## Descripción
+
+Esta plantilla es una herramienta breve y clara para que los docentes diseñen guías dirigidas a estudiantes durante una sesión, módulo o reto maker.
+
+La guía del estudiante permite presentar el desafío, organizar los materiales, orientar los pasos de construcción o experimentación y facilitar la documentación del proceso de aprendizaje.
+
+Está pensada para que los estudiantes comprendan qué van a crear, qué necesitan, cómo pueden avanzar y cómo pueden reflexionar sobre sus errores, decisiones y mejoras.
+
+## Propósito de la plantilla
+
+Orientar la creación de guías estudiantiles alineadas con la metodología XperiencED Kids, integrando los momentos de Inspiración, Experimentación y Reflexión.
+
+Esta plantilla busca que cada estudiante cuente con instrucciones claras, preguntas orientadoras, espacios para documentar su proceso y una ruta sencilla para construir, probar, mejorar y compartir su trabajo.
+
+* <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla: Guía del Estudiante (XperiencED Kids)</a>
+> Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
+
+## Contenido
+
 # Guía del Estudiante: [Nombre del Proyecto o Reto]
 
 ## Mi Desafío de Hoy
@@ -38,5 +67,4 @@ Llegó el momento de compartir lo que descubriste y documentar tu invento:
   2. ¿Qué problema o error encontraste en el camino y cómo lo solucionaste?
   3. Si tuvieras más tiempo, ¿qué otra función genial le agregarías a tu proyecto?
 
-* <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla: Guía del Estudiante (XperiencED Kids)</a>
-> Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
+
