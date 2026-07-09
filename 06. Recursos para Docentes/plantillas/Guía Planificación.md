@@ -20,9 +20,9 @@
 * **Documentos:** [Enlaces a presentaciones o lecturas previas]
 
 ## Secuencia Didáctica (Metodología XperiencED Kids)
-1. **Inspiración (X min):** [Conectar con los intereses, gustos y contexto de los estudiantes mediante una pregunta provocadora, historia o demostración].
-2. **Experimentación (X min):** [Aprender mediante el juego, la construcción, la programación, la prueba, el error y la iteración].
-3. **Reflexión (X min):** [Compartir lo aprendido, escuchar a otros, documentar el proceso y analizar cómo aplicar el aprendizaje en la vida cotidiana].
+1. **Inspiración (20% del tiempo):** [Conectar con los intereses, gustos y contexto de los estudiantes mediante una pregunta provocadora, historia o demostración].
+2. **Experimentación ((20% del tiempo):** [Aprender mediante el juego, la construcción, la programación, la prueba, el error y la iteración].
+3. **Reflexión ((20% del tiempo):** [Compartir lo aprendido, escuchar a otros, documentar el proceso y analizar cómo aplicar el aprendizaje en la vida cotidiana].
 
 ## Evidencias y Evaluación
 * **Entregable esperado:** [Qué deben entregar los estudiantes, ej. Registro de la bitácora, prototipo, código]
