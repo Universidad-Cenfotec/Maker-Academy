@@ -97,6 +97,10 @@ Antes de implementar cualquier recurso generado con IA, el docente debe revisar:
 * Que no se incluya información falsa, sesgada o innecesaria.
 * Que el uso de IA sea ético, responsable y supervisado.
 
+
+* <a href="https://docs.google.com/document/d/1SSM7bLXkvASJDmWxX-yJGFogvpbzyFV6KTnpGD9PdF4/edit?usp=sharing" target="_blank">📋 Plantilla: Planificación (XperiencED Kids)</a>
+> Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
+
 ---
 
 ## Prompt Sugerido para Diseñar la Sesión con IA
@@ -120,5 +124,3 @@ Ayúdame a proponer:
 El resultado debe ser claro, aplicable en aula y alineado con una cultura maker basada en aprender haciendo, prototipar, iterar, colaborar y documentar.
 
 
-* <a href="https://docs.google.com/document/d/1SSM7bLXkvASJDmWxX-yJGFogvpbzyFV6KTnpGD9PdF4/edit?usp=sharing" target="_blank">📋 Plantilla: Planificación (XperiencED Kids)</a>
-> Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
