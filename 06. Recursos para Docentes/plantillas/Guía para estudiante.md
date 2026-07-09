@@ -1,9 +1,9 @@
-# 🚀 Guía del Estudiante: [Nombre del Proyecto o Reto]
+# Guía del Estudiante: [Nombre del Proyecto o Reto]
 
-## 🎯 Mi Desafío de Hoy
+## Mi Desafío de Hoy
 [Una frase corta, clara y emocionante que resuma lo que vas a crear o resolver hoy].
 
-## 🎒 Materiales y Herramientas
+## Materiales y Herramientas
 Marca con una `X` dentro de los corchetes `[ ]` conforme vayas alistando tu equipo:
 * [ ] [Material 1, ej: Tarjeta Arduino / micro:bit]
 * [ ] [Material 2, ej: Servomotor o Sensor de distancia]
@@ -11,14 +11,14 @@ Marca con una `X` dentro de los corchetes `[ ]` conforme vayas alistando tu equi
 
 ---
 
-## 💡 Fase 1: Inspiración (Conectando ideas)
+## Fase 1: Inspiración (Conectando ideas)
 Antes de empezar a construir, preparemos nuestra mente:
 * **La gran pregunta:** [Colocar aquí la pregunta provocadora, historia o caso del mundo real que se definió en la planificación].
 * **¡Para pensar!** ¿Cómo creés que la tecnología nos puede ayudar a resolver este problema? Conversalo rápido con tu equipo.
 
 ---
 
-## 🛠️ Fase 2: Experimentación (Manos a la obra)
+## Fase 2: Experimentación (Manos a la obra)
 > ⚠️ **Regla de Oro Maker:** ¡Aprender del error es parte del juego! Si tu circuito o código no funciona a la primera, no te preocupes: revisá las conexiones, cambiá el diseño e intentalo de nuevo.
 
 Sigue estos pasos para armar tu prototipo:
@@ -29,7 +29,7 @@ Sigue estos pasos para armar tu prototipo:
 
 ---
 
-## 📸 Fase 3: Reflexión (Show your work)
+## Fase 3: Reflexión (Show your work)
 Llegó el momento de compartir lo que descubriste y documentar tu invento:
 
 * **¡Mostrá tu trabajo!** Compartí tu prototipo funcionando con tus compañeros y el docente.
