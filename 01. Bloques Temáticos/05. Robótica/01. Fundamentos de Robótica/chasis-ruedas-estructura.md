@@ -1,36 +1,113 @@
 # Chasis, Ruedas y Estructura
 
-> Este archivo pertenece a: **Fundamentos**  
-> Ruta: `01_bloques-tematicos/05_robotica/fundamentos/chasis-ruedas-estructura.md`
+> Este archivo pertenece a: **Robótica Educativa**
+> Ruta: `01. Bloques Temáticos/05. Robótica/01. Fundamentos de Robótica/chasis-ruedas-estructura.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Borrador
-- **Versión:** v1.0
-- **Bloque:** 05_robotica
+**Estado:** Completo
+**Versión:** v1.0
+**Bloque:** 05_robotica
 
 ---
 
 ## Descripción
 
-_Describe aquí el propósito y contenido de `chasis-ruedas-estructura`._
+El chasis es el esqueleto del robot: define su forma, distribuye el peso, determina cuántos motores se necesitan y afecta directamente cuán bien se mueve. Dos robots con el mismo código y los mismos motores pueden comportarse de forma completamente distinta si tienen chasis diferentes.
+
+**Si el chasis fuera el cuerpo de una persona: cambiar la estructura ósea cambiaría completamente cómo camina esa persona, aunque su cerebro y sus músculos sean exactamente iguales.**
+
+> *Insertar próximamente una imagen: diagrama con vista superior e inferior de un robot con ruedas típico de educación, señalando con etiquetas el chasis, los dos motores con ruedas de tracción, la rueda loca (caster) y la posición de la batería.*
 
 ---
 
-## Contenido
+## Propósito
 
-_Agrega el desarrollo del tema aquí._
+Que el docente comprenda cómo la estructura física del robot afecta su movimiento y estabilidad, para poder guiar a los estudiantes cuando el robot no se mueve como esperan.
 
 ---
+
+## Componentes estructurales de un robot con ruedas
+
+### El chasis
+
+El chasis es la plataforma base sobre la que se montan todos los componentes. Puede ser de acrílico, aluminio, madera o plástico impreso en 3D. Su función principal es mantener todo en su lugar y distribuir el peso de forma adecuada.
+
+**Lo que determina el chasis:**
+
+- La posición de los motores (y por tanto, el punto de giro del robot)
+- Cuánto espacio hay para la batería, el microcontrolador y los sensores
+- La distancia entre las ruedas (que afecta cuán bruscos son los giros)
+- El peso total del robot
+
+### Las ruedas de tracción
+
+En la mayoría de los robots educativos hay dos ruedas con motor, una a cada lado. Cada motor puede encenderse de forma independiente, lo que permite girar al robot cambiando la velocidad o dirección de cada rueda.
+
+**Principio básico de movimiento diferencial:**
+
+| Motor izquierdo | Motor derecho | Resultado |
+|---|---|---|
+| Adelante | Adelante | Avanza en línea recta |
+| Atrás | Atrás | Retrocede en línea recta |
+| Adelante | Atrás | Gira en el lugar hacia la derecha |
+| Atrás | Adelante | Gira en el lugar hacia la izquierda |
+| Adelante (rápido) | Adelante (lento) | Curva hacia la derecha |
+| Adelante (lento) | Adelante (rápido) | Curva hacia la izquierda |
+
+### La rueda loca (caster)
+
+La rueda loca no tiene motor. Gira en cualquier dirección y su único propósito es apoyar el chasis sin interferir con el movimiento. Es el equivalente a la rueda delantera de un carrito de supermercado.
+
+**Si el robot tiene dos ruedas de tracción y ninguna rueda loca:** el chasis roza el piso, lo que añade fricción y hace los movimientos impredecibles. Casi siempre se necesita la rueda loca.
+
+**Posición de la rueda loca:** puede ir adelante o atrás dependiendo del diseño. La posición afecta cuál extremo del robot "arrastra" durante los giros.
+
+---
+
+## Cómo afecta la distribución de peso al movimiento
+
+La posición de la batería es el factor que más afecta la distribución de peso, porque la batería suele ser el componente más pesado. Si la batería está muy adelante, el robot inclina la cabeza hacia abajo y la rueda loca pierde contacto con el piso. Si está muy atrás, el frente se levanta.
+
+**Regla práctica:** buscar que el peso esté lo más centrado posible entre las dos ruedas de tracción. Si el robot derrapa o gira de forma irregular, revisar primero si la batería está bien posicionada.
+
+---
+
+## Distancia entre ruedas y radio de giro
+
+La distancia entre las dos ruedas de tracción determina cuán agudo es el giro del robot cuando hace un pivote en el lugar. A mayor distancia entre ruedas, mayor es el arco que describe el robot al girar, y más tiempo tarda un giro de 90°.
+
+**Implicación para la calibración:** si el código dice `girar por 500 milisegundos` y el giro no resulta en exactamente 90°, puede ser necesario ajustar ese tiempo. Y ese tiempo va a ser diferente para cada chasis, aunque el código sea el mismo.
+
+---
+
+## Materiales comunes de chasis en educación
+
+| Material | Ventajas | Desventajas |
+|---|---|---|
+| Acrílico (plexiglás) | Ligero, económico, fácil de cortar con láser | Frágil ante golpes bruscos |
+| Aluminio | Resistente, duradero | Más pesado, difícil de trabajar sin herramientas |
+| MDF / madera | Fácil de cortar y modificar | Absorbe humedad, menos preciso |
+| PLA (impresión 3D) | Totalmente personalizable | Más lento de producir, puede ser frágil |
+
+---
+
+## Aplicación en Maker Academy
+
+Esta información se usa cuando los estudiantes empiezan a armar el kit o a diseñar un chasis propio. Ayuda al docente a anticipar y responder preguntas sobre por qué el robot se mueve de cierta forma.
 
 ## Recursos relacionados
 
-- [ ] _Agrega enlaces, materiales o referencias relevantes._
+- [Estabilidad y Equilibrio](estabilidad-equilibrio.md)
+- [Avance y Retroceso](../02.%20Movimiento%20y%20Mecanismos/avance-retroceso.md)
+- [Giros](../02.%20Movimiento%20y%20Mecanismos/giros.md)
 
 ---
 
-## Notas docentes
+## Nota docente
 
-_Espacio para indicaciones adicionales dirigidas al docente._
+Una de las preguntas más frecuentes en las primeras sesiones es "¿por qué mi robot no va en línea recta si los dos motores están al mismo nivel?" La respuesta casi siempre es que los motores, aunque sean del mismo modelo, tienen pequeñas diferencias de fabricación que hacen que uno gire levemente más rápido que el otro. Esto se resuelve con calibración de velocidades, no con cambios en el chasis.
+
+Vale la pena mostrar al grupo que incluso los robots industriales de alta precisión necesitan calibración. Esto normaliza el proceso y elimina la frustración de sentir que algo está "roto".

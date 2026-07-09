@@ -1,36 +1,130 @@
 # Entrada, Proceso y Salida en Robots
 
-> Este archivo pertenece a: **Fundamentos**  
-> Ruta: `01_bloques-tematicos/05_robotica/fundamentos/entrada-proceso-salida-en-robots.md`
+> Este archivo pertenece a: **Robótica Educativa**
+> Ruta: `01. Bloques Temáticos/05. Robótica/01. Fundamentos de Robótica/entrada-proceso-salida-en-robots.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Borrador
-- **Versión:** v1.0
-- **Bloque:** 05_robotica
+**Estado:** Completo
+**Versión:** v1.0
+**Bloque:** 05_robotica
 
 ---
 
 ## Descripción
 
-_Describe aquí el propósito y contenido de `entrada-proceso-salida-en-robots`._
+El modelo Entrada–Proceso–Salida (EPO) es la herramienta conceptual más poderosa que existe para analizar cualquier sistema robótico, sin importar su complejidad. Una vez que el estudiante lo entiende con un ejemplo simple, puede aplicarlo para analizar desde un robot de juguete hasta un vehículo autónomo.
+
+**Si el modelo EPO fuera una receta de cocina: la entrada son los ingredientes, el proceso es seguir los pasos de la receta y la salida es el plato terminado. Cambiar los ingredientes o los pasos cambia el resultado.**
+
+> *Insertar próximamente una imagen: diagrama horizontal con tres bloques conectados por flechas — "ENTRADA (sensores, botones, señales)" → "PROCESO (microcontrolador, programa)" → "SALIDA (motores, LEDs, sonido)" — con íconos representativos debajo de cada bloque.*
 
 ---
 
-## Contenido
+## Propósito
 
-_Agrega el desarrollo del tema aquí._
+Dotar al docente de un marco conceptual simple y transferible para analizar cualquier robot con los estudiantes, sin necesidad de conocimientos técnicos previos.
 
 ---
+
+## El modelo EPO explicado
+
+Todo sistema robótico, sin excepción, tiene estos tres componentes:
+
+### Entrada
+
+La entrada es toda la información que el robot recibe del mundo. Los sensores son los órganos de los sentidos del robot.
+
+**Ejemplos de entradas en robots educativos:**
+
+- Sensor de distancia: detecta si hay un objeto a menos de 30 cm
+- Sensor de línea: detecta si hay una franja negra debajo del robot
+- Sensor de luz: mide la intensidad de la luz en el ambiente
+- Botón o pulsador: el usuario le dice algo al robot con una presión
+- Señal de Bluetooth: instrucción recibida desde un celular
+
+### Proceso
+
+El proceso es el cerebro del robot: el microcontrolador ejecutando el programa que alguien escribió. Recibe los datos de las entradas y decide qué hacer con ellos según las instrucciones del código.
+
+**Lo que ocurre en el proceso:**
+
+- Leer el valor del sensor de distancia: `40 cm`
+- Comparar con el umbral programado: `¿es menos de 30 cm?` → No
+- Ejecutar la acción correspondiente: `seguir avanzando`
+
+El proceso no improvisa. Solo puede tomar decisiones que alguien haya anticipado y programado previamente.
+
+### Salida
+
+La salida es todo efecto que el robot produce sobre el mundo físico.
+
+**Ejemplos de salidas en robots educativos:**
+
+- Motor derecho: avanzar, retroceder, detenerse, cambiar velocidad
+- Motor izquierdo: lo mismo, de forma independiente del derecho
+- LED: encender, apagar, cambiar color
+- Buzzer: emitir un sonido o melodía
+- Pantalla: mostrar un número o mensaje
+
+---
+
+## Aplicar el modelo EPO a un robot real
+
+### Ejemplo 1: Robot que evita obstáculos
+
+| Componente | En este robot |
+|---|---|
+| **Entrada** | Sensor ultrasónico de distancia (ej: HC-SR04) |
+| **Proceso** | Arduino: si distancia < 20 cm → girar; si no → avanzar |
+| **Salida** | Dos motores DC controlados por un driver L298N |
+
+### Ejemplo 2: Robot seguidor de línea
+
+| Componente | En este robot |
+|---|---|
+| **Entrada** | Dos sensores IR en la parte inferior del chasis |
+| **Proceso** | Microcontrolador: si ambos sensores ven negro → avanzar; si el izquierdo pierde la línea → girar derecha; si el derecho la pierde → girar izquierda |
+| **Salida** | Motores izquierdo y derecho |
+
+### Ejemplo 3: SumoBot
+
+| Componente | En este robot |
+|---|---|
+| **Entrada** | Sensor IR frontal (detecta adversario) + sensores de línea (detectan borde del dohyo) |
+| **Proceso** | Prioridad: si detecto borde → alejarme inmediatamente; si detecto adversario → atacar a máxima velocidad |
+| **Salida** | Motores (velocidad y dirección) |
+
+---
+
+## Por qué este modelo es tan útil en el aula
+
+Cuando un robot hace algo inesperado, el modelo EPO le da al estudiante un marco para encontrar dónde está el problema:
+
+- **¿Falló la entrada?** ¿El sensor está funcionando bien? ¿Está conectado correctamente? ¿Sus valores tienen sentido?
+- **¿Falló el proceso?** ¿El programa está leyendo bien el sensor? ¿Las condiciones del `if` están bien escritas? ¿El umbral es correcto?
+- **¿Falló la salida?** ¿Los motores responden? ¿Hay suficiente energía? ¿El driver está bien cableado?
+
+Esta metodología de diagnóstico por componente ahorra mucho tiempo de depuración y entrena el pensamiento sistemático.
+
+---
+
+## Aplicación en Maker Academy
+
+Se introduce en las primeras sesiones del bloque y se usa como referencia durante todo el trabajo con robots. Cada vez que el grupo analiza un problema con su robot, se les puede preguntar: "¿es un problema de entrada, de proceso o de salida?"
 
 ## Recursos relacionados
 
-- [ ] _Agrega enlaces, materiales o referencias relevantes._
+- [¿Qué es un Robot?](que-es-un-robot.md)
+- [Sensores y Actuadores Robóticos](sensores-y-actuadores-roboticos.md)
+- [README del bloque](../README.md)
 
 ---
 
-## Notas docentes
+## Nota docente
 
-_Espacio para indicaciones adicionales dirigidas al docente._
+Este modelo funciona extraordinariamente bien como rutina de depuración. Cada vez que un robot no hace lo esperado, en lugar de decir "está roto" o "no funciona", el docente puede guiar al grupo con tres preguntas: ¿qué está recibiendo el robot?, ¿qué está decidiendo el programa?, ¿qué está haciendo físicamente?
+
+Una actividad útil para reforzar el modelo: antes de programar, pedir al grupo que complete una tabla EPO en papel describiendo el robot que van a construir. Esto los obliga a pensar el sistema completo antes de escribir una sola línea de código, y reduce significativamente los errores de diseño.

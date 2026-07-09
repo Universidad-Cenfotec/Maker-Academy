@@ -1,36 +1,135 @@
 # Control de Velocidad
 
-> Este archivo pertenece a: **Movimiento**  
-> Ruta: `01_bloques-tematicos/05_robotica/movimiento/velocidad.md`
+> Este archivo pertenece a: **Robótica Educativa**
+> Ruta: `01. Bloques Temáticos/05. Robótica/02. Movimiento y Mecanismos/velocidad.md`
 
 ---
 
 ## Estado
 
-- **Estado:** Borrador
-- **Versión:** v1.0
-- **Bloque:** 05_robotica
+**Estado:** Completo
+**Versión:** v1.0
+**Bloque:** 05_robotica
 
 ---
 
 ## Descripción
 
-_Describe aquí el propósito y contenido de `velocidad`._
+La velocidad no es solo qué tan rápido va el robot: es una variable que afecta el control, la precisión y el comportamiento en diferentes situaciones. Un SumoBot necesita velocidad máxima para atacar, pero si va a máxima velocidad todo el tiempo, no puede reaccionar a tiempo cuando detecta el borde del dohyo.
+
+**Si la velocidad fuera el volumen de una bocina: a veces necesitás volumen máximo, a veces muy bajo, y muchas veces en algún punto intermedio. Lo importante es poder ajustarlo con precisión, no solo tener encendido o apagado.**
+
+> *Insertar próximamente una imagen: gráfico de señal PWM mostrando tres ciclos de trabajo distintos — 25%, 50% y 100% — con la velocidad del motor resultante representada debajo de cada señal, usando colores distintos (naranja, azul, verde).*
 
 ---
 
-## Contenido
+## Propósito
 
-_Agrega el desarrollo del tema aquí._
+Que el docente comprenda cómo se controla la velocidad de un motor DC en robótica, qué es PWM y cómo usarlo para crear comportamientos más sofisticados en el robot.
 
 ---
+
+## ¿Cómo se controla la velocidad de un motor DC?
+
+Un motor DC no tiene "velocidades discretas" como una bicicleta con marchas. Su velocidad depende del voltaje que recibe: más voltaje = más velocidad.
+
+El microcontrolador no puede cambiar su voltaje de salida directamente (siempre da 0V o 3.3V/5V). Pero puede usar una técnica llamada **PWM (Modulación por Ancho de Pulso)** para simular voltajes intermedios.
+
+---
+
+## ¿Qué es PWM?
+
+PWM enciende y apaga la señal muy rápidamente (miles de veces por segundo). El motor, por su inercia física, no alcanza a detenerse entre cada pulso y percibe el efecto como si recibiera un voltaje promedio.
+
+**Ciclo de trabajo (duty cycle):**
+
+- 100% encendido → el motor recibe voltaje completo → velocidad máxima
+- 50% encendido / 50% apagado → el motor recibe la mitad del voltaje → velocidad media
+- 25% encendido / 75% apagado → el motor recibe un cuarto del voltaje → velocidad baja
+
+En Arduino, la función `analogWrite(pin, valor)` controla el PWM:
+
+- `analogWrite(ENA, 255)` → 100% duty cycle → velocidad máxima
+- `analogWrite(ENA, 127)` → 50% duty cycle → velocidad media
+- `analogWrite(ENA, 64)`  → 25% duty cycle → velocidad baja
+
+---
+
+## Velocidad mínima de arranque
+
+Cada motor tiene un umbral mínimo de PWM por debajo del cual no arranca (el voltaje promedio no es suficiente para vencer la fricción estática). Este valor varía por motor, pero típicamente está entre 80 y 130 en la escala de 0 a 255.
+
+**Problema frecuente:** al usar valores muy bajos de PWM, el motor vibra pero no gira, o gira de forma irregular. La solución es no usar valores por debajo del umbral de ese motor específico.
+
+---
+
+## Velocidad variable en la práctica
+
+```cpp
+// Función de avance con velocidad controlada
+void avanzar(int velIzquierdo, int velDerecho) {
+  digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW);
+  digitalWrite(IN3, HIGH); digitalWrite(IN4, LOW);
+  analogWrite(ENA, velIzquierdo);
+  analogWrite(ENB, velDerecho);
+}
+
+// Ejemplo de uso:
+void loop() {
+  avanzar(200, 200);  // velocidad alta, ambos motores iguales
+  delay(1000);
+
+  avanzar(120, 120);  // velocidad media
+  delay(1000);
+
+  avanzar(200, 140);  // curva a la derecha (izquierdo más rápido)
+  delay(1000);
+
+  detener();
+  delay(500);
+}
+```
+
+Separar la velocidad de los dos motores en dos parámetros distintos (`velIzquierdo`, `velDerecho`) hace que la función sea mucho más flexible: sirve tanto para avance recto como para curvas.
+
+---
+
+## Velocidad en distintas situaciones
+
+| Situación | Velocidad recomendada | Por qué |
+|---|---|---|
+| Avance en línea recta | Media-alta (160–200) | Equilibrio entre velocidad y control |
+| Seguimiento de línea | Baja-media (100–150) | Necesita tiempo de reacción para corregir |
+| Giro de 90° | Media (130–160) | Más precisión que a velocidad máxima |
+| SumoBot — ataque | Máxima (220–255) | Máxima fuerza de empuje |
+| SumoBot — búsqueda | Media-baja (120–150) | Necesita detectar a tiempo el adversario y el borde |
+| SumoBot — retroceso de borde | Alta (200–255) | Respuesta rápida |
+
+---
+
+## Velocidad y batería
+
+La velocidad real del motor disminuye cuando la batería está baja. Un robot calibrado con batería llena puede comportarse muy diferente con batería al 50%.
+
+**Recomendación para competencias:** calibrar el robot con la batería en el mismo estado que va a tener durante la competencia. Si es posible, usar baterías recargables y cargarlas completamente antes de cada ronda.
+
+---
+
+## Aplicación en Maker Academy
+
+Se trabaja cuando el grupo ya domina el avance y los giros básicos y quiere hacer el comportamiento del robot más refinado. Es indispensable antes de trabajar con sensores, donde la velocidad de reacción importa.
 
 ## Recursos relacionados
 
-- [ ] _Agrega enlaces, materiales o referencias relevantes._
+- [Avance y Retroceso](avance-retroceso.md)
+- [Giros](giros.md)
+- [Calibración de Motores](calibracion-motores.md)
+- [Estrategias SumoBot](../04.%20SumoBot/estrategias-iniciales.md)
 
 ---
 
-## Notas docentes
+## Nota docente
 
-_Espacio para indicaciones adicionales dirigidas al docente._
+El control de velocidad es uno de los conceptos donde más claramente se ve la diferencia entre "encendido/apagado" y "control proporcional". Muchos estudiantes, al empezar, piensan en términos de binarios: el motor está encendido o está apagado. Introducir PWM abre una nueva dimensión de posibilidades y suele generar curiosidad genuina.
+
+Una demostración efectiva: hacer que el robot acelere gradualmente desde cero hasta velocidad máxima en un bucle, aumentando el valor de PWM de 100 a 255 en pasos de 5. Ver el robot acelerando suavemente hace el concepto muy concreto.
