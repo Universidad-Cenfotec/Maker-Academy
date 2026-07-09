@@ -1,6 +1,6 @@
-# 👩‍🏫 Guía Docente: [Nombre del Módulo / Proyecto]
+# Guía Docente: [Nombre del Módulo / Proyecto]
 
-## 📌 Resumen de Mediación
+## Resumen de Mediación
 * **Nivel / Grado:** [Ej. Sétimo Año]
 * **Enfoque Técnico:** [Ej. Robótica Inicial / Circuitos Básicos]
 * **Meta del Proyecto:** [Breve explicación de lo que los estudiantes construirán].
@@ -30,14 +30,14 @@ Las competencias propuestas funcionan como un ejemplo base.
 | **Innovación** | Crear soluciones con valor para usuarios, comunidad o contexto escolar. |
 
 
-## 🔑 Conceptos Clave a Reforzar
+## Conceptos Clave a Reforzar
 Antes o durante la sesión, asegúrese de que los estudiantes comprendan e internalicen estos conceptos mediante la práctica:
 * **[Concepto 1, ej: Corriente Continua]:** [Definición sencilla o analogía útil para explicar en el aula].
 * **[Concepto 2, ej: Algoritmo]:** [Definición o analogía].
 
 ---
 
-## 🧭 Guía de Mediación Pedagógica (XperiencED Kids)
+## Guía de Mediación Pedagógica (XperiencED Kids)
 
 ### 💡 1. Momento: Inspiración (20% del tiempo)
 **Objetivo:** Despertar la curiosidad y conectar con el contexto real de los estudiantes.
