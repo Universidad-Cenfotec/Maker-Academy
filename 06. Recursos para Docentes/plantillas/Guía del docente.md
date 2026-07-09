@@ -1,13 +1,31 @@
-# Guía Docente XperiencED Kids
+# Plantilla de Guía Docente XperiencED Kids
 
-**Maker Academy**
+Este archivo pertenece a: Recursos para Docentes Maker Academy  
+Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Guia_Docente_XperiencED_Kids.md
 
-Esta guía orienta la implementación de una sesión, módulo o reto maker previamente planificado. Su propósito es apoyar al docente durante la mediación pedagógica, ofreciendo orientaciones para acompañar a los estudiantes en los momentos de Inspiración, Experimentación y Reflexión.
+## Estado
 
-La guía no sustituye la planificación docente. Funciona como un recurso de implementación para facilitar la clase, promover la participación estudiantil, acompañar el uso seguro de herramientas, gestionar el error como parte del aprendizaje y orientar la evaluación formativa.
+Estado: Borrador  
+Versión: v1.0
 
+## Descripción
+
+Esta plantilla es una herramienta de apoyo para que los docentes implementen sesiones, módulos o retos maker de forma clara, estructurada y coherente con la metodología XperiencED Kids.
+
+La guía docente permite orientar la mediación pedagógica antes, durante y después de la experiencia, integrando los momentos de Inspiración, Experimentación y Reflexión.
+
+También incluye orientaciones para reforzar conceptos clave, acompañar el trabajo de los estudiantes, gestionar el error como parte del aprendizaje y aplicar evaluación formativa.
+
+## Propósito de la plantilla
+
+Orientar la implementación de experiencias maker mediante una guía clara para el docente, que facilite la mediación pedagógica, el acompañamiento del proceso, el uso seguro de herramientas y la evaluación de los aprendizajes.
+
+Esta plantilla busca que cada sesión cuente con objetivos claros, competencias definidas, preguntas guía, estrategias de acompañamiento, criterios de evaluación y espacios para la mejora continua.
+
+<a href="https://docs.google.com/document/d/1EbIZOwcJPjZejUpdg6G4sysuoKcYlBj6ArLuREcPQCY/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla: Guía Docente (XperiencED Kids)</a>
 ---
 
+## Contenido
 ## 01. Resumen de Mediación
 
 | Campo | Información |
@@ -182,4 +200,4 @@ Después de la sesión, registre observaciones que permitan mejorar futuras impl
 - [ ] La rúbrica fue ajustada según el proyecto y el nivel del grupo.
 - [ ] La sesión permite probar, fallar, ajustar, mejorar y documentar.
 
-<a href="https://docs.google.com/document/d/1EbIZOwcJPjZejUpdg6G4sysuoKcYlBj6ArLuREcPQCY/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla: Guía Docente (XperiencED Kids)</a>
+
