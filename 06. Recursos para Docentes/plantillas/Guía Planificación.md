@@ -4,6 +4,12 @@ Este documento es una herramienta de apoyo para que los docentes diseñen, adapt
 
 Su propósito es orientar la creación de experiencias de aprendizaje antes de la implementación en aula o makerspace. La IA puede apoyar la generación de ideas, preguntas guía, actividades, recursos, ejemplos, adaptaciones y criterios de evaluación; sin embargo, la revisión, validación y adecuación final siempre corresponde al docente.
 
+* <a href="https://docs.google.com/document/d/1SSM7bLXkvASJDmWxX-yJGFogvpbzyFV6KTnpGD9PdF4/edit?usp=sharing" target="_blank">📋 Plantilla: Planificación (XperiencED Kids)</a>
+> Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
+
+
+## Contenido
+
 ## Datos Generales
 
 * **Nombre del módulo, sesión o reto:** [Nombre del módulo/sesión/proyecto].
@@ -97,9 +103,6 @@ Antes de implementar cualquier recurso generado con IA, el docente debe revisar:
 * Que no se incluya información falsa, sesgada o innecesaria.
 * Que el uso de IA sea ético, responsable y supervisado.
 
-
-* <a href="https://docs.google.com/document/d/1SSM7bLXkvASJDmWxX-yJGFogvpbzyFV6KTnpGD9PdF4/edit?usp=sharing" target="_blank">📋 Plantilla: Planificación (XperiencED Kids)</a>
-> Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
 ---
 
