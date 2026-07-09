@@ -1,10 +1,28 @@
-# Plantilla de Planificación XperiencED Kids con IA
+# Plantilla de Planificación XperiencED Kids
 
-Este documento es una herramienta de apoyo para que los docentes diseñen, adapten o mejoren sesiones maker utilizando inteligencia artificial de manera pedagógica, ética y contextualizada.
+Este archivo pertenece a: Recursos para Docentes Maker Academy  
+Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Planificacion_XperiencED_Kids_con_IA.md
 
-Su propósito es orientar la creación de experiencias de aprendizaje antes de la implementación en aula o makerspace. La IA puede apoyar la generación de ideas, preguntas guía, actividades, recursos, ejemplos, adaptaciones y criterios de evaluación; sin embargo, la revisión, validación y adecuación final siempre corresponde al docente.
+## Estado
 
-* <a href="https://docs.google.com/document/d/1SSM7bLXkvASJDmWxX-yJGFogvpbzyFV6KTnpGD9PdF4/edit?usp=sharing" target="_blank">📋 Plantilla: Planificación (XperiencED Kids)</a>
+Estado: Borrador  
+Versión: v1.0
+
+## Descripción
+
+Esta plantilla es una herramienta de apoyo para que los docentes diseñen, adapten o mejoren sesiones maker utilizando inteligencia artificial de manera pedagógica, ética y contextualizada.
+
+Permite organizar los elementos esenciales de una sesión: datos generales, propósito de aprendizaje, objetivos, competencias, conceptos clave, recursos, secuencia didáctica, evidencias, evaluación y mejora continua.
+
+La inteligencia artificial puede apoyar la creación de ideas, preguntas, adaptaciones, instrucciones, ejemplos y criterios de evaluación; sin embargo, la revisión, validación y adecuación final siempre corresponde al docente.
+
+## Propósito de la plantilla
+
+Orientar el diseño de sesiones maker alineadas con la metodología XperiencED Kids, integrando los momentos de Inspiración, Experimentación y Reflexión.
+
+Esta plantilla busca que cada sesión tenga un propósito claro, objetivos bien definidos, una secuencia didáctica coherente, evidencias de aprendizaje y una evaluación formativa ajustada al nivel, contexto y reto propuesto.
+
+* <a href="https://docs.google.com/document/d/1SSM7bLXkvASJDmWxX-yJGFogvpbzyFV6KTnpGD9PdF4/edit?usp=sharing" target="_blank">📋 Plantilla editable: Planificación (XperiencED Kids)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
 
