@@ -5,6 +5,29 @@
 * **Enfoque Técnico:** [Ej. Robótica Inicial / Circuitos Básicos]
 * **Meta del Proyecto:** [Breve explicación de lo que los estudiantes construirán].
 
+## Objetivo General
+[Redactar el objetivo general del módulo o proyecto.]
+
+## Objetivos Específicos
+* [Objetivo específico 1.]
+* [Objetivo específico 2.]
+* [Objetivo específico 3.]
+
+> Recomendación: redactar los objetivos bajo el criterio SMART, es decir, que sean específicos, medibles, alcanzables, relevantes y definidos en el tiempo. Esto facilita orientar la mediación, evaluar el logro esperado y mantener coherencia entre el reto, las actividades y las evidencias de aprendizaje.
+
+## Competencias a Desarrollar
+
+| Competencia | Descripción |
+| :--- | :--- |
+| **Mentalidad maker** | Crear, modificar, reparar, prototipar, compartir y aprender haciendo. |
+| **Seguridad y responsabilidad** | Usar herramientas, materiales, datos e IA con cuidado, ética y supervisión. |
+| **Diseño centrado en personas** | Comprender necesidades reales y diseñar soluciones útiles. |
+| **Prototipado e iteración** | Construir versiones, probarlas, analizar errores y mejorar. |
+| **Comunicación y documentación** | Registrar procesos, explicar decisiones, presentar resultados y compartir aprendizajes. |
+| **Colaboración** | Trabajar en equipo, asumir roles, escuchar retroalimentación y aportar al grupo. |
+| **Innovación** | Crear soluciones con valor para usuarios, comunidad o contexto escolar. |
+
+
 ## 🔑 Conceptos Clave a Reforzar
 Antes o durante la sesión, asegúrese de que los estudiantes comprendan e internalicen estos conceptos mediante la práctica:
 * **[Concepto 1, ej: Corriente Continua]:** [Definición sencilla o analogía útil para explicar en el aula].
@@ -31,19 +54,7 @@ Antes o durante la sesión, asegúrese de que los estudiantes comprendan e inter
 
 ---
 
-## 🚧 Gestión Pedagógica del Error (Troubleshooting)
-> 💡 *En la cultura maker, el error no es un fracaso, sino el motor de la iteración.*
-
-Si un equipo experimenta frustración técnica, utilicé esta guía de soporte rápido:
-
-| Problema Frecuente | Pregunta Guía para el Estudiante (No dar la solución) | Solución Técnica Base |
-| :--- | :--- | :--- |
-| [Ej: El motor no gira] | *"¿Ya revisaste si el cable de tierra vuelve al pin correcto?"* | Verificar conexiones de voltaje o baterías bajas. |
-| [Ej: El corte láser quedó marcado pero no traspasó] | *"¿Qué parámetro creen que debamos ajustar: la velocidad o la potencia?"* | Ajustar el enfoque de la lente o aumentar la potencia en el software. |
-
----
-
-## 📊 Rúbrica de Evaluación Formativa
+## Rúbrica de Evaluación Formativa
 Establezca los niveles de logro según las evidencias presentadas en la bitácora maker y el prototipo final:
 
 | Criterio / Indicador | Logrado Completamente | En Proceso | Requiere Apoyo |
