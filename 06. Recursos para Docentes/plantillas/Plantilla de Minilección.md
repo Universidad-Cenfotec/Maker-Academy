@@ -22,7 +22,7 @@ Orientar el diseño de minilecciones alineadas con la metodología XperiencED Ki
 
 Esta plantilla busca que cada minilección tenga un propósito claro, una actividad concreta, una evidencia rápida de aprendizaje y una evaluación formativa sencilla.
 
-* <a href="https://docs.google.com/document/d/1XapjKsqIAoSvE3pThjWg-oQ6JIMO3neydoKPqvH5LNw/edit?usp=sharing" target="_blank">📋 Plantilla:Minilección (XperiencED Kids)</a>
+<a href="https://docs.google.com/document/d/1XapjKsqIAoSvE3pThjWg-oQ6JIMO3neydoKPqvH5LNw/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla:Minilección (XperiencED Kids)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
 ## Datos generales
