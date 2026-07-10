@@ -23,7 +23,7 @@ Orientar la implementación de experiencias maker mediante una guía clara para 
 Esta plantilla busca que cada sesión cuente con objetivos claros, competencias definidas, preguntas guía, estrategias de acompañamiento, criterios de evaluación y espacios para la mejora continua.
 
 <a href="https://docs.google.com/document/d/1EbIZOwcJPjZejUpdg6G4sysuoKcYlBj6ArLuREcPQCY/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla: Guía Docente (XperiencED Kids)</a>
----
+> Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
 ## Contenido
 ## 01. Resumen de Mediación
