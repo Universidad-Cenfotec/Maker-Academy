@@ -104,6 +104,50 @@ La secuencia debe integrar los tres momentos de la metodología: Inspiración, E
 | **Experimentación** | [X min] | Aprender haciendo mediante construcción, programación, fabricación, prueba, error e iteración. | Acompañar con preguntas, cuidar la seguridad, observar roles, orientar sin resolver todo el reto y promover la documentación del proceso. | Construir una primera versión, probarla, identificar errores, ajustar el diseño, código, estructura o materiales. | Prototipo en proceso, pruebas realizadas, cambios aplicados, fotografías, código o bitácora maker. |
 | **Reflexión** | [X min] | Sistematizar aprendizajes, socializar resultados y proyectar mejoras. | Facilitar el cierre, promover el “show your work”, guiar la metacognición y conectar el aprendizaje con otras áreas o contextos. | Presentar el prototipo, explicar decisiones, reconocer errores, compartir aprendizajes y proponer mejoras. | Bitácora, presentación breve, README, autoevaluación, coevaluación o registro de mejoras futuras. |
 
+## Evidencias y Evaluación
+
+### Entregable esperado
+
+[Indicar qué deben entregar los estudiantes: prototipo, bitácora, código, video, presentación, README, fotografía del proceso, ficha técnica, etc.]
+
+### Evidencias de aprendizaje
+
+* [Evidencia 1.]
+* [Evidencia 2.]
+* [Evidencia 3.]
+
+### Criterio de éxito
+
+[Describir cómo sabrá el docente que se logró el propósito de aprendizaje.]
+
+## Rúbrica Breve de Evaluación Formativa
+
+Esta rúbrica es una base inicial. El docente puede modificar, agregar o eliminar criterios según el proyecto, nivel, objetivos, duración y evidencias esperadas.
+
+| Criterio / Indicador | Logrado Completamente | En Proceso | Requiere Apoyo |
+| :--- | :--- | :--- | :--- |
+| **Comprensión del reto** | Comprende el problema o desafío y lo relaciona con un contexto real. | Comprende parcialmente el reto, pero requiere apoyo para conectarlo con una situación real. | No logra explicar el propósito del reto o la necesidad que atiende. |
+| **Apropiación tecnológica y digital** | Utiliza herramientas, materiales o tecnología de forma adecuada para construir una solución funcional. | Utiliza los recursos con apoyo o logra un funcionamiento parcial. | Presenta dificultad para usar los recursos o completar la función básica. |
+| **Prototipado e iteración** | Prueba, identifica errores, ajusta y mejora su propuesta con base en evidencias. | Realiza algunas pruebas o ajustes, pero con poca reflexión sobre el proceso. | No realiza pruebas significativas ni incorpora mejoras. |
+| **Comunicación y documentación** | Registra el proceso, los errores, las soluciones y los aprendizajes de forma clara. | Registra algunos pasos, pero con poca profundidad. | No presenta evidencias suficientes del proceso. |
+| **Colaboración** | Participa activamente, escucha ideas, asume roles y aporta al equipo. | Participa de forma irregular o requiere apoyo para organizarse. | Presenta dificultad para colaborar o asumir responsabilidades. |
+| **Seguridad y responsabilidad** | Usa herramientas, materiales, datos e IA con cuidado, ética y supervisión. | Requiere recordatorios para mantener prácticas seguras o responsables. | Usa herramientas o recursos sin atender indicaciones de seguridad o responsabilidad. |
+
+## Adaptaciones y Apoyos
+
+[Indicar posibles ajustes para estudiantes que requieran más apoyo, más tiempo, instrucciones visuales, trabajo en pares, materiales alternativos o retos de mayor complejidad.]
+
+## Registro Docente para la Mejora
+
+Después de la sesión, registre observaciones que permitan mejorar futuras implementaciones.
+
+* **Aspectos que funcionaron bien:** [Completar.]
+* **Dificultades observadas:** [Completar.]
+* **Ajustes recomendados:** [Completar.]
+* **Evidencias destacadas:** [Completar.]
+* **Recomendaciones para una próxima versión:** [Completar.]
+
+
 ## Uso de IA en el Diseño de la Sesión
 
 La inteligencia artificial puede utilizarse como apoyo para diseñar o mejorar la sesión, pero no debe sustituir el criterio pedagógico del docente.
@@ -151,46 +195,4 @@ Ayúdame a proponer:
 El resultado debe ser claro, aplicable en aula y alineado con una cultura maker basada en aprender haciendo, prototipar, iterar, colaborar y documentar.
 ```
 
-## Evidencias y Evaluación
-
-### Entregable esperado
-
-[Indicar qué deben entregar los estudiantes: prototipo, bitácora, código, video, presentación, README, fotografía del proceso, ficha técnica, etc.]
-
-### Evidencias de aprendizaje
-
-* [Evidencia 1.]
-* [Evidencia 2.]
-* [Evidencia 3.]
-
-### Criterio de éxito
-
-[Describir cómo sabrá el docente que se logró el propósito de aprendizaje.]
-
-## Rúbrica Breve de Evaluación Formativa
-
-Esta rúbrica es una base inicial. El docente puede modificar, agregar o eliminar criterios según el proyecto, nivel, objetivos, duración y evidencias esperadas.
-
-| Criterio / Indicador | Logrado Completamente | En Proceso | Requiere Apoyo |
-| :--- | :--- | :--- | :--- |
-| **Comprensión del reto** | Comprende el problema o desafío y lo relaciona con un contexto real. | Comprende parcialmente el reto, pero requiere apoyo para conectarlo con una situación real. | No logra explicar el propósito del reto o la necesidad que atiende. |
-| **Apropiación tecnológica y digital** | Utiliza herramientas, materiales o tecnología de forma adecuada para construir una solución funcional. | Utiliza los recursos con apoyo o logra un funcionamiento parcial. | Presenta dificultad para usar los recursos o completar la función básica. |
-| **Prototipado e iteración** | Prueba, identifica errores, ajusta y mejora su propuesta con base en evidencias. | Realiza algunas pruebas o ajustes, pero con poca reflexión sobre el proceso. | No realiza pruebas significativas ni incorpora mejoras. |
-| **Comunicación y documentación** | Registra el proceso, los errores, las soluciones y los aprendizajes de forma clara. | Registra algunos pasos, pero con poca profundidad. | No presenta evidencias suficientes del proceso. |
-| **Colaboración** | Participa activamente, escucha ideas, asume roles y aporta al equipo. | Participa de forma irregular o requiere apoyo para organizarse. | Presenta dificultad para colaborar o asumir responsabilidades. |
-| **Seguridad y responsabilidad** | Usa herramientas, materiales, datos e IA con cuidado, ética y supervisión. | Requiere recordatorios para mantener prácticas seguras o responsables. | Usa herramientas o recursos sin atender indicaciones de seguridad o responsabilidad. |
-
-## Adaptaciones y Apoyos
-
-[Indicar posibles ajustes para estudiantes que requieran más apoyo, más tiempo, instrucciones visuales, trabajo en pares, materiales alternativos o retos de mayor complejidad.]
-
-## Registro Docente para la Mejora
-
-Después de la sesión, registre observaciones que permitan mejorar futuras implementaciones.
-
-* **Aspectos que funcionaron bien:** [Completar.]
-* **Dificultades observadas:** [Completar.]
-* **Ajustes recomendados:** [Completar.]
-* **Evidencias destacadas:** [Completar.]
-* **Recomendaciones para una próxima versión:** [Completar.]
 
