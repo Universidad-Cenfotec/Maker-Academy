@@ -1,7 +1,7 @@
 # Plantilla de Planificación XperiencED Kids
 
 Este archivo pertenece a: Recursos para Docentes Maker Academy  
-Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Planificacion_XperiencED_Kids_con_IA.md
+Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Planificacion.md
 
 ## Estado
 
