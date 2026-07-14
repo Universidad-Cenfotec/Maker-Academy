@@ -130,6 +130,8 @@ Este repositorio busca que cada docente pueda:
 
 **Maker Academy no es solo un conjunto de documentos. Es una infraestructura pedagógica para aprender creando.**
 
+---
+
 ## Créditos
 ![](<Recursos visuales/Logos/Logo Universidad-Horizontal-Gradiente.png>) 
 
