@@ -129,3 +129,12 @@ Este repositorio busca que cada docente pueda:
 > Encontrar una experiencia maker, comprender su propósito, adaptarla a su contexto, implementarla con seguridad, recoger evidencias, evaluar aprendizajes y compartir resultados con la comunidad.
 
 **Maker Academy no es solo un conjunto de documentos. Es una infraestructura pedagógica para aprender creando.**
+
+## Créditos
+![](<Recursos visuales/Logos/Logo Universidad-Horizontal-Gradiente.png>) ![](<Recursos visuales/Logos/Intelligent-Systems-Color.png>) 
+
+Escuela de Sistemas Inteligentes
+Director: Dr. Tomás de Camino Beck
+Coordinadora Maker Academy: Msc. Janet Melissa Vargas Mata
+Profesora colaboradora: Cinthia Gabriela Urbina Hernández
+Estudiante asistente: Krystell Gabriela Porras Rivera
