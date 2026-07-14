@@ -1,7 +1,7 @@
 # Rúbrica de colaboración y reflexión
 
 Este archivo pertenece a: Bloque Temático Pensamiento Maker — Maker Academy  
-Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/04. Evaluación/rubrica-colaboracion-reflexion.md
+Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/04. Rúbrica de colaboración y reflexión.md
 
 ## Estado
 
