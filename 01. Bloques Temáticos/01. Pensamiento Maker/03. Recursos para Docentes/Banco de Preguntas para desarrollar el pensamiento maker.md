@@ -1,7 +1,7 @@
 # Banco de preguntas para desarrollar el pensamiento maker
 
 Este archivo pertenece a: Bloque Temático Pensamiento Maker  
-Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/03. Recursos para Docentes/Banco de Preguntas para facilitar el aprendizaje.md
+Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/03. Recursos para Docentes/Banco de Preguntas para para desarrollar el pensamiento maker.md
 
 ## Estado
 
