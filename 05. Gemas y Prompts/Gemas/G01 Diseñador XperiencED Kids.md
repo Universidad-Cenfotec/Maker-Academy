@@ -1,7 +1,7 @@
 # G01. Diseñador XperiencED Kids
 
 > Este archivo pertenece a: **Gemas y Prompts Maker Academy**  
-> Ruta: `05. Gemas y Prompts/gemas/G01_disenador-xperienced-kids.md`
+> Ruta: `05. Gemas y Prompts/gemas/G01 Disenador XperiencED Kids.md`
 
 ---
 
