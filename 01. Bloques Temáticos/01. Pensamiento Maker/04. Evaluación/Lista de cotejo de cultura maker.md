@@ -1,7 +1,7 @@
 # Lista de cotejo de cultura maker
 
 Este archivo pertenece a: Bloque Temático Pensamiento Maker — Maker Academy  
-Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/04. Evaluación/lista-cotejo-cultura-maker.md
+Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/04. Evaluación/Lista de cotejo de cultura maker.md
 
 ## Estado
 
