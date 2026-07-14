@@ -35,7 +35,7 @@ Facilitar la implementación de experiencias maker que:
 |---|---|---|
 | Checklist para la activación de un reto maker | Permite verificar la preparación pedagógica, los materiales, el espacio, la seguridad, la inclusión y la documentación antes de iniciar un reto. | [Ver recurso](./Checklist%20de%20Activación%20del%20Reto.md) |
 | Guía de retroalimentación maker | Orienta al docente para acompañar los procesos de creación e iteración sin proporcionar directamente las respuestas o soluciones. | [Ver recurso](./Gu%C3%ADa%20de%20retroalimentaci%C3%B3n%20maker.md) |
-| Banco de preguntas para facilitar el aprendizaje | Reúne preguntas para los momentos de Inspiración, Experimentación y Reflexión, adaptables a diferentes niveles educativos. | [Ver recurso](./Banco%20de%20Preguntas%20para%20facilitar%20el%20aprendizaje.md) |
+| Banco de preguntas para desarrollar el pensaimiento maker | Reúne preguntas para los momentos de Inspiración, Experimentación y Reflexión, adaptables a diferentes niveles educativos. | [Ver recurso](./Banco%20de%20Preguntas%20para%20desarrollar%20el%20pensamiento%20maker.md) |
 | Presentación para introducir la cultura maker | Ofrece un guion base para explicar los principios de la cultura maker a docentes, estudiantes, familias y comunidad educativa. | [Ver recurso](./Presentacion%20Cultura%20Maker.md) |
 
 ## Adaptación por nivel educativo
