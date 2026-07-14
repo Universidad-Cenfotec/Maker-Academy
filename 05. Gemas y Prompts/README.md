@@ -64,20 +64,22 @@ Las gemas permiten ahorrar tiempo, pero sus respuestas deben ser revisadas por e
 
 ---
 
-## Gemas sugeridas
+## Gemas
 
-Las siguientes gemas pueden utilizarse como asistentes base para apoyar la implementación de Maker Academy.
+Las siguientes gemas sugeridas pueden utilizarse como asistentes base para apoyar la planificación, adaptación, evaluación, documentación, seguridad y uso responsable de IA en Maker Academy.
 
-| Gema | Función principal | Producto generado |
+| Gema | Para qué sirve | Enlace |
 |---|---|---|
-| **Diseñador XperiencED Kids** | Convierte un tema o proyecto en planificación con Inspiración, Experimentación y Reflexión. | Plan de sesión o unidad. |
-| **Adaptador por Nivel** | Ajusta lenguaje, dificultad, materiales y autonomía según edad o nivel educativo. | Versión para preescolar, primaria o secundaria. |
-| **Integrador Curricular** | Conecta el proyecto maker con otras materias. | Matriz interdisciplinaria. |
-| **Diseñador de Retos Maker** | Propone retos por niveles de dificultad. | Reto inicial, intermedio y avanzado. |
-| **Evaluador Maker** | Crea rúbricas, listas de cotejo y preguntas de reflexión. | Instrumentos de evaluación. |
-| **Documentador de Proyectos** | Genera plantillas de bitácora, README y guía de evidencias. | Documentación lista para repositorio. |
-| **Asistente de Seguridad** | Revisa riesgos, materiales y cuidados del espacio. | Checklist de seguridad. |
-| **Asistente de IA Ética** | Sugiere usos responsables de IA y criterios de transparencia. | Guía de uso de IA por proyecto. |
+| **Diseñador XperiencED Kids** | Convertir una idea, tema o proyecto en una clase o unidad con Inspiración, Experimentación y Reflexión. | [Ver gema](./gemas/G01_disenador-xperienced-kids.md) |
+| **Adaptador por Nivel** | Ajustar una experiencia maker para otro grado, edad, nivel de autonomía o conjunto de materiales. | [Ver gema](./gemas/G02_adaptador-por-nivel.md) |
+| **Integrador Curricular** | Conectar un proyecto maker con Ciencias, Matemática, Español, Estudios Sociales, Inglés u otra materia. | [Ver gema](./gemas/G03_integrador-curricular.md) |
+| **Diseñador de Retos Maker** | Crear retos maker más motivadores, abiertos y organizados por niveles de dificultad. | [Ver gema](./gemas/G04_disenador-retos-maker.md) |
+| **Evaluador Maker** | Elaborar rúbricas, listas de cotejo, criterios de evaluación y preguntas de reflexión. | [Ver gema](./gemas/G05_evaluador-maker.md) |
+| **Documentador de Proyectos** | Crear bitácoras, README, guías de evidencias y textos para documentar proyectos en el repositorio. | [Ver gema](./gemas/G06_documentador-proyectos.md) |
+| **Asistente de Seguridad** | Revisar riesgos, materiales, cuidados del espacio y recomendaciones de seguridad antes de implementar. | [Ver gema](./gemas/G07_asistente-seguridad.md) |
+| **Asistente de IA Ética** | Revisar privacidad, transparencia, límites de uso y responsabilidad en experiencias que incorporan IA. | [Ver gema](./gemas/G08_asistente-ia-etica.md) |
+
+> Nota: Los enlaces funcionarán una vez que las fichas individuales de cada gema hayan sido creadas en la carpeta `gemas/`.
 
 ---
 
