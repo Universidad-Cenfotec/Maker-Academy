@@ -70,7 +70,7 @@ Las siguientes gemas sugeridas pueden utilizarse como asistentes base para apoya
 
 | Gema | Para qué sirve | Enlace |
 |---|---|---|
-| **Diseñador XperiencED Kids** | Convertir una idea, tema o proyecto en una clase o unidad con Inspiración, Experimentación y Reflexión. | [Ver gema](./gemas/G01_disenador-xperienced-kids.md) |
+| **Diseñador XperiencED Kids** | Convertir una idea, tema o proyecto en una clase o unidad con Inspiración, Experimentación y Reflexión. | [Ver gema (./Gemas/G01%20Dise%C3%B1ador%20XperiencED%20Kids.md) |
 | **Adaptador por Nivel** | Ajustar una experiencia maker para otro grado, edad, nivel de autonomía o conjunto de materiales. | [Ver gema](./gemas/G02_adaptador-por-nivel.md) |
 | **Integrador Curricular** | Conectar un proyecto maker con Ciencias, Matemática, Español, Estudios Sociales, Inglés u otra materia. | [Ver gema](./gemas/G03_integrador-curricular.md) |
 | **Diseñador de Retos Maker** | Crear retos maker más motivadores, abiertos y organizados por niveles de dificultad. | [Ver gema](./gemas/G04_disenador-retos-maker.md) |
