@@ -30,8 +30,8 @@ Los instrumentos pueden aplicarse durante los momentos de Inspiración, Experime
 
 | Instrumento | Propósito | Enlace |
 |---|---|---|
-| Lista de cotejo de cultura maker | Observar comportamientos, actitudes y prácticas relacionadas con la cultura maker durante el desarrollo de un reto. | [Ver lista de cotejo](./lista-cotejo-cultura-maker.md) |
-| Rúbrica de colaboración y reflexión | Valorar el trabajo colaborativo, la participación, la comunicación y la capacidad de reflexionar sobre el proceso realizado. | [Ver rúbrica](./rubrica-colaboracion-reflexion.md) |
+| Lista de cotejo de cultura maker | Observar comportamientos, actitudes y prácticas relacionadas con la cultura maker durante el desarrollo de un reto. | [Ver lista de cotejo](./Lista%20de%20cotejo%20de%20cultura%20maker.md) |
+| Rúbrica de colaboración y reflexión | Valorar el trabajo colaborativo, la participación, la comunicación y la capacidad de reflexionar sobre el proceso realizado. | [Ver rúbrica](./R%C3%BAbrica%20de%20colaboraci%C3%B3n%20y%20reflexi%C3%B3n.md) |
 
 ## Recomendaciones de uso
 
