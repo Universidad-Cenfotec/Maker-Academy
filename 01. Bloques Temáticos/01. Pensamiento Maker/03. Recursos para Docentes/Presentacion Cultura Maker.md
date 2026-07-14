@@ -141,35 +141,7 @@ El docente diseña condiciones para aprender, formula preguntas, acompaña el pr
 
 ---
 
-## Diapositiva 5. Las 4P del aprendizaje creativo
-
-### Texto principal
-
-Las experiencias maker pueden organizarse considerando las 4P propuestas por Mitchel Resnick.
-
-### Proyectos
-
-El aprendizaje se desarrolla al crear productos, modelos, prototipos o soluciones significativas.
-
-### Pasión
-
-Las personas se involucran más cuando conectan la actividad con sus intereses, curiosidades y necesidades.
-
-### Pares
-
-Se aprende al observar, conversar, colaborar y compartir con otras personas.
-
-### Juego
-
-Se promueve una exploración abierta en la que es posible probar, combinar, equivocarse y descubrir.
-
-### Pregunta para el grupo
-
-> ¿Cuál de estas cuatro dimensiones está más presente en sus clases y cuál podría fortalecerse?
-
----
-
-## Diapositiva 6. DIY y DIWO
+## Diapositiva 5. DIY y DIWO
 
 ### Texto principal
 
@@ -207,7 +179,7 @@ La autonomía no significa trabajar siempre en solitario. También implica saber
 
 ---
 
-## Diapositiva 7. El valor del prototipo
+## Diapositiva 6. El valor del prototipo
 
 ### Texto principal
 
@@ -239,7 +211,7 @@ Prototipar permite aprender antes de invertir demasiado tiempo o recursos en una
 
 ---
 
-## Diapositiva 8. Error, prueba e iteración
+## Diapositiva 7. Error, prueba e iteración
 
 ### Texto principal
 
@@ -270,7 +242,7 @@ La meta no es evitar todos los errores, sino aprender a detectarlos, analizarlos
 
 ---
 
-## Diapositiva 9. Diseñar con y para las personas
+## Diapositiva 8. Diseñar con y para las personas
 
 ### Texto principal
 
@@ -293,7 +265,7 @@ Las soluciones maker adquieren mayor sentido cuando responden a necesidades real
 
 ---
 
-## Diapositiva 10. Un makerspace es más que un lugar
+## Diapositiva 9. Un makerspace es más que un lugar
 
 ### Texto principal
 
@@ -315,46 +287,7 @@ Un makerspace es un ambiente de aprendizaje en el que las personas pueden imagin
 Tener herramientas no garantiza una experiencia maker. Se necesita una metodología que permita utilizarlas con propósito educativo.
 
 ---
-
-## Diapositiva 11. XperiencED Kids en Maker Academy
-
-### Texto principal
-
-Las experiencias de Maker Academy se organizan mediante tres momentos.
-
-### Inspiración
-
-Se presenta una pregunta, necesidad, historia, fenómeno o desafío que conecta con el contexto del estudiantado.
-
-Preguntas principales:
-
-- ¿Qué observamos?
-- ¿Qué necesitamos comprender?
-- ¿Qué problema queremos resolver?
-
-### Experimentación
-
-El estudiantado imagina, diseña, construye, prueba y mejora sus propuestas.
-
-Preguntas principales:
-
-- ¿Qué podemos crear?
-- ¿Cómo lo comprobaremos?
-- ¿Qué debemos modificar?
-
-### Reflexión
-
-El grupo analiza lo aprendido, comunica decisiones y proyecta nuevas mejoras.
-
-Preguntas principales:
-
-- ¿Qué aprendimos?
-- ¿Qué evidencia obtuvimos?
-- ¿Qué haríamos diferente?
-
----
-
-## Diapositiva 12. El rol del docente maker
+## Diapositiva 10. El rol del docente maker
 
 ### Texto principal
 
@@ -380,7 +313,7 @@ No es necesario dominar todas las herramientas antes de comenzar. El docente tam
 
 ---
 
-## Diapositiva 13. Seguridad, ética y responsabilidad
+## Diapositiva 11. Seguridad, ética y responsabilidad
 
 ### Texto principal
 
@@ -401,7 +334,7 @@ Crear también implica cuidar a las personas, los materiales, la información y 
 
 ---
 
-## Diapositiva 14. Inteligencia artificial con propósito
+## Diapositiva 12. Inteligencia artificial con propósito
 
 ### Texto principal
 
@@ -433,7 +366,7 @@ La inteligencia artificial puede apoyar algunas etapas del proceso maker, pero n
 
 ---
 
-## Diapositiva 15. Documentar también es crear conocimiento
+## Diapositiva 13. Documentar también es crear conocimiento
 
 ### Texto principal
 
@@ -459,7 +392,7 @@ Un prototipo muestra lo que se construyó. La documentación explica cómo se ap
 
 ---
 
-## Diapositiva 16. ¿Cómo se ve una experiencia maker?
+## Diapositiva 14. ¿Cómo se ve una experiencia maker?
 
 ### Una experiencia maker permite que el estudiantado
 
@@ -486,7 +419,7 @@ Un prototipo muestra lo que se construyó. La documentación explica cómo se ap
 
 ---
 
-## Diapositiva 17. Nuestro compromiso maker
+## Diapositiva 15. Nuestro compromiso maker
 
 ### Actividad de cierre
 
