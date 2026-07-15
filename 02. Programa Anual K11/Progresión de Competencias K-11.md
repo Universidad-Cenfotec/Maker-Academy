@@ -3,7 +3,7 @@
 ### Progresión de Competencias K-11
 
 **Este archivo pertenece a:** Programa Anual Maker Academy K-11  
-**Ruta:** `02. Programa Anual K11/Progresión de Competencias K11.md`
+**Ruta:** `02. Programa Anual K11/Progresión de Competencias K-11.md`
 
 ## Estado
 
