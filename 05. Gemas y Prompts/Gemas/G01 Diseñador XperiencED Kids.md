@@ -162,18 +162,6 @@ En **Maker Academy**, la IA es una aliada para potenciar la creatividad, no un r
 
 ---
 
-## Relación con otros archivos
-
-| Archivo | Relación |
-|---|---|
-| [README de Gemas y Prompts](../README.md) | Presenta todas las gemas y prompts base. |
-| [G02. Adaptador por Nivel](./G02_adaptador-por-nivel.md) | Permite ajustar la planificación a otro grado o nivel. |
-| [G03. Integrador Curricular](./G03_integrador-curricular.md) | Permite conectar la planificación con otras materias. |
-| [G05. Evaluador Maker](./G05_evaluador-maker.md) | Permite crear instrumentos de evaluación. |
-| [G07. Asistente de Seguridad](./G07_asistente-seguridad.md) | Permite revisar riesgos antes de implementar. |
-
----
-
 ## Nota docente
 
 Esta gema debe utilizarse como punto de partida, no como producto final.
