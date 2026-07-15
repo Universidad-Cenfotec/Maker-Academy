@@ -43,22 +43,22 @@ La carpeta contiene los proyectos correspondientes a educación preescolar.
 
 La carpeta se organiza en las siguientes subcarpetas:
 
-* 1. Primer grado
-* 2. Segundo grado
-* 3. Tercer grado
-* 4. Cuarto grado
-* 5. Quinto grado
-* 6. Sexto grado
+* 01 Primer grado
+* 02 Segundo grado
+* 03 Tercer grado
+* 04 Cuarto grado
+* 05 Quinto grado
+* 06 Sexto grado
 
 ### Secundaria
 
 La carpeta se organiza en las siguientes subcarpetas:
 
-* 7. Sétimo año
-* 8. Octavo año
-* 9. Noveno año
-* 10. Décimo año
-* 11. Undécimo año
+* 07 Sétimo año
+* 08 Octavo año
+* 09 Noveno año
+* 10 Décimo año
+* 11 Undécimo año
 
 ## Enfoque de los proyectos
 
@@ -89,7 +89,7 @@ Cuando se incorpore un nuevo proyecto:
 
 1. Guardarlo en la subcarpeta del grado o año correspondiente.
 2. Utilizar un nombre claro y descriptivo.
-3. Mantener la plantilla institucional de Maker Academy.
+3. Mantener un formato similar.
 4. Verificar que el grado y el nombre del proyecto estén correctamente identificados.
 5. Actualizar el archivo de control o índice de la carpeta cuando corresponda.
 6. Registrar una nueva versión cuando se realicen mejoras significativas.
