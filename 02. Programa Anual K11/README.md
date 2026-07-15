@@ -124,7 +124,7 @@ Los centros educativos pueden:
 1. Inicie con la [Matriz Anual K-11](./Matriz%20Anual%20K-11.md).
 2. Consulte el [Mapa por Ciclos](./Mapa%20por%20Ciclos.md).
 3. Revise la [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K-11.md).
-4. Analice la [Progresión de Bloques K-11](./Progresi%C3%B3n%20de%20Bloques%20K-11.md).
+4. Analice la [Progresión de Bloques(./Progresi%C3%B3n%20de%20Bloques.md).
 5. Ingrese a las programaciones de los grados que implementará.
 
 ### Para revisar un grado específico
