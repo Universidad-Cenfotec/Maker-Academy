@@ -1,10 +1,30 @@
-# Programa Anual K11: Crear, Conectar, Programar e Innovar
+# Maker Academy
+## Programa Anual K-11: Crear, Conectar, Programar e Innovar
+### Orientaciones para la navegación y el uso de la propuesta anual
 
-Esta carpeta contiene una **propuesta de implementación anual** de **Maker Academy** desde preescolar hasta undécimo año.
+**Este archivo pertenece a:** Programa Anual Maker Academy K-11  
+**Ruta:** `02. Programa Anual K11/README.md`
 
-El Programa Anual K11 presenta una posible ruta progresiva por niveles, grados, módulos, proyectos maker, bloques temáticos, herramientas, competencias y evidencias esperadas.
+## Estado
 
-Esta propuesta puede ser utilizada como referencia por docentes, facilitadores, coordinación académica y centros educativos. Sin embargo, **no es una ruta única ni obligatoria**. Cada centro educativo puede adaptarla, reorganizarla o construir su propia ruta de implementación, de acuerdo con su contexto, recursos, calendario, nivel de experiencia docente, intereses estudiantiles y prioridades institucionales.
+**Estado:** Borrador  
+**Versión:** v1.0  
+
+## Descripción
+
+Esta carpeta contiene una propuesta de implementación anual de **Maker Academy**, desde Preescolar hasta 11.º año.
+
+El Programa Anual K-11 presenta una posible ruta progresiva organizada por niveles, grados, módulos, proyectos maker, bloques temáticos, herramientas, competencias y evidencias de aprendizaje.
+
+La propuesta puede ser utilizada como referencia por docentes, facilitadores, coordinaciones académicas y centros educativos. No constituye una ruta única ni obligatoria. Cada institución puede adaptarla, reorganizarla o construir su propia ruta de implementación de acuerdo con:
+
+- su contexto educativo;
+- los recursos y herramientas disponibles;
+- el calendario institucional;
+- la experiencia del equipo docente;
+- los intereses del estudiantado;
+- las prioridades curriculares;
+- las condiciones del makerspace.
 
 ---
 
@@ -12,118 +32,143 @@ Esta propuesta puede ser utilizada como referencia por docentes, facilitadores, 
 
 Esta carpeta ayuda a responder preguntas como:
 
-* ¿Cómo podría organizarse Maker Academy durante el año?
-* ¿Qué temas o proyectos pueden trabajarse en cada grado?
-* ¿Cómo puede progresar el aprendizaje maker desde preescolar hasta undécimo?
-* ¿Qué bloques temáticos se pueden priorizar por nivel?
-* ¿Qué herramientas y lenguajes podrían utilizarse?
-* ¿Qué evidencias se pueden recoger al finalizar cada módulo o proyecto?
-* ¿Cómo se puede conectar la propuesta con XperiencED Kids?
+- ¿Cómo podría organizarse Maker Academy durante el año escolar?
+- ¿Qué temas o proyectos pueden desarrollarse en cada grado?
+- ¿Cómo progresa el aprendizaje maker desde Preescolar hasta 11.º año?
+- ¿Qué competencias se fortalecen en cada nivel?
+- ¿Qué bloques temáticos pueden priorizarse?
+- ¿Qué herramientas y lenguajes de programación podrían utilizarse?
+- ¿Qué evidencias pueden recopilarse durante los módulos?
+- ¿Cómo se articula la propuesta con la metodología XperiencED Kids?
+- ¿Cómo puede adaptarse la ruta a las condiciones de cada centro educativo?
 
 ---
 
 ## Importante
 
-El **Programa Anual K11** es una propuesta base de implementación.
+El Programa Anual K-11 es una **propuesta base de implementación**.
 
 Los centros educativos pueden:
 
-* utilizar esta ruta como está planteada;
-* adaptarla parcialmente;
-* reorganizar los módulos;
-* seleccionar proyectos según sus recursos disponibles;
-* integrar proyectos propios;
-* crear una ruta institucional diferente;
-* ajustar la duración, profundidad o herramientas según el contexto.
-
-Toda adaptación debe procurar mantener coherencia con:
-
-* el modelo pedagógico de Maker Academy;
-* la metodología XperiencED Kids;
-* los bloques temáticos;
-* las condiciones de seguridad;
-* la documentación de evidencias;
-* la progresión de competencias maker y tecnológicas.
+- utilizar la ruta completa;
+- implementar únicamente algunos grados o niveles;
+- adaptar los proyectos propuestos;
+- reorganizar el orden de los módulos;
+- ajustar la duración y profundidad de las experiencias;
+- seleccionar herramientas según su disponibilidad;
+- incorporar proyectos propios;
+- vincular la ruta con diferentes áreas curriculares;
+- construir una ruta institucional diferente.
 
 ---
 
 ## Niveles de Maker Academy
 
-| Nivel       | Grados      | Nombre del nivel   | Enfoque general                                                                                                 |
-| ----------- | ----------- | ------------------ | --------------------------------------------------------------------------------------------------------------- |
-| **Nivel 1** | Preescolar  | Exploradores Maker | Exploración sensorial, construcción libre, símbolos, secuencias visuales y comunicación oral.                   |
-| **Nivel 2** | 1.º a 3.º   | Inventores Maker   | Mecanismos simples, causa-efecto, programación inicial, fabricación guiada y robótica acompañada.               |
-| **Nivel 3** | 4.º a 6.º   | Creadores Maker    | Circuitos, sensores, actuadores, programación por bloques, fabricación digital y documentación básica.          |
-| **Nivel 4** | 7.º a 9.º   | Diseñadores Maker  | Automatización, robótica, Arduino, sensores, motores, documentación técnica e introducción progresiva a Python. |
-| **Nivel 5** | 10.º a 11.º | Innovation Lab     | Python, IA, IoT, datos, GitHub, validación con usuarios, prototipos integradores y comunicación profesional.    |
+| Nivel | Grados | Nombre del nivel | Enfoque general |
+|---|---|---|---|
+| **Nivel 1** | Preescolar | Exploradores Maker | Exploración sensorial, construcción, símbolos, secuencias visuales y comunicación oral. |
+| **Nivel 2** | 1.º a 3.º | Inventores Maker | Mecanismos simples, causa-efecto, programación inicial, fabricación guiada y robótica acompañada. |
+| **Nivel 3** | 4.º a 6.º | Creadores Maker | Circuitos, sensores, actuadores, programación por bloques, fabricación digital y uso inicial de datos. |
+| **Nivel 4** | 7.º a 9.º | Diseñadores Maker | Automatización, robótica, Arduino, sensores, motores, documentación técnica e introducción progresiva a Python. |
+| **Nivel 5** | 10.º a 11.º | Innovation Lab | Python, IA, IoT, datos, GitHub, validación con usuarios, prototipos integradores y comunicación profesional. |
 
 ---
 
-## Estructura de la carpeta
+## Documentos generales de la carpeta
 
-| Archivo o sección                              | Propósito                                                                             |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------- |
-| `README.md`                                    | Presenta la función de esta carpeta y orienta la navegación.                          |
-| `Matriz Anual K11.md`                          | Muestra una visión general de la propuesta anual desde preescolar hasta undécimo año. |
-| `Progresión de Competencias K11.md`            | Describe la progresión de competencias por niveles y grados.                          |
-| `Progresión de Bloques K11.md`                 | Explica cómo avanzan los bloques temáticos a lo largo de la propuesta.                |
-| `Criterios de Selección de Temas-Proyectos.md` | Define criterios para seleccionar, adaptar o crear temas-proyectos.                   |
-| `Mapa por Ciclos.md`                           | Organiza la propuesta por ciclos educativos.                                          |
-| `Preescolar/`                                  | Contiene la propuesta anual para preescolar.                                          |
-| `Primaria/`                                    | Contiene las propuestas anuales de primero a sexto grado.                             |
-| `Secundaria/`                                  | Contiene las propuestas anuales de sétimo a undécimo año.                             |
+| Documento | Propósito |
+|---|---|
+| [Matriz Anual K-11](./Matriz%20Anual%20K11.md) | Presenta una visión general de la propuesta desde Preescolar hasta 11.º año. |
+| [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K11.md) | Describe cómo avanzan las competencias por niveles y grados. |
+| [Progresión de Bloques K-11](./Progresi%C3%B3n%20de%20Bloques%20K11.md) | Explica cómo aumenta la profundidad de los bloques temáticos a lo largo de la ruta. |
+| [Criterios de Selección de Temas-Proyectos](./Criterios%20de%20Selecci%C3%B3n%20de%20Temas-Proyectos.md) | Orienta la selección, adaptación y creación de temas-proyectos. |
+| [Mapa por Ciclos](./Mapa%20por%20Ciclos.md) | Organiza la propuesta según los ciclos educativos y sus perfiles de salida. |
+
+---
+
+## Programas por nivel y grado
+
+### Preescolar
+
+| Programa | Enlace |
+|---|---|
+| Preescolar — Nivel 1: Exploradores Maker | [Ver programa](./Preescolar/Preescolar.md) |
+
+### Primaria
+
+| Grado | Nivel | Enlace |
+|---|---|---|
+| 1.º grado | Nivel 2: Inventores Maker | [Ver programa](./Primaria/Primero.md) |
+| 2.º grado | Nivel 2: Inventores Maker | [Ver programa](./Primaria/Segundo.md) |
+| 3.º grado | Nivel 2: Inventores Maker | [Ver programa](./Primaria/Tercero.md) |
+| 4.º grado | Nivel 3: Creadores Maker | [Ver programa](./Primaria/Cuarto.md) |
+| 5.º grado | Nivel 3: Creadores Maker | [Ver programa](./Primaria/Quinto.md) |
+| 6.º grado | Nivel 3: Creadores Maker | [Ver programa](./Primaria/Sexto.md) |
+
+### Secundaria
+
+| Grado | Nivel | Enlace |
+|---|---|---|
+| 7.º grado | Nivel 4: Diseñadores Maker | [Ver programa](./Secundaria/S%C3%A9timo.md) |
+| 8.º grado | Nivel 4: Diseñadores Maker | [Ver programa](./Secundaria/Octavo.md) |
+| 9.º grado | Nivel 4: Diseñadores Maker | [Ver programa](./Secundaria/Noveno.md) |
+| 10.º grado | Nivel 5: Innovation Lab | [Ver programa](./Secundaria/D%C3%A9cimo.md) |
+| 11.º grado | Nivel 5: Innovation Lab | [Ver programa](./Secundaria/Und%C3%A9cimo.md) |
 
 ---
 
 ## Cómo usar esta carpeta
 
-### Si desea revisar la propuesta base
+### Para comprender la propuesta completa
 
-1. Inicie con `Matriz Anual K11.md`.
-2. Revise la progresión por niveles y grados.
-3. Consulte los bloques temáticos vinculados.
-4. Identifique productos y evidencias esperadas.
-5. Use la propuesta como punto de partida para planificar o adaptar la implementación.
+1. Inicie con la [Matriz Anual K-11](./Matriz%20Anual%20K11.md).
+2. Consulte el [Mapa por Ciclos](./Mapa%20por%20Ciclos.md).
+3. Revise la [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K11.md).
+4. Analice la [Progresión de Bloques K-11](./Progresi%C3%B3n%20de%20Bloques%20K11.md).
+5. Ingrese a las programaciones de los grados que implementará.
 
-### Si desea revisar un grado específico
+### Para revisar un grado específico
 
 1. Ingrese a la carpeta correspondiente:
-
-   * `Preescolar/`
-   * `Primaria/`
-   * `Secundaria/`
+   - [Preescolar](./Preescolar/)
+   - [Primaria](./Primaria/)
+   - [Secundaria](./Secundaria/)
 2. Abra el archivo del grado.
-3. Revise el enfoque anual, los módulos, los proyectos, los bloques y las evidencias.
-4. Ajuste la propuesta según el contexto del centro educativo.
+3. Revise el objetivo anual, el proyecto eje, los módulos, los bloques y las evidencias.
+4. Acceda al documento completo mediante el enlace incluido en cada programación.
+5. Adapte la propuesta según el contexto del centro educativo.
 
-### Si desea crear una ruta propia
+### Para adaptar o crear un proyecto
 
-1. Revise primero el `00. Modelo Pedagógico`.
-2. Consulte los bloques disponibles en `01. Bloques Temáticos`.
-3. Use esta carpeta como referencia de progresión.
-4. Seleccione, adapte o cree proyectos según las necesidades del centro educativo.
-5. Defina evidencias, materiales, tiempos y condiciones de seguridad.
-6. Documente la ruta institucional para facilitar seguimiento y mejora.
+1. Identifique el grado y el nivel Maker.
+2. Consulte la [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K11.md) y la [Progresión de Bloques K-11](./Progresi%C3%B3n%20de%20Bloques%20K11.md).
+3. Revise los [Criterios de Selección de Temas-Proyectos](./Criterios%20de%20Selecci%C3%B3n%20de%20Temas-Proyectos.md).
+4. Defina el reto, el usuario o el contexto.
+5. Seleccione los bloques temáticos centrales.
+6. Determine los materiales, las herramientas y las medidas de seguridad.
+7. Planifique las pruebas, las mejoras y las evidencias.
+8. Organice la experiencia mediante la metodología XperiencED Kids.
 
----
+### Para construir una ruta institucional propia
 
-## Relación con otras carpetas
-
-| Carpeta relacionada           | Relación con esta propuesta                                                                      |
-| ----------------------------- | ------------------------------------------------------------------------------------------------ |
-| `00. Modelo Pedagógico`       | Define la visión, metodología y fundamentos que orientan cualquier ruta de implementación.       |
-| `01. Bloques Temáticos`       | Organiza los contenidos tecnológicos que pueden incorporarse en la propuesta anual.              |
-| `03. Proyectos por Grado`     | Ofrece ejemplos de proyectos aislados que pueden complementar, reforzar o inspirar nuevas rutas. |
-| `04. Proyectos Integrados`    | Propone experiencias maker vinculadas con otras materias.                                        |
-| `06. Recursos para Docentes`  | Aporta plantillas, guías, rúbricas y materiales de apoyo para la implementación.                 |
-| `07. Evidencias de Escuelas`  | Permite documentar lo implementado en cada centro educativo.                                     |
-| `10. Dashboard e Indicadores` | Recoge datos para dar seguimiento a la implementación del programa.                              |
-
----
+1. Revise el [Modelo Pedagógico](../00.%20Modelo%20Pedag%C3%B3gico/).
+2. Consulte los [Bloques Temáticos](../01.%20Bloques%20Tem%C3%A1ticos/).
+3. Utilice esta carpeta como referencia de progresión.
+4. Seleccione, adapte o cree proyectos pertinentes.
+5. Defina tiempos, materiales, responsables y condiciones de seguridad.
+6. Documente la ruta institucional.
+7. Revise periódicamente los resultados y las oportunidades de mejora.
 
 ## Idea central
 
-Esta carpeta ofrece una propuesta para visualizar **cómo podría implementarse Maker Academy a lo largo del año escolar**.
+Esta carpeta ofrece un mapa de referencia para visualizar cómo podría implementarse Maker Academy a lo largo del año escolar y cómo puede progresar el aprendizaje desde Preescolar hasta 11.º año.
 
-Puede usarse como mapa de referencia, pero cada centro educativo puede construir su propia ruta, siempre que mantenga coherencia pedagógica, seguridad, documentación y sentido maker.
+Cada centro educativo puede construir su propia ruta, siempre que conserve:
 
+- coherencia pedagógica;
+- progresión de competencias;
+- condiciones de seguridad;
+- oportunidades para crear, probar y mejorar;
+- documentación del proceso de aprendizaje;
+- uso responsable de la tecnología y la inteligencia artificial;
+- sentido y propósito maker.
