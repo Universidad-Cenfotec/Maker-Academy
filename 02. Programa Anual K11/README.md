@@ -141,7 +141,7 @@ Los centros educativos pueden:
 ### Para adaptar o crear un proyecto
 
 1. Identifique el grado y el nivel Maker.
-2. Consulte la[Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K-11.md) y la  [Progresión de Bloques](./Progresi%C3%B3n%20de%20Bloques.md).
+2. Consulte la [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K-11.md) y la  [Progresión de Bloques](./Progresi%C3%B3n%20de%20Bloques.md).
 3. Revise lo [Criterios de Selección de Temas-Proyectos](./Criterios%20de%20Selecci%C3%B3n%20de%20Temas-Proyectos.md).
 4. Defina el reto, el usuario o el contexto.
 5. Seleccione los bloques temáticos centrales.
