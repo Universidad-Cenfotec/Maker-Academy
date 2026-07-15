@@ -122,9 +122,9 @@ Los centros educativos pueden:
 ### Para comprender la propuesta completa
 
 1. Inicie con la [Matriz Anual K-11](./Matriz%20Anual%20K-11.md).
-2. Consulte el [Mapa por Ciclos](./Mapa%20por%20Ciclos.md).
+2. Consulte el[Mapa por Ciclos](./Mapa%20por%20Ciclos.md).
 3. Revise la [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K-11.md).
-4. Analice la [Progresión de Bloques(./Progresi%C3%B3n%20de%20Bloques.md).
+4. Analice la  [Progresión de Bloques](./Progresi%C3%B3n%20de%20Bloques.md).
 5. Ingrese a las programaciones de los grados que implementará.
 
 ### Para revisar un grado específico
@@ -141,8 +141,8 @@ Los centros educativos pueden:
 ### Para adaptar o crear un proyecto
 
 1. Identifique el grado y el nivel Maker.
-2. Consulte la [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K11.md) y la [Progresión de Bloques K-11](./Progresi%C3%B3n%20de%20Bloques%20K11.md).
-3. Revise los [Criterios de Selección de Temas-Proyectos](./Criterios%20de%20Selecci%C3%B3n%20de%20Temas-Proyectos.md).
+2. Consulte la[Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K-11.md) y la  [Progresión de Bloques](./Progresi%C3%B3n%20de%20Bloques.md).
+3. Revise lo [Criterios de Selección de Temas-Proyectos](./Criterios%20de%20Selecci%C3%B3n%20de%20Temas-Proyectos.md).
 4. Defina el reto, el usuario o el contexto.
 5. Seleccione los bloques temáticos centrales.
 6. Determine los materiales, las herramientas y las medidas de seguridad.
