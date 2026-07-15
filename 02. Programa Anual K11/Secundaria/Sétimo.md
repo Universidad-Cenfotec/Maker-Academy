@@ -1,5 +1,5 @@
-# Maker Academy K–11
-## Programa Anual Integrado de Educación Maker
+# Maker Academy
+## Programa Anual K-11: Crear, Conectar, Programar e Innovar
 ### 7.º grado | Nivel 4: Diseñadores Maker
 
 **Este archivo pertenece a:** Programa Anual Maker Academy K–11  
