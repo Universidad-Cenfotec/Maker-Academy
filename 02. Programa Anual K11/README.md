@@ -80,7 +80,7 @@ Los centros educativos pueden:
 |---|---|
 | [Matriz Anual K-11](./Matriz%20Anual%20K-11.md) | Presenta una visión general de la propuesta desde Preescolar hasta 11.º año. |
 | [Progresión de Competencias K-11](./Progresi%C3%B3n%20de%20Competencias%20K-11.md) | Describe cómo avanzan las competencias por niveles y grados. |
-| [Progresión de Bloques K-11](./Progresi%C3%B3n%20de%20Bloques.md) | Explica cómo aumenta la profundidad de los bloques temáticos a lo largo de la ruta. |
+| [Progresión de Bloques](./Progresi%C3%B3n%20de%20Bloques.md) | Explica cómo aumenta la profundidad de los bloques temáticos a lo largo de la ruta. |
 | [Criterios de Selección de Temas-Proyectos](./Criterios%20de%20Selecci%C3%B3n%20de%20Temas-Proyectos.md) | Orienta la selección, adaptación y creación de temas-proyectos. |
 | [Mapa por Ciclos](./Mapa%20por%20Ciclos.md) | Organiza la propuesta según los ciclos educativos y sus perfiles de salida. |
 
