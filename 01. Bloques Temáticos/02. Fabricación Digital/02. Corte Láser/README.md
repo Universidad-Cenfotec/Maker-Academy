@@ -7,7 +7,7 @@
 ## Estado
 
 - **Estado:** Completo
-- **Versión:** v1.0
+- **Versión:** v2.0
 
 ---
 
@@ -19,9 +19,22 @@ Este módulo cubre todo el recorrido de la tecnología: desde entender la máqui
 
 ---
 
+## Acceso al contenido
+
+> _Esto no afecta a la estructura predeterminda, cada subcarpeta contiene con su respectivo enlace al recurso y PPT del mismo independiente_
+
+Con el fin de facilitar la accesibilidad de los recursos audiovisuales creados para este módulo hemos habilitado una lista de reproducción en nuestro canal de Youtube con el respectivo orden sugerido donde podrá encontrar todo el contenido de Corte Láser. Haga clic en el enlace para continuar.
+
+[--](url)
+
+_Por favor, mantenga presionado Ctrl y haga clic sobre el vínculo para abrir en una nueva pestaña._
+
+
+---
+
 ## Estructura del módulo en orden de visualización recomendada
 
-> Todos los archivos que se encuentran en las subcarpetas se encuentran nombrados por orden numérico con el fin de no perder el flujo de aprendizaje propuesto.
+> _Todos los archivos que se encuentran en las subcarpetas se encuentran nombrados por orden numérico con el fin de no perder el flujo de aprendizaje propuesto._
 
 | Recurso | Contenido |
 |---|---|
@@ -52,11 +65,11 @@ Este módulo cubre todo el recorrido de la tecnología: desde entender la máqui
 
 | Software | Función | Costo |
 |---|---|---|
-| Inkscape | Diseño vectorial, preparación de archivos SVG | Gratuito |
-| LightBurn | Control de la cortadora, asignación de parámetros por capa, envío de trabajos | De pago (licencia accesible) |
+| [Inkscape](https://inkscape.org/release/1.4.2/windows/64-bit/) | Diseño vectorial, preparación de archivos SVG | Gratuito |
+| [LightBurn](https://lightburnsoftware.com/pages/download-trial) | Control de la cortadora, asignación de parámetros por capa, envío de trabajos | De pago (licencia accesible) |
 | CNC Laser (CAM) | Software alternativo de control según el modelo de máquina | Variable |
 
-Los instaladores de Inkscape y LightBurn se encuentran en la carpeta `8. Recursos, aplicaciones e instaladores`.
+Los instaladores de Inkscape y LightBurn se encuentran redirigidos presionando sobre los mismos.
 
 ---
 
