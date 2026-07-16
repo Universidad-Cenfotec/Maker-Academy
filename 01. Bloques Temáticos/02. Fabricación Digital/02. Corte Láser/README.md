@@ -25,7 +25,7 @@ Este módulo cubre todo el recorrido de la tecnología: desde entender la máqui
 
 Con el fin de facilitar la accesibilidad de los recursos audiovisuales creados para este módulo hemos habilitado una lista de reproducción en nuestro canal de Youtube con el respectivo orden sugerido donde podrá encontrar todo el contenido de Corte Láser. Haga clic en el enlace para continuar.
 
-[--](https://www.youtube.com/playlist?list=PLPrvH3WPEA_0)
+[Lista de Reproducción de Módulo Corte Láser](https://www.youtube.com/playlist?list=PLPrvH3WPEA_0)
 
 _Por favor, mantenga presionado Ctrl y haga clic sobre el vínculo para abrir en una nueva pestaña._
 
@@ -38,14 +38,13 @@ _Por favor, mantenga presionado Ctrl y haga clic sobre el vínculo para abrir en
 
 | Recurso | Contenido |
 |---|---|
-| `1. Introducción a la cortadora láser` | Introducción a la cortadora láser, Componentes, Componentes Móviles y Recomendaciones de seguridad |
-| `2. Materiales apropiados y prohibidos` | Video explicativo y PPT del recurso |
-| `3. Software para diseño y preparación de archivos` | Video explicativo y PPT del recurso |
-| `4. Preparación de trabajo en la cortadora láser` | Técnicas láser, Enfoque y Optimización del corte, Cómo enfocar el láser correctamente, Pruebas de Material para potencias y velocidad, Enmascarado del material |
-| `5. Técnicas de grabado láser` | Grabado en madera, tonos y efectos de grabado |
-| `6. Acabados` | Eliminación de hollín y suciedad en cortes de MDF y acrílico grabado, Acabados de pinturas |
-| `7. Mantenimiento básico` | Calibración del láser |
-| `8. Recursos, aplicaciones e instaladores` | CNC láser instalador (CAM), LightBurn instalador (CAM), Inkscape instalador (vectorizador) |
+| [`1. Introducción a la cortadora láser`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/1.%20Introducci%C3%B3n%20a%20la%20Cortadora%20L%C3%A1ser) | Introducción a la cortadora láser, Componentes, Componentes Móviles y Recomendaciones de seguridad |
+| [`2. Materiales apropiados y prohibidos`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/2.%20Materiales%20Apropiados%20y%20Prohibidos) | Video explicativo y PPT del recurso |
+| [`3. Software para diseño y preparación de archivos`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/3.%20Software%20para%20Dise%C3%B1o%20y%20Preparaci%C3%B3n%20de%20archivos) | Video explicativo y PPT del recurso |
+| [`4. Preparación de trabajo en la cortadora láser`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/4.%20Preparaci%C3%B3n%20de%20Trabajo%20en%20la%20Cortadora%20L%C3%A1ser) | Técnicas láser, Enfoque y Optimización del corte, Cómo enfocar el láser correctamente, Pruebas de Material para potencias y velocidad, Enmascarado del material |
+| [`5. Técnicas de grabado láser`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/5.%20T%C3%A9cnicas%20de%20Grabado%20L%C3%A1ser) | Grabado en madera, tonos y efectos de grabado |
+| [`6. Acabados`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/7.%20Acabados) | Eliminación de hollín y suciedad en cortes de MDF y acrílico grabado, Acabados de pinturas |
+| [`7. Mantenimiento básico`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/6.%20Mantenimiento%20b%C3%A1sico) | Calibración del láser |
 
 ---
 
@@ -55,9 +54,9 @@ _Por favor, mantenga presionado Ctrl y haga clic sobre el vínculo para abrir en
 
 **Corte vs. grabado.** Estas son las dos operaciones fundamentales del láser. El corte atraviesa el material por completo. El grabado solo afecta la superficie, creando contraste visual. En el archivo de diseño, el color o la capa determina qué operación ejecuta la máquina en cada elemento.
 
-**El kerf.** El haz del láser tiene un grosor físico (entre 0.1 y 0.3 mm según la máquina y el material). Esa franja de material que se elimina al cortar se llama kerf. Para piezas que deben encajar entre sí, el diseño debe compensarlo. Ver mini lección `02. Medidas y Tolerancias.md` para más detalle.
+**El kerf.** El haz del láser tiene un grosor físico (entre 0.1 y 0.3 mm según la máquina y el material). Esa franja de material que se elimina al cortar se llama kerf. Para piezas que deben encajar entre sí, el diseño debe compensarlo. Ver mini lección [`02. Medidas y Tolerancias.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/03.%20Mini%20Lecciones/02.%20Medidas%20y%20Tolerancias.md) para más detalle.
 
-**Materiales prohibidos.** No todos los materiales pueden cortarse en láser. El PVC y otros plásticos con cloro liberan gases tóxicos al quemarse. Ver `03. Seguridad.md` del bloque para la lista completa.
+**Materiales prohibidos.** No todos los materiales pueden cortarse en láser. El PVC y otros plásticos con cloro liberan gases tóxicos al quemarse. Ver [`03. Seguridad.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/03.%20Seguridad.md) del bloque para la lista completa.
 
 ---
 
@@ -75,9 +74,9 @@ Los instaladores de Inkscape y LightBurn se encuentran redirigidos presionando s
 
 ## Conexión con el resto del bloque
 
-- **Mini lecciones:** `01. De Boceto a Archivo Digital.md`, `02. Medidas y Tolerancias.md` y `03. Ensambles Simples.md` son el complemento conceptual directo de este módulo
-- **Prácticas guiadas:** `01. Llavero Personalizado` y `02. Caja Ensamblable Laser` usan esta tecnología como base
-- **Evaluación:** `01. Lista de Cotejo Fabricacion.md` y `02. Rubrica Diseno Digital.md` aplican a proyectos de corte láser
+- **Mini lecciones:** [`01. De Boceto a Archivo Digital.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/03.%20Mini%20Lecciones/01.%20De%20Boceto%20a%20Archivo%20Digital.md), [`02. Medidas y Tolerancias.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/03.%20Mini%20Lecciones/02.%20Medidas%20y%20Tolerancias.md) y [`03. Ensambles Simples.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/03.%20Mini%20Lecciones/03.%20Ensambles%20Simples.md) son el complemento conceptual directo de este módulo
+- **Prácticas guiadas:** [`01. Llavero Personalizado`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/04.%20Pr%C3%A1cticas%20Guiadas/01.%20Llavero%20Personalizado) y [`02. Caja Ensamblable Laser`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/04.%20Pr%C3%A1cticas%20Guiadas/02.%20Caja%20Ensamblable%20Laser) usan esta tecnología como base
+- **Evaluación:** [`01. Lista de Cotejo Fabricacion.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/05.%20Evaluaci%C3%B3n/01.%20Lista%20de%20Cotejo%20Fabricacion.md) y [`02. Rubrica Diseno Digital.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/05.%20Evaluaci%C3%B3n/02.%20Rubrica%20Diseno%20Digital.md)aplican a proyectos de corte láser
 
 ---
 
