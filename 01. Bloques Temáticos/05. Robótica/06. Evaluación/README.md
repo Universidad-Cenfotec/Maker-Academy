@@ -56,7 +56,7 @@ Se recomienda usar la lista de cotejo durante las primeras sesiones de armado y 
 - [`01. Lista de cotejo de robótica.md`](01.%20Lista%20de%20cotejo%20de%20rob%C3%B3tica.md): checklist del proceso general de trabajo con robots.
 - [`02. Rúbrica de robótica básica.md`](02.%20R%C3%BAbrica%20de%20rob%C3%B3tica%20b%C3%A1sica.md): rúbrica de competencias del bloque básico.
 - [`03. Rúbrica de SumoBot.md`](03.%20R%C3%BAbrica%20de%20SumoBot.md): rúbrica específica de la actividad de SumoBot.
-- [`../04. SumoBot/09. Checklist de competencia.md`](../04.%20SumoBot/09.%20Checklist%20de%20competencia.md): checklist previo a la competencia, complementario a la rúbrica de SumoBot.
+- [`../04. SumoBot/08. Competencia SumoBot/05. Checklist de competencia.md`](../04.%20SumoBot/08.%20Competencia%20SumoBot/05.%20Checklist%20de%20competencia.md): checklist previo a la competencia, complementario a la rúbrica de SumoBot.
 - [`../01. Fundamentos de Robótica/05. Estabilidad y equilibrio.md`](../01.%20Fundamentos%20de%20Rob%C3%B3tica/05.%20Estabilidad%20y%20equilibrio.md): base conceptual para el criterio de chasis y estabilidad.
 
 ---

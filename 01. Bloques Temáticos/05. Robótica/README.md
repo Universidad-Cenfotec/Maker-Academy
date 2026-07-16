@@ -58,15 +58,31 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 │
 ├── 04. SumoBot/
 │   ├── README.md
-│   ├── 01. Partes del kit.md
+│   ├── 01. Partes del kit y funciones.md
 │   ├── 02. Seguridad del kit SumoBot.md
-│   ├── 03. Reglas básicas.md
-│   ├── 04. Dohyo y borde.md
-│   ├── 05. Sensores de línea y distancia.md
-│   ├── 06. Estrategias iniciales.md
-│   ├── 07. Calibración de sensores.md
-│   ├── 08. Tabla de pruebas.md
-│   └── 09. Checklist de competencia.md
+│   ├── 03. Sensores de línea y distancia.md
+│   ├── 04. Calibración de sensores.md
+│   ├── 05. Progresión de programación del SumoBot.md
+│   ├── 06. Mini Lecciones/
+│   │   ├── README.md
+│   │   ├── 01. El SumoBot se detiene ante un obstáculo.md
+│   │   ├── 02. El SumoBot sigue una línea.md
+│   │   └── 03. El SumoBot como esquiva-obstáculos.md
+│   ├── 07. Proyectos sugeridos con el kit SumoBot.md
+│   └── 08. Competencia SumoBot/
+│       ├── README.md
+│       ├── 01. Reglas básicas.md
+│       ├── 02. Dohyo y borde.md
+│       ├── 03. Formato y bracket de competencia.md
+│       ├── 04. Roles y logística del evento.md
+│       ├── 05. Checklist de competencia.md
+│       ├── 06. Estrategias de competencia.md
+│       ├── 07. Tabla de pruebas de competencia.md
+│       └── 08. Mini Lecciones de Competencia/
+│           ├── README.md
+│           ├── 01. El robot que no debe caerse.md
+│           ├── 02. Ojos que sienten al rival.md
+│           └── 03. Elige tu estilo de combate.md
 │
 ├── 05. Prácticas Guiadas/
 │   ├── README.md
@@ -117,7 +133,7 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 | `01. Fundamentos de Robótica/` | Conceptos base: ¿qué es un robot y cómo funciona? |
 | `02. Movimiento y Mecanismos/` | Motores, giros, velocidad y calibración |
 | `03. Sensores y Percepción/` | Cómo el robot percibe su entorno |
-| `04. SumoBot/` | Guía completa para el kit de competencia SumoBot |
+| `04. SumoBot/` | Guía completa del kit SumoBot: componentes, progresión de programación, proyectos sugeridos y, opcionalmente, competencia |
 | `05. Prácticas Guiadas/` | Actividades paso a paso para el aula |
 | `06. Evaluación/` | Rúbricas y listas de cotejo por nivel |
 
