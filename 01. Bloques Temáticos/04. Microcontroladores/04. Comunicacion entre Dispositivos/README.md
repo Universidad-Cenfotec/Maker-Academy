@@ -15,10 +15,6 @@
 
 ## Propósito
 
-<img width="320" alt="Módulo Bluetooth HC-05 para comunicación serial inalámbrica, uno de los módulos más usados en proyectos educativos con UART" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bluetooth_module_HC-05.jpg/320px-Bluetooth_module_HC-05.jpg" />
-
-<img width="500" alt="Diagrama del bus I2C mostrando un maestro conectado a múltiples esclavos con las líneas SDA y SCL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/I2C.svg/640px-I2C.svg.png" />
-
 Los microcontroladores raramente trabajan solos. Necesitan comunicarse con sensores, pantallas, módulos inalámbricos y otros microcontroladores. Esta carpeta cubre los protocolos de comunicación más usados en proyectos educativos.
 
 ---
