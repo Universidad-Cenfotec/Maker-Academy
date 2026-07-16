@@ -22,10 +22,10 @@ El movimiento es también el primer punto de contacto del estudiante con la frus
 
 | Archivo | ¿Qué explica? |
 |---|---|
-| `avance-retroceso.md` | Cómo programar el movimiento básico hacia adelante y atrás |
-| `giros.md` | Los distintos tipos de giro y cómo implementarlos |
-| `velocidad.md` | Control de velocidad mediante PWM |
-| `calibracion-motores.md` | Por qué los motores no son iguales y cómo compensarlo |
+| `01. Avance y retroceso.md` | Cómo programar el movimiento básico hacia adelante y atrás |
+| `02. Giros.md` | Los distintos tipos de giro y cómo implementarlos |
+| `03. Velocidad.md` | Control de velocidad mediante PWM |
+| `04. Calibración de motores.md` | Por qué los motores no son iguales y cómo compensarlo |
 
 ---
 

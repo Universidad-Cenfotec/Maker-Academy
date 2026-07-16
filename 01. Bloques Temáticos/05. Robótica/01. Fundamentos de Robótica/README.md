@@ -22,11 +22,11 @@ Recomendamos leer estos archivos antes de la primera sesión práctica con los e
 
 | Archivo | ¿Qué explica? |
 |---|---|
-| `que-es-un-robot.md` | Definición accesible de robot y tipos comunes en educación |
-| `entrada-proceso-salida-en-robots.md` | El modelo EPO como herramienta para analizar cualquier robot |
-| `chasis-ruedas-estructura.md` | Cómo la estructura física afecta el movimiento y la estabilidad |
-| `sensores-y-actuadores-roboticos.md` | Diferencia entre lo que el robot siente y lo que hace |
-| `estabilidad-equilibrio.md` | Por qué algunos robots se caen y cómo prevenirlo |
+| `01. Qué es un robot.md` | Definición accesible de robot y tipos comunes en educación |
+| `02. Entrada, proceso y salida en robots.md` | El modelo EPO como herramienta para analizar cualquier robot |
+| `03. Chasis, ruedas y estructura.md` | Cómo la estructura física afecta el movimiento y la estabilidad |
+| `04. Sensores y actuadores robóticos.md` | Diferencia entre lo que el robot siente y lo que hace |
+| `05. Estabilidad y equilibrio.md` | Por qué algunos robots se caen y cómo prevenirlo |
 
 ---
 

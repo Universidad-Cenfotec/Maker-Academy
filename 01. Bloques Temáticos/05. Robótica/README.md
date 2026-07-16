@@ -6,8 +6,8 @@
 
 ## Estado
 
-**Estado:** En desarrollo
-**Versión:** v1.1
+**Estado:** Completo
+**Versión:** v1.2
 **Bloque:** 05_robotica
 
 ---
@@ -36,50 +36,51 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 │
 ├── 01. Fundamentos de Robótica/
 │   ├── README.md
-│   ├── que-es-un-robot.md
-│   ├── entrada-proceso-salida-en-robots.md
-│   ├── chasis-ruedas-estructura.md
-│   ├── sensores-y-actuadores-roboticos.md
-│   └── estabilidad-equilibrio.md
+│   ├── 01. Qué es un robot.md
+│   ├── 02. Entrada, proceso y salida en robots.md
+│   ├── 03. Chasis, ruedas y estructura.md
+│   ├── 04. Sensores y actuadores robóticos.md
+│   └── 05. Estabilidad y equilibrio.md
 │
 ├── 02. Movimiento y Mecanismos/
 │   ├── README.md
-│   ├── avance-retroceso.md
-│   ├── giros.md
-│   ├── velocidad.md
-│   └── calibracion-motores.md
+│   ├── 01. Avance y retroceso.md
+│   ├── 02. Giros.md
+│   ├── 03. Velocidad.md
+│   └── 04. Calibración de motores.md
 │
 ├── 03. Sensores y Percepción/
 │   ├── README.md
-│   ├── sensor-linea.md
-│   ├── sensor-distancia.md
-│   ├── sensor-luz.md
-│   └── multiples-sensores.md
+│   ├── 01. Sensor de línea.md
+│   ├── 02. Sensor de distancia.md
+│   ├── 03. Sensor de luz.md
+│   └── 04. Múltiples sensores.md
 │
 ├── 04. SumoBot/
 │   ├── README.md
-│   ├── partes-del-kit.md
-│   ├── reglas-basicas.md
-│   ├── dohyo-y-borde.md
-│   ├── sensores-linea-distancia.md
-│   ├── estrategias-iniciales.md
-│   ├── calibracion-sensores.md
-│   ├── tabla-pruebas.md
-│   └── checklist-competencia.md
+│   ├── 01. Partes del kit.md
+│   ├── 02. Seguridad del kit SumoBot.md
+│   ├── 03. Reglas básicas.md
+│   ├── 04. Dohyo y borde.md
+│   ├── 05. Sensores de línea y distancia.md
+│   ├── 06. Estrategias iniciales.md
+│   ├── 07. Calibración de sensores.md
+│   ├── 08. Tabla de pruebas.md
+│   └── 09. Checklist de competencia.md
 │
 ├── 05. Prácticas Guiadas/
 │   ├── README.md
-│   ├── ruta-guiada-iconografica/
-│   ├── robot-avanza-y-se-detiene/
-│   ├── robot-gira/
-│   ├── sigue-linea-basico/
-│   └── evita-obstaculos-basico/
+│   ├── 01. Ruta guiada icónográfica/
+│   ├── 02. Robot avanza y se detiene/
+│   ├── 03. Robot gira/
+│   ├── 04. Sigue línea básico/
+│   └── 05. Evita obstáculos básico/
 │
 └── 06. Evaluación/
     ├── README.md
-    ├── lista-cotejo-robotica.md
-    ├── rubrica-robotica-basica.md
-    └── rubrica-sumobot.md
+    ├── 01. Lista de cotejo de robótica.md
+    ├── 02. Rúbrica de robótica básica.md
+    └── 03. Rúbrica de SumoBot.md
 ```
 
 ---
