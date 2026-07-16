@@ -25,7 +25,7 @@ Este módulo cubre todo el recorrido de la tecnología: desde entender la máqui
 
 Con el fin de facilitar la accesibilidad de los recursos audiovisuales creados para este módulo hemos habilitado una lista de reproducción en nuestro canal de Youtube con el respectivo orden sugerido donde podrá encontrar todo el contenido de Corte Láser. Haga clic en el enlace para continuar.
 
-[--](url)
+[--](https://www.youtube.com/playlist?list=PLPrvH3WPEA_0)
 
 _Por favor, mantenga presionado Ctrl y haga clic sobre el vínculo para abrir en una nueva pestaña._
 
