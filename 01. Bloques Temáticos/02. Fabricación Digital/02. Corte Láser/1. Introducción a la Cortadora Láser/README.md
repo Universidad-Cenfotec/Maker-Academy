@@ -1,4 +1,3 @@
----
 
 ## Acceso al contenido
 
@@ -26,5 +25,3 @@ _Por favor, mantenga presionado Ctrl y haga clic sobre el vínculo para abrir en
 | [`5. Técnicas de grabado láser`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/5.%20T%C3%A9cnicas%20de%20Grabado%20L%C3%A1ser) | Grabado en madera, tonos y efectos de grabado |
 | [`6. Acabados`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/7.%20Acabados) | Eliminación de hollín y suciedad en cortes de MDF y acrílico grabado, Acabados de pinturas |
 | [`7. Mantenimiento básico`](https://github.com/Universidad-Cenfotec/Maker-Academy/tree/main/01.%20Bloques%20Tem%C3%A1ticos/02.%20Fabricaci%C3%B3n%20Digital/02.%20Corte%20L%C3%A1ser/6.%20Mantenimiento%20b%C3%A1sico) | Calibración del láser |
-
----
