@@ -15,8 +15,6 @@
 
 ## Propósito
 
-<img width="280" alt="Logo de MakeCode, entorno de programación por bloques de Microsoft para micro:bit y otras placas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MakeCode_logo.svg/320px-MakeCode_logo.svg.png" />
-
 La programación no empieza frente a una computadora. Empieza con entender que las instrucciones tienen un orden, que los detalles importan y que cuando algo no funciona, se puede buscar el error de forma sistemática.
 
 Esta sección organiza el camino desde las primeras experiencias sin tecnología hasta la escritura de código en texto.
@@ -81,15 +79,6 @@ Se puede explorar el siguiente nivel mientras se sigue en el actual. Muchos estu
 
 Se usa para planificar la secuencia de enseñanza de programación dentro del bloque de Microcontroladores. Permite a los docentes identificar en qué nivel están sus estudiantes y hacia dónde avanzar.
 
-## Recursos relacionados
-
-- [Nivel Iconográfico](01. Iconografico/README.md)
-- [Nivel Bloques](02. Bloques/README.md)
-- [Nivel Texto](03. Texto/README.md)
-
-## Imagen sugerida
-
-Diagrama de progresión lineal con tres etapas: Iconográfico (flechas y colores), Bloques (MakeCode), Texto (Arduino/Python).
 
 ## Nota docente
 
