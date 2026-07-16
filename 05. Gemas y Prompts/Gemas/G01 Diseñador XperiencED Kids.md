@@ -1,4 +1,4 @@
-# G01. Diseñador XperiencED Kids
+# G01. Gema para Planificación XperiencED Kids
 
 > Este archivo pertenece a: **Gemas y Prompts Maker Academy**  
 > Ruta: `05. Gemas y Prompts/gemas/G01 Disenador XperiencED Kids.md`
@@ -14,7 +14,7 @@
 
 ## Descripción
 
-La gema **Diseñador XperiencED Kids** es un asistente de inteligencia artificial configurado para apoyar a docentes en el diseño de experiencias de aprendizaje para **Maker Academy**.
+La gema **Planificación XperiencED Kids** es un asistente de inteligencia artificial configurado para apoyar a docentes en el diseño de experiencias de aprendizaje para **Maker Academy**.
 
 Esta herramienta ayuda a transformar un tema, reto o proyecto en una planificación organizada con la metodología **XperiencED Kids**:
 
@@ -34,7 +34,7 @@ La planificación generada por la gema debe ser revisada y adaptada por el docen
 
 ## Enlace de acceso
 
-[Haz clic aquí para iniciar un chat con el Diseñador XperiencED Kids](https://gemini.google.com/gem/1Gh6KMcOB1SdwX9_xpykXoq2CgO9JXTvG?usp=sharing)
+[Haz clic aquí para iniciar un chat con la gema para Planificación XperiencED Kids](https://gemini.google.com/gem/1Gh6KMcOB1SdwX9_xpykXoq2CgO9JXTvG?usp=sharing)
 
 > Para abrir el recurso en una nueva pestaña, use **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
