@@ -1,7 +1,7 @@
 # Maker Academy
 
-Master Melisa Vargas, Coordinadora Maker Academy, Universidad CENFOTEC
-Ing. Gabriela Urbina, Profesora Universidad CENFOTEC
+Master Melisa Vargas, Coordinadora Maker Academy, Universidad CENFOTEC  
+Ing. Gabriela Urbina, Profesora Universidad CENFOTEC  
 Dr. Tomás de Camino Beck, Directo Escuela de Sistemas Inteligentes, Universidad CENFOTEC  
 
 
