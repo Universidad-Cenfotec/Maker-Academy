@@ -1,5 +1,10 @@
 # Maker Academy
 
+Master Melisa Vargas, Coordinadora Maker Academy, Universidad CENFOTEC
+Ing. Gabriela Urbina, Profesora Universidad CENFOTEC
+Dr. Tomás de Camino Beck, Directo Escuela de Sistemas Inteligentes, Universidad CENFOTEC  
+
+
 Bienvenido al repositorio institucional de **Maker Academy** de la Universidad CENFOTEC, un espacio diseñado para acompañar a docentes, facilitadores y equipos educativos en la planificación, implementación, documentación y mejora de experiencias maker desde preescolar hasta undécimo año.
 
 Este repositorio organiza el modelo pedagógico, los bloques temáticos, la propuesta anual K11, ejemplos de proyectos por grado, proyectos integrados, recursos docentes, Gemas y Prompts, evidencias de implementación, insignias, procedimientos del makerspace, dashboard de indicadores y la comunidad **Show Your Work**.
