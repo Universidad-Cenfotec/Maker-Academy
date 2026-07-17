@@ -2,7 +2,7 @@
 
 Master Melisa Vargas, Coordinadora Maker Academy, Universidad CENFOTEC  
 Ing. Gabriela Urbina, Profesora Universidad CENFOTEC  
-Dr. Tomás de Camino Beck, Directo Escuela de Sistemas Inteligentes, Universidad CENFOTEC  
+Dr. Tomás de Camino Beck, Director Escuela de Sistemas Inteligentes, Universidad CENFOTEC  
 
 
 Bienvenido al repositorio institucional de **Maker Academy** de la Universidad CENFOTEC, un espacio diseñado para acompañar a docentes, facilitadores y equipos educativos en la planificación, implementación, documentación y mejora de experiencias maker desde preescolar hasta undécimo año.
