@@ -1,192 +1,130 @@
 # Show Your Work — Maker Academy
 
-> Este archivo pertenece a: **Maker Academy**
+> Este archivo pertenece a: **Maker Academy**  
 > Ruta: `11. Comunidad Show Your Work/README.md`
 
 ---
 
 ## Estado
 
-**Estado:** Borrador
+**Estado:** Borrador  
 **Versión:** v1.0
 
 ---
 
 ## ¿Qué es Show Your Work?
 
-**Show Your Work** es el momento de abrir las puertas, compartir lo creado y celebrar lo aprendido.
+**Show Your Work** es un evento en el que las personas estudiantes comparten sus proyectos, procesos y aprendizajes con las familias y la comunidad educativa.
 
-Durante este evento, las personas estudiantes presentan sus proyectos de **Maker Academy** a sus familias y a la comunidad educativa. No se trata solamente de enseñar un producto terminado, sino de contar la historia detrás de cada creación:
+No consiste únicamente en presentar un producto terminado. También permite mostrar las ideas iniciales, las pruebas realizadas, los errores encontrados, las decisiones tomadas y las mejoras incorporadas.
 
-* ¿Cómo surgió la idea?
-* ¿Qué intentaron hacer?
-* ¿Qué funcionó?
-* ¿Qué tuvieron que cambiar?
-* ¿Qué aprendieron durante el proceso?
-
-Los proyectos pueden estar terminados, en construcción o listos para una nueva mejora. Lo importante es que las personas estudiantes puedan explicar su recorrido.
+Las personas estudiantes son protagonistas del evento. Participan en la elección del formato, el diseño de las estaciones, la preparación de actividades para los visitantes y la distribución de responsabilidades.
 
 ---
 
 ## Propósito
 
-Hacer visibles los aprendizajes logrados mediante la presentación de proyectos, prototipos, experimentos y soluciones creadas por las personas estudiantes.
+Hacer visibles los aprendizajes logrados y ofrecer a las personas estudiantes un espacio para decidir cómo desean compartir sus proyectos con la comunidad.
 
 ---
 
-## ¿Por qué realizarlo?
+## Principios
 
-Show Your Work permite:
+### Participación estudiantil
 
-* Dar protagonismo a las personas estudiantes.
-* Fortalecer la comunicación y la confianza.
-* Valorar la creatividad, la colaboración y la perseverancia.
-* Reconocer los errores y las mejoras como parte del aprendizaje.
-* Acercar a las familias y a la comunidad a Maker Academy.
-* Celebrar los logros alcanzados.
-* Documentar experiencias y proyectos.
+Show Your Work se diseña con las personas estudiantes y no solamente para ellas.
+
+### Diversidad de formatos
+
+Cada equipo puede seleccionar la forma más adecuada de presentar su proyecto.
+
+### Valor del proceso
+
+Las pruebas, dificultades, errores y mejoras también forman parte de la exposición.
+
+### Participación de la comunidad
+
+Las familias y visitantes pueden preguntar, probar, comentar y aportar nuevas ideas.
+
+### Seguridad
+
+Las decisiones relacionadas con herramientas, electricidad, circulación y demostraciones deben permanecer bajo supervisión adulta.
 
 ---
 
 ## ¿Qué puede presentarse?
 
-* Prototipos
-* Robots y circuitos
-* Programas, videojuegos o animaciones
-* Experimentos
-* Maquetas y modelos
-* Diseños impresos en 3D
-* Objetos elaborados con corte láser
-* Soluciones para la escuela o la comunidad
-* Bocetos, bitácoras y fotografías
-* Versiones anteriores de un proyecto
-* Proyectos en proceso de mejora
-
----
-
-## La historia de cada proyecto
-
-Cada equipo debe preparar una explicación breve que incluya:
-
-1. **El reto.** ¿Qué queríamos resolver o crear?
-
-2. **La idea.** ¿Qué solución imaginamos?
-
-3. **El proceso.** ¿Cómo lo construimos o programamos?
-
-4. **La prueba.** ¿Qué ocurrió cuando lo pusimos a funcionar?
-
-5. **La mejora.** ¿Qué tuvimos que cambiar?
-
-6. **El aprendizaje.** ¿Qué sabemos ahora que antes no sabíamos?
-
-7. **El próximo paso.** ¿Cómo podríamos seguir mejorándolo?
-
-La presentación puede apoyarse con fotografías, bocetos, videos, bitácoras o demostraciones.
-
----
-
-## Las personas estudiantes son protagonistas
-
-Las personas estudiantes presentan, demuestran y responden las preguntas de los visitantes.
-
-Cuando el proyecto sea grupal, pueden distribuirse roles como:
-
-* Recibir a los visitantes
-* Explicar el reto
-* Mostrar el funcionamiento
-* Contar las pruebas y mejoras
-* Responder preguntas
-
-Los roles pueden cambiar durante el evento para que todas las personas participen.
-
----
-
-## Participación de las familias y la comunidad
-
-Las familias y visitantes pueden recorrer los proyectos, conversar con sus creadores y dejar comentarios.
-
-Algunas preguntas que pueden realizar son:
-
-* ¿Qué fue lo más difícil?
-* ¿Cómo funciona?
-* ¿Qué tuvieron que cambiar?
-* ¿Qué aprendieron?
-* ¿Qué les gustaría crear después?
-
-La retroalimentación debe reconocer el esfuerzo, despertar curiosidad y aportar ideas para continuar mejorando.
-
----
-
-## Principios del evento
-
-### El proceso importa
-
-Los errores, pruebas y cambios también forman parte de la exposición.
-
-### Todos los proyectos tienen valor
-
-Show Your Work no es una competencia para elegir el proyecto más bonito o avanzado.
-
-### La voz estudiantil es primero
-
-El personal docente acompaña, pero permite que las personas estudiantes expliquen sus propias ideas.
-
-### La seguridad es esencial
-
-Los proyectos, cables, baterías, estructuras, motores y demostraciones deben revisarse antes del evento.
-
-### Compartir también es aprender
-
-Explicar un proyecto ayuda a comprenderlo mejor, reconocer los logros y descubrir nuevas posibilidades.
+- Prototipos
+- Robots y circuitos
+- Programas y videojuegos
+- Animaciones
+- Experimentos
+- Maquetas y modelos
+- Diseños impresos en 3D
+- Objetos elaborados con corte láser
+- Soluciones para la escuela o la comunidad
+- Fotografías, bocetos y bitácoras
+- Versiones anteriores de un proyecto
+- Proyectos en proceso de mejora
 
 ---
 
 ## Formatos posibles
 
-Cada centro educativo puede adaptar Show Your Work según sus condiciones:
+Las personas estudiantes pueden proponer diferentes formas de compartir sus proyectos:
 
-* Feria de proyectos
-* Recorrido por estaciones
-* Exposición por niveles
-* Jornada de puertas abiertas
-* Muestra en el aula o makerspace
-* Presentaciones breves
-* Exposición virtual
-* Evento institucional
+- Demostración en vivo
+- Taller breve
+- Juego o reto
+- Experimento guiado
+- Exposición tipo museo
+- Video
+- Historia o representación
+- Recorrido guiado
+- Estación interactiva
+- Presentación breve
 
----
-
-## Evidencias sugeridas
-
-* Fotografías
-* Videos breves
-* Lista de proyectos
-* Comentarios de visitantes
-* Reflexiones estudiantiles
-* Testimonios de familias
-* Registro de participación
-* Aprendizajes y oportunidades de mejora
-
-El registro y la publicación de imágenes deben respetar los permisos institucionales.
+No todos los equipos deben utilizar el mismo formato.
 
 ---
 
 ## Recursos de esta carpeta
 
-Esta carpeta podrá incluir:
+| Archivo | Objetivo |
+|---|---|
+| [Guía para organizar Show Your Work](./Gu%C3%ADa%20para%20organizar%20Show%20Your%20Work.md) | Orientar al centro educativo en la planificación, cocreación, realización y cierre del evento |
+| [Checklist de organización](./Checklist%20de%20organizaci%C3%B3n.md) | Verificar decisiones, tareas, recursos, responsables y condiciones de seguridad |
+| [Ficha de presentación de proyectos](./Ficha%20de%20presentaci%C3%B3n%20de%20proyectos.md) | Ayudar a cada equipo a diseñar su estación y organizar la historia de su proyecto |
+| [Guía para estudiantes](./Gu%C3%ADa%20para%20estudiantes.md) | Orientar a las personas estudiantes para que decidan cómo participar y presentar |
+| [Retroalimentación para visitantes](./Retroalimentaci%C3%B3n%20para%20visitantes.md) | Recopilar preguntas, reconocimientos e ideas de las familias y visitantes |
+| [Registro de evidencias](./Registro%20de%20evidencias.md) | Documentar la participación estudiantil, los proyectos y los aprendizajes del evento |
 
-| Recurso                            | Propósito                                     |
-| ---------------------------------- | --------------------------------------------- |
-| Guía para organizar Show Your Work | Orientar la preparación del evento            |
-| Checklist de organización          | Verificar tareas, recursos y responsables     |
-| Ficha de presentación de proyectos | Ayudar a los equipos a preparar su exposición |
-| Guía para estudiantes              | Practicar la presentación y distribuir roles  |
-| Retroalimentación para visitantes  | Recopilar preguntas y comentarios             |
-| Registro de evidencias             | Documentar los resultados del evento          |
+---
+
+## ¿Cómo usar esta carpeta?
+
+### Para iniciar la organización
+
+Leer la [Guía para organizar Show Your Work](./Gu%C3%ADa%20para%20organizar%20Show%20Your%20Work.md) y conversar con las personas estudiantes sobre el evento que desean crear.
+
+### Para dar seguimiento
+
+Utilizar el [Checklist de organización](./Checklist%20de%20organizaci%C3%B3n.md) para distribuir responsabilidades y revisar los principales preparativos.
+
+### Para preparar los proyectos
+
+Completar la [Ficha de presentación de proyectos](./Ficha%20de%20presentaci%C3%B3n%20de%20proyectos.md) y utilizar la [Guía para estudiantes](./Gu%C3%ADa%20para%20estudiantes.md).
+
+### Para involucrar a las familias
+
+Compartir la [Retroalimentación para visitantes](./Retroalimentaci%C3%B3n%20para%20visitantes.md) durante el recorrido.
+
+### Para documentar la experiencia
+
+Completar el [Registro de evidencias](./Registro%20de%20evidencias.md) antes, durante y después del evento.
 
 ---
 
 ## Idea central
 
-**Show Your Work es una celebración del aprendizaje: una oportunidad para mostrar lo creado, contar lo vivido y compartir todo lo que ocurrió entre la primera idea y la versión actual del proyecto.**
+**Show Your Work es una celebración del aprendizaje creada con las personas estudiantes. Ellas deciden cómo contar sus proyectos, cómo organizar sus espacios y cómo invitar a la comunidad a participar.**
