@@ -96,7 +96,7 @@ No todos los equipos deben utilizar el mismo formato.
 | [Checklist de organización](./Checklist%20de%20organizaci%C3%B3n.md) | Verificar decisiones, tareas, recursos, responsables y condiciones de seguridad |
 | [Ficha de presentación de proyectos](./Ficha%20de%20presentaci%C3%B3n%20de%20proyectos.md) | Ayudar a cada equipo a diseñar su estación y organizar la historia de su proyecto |
 | [Guía para estudiantes](./Gu%C3%ADa%20para%20estudiantes.md) | Orientar a las personas estudiantes para que decidan cómo participar y presentar |
-| [Retroalimentación para visitantes](./Retroalimentaci%C3%B3n%20para%20visitantes.md) | Recopilar preguntas, reconocimientos e ideas de las familias y visitantes |
+| [Tarjeta de retroalimentación para visitantes](./Tarjeta%20de%20retroalimentaci%C3%B3n%20para%20visitantes.md) | Recopilar preguntas, reconocimientos e ideas de las familias y visitantes |
 | [Registro de evidencias](./Registro%20de%20evidencias.md) | Documentar la participación estudiantil, los proyectos y los aprendizajes del evento |
 
 ---
