@@ -1,4 +1,3 @@
-```markdown
 # Tarjeta de retroalimentación para visitantes
 
 > Este archivo pertenece a: **Maker Academy**  
@@ -77,4 +76,3 @@ Esta tarjeta es una propuesta y puede adaptarse según la edad de las personas e
 Puede utilizarse de manera impresa, mediante notas adhesivas o en un formulario digital.
 
 No es necesario que todas las personas visitantes respondan todos los apartados. También puede asignarse un color diferente para reconocimientos, preguntas e ideas.
-```
