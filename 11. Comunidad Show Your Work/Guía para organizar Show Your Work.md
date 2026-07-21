@@ -14,17 +14,34 @@
 
 ## Propósito
 
-Esta guía orienta al centro educativo en la preparación de **Show Your Work**, una exposición en la que las personas estudiantes comparten sus proyectos, procesos y aprendizajes con las familias y la comunidad educativa.
+Esta guía orienta al centro educativo en la organización de **Show Your Work**, una exposición creada con las personas estudiantes para compartir sus proyectos, procesos y aprendizajes con las familias y la comunidad.
 
-El evento debe dar protagonismo a las personas estudiantes y permitir que expliquen qué crearon, qué dificultades enfrentaron, qué cambios realizaron y qué aprendieron.
+Las personas estudiantes no participan únicamente como expositoras. También proponen el formato del evento, diseñan sus estaciones, preparan experiencias para los visitantes y asumen responsabilidades de organización.
+
+El personal docente acompaña las decisiones, facilita los recursos y garantiza condiciones de seguridad y viabilidad.
 
 ---
 
-## 1. Definir el evento
+## 1. Conversar con las personas estudiantes
 
-Antes de iniciar la organización, completar la siguiente información:
+Antes de definir el evento, cada grupo debe conversar sobre:
 
-| Elemento | Información |
+- ¿Qué queremos mostrar?
+- ¿Cómo queremos mostrarlo?
+- ¿Qué experiencia queremos ofrecer a las familias?
+- ¿Qué responsabilidades podemos asumir?
+- ¿Qué necesitamos para desarrollar nuestras ideas?
+- ¿Cómo sabremos que el evento fue exitoso?
+
+Las ideas pueden recopilarse mediante una lluvia de ideas, una asamblea, dibujos, notas adhesivas o un formulario.
+
+---
+
+## 2. Definir el evento
+
+Completar esta información con participación estudiantil:
+
+| Elemento | Decisión |
 |---|---|
 | Centro educativo | |
 | Fecha | |
@@ -32,183 +49,319 @@ Antes de iniciar la organización, completar la siguiente información:
 | Lugar | |
 | Niveles participantes | |
 | Cantidad de proyectos | |
-| Cantidad estimada de visitantes | |
-| Persona coordinadora | |
-| Docentes responsables | |
-| Formato del evento | |
+| Tema o concepto del evento | |
+| Formato | |
+| Personas coordinadoras | |
+| Representantes estudiantiles | |
 
 ---
 
-## 2. Seleccionar los proyectos
+## 3. Formar equipos de organización
 
-Cada docente debe definir cuáles proyectos participarán.
+Las personas estudiantes pueden participar en uno o varios equipos.
 
-Pueden presentarse:
+| Equipo | Responsabilidades |
+|---|---|
+| Diseño del evento | Proponer el nombre, tema, ambientación y experiencia general |
+| Comunicación | Crear invitaciones, mensajes, afiches o videos |
+| Montaje | Organizar estaciones, señalización y recorrido |
+| Bienvenida | Recibir y orientar a las familias |
+| Presentación | Apoyar la distribución de turnos y actividades |
+| Registro | Tomar fotografías, realizar entrevistas y recopilar testimonios |
+| Cierre | Preparar agradecimientos, reconocimientos y reflexión final |
 
-- Prototipos
-- Robots y circuitos
-- Experimentos
-- Programas o videojuegos
-- Animaciones
-- Maquetas
-- Diseños impresos en 3D
-- Objetos elaborados con corte láser
-- Soluciones para la escuela o la comunidad
-- Proyectos en proceso de mejora
-
-No es necesario que todos los proyectos estén terminados. También pueden mostrarse pruebas, errores, bocetos y versiones anteriores.
+La cantidad de equipos puede adaptarse a la edad y al tamaño del evento.
 
 ---
 
-## 3. Preparar a los equipos
+## 4. Seleccionar cómo presentar los proyectos
 
-Cada equipo debe practicar una explicación breve de entre dos y cinco minutos.
+Cada equipo puede escoger el formato que mejor represente su proyecto:
 
-La presentación debe incluir:
+- Demostración en vivo
+- Taller breve
+- Juego o reto
+- Experimento guiado
+- Exposición tipo museo
+- Video
+- Historia o representación
+- Recorrido guiado
+- Estación de preguntas
+- Presentación breve
+
+No todos los proyectos deben presentarse de la misma manera.
+
+---
+
+## 5. Diseñar las estaciones
+
+Cada equipo debe decidir:
+
+- Nombre de la estación
+- Forma de recibir a los visitantes
+- Evidencias que mostrará
+- Distribución del espacio
+- Actividad para el público
+- Pregunta que hará a los visitantes
+- Materiales necesarios
+- Roles de cada integrante
+
+Las propuestas deben ser seguras, viables y acordes con los recursos disponibles.
+
+---
+
+## 6. Preparar la historia del proyecto
+
+La presentación puede incluir:
 
 1. **El reto.** ¿Qué queríamos resolver o crear?
 
 2. **La idea.** ¿Qué solución imaginamos?
 
-3. **El proceso.** ¿Cómo construimos o programamos el proyecto?
+3. **El proceso.** ¿Cómo desarrollamos el proyecto?
 
-4. **La prueba.** ¿Qué ocurrió cuando lo pusimos a funcionar?
+4. **La prueba.** ¿Qué ocurrió cuando lo probamos?
 
-5. **La mejora.** ¿Qué tuvimos que cambiar?
+5. **El cambio.** ¿Qué tuvimos que mejorar?
 
-6. **El aprendizaje.** ¿Qué aprendimos?
+6. **El aprendizaje.** ¿Qué sabemos ahora?
 
-7. **El próximo paso.** ¿Cómo podríamos seguir mejorándolo?
+7. **El próximo paso.** ¿Cómo podríamos continuar?
 
-Las personas estudiantes pueden apoyarse con tarjetas, fotografías, videos, bocetos o bitácoras.
-
----
-
-## 4. Distribuir los roles
-
-Cuando el proyecto sea grupal, todas las personas integrantes deben participar.
-
-Roles sugeridos:
-
-- Recepción de visitantes
-- Explicación del reto
-- Demostración del proyecto
-- Presentación de pruebas y mejoras
-- Respuesta a preguntas
-- Registro de comentarios
-
-Los roles pueden rotarse durante el evento.
+Las personas estudiantes pueden utilizar fotografías, bocetos, videos, bitácoras, prototipos o demostraciones.
 
 ---
 
-## 5. Organizar el espacio
+## 7. Involucrar a los visitantes
 
-Cada proyecto debe contar con una estación identificada.
+Cada estación puede incluir una actividad breve:
 
-La estación puede incluir:
+- Probar el prototipo.
+- Resolver un reto.
+- Manipular materiales.
+- Votar por una posible mejora.
+- Dibujar una nueva versión.
+- Proponer un uso para el proyecto.
+- Dejar una pregunta.
+- Compartir una idea.
 
-- Nombre del proyecto
-- Nombres de las personas estudiantes
-- Nivel o grupo
-- Prototipo o producto
-- Fotografías del proceso
-- Bocetos
-- Bitácora
-- Código QR
-- Materiales para la demostración
+La participación debe adaptarse a las condiciones de seguridad del proyecto.
 
-El espacio general debe contar con:
+---
 
-- Mesas
-- Señalización
+## 8. Definir criterios de éxito
+
+Cada equipo completa la frase:
+
+> Para nosotros, Show Your Work habrá sido exitoso si...
+
+Algunos criterios pueden ser:
+
+- Todas las personas del equipo participaron.
+- Las familias comprendieron nuestro proyecto.
+- Los visitantes hicieron preguntas.
+- Logramos demostrar cómo funciona.
+- Recibimos nuevas ideas.
+- Nos sentimos seguros al presentar.
+- Pudimos compartir lo que aprendimos.
+
+---
+
+## 9. Organizar el espacio
+
+El espacio general debe considerar:
+
+- Estaciones identificadas
 - Circulación segura
 - Acceso a electricidad
 - Protección de cables
+- Acceso a internet
 - Punto de bienvenida
+- Señalización
 - Área para fotografías
+- Accesibilidad
 - Rutas de evacuación libres
 
 ---
 
-## 6. Revisar la seguridad
+## 10. Revisar la seguridad
 
-Antes de abrir el evento, una persona adulta responsable debe revisar:
+Una persona adulta responsable debe revisar:
 
 - Estabilidad de las estructuras
 - Estado de cables y baterías
-- Protección de conexiones eléctricas
+- Protección de conexiones
 - Funcionamiento de motores
 - Seguridad de piezas móviles
 - Ausencia de bordes peligrosos
-- Protección de superficies calientes
-- Acceso libre a pasillos y salidas
-- Supervisión de herramientas
+- Uso de herramientas
+- Espacio para demostraciones
+- Acceso a pasillos y salidas
 
-Las herramientas de corte, calor o fabricación no deben quedar disponibles para uso libre.
-
----
-
-## 7. Recibir a las familias
-
-Las familias y visitantes pueden recorrer las estaciones, hacer preguntas y dejar comentarios.
-
-Preguntas sugeridas:
-
-- ¿Cómo funciona?
-- ¿Qué fue lo más difícil?
-- ¿Qué tuvieron que cambiar?
-- ¿Qué aprendieron?
-- ¿Qué les gustaría crear después?
-
-La retroalimentación debe centrarse en el esfuerzo, el aprendizaje y las posibilidades de mejora.
+Las herramientas de corte, calor o fabricación deben permanecer bajo supervisión.
 
 ---
 
-## 8. Programa sugerido
+## 11. Programa sugerido
 
 | Momento | Duración |
 |---|---:|
-| Bienvenida | 5–10 minutos |
+| Bienvenida estudiantil | 5–10 minutos |
 | Presentación del propósito | 5 minutos |
-| Recorrido por proyectos | 45–90 minutos |
-| Reconocimiento | 10 minutos |
-| Cierre | 5 minutos |
-
-El horario puede adaptarse a la cantidad de proyectos y visitantes.
-
----
-
-## 9. Documentar el evento
-
-Se recomienda recopilar:
-
-- Fotografías
-- Videos breves
-- Lista de proyectos
-- Cantidad de participantes
-- Comentarios de visitantes
-- Reflexiones estudiantiles
-- Aprendizajes del equipo docente
-- Oportunidades de mejora
-
-La publicación de imágenes debe respetar los permisos institucionales.
+| Recorrido por estaciones | 45–90 minutos |
+| Actividades con visitantes | Durante el recorrido |
+| Reconocimientos y agradecimientos | 10 minutos |
+| Cierre estudiantil | 5 minutos |
 
 ---
 
-## 10. Cerrar con una reflexión
+## 12. Reflexionar después del evento
 
-Después del evento, conversar con las personas estudiantes:
+Preguntas sugeridas:
 
-- ¿Cómo nos sentimos presentando?
-- ¿Qué salió bien?
-- ¿Qué pregunta nos hizo pensar?
-- ¿Qué comentario recibimos?
-- ¿Qué mejoraríamos?
-- ¿Qué nuevo paso podría tener nuestro proyecto?
+- ¿Qué decisión estudiantil funcionó mejor?
+- ¿Cómo nos sentimos organizando el evento?
+- ¿Qué disfrutaron los visitantes?
+- ¿Qué preguntas recibimos?
+- ¿Qué salió diferente de lo planeado?
+- ¿Qué cambiaríamos en una próxima edición?
+- ¿Qué aprendimos al asumir responsabilidades?
 
 ---
 
 ## Idea central
 
-**El éxito de Show Your Work no depende de tener proyectos perfectos, sino de lograr que las personas estudiantes expliquen con confianza lo que imaginaron, probaron, mejoraron y aprendieron.**
+**Show Your Work es un evento creado con las personas estudiantes, no solamente para ellas. Son quienes deciden cómo compartir sus aprendizajes, cómo organizar sus proyectos y cómo invitar a la comunidad a participar.**
+```
 
+---
+
+# Checklist de organización
+
+> Este archivo pertenece a: **Maker Academy**
+> Ruta: `11. Comunidad Show Your Work/Checklist de organización.md`
+
+---
+
+## Estado
+
+**Estado:** Borrador
+**Versión:** v1.0
+
+---
+
+## Cocreación del evento
+
+* [ ] Conversar con las personas estudiantes sobre qué desean mostrar.
+* [ ] Recopilar propuestas sobre el formato del evento.
+* [ ] Preguntar qué experiencia desean ofrecer a las familias.
+* [ ] Seleccionar las ideas estudiantiles que pueden implementarse.
+* [ ] Explicar cuáles decisiones requieren supervisión adulta.
+* [ ] Definir con los grupos los criterios de éxito.
+
+---
+
+## Información general
+
+* [ ] Definir la fecha.
+* [ ] Definir el horario.
+* [ ] Reservar el espacio.
+* [ ] Confirmar los niveles participantes.
+* [ ] Estimar la cantidad de proyectos.
+* [ ] Estimar la cantidad de visitantes.
+* [ ] Seleccionar el formato general.
+* [ ] Elegir el nombre o tema del evento.
+* [ ] Nombrar a la persona coordinadora.
+* [ ] Seleccionar representantes estudiantiles.
+
+---
+
+## Equipos estudiantiles
+
+* [ ] Formar el equipo de diseño.
+* [ ] Formar el equipo de comunicación.
+* [ ] Formar el equipo de montaje.
+* [ ] Formar el equipo de bienvenida.
+* [ ] Formar el equipo de registro.
+* [ ] Formar el equipo de cierre.
+* [ ] Definir las responsabilidades de cada equipo.
+* [ ] Asignar acompañamiento docente.
+
+---
+
+## Proyectos y estaciones
+
+* [ ] Confirmar los proyectos participantes.
+* [ ] Permitir que cada equipo elija su formato.
+* [ ] Diseñar las estaciones con las personas estudiantes.
+* [ ] Preparar demostraciones o actividades.
+* [ ] Seleccionar fotografías, bocetos y evidencias.
+* [ ] Definir qué podrán hacer los visitantes.
+* [ ] Preparar una pregunta para el público.
+* [ ] Identificar las necesidades de electricidad.
+* [ ] Identificar las necesidades de internet.
+* [ ] Identificar los proyectos que requieren supervisión.
+
+---
+
+## Preparación estudiantil
+
+* [ ] Distribuir los roles.
+* [ ] Practicar las presentaciones.
+* [ ] Ensayar las actividades para visitantes.
+* [ ] Preparar apoyos visuales.
+* [ ] Revisar el funcionamiento de los proyectos.
+* [ ] Practicar posibles respuestas.
+* [ ] Preparar la bienvenida.
+* [ ] Preparar el cierre.
+* [ ] Recordar que los errores también pueden compartirse.
+
+---
+
+## Comunicación
+
+* [ ] Diseñar la invitación con participación estudiantil.
+* [ ] Comunicar la fecha y el horario.
+* [ ] Explicar el propósito del evento.
+* [ ] Preparar la señalización.
+* [ ] Compartir indicaciones para las familias.
+* [ ] Preparar preguntas sugeridas para visitantes.
+
+---
+
+## Espacio y seguridad
+
+* [ ] Distribuir las estaciones.
+* [ ] Revisar la circulación.
+* [ ] Proteger los cables.
+* [ ] Verificar la accesibilidad.
+* [ ] Mantener libres las rutas de evacuación.
+* [ ] Revisar las conexiones eléctricas.
+* [ ] Revisar cables y baterías.
+* [ ] Proteger piezas móviles.
+* [ ] Supervisar las herramientas.
+* [ ] Realizar una prueba general.
+
+---
+
+## Evidencias
+
+* [ ] Confirmar los permisos para fotografías.
+* [ ] Asignar responsabilidades de registro.
+* [ ] Preparar entrevistas breves.
+* [ ] Registrar la cantidad de visitantes.
+* [ ] Recopilar comentarios.
+* [ ] Registrar las decisiones estudiantiles.
+* [ ] Documentar los roles asumidos.
+* [ ] Guardar la lista de proyectos.
+
+---
+
+## Después del evento
+
+* [ ] Realizar una reflexión con las personas estudiantes.
+* [ ] Comparar los resultados con los criterios de éxito.
+* [ ] Recopilar la opinión de los equipos organizadores.
+* [ ] Identificar los principales aprendizajes.
+* [ ] Registrar recomendaciones.
+* [ ] Reconocer la participación estudiantil.
