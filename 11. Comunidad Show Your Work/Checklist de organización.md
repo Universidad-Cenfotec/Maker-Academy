@@ -16,7 +16,7 @@
 
 Este checklist permite acompañar la planificación, organización y cierre de **Show Your Work**, procurando que las personas estudiantes participen activamente en las decisiones del evento.
 
-Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar condiciones de seguridad y asegurar que los proyectos, las estaciones y las actividades para visitantes estén preparados.
+Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar las condiciones de seguridad y asegurar que los proyectos, las estaciones y las actividades para visitantes estén preparados.
 
 ---
 
@@ -24,11 +24,11 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 
 - [ ] Conversar con las personas estudiantes sobre qué desean mostrar.
 - [ ] Recopilar propuestas sobre cómo quieren realizar el evento.
-- [ ] Preguntar qué experiencia desean ofrecer a las familias y visitantes.
+- [ ] Preguntar qué experiencia desean ofrecer a las familias.
 - [ ] Definir cuáles decisiones podrán tomar las personas estudiantes.
 - [ ] Seleccionar las propuestas estudiantiles que pueden implementarse.
 - [ ] Explicar cuáles decisiones requieren acompañamiento adulto.
-- [ ] Definir con los grupos los criterios de éxito del evento.
+- [ ] Definir con los grupos los criterios de éxito.
 
 ---
 
@@ -50,14 +50,14 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 ## Equipos estudiantiles
 
 - [ ] Definir cuáles equipos de organización serán necesarios.
-- [ ] Formar el equipo de diseño del evento.
+- [ ] Formar el equipo de diseño.
 - [ ] Formar el equipo de comunicación.
 - [ ] Formar el equipo de montaje.
 - [ ] Formar el equipo de bienvenida.
 - [ ] Formar el equipo de registro.
 - [ ] Formar el equipo de cierre.
 - [ ] Definir las responsabilidades de cada equipo.
-- [ ] Asignar acompañamiento docente a cada equipo.
+- [ ] Asignar acompañamiento docente.
 
 ---
 
@@ -85,7 +85,7 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 - [ ] Preparar tarjetas o apoyos visuales.
 - [ ] Revisar el funcionamiento de los proyectos.
 - [ ] Practicar posibles respuestas.
-- [ ] Preparar la bienvenida a los visitantes.
+- [ ] Preparar la bienvenida.
 - [ ] Recordar que los errores y mejoras también pueden compartirse.
 - [ ] Verificar que todas las personas estudiantes tengan una participación significativa.
 
@@ -95,19 +95,19 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 
 - [ ] Diseñar la invitación con participación estudiantil.
 - [ ] Comunicar la fecha, el horario y el lugar.
-- [ ] Explicar el propósito de Show Your Work.
+- [ ] Explicar el propósito del evento.
 - [ ] Preparar la señalización.
 - [ ] Compartir indicaciones con las familias.
 - [ ] Preparar preguntas sugeridas para los visitantes.
-- [ ] Definir cómo se comunicará el programa del evento.
+- [ ] Definir cómo se comunicará el programa.
 
 ---
 
 ## Organización del espacio
 
 - [ ] Distribuir las estaciones.
-- [ ] Asignar mesas o superficies de trabajo.
-- [ ] Preparar la señalización de cada proyecto.
+- [ ] Asignar mesas o superficies.
+- [ ] Preparar la señalización de los proyectos.
 - [ ] Definir el recorrido de los visitantes.
 - [ ] Revisar la circulación.
 - [ ] Proteger los cables.
@@ -125,12 +125,12 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 - [ ] Revisar las conexiones eléctricas.
 - [ ] Revisar los cables y las baterías.
 - [ ] Proteger las piezas móviles.
-- [ ] Identificar los bordes o superficies peligrosas.
+- [ ] Identificar bordes o superficies peligrosas.
 - [ ] Supervisar las herramientas.
 - [ ] Identificar los proyectos que generan calor.
 - [ ] Asignar personas adultas responsables.
-- [ ] Revisar las actividades preparadas para los visitantes.
-- [ ] Realizar una prueba general antes de abrir el evento.
+- [ ] Revisar las actividades para visitantes.
+- [ ] Realizar una prueba general.
 
 ---
 
@@ -142,7 +142,7 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 - [ ] Preparar actividades participativas.
 - [ ] Preparar tarjetas o formularios de retroalimentación.
 - [ ] Definir cómo se recopilarán las ideas del público.
-- [ ] Recordar que la retroalimentación debe ser respetuosa y constructiva.
+- [ ] Recordar que la retroalimentación debe ser respetuosa.
 
 ---
 
@@ -167,9 +167,10 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 - [ ] Preparar un mensaje de cierre.
 - [ ] Agradecer a las personas participantes.
 - [ ] Reconocer el trabajo de los equipos estudiantiles.
-- [ ] Recoger los materiales y organizar el espacio.
-- [ ] Verificar que los equipos y herramientas queden almacenados.
-- [ ] Guardar las evidencias recopiladas.
+- [ ] Recoger los materiales.
+- [ ] Organizar el espacio.
+- [ ] Guardar los equipos y herramientas.
+- [ ] Organizar las evidencias recopiladas.
 
 ---
 
@@ -182,7 +183,7 @@ Puede utilizarse para distribuir responsabilidades, verificar recursos, revisar 
 - [ ] Registrar los principales aprendizajes.
 - [ ] Identificar oportunidades de mejora.
 - [ ] Guardar recomendaciones para una próxima edición.
-- [ ] Compartir una selección de evidencias de acuerdo con los permisos institucionales.
+- [ ] Compartir evidencias de acuerdo con los permisos institucionales.
 
 ---
 
@@ -194,6 +195,6 @@ No es necesario implementar todos los equipos, actividades o formatos sugeridos.
 
 La participación estudiantil debe ajustarse al nivel de desarrollo y autonomía de cada grupo. Las personas estudiantes pueden asumir diferentes grados de responsabilidad en la planificación, el montaje, la comunicación, la presentación y el cierre.
 
-Las decisiones relacionadas con seguridad, permisos, uso de herramientas, electricidad, circulación, protección de datos e ingreso de visitantes deben permanecer bajo supervisión adulta.
+Las decisiones relacionadas con seguridad, permisos, herramientas, electricidad, circulación, protección de datos e ingreso de visitantes deben permanecer bajo supervisión adulta.
 
 El objetivo no es completar cada punto de manera rígida, sino asegurar que Show Your Work sea una experiencia segura, participativa y coherente con las posibilidades del centro educativo.
