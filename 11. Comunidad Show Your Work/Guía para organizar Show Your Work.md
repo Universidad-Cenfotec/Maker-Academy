@@ -168,7 +168,7 @@ Los visitantes pueden participar de distintas maneras:
 
 La actividad debe ser breve, comprensible y segura.
 
-Para recopilar comentarios puede utilizarse la [Retroalimentación para visitantes](./Retroalimentaci%C3%B3n%20para%20visitantes.md).
+Para recopilar comentarios puede utilizarse la [Tarjeta de retroalimentación para visitantes](./Tarjeta%20de%20retroalimentaci%C3%B3n%20para%20visitantes.md).
 
 ---
 
