@@ -211,5 +211,4 @@ Después del evento, conversar con las personas estudiantes:
 ## Idea central
 
 **El éxito de Show Your Work no depende de tener proyectos perfectos, sino de lograr que las personas estudiantes expliquen con confianza lo que imaginaron, probaron, mejoraron y aprendieron.**
-```
 
