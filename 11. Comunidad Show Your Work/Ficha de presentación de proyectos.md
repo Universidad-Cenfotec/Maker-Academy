@@ -12,9 +12,13 @@
 
 ---
 
-## Nuestro proyecto
+## Propósito
 
-### Información general
+Esta ficha ayuda a cada equipo a organizar la historia de su proyecto, decidir cómo desea presentarlo y diseñar una experiencia para las personas visitantes.
+
+---
+
+## Información general
 
 | Elemento | Información |
 |---|---|
@@ -46,9 +50,9 @@ ____________________________________________________________________
 
 ---
 
-## 3. ¿Cómo lo hicimos?
+## 3. Nuestro proceso
 
-Escribimos o dibujamos los pasos principales:
+¿Cuáles fueron los pasos principales?
 
 1. ________________________________________________________________
 
@@ -60,17 +64,7 @@ Escribimos o dibujamos los pasos principales:
 
 ---
 
-## 4. Materiales y herramientas
-
-- [ ] ______________________________________________________________
-- [ ] ______________________________________________________________
-- [ ] ______________________________________________________________
-- [ ] ______________________________________________________________
-- [ ] ______________________________________________________________
-
----
-
-## 5. Nuestra prueba
+## 4. Nuestra prueba
 
 ¿Qué ocurrió cuando probamos el proyecto?
 
@@ -80,7 +74,7 @@ ____________________________________________________________________
 
 ---
 
-## 6. Algo que no funcionó
+## 5. Algo que no funcionó
 
 ¿Qué dificultad o error encontramos?
 
@@ -90,7 +84,7 @@ ____________________________________________________________________
 
 ---
 
-## 7. Nuestra mejora
+## 6. Nuestra mejora
 
 ¿Qué cambiamos después de probar?
 
@@ -100,7 +94,7 @@ ____________________________________________________________________
 
 ---
 
-## 8. Nuestro aprendizaje
+## 7. Nuestro aprendizaje
 
 ¿Qué sabemos ahora que antes no sabíamos?
 
@@ -110,9 +104,25 @@ ____________________________________________________________________
 
 ---
 
-## 9. Nuestro próximo paso
+## Así queremos presentar nuestro proyecto
 
-¿Qué nos gustaría mejorar o crear después?
+### Formato elegido
+
+- [ ] Demostración en vivo
+- [ ] Taller breve
+- [ ] Juego o reto
+- [ ] Experimento
+- [ ] Video
+- [ ] Exposición tipo museo
+- [ ] Historia o representación
+- [ ] Recorrido guiado
+- [ ] Otro: ______________________________
+
+---
+
+## Experiencia para visitantes
+
+¿Qué podrán hacer las personas que visiten nuestra estación?
 
 ____________________________________________________________________
 
@@ -120,14 +130,13 @@ ____________________________________________________________________
 
 ---
 
-## 10. Distribución de roles
+## Diseño de la estación
 
-| Integrante | Rol durante la presentación |
-|---|---|
-| | |
-| | |
-| | |
-| | |
+¿Cómo queremos organizar el espacio?
+
+____________________________________________________________________
+
+____________________________________________________________________
 
 ---
 
@@ -139,12 +148,63 @@ ____________________________________________________________________
 - [ ] Video
 - [ ] Bitácora
 - [ ] Código
-- [ ] Versión anterior
+- [ ] Versiones anteriores
 - [ ] Otro: ______________________________
 
 ---
 
-## Nuestra frase para recibir a los visitantes
+## Pregunta para el público
 
-**Hola, nuestro proyecto se llama ________________________________. Lo creamos para ____________________________________________________________.**
+¿Qué queremos preguntar a los visitantes?
 
+____________________________________________________________________
+
+---
+
+## Materiales que necesitamos
+
+- [ ] ______________________________________________________________
+- [ ] ______________________________________________________________
+- [ ] ______________________________________________________________
+- [ ] ______________________________________________________________
+
+---
+
+## Nuestros roles
+
+| Integrante | Responsabilidad |
+|---|---|
+| | |
+| | |
+| | |
+| | |
+
+---
+
+## Nuestro criterio de éxito
+
+Para nosotros, Show Your Work habrá sido exitoso si:
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+---
+
+## Nuestro próximo paso
+
+¿Qué nos gustaría mejorar o crear después?
+
+____________________________________________________________________
+
+____________________________________________________________________
+
+---
+
+## Notas docentes
+
+La ficha puede completarse de manera escrita, oral, gráfica o digital, según la edad y las características del grupo.
+
+No es necesario responder todos los apartados con el mismo nivel de profundidad. El personal docente puede seleccionar las preguntas más pertinentes.
+
+Las propuestas sobre formatos, actividades y diseño de estaciones deben revisarse considerando la seguridad, el tiempo y los recursos disponibles.
