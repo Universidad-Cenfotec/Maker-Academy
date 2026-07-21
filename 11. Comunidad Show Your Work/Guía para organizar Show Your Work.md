@@ -1,4 +1,3 @@
-```markdown
 # Guía para organizar Show Your Work
 
 > Este archivo pertenece a: **Maker Academy**  
