@@ -26,7 +26,7 @@ Primera práctica guiada del bloque de Robótica: una serie de 4 prácticas prog
 
 Antes de programar un robot físico, el grupo necesita ejercitar la lógica que hace funcionar cualquier programa. En lugar de una sola sesión, esta carpeta organiza esa preparación en **4 prácticas cortas y progresivas**, cada una centrada en un concepto: secuencia, bucle, condicional y función. El grupo no tiene que completarlas todas el mismo día ni empezar todos por la misma: el punto de entrada depende del nivel de lógica de programación que ya tenga cada estudiante, no de su grado escolar.
 
-La referencia pedagógica de esta serie es el video ["Consigue una hora de código"](https://www.youtube.com/watch?v=n8SdOE_dUEQ), que muestra cómo Code.org introduce el pensamiento algorítmico mediante puzles de arrastrar y soltar antes de escribir una sola línea de código de texto.
+La referencia pedagógica del uso de esta plataforma es [Introducción a Code.Org](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/05.%20Rob%C3%B3tica/05.%20Pr%C3%A1cticas%20Guiadas/01.%20L%C3%B3gica%20de%20Programaci%C3%B3n%20con%20Code.org/Introducci%C3%B3n%20a%20StudioCode) que muestra cómo Code.org introduce el pensamiento algorítmico mediante puzles de arrastrar y soltar antes de escribir una sola línea de código de texto.
 
 ---
 
