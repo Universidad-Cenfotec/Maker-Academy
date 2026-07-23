@@ -1,1 +1,68 @@
+# Introducción a Code.org
+
+> Este archivo pertenece a: **Prácticas Guiadas de Robótica**
+> Ruta: `01. Bloques Temáticos/05. Robótica/05. Prácticas Guiadas/01. Lógica de Programación con Code.org/ Introducción a Code.org.md`
+
+---
+
+## Estado
+
+**Estado:** Completo
+**Versión:** v2.0
+**Bloque:** 05_robotica
+**Tecnología principal:** Plataforma en línea studio.code.org (Code.org), programación por bloques de arrastrar y soltar
+**Nivel sugerido:** Inicial, según nivel de lógica de programación del estudiante.
+**Duración estimada:** 4 prácticas cortas de 20-30 minutos cada una, repartidas en varias sesiones
+
+---
+
+## Descripción
+
+referencia pedagógica del uso de esta plataforma
+
+---
+
+## Propósito
+
+
+---
+
+## Página principal 
+
+Al iniciar a la plataforma tendrá dos opciones para iniciar a utilizar la plataforma:
+
+**Inicio de Sesión**
+
+## Contenido de esta carpeta
+
+| Archivo | Concepto | Nivel de entrada sugerido |
+|---|---|---|
+| [`00. Introducción a Code.org.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/05.%20Rob%C3%B3tica/05.%20Pr%C3%A1cticas%20Guiadas/01.%20L%C3%B3gica%20de%20Programaci%C3%B3n%20con%20Code.org/Introducci%C3%B3n%20a%20StudioCode) | Instrucciones de uso básicas de la plataforma |  
+| [`01. Secuencias con laberintos.md`](./01.%20Secuencias%20con%20laberintos.md) | Secuencias ordenadas de instrucciones | Nivel 1: principiante absoluto |
+| [`02. Bucles y repeticiones.md`](./02.%20Bucles%20y%20repeticiones.md) | Bucles ("repetir") | Nivel 2: con algo de lógica |
+| [`03. Condicionales.md`](./03.%20Condicionales.md) | Condicionales ("si / si no") | Nivel 2 avanzado: domina bucles |
+| [`04. Funciones.md`](./04.%20Funciones.md) | Funciones (bloques reutilizables) | Nivel 3: con experiencia previa en bloques |
+
+> Las prácticas están numeradas por progresión de concepto, no por sesión obligatoria: un estudiante de Nivel 2 puede iniciar directamente en la práctica 02, y uno de Nivel 3 en la práctica 04, siempre que ya domine los conceptos anteriores.
+
+---
+
+## Relación de la plataforma con XperiencED Kids
+
+- **Inspiración:** cada práctica abre con una pregunta o demostración breve sobre instrucciones y orden, antes de tocar la plataforma.
+- **Experimentación:** el cuerpo de cada práctica es resolver laberintos en studio.code.org, observar el resultado y corregir la secuencia de bloques.
+- **Reflexión:** cada práctica cierra nombrando el concepto lógico trabajado y conectándolo con lo que se hará después sobre el robot físico.
+
+---
+
+## Recursos relacionados
+
+- [`README.md` — Prácticas Guiadas](../README.md): índice de la progresión completa de prácticas guiadas de robótica.
+- [`02. Robot avanza y se detiene/README.md`](./01.%20Secuencias%20con%20laberintos.md): Primera práctica de la progresión, donde la lógica se aplica a secuencias ordenadas de instrucciones.
+- [`../../../04. Microcontroladores/05. Progresión de Programación/02. Bloques/01. MakeCode Basico.md`](../../../04.%20Microcontroladores/05.%20Progresión%20de%20Programación/02.%20Bloques/01.%20MakeCode%20Basico.md): siguiente paso natural en programación por bloques, ya sobre una plataforma de microcontrolador real.
+
+---
+
+## Nota docente
+
 
