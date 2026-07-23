@@ -26,7 +26,7 @@ Primera práctica guiada del bloque de Robótica: una serie de 4 prácticas prog
 
 Antes de programar un robot físico, el grupo necesita ejercitar la lógica que hace funcionar cualquier programa. En lugar de una sola sesión, esta carpeta organiza esa preparación en **4 prácticas cortas y progresivas**, cada una centrada en un concepto: secuencia, bucle, condicional y función. El grupo no tiene que completarlas todas el mismo día ni empezar todos por la misma: el punto de entrada depende del nivel de lógica de programación que ya tenga cada estudiante, no de su grado escolar.
 
-La referencia pedagógica del uso de esta plataforma es [Introducción a Code.Org](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/05.%20Rob%C3%B3tica/05.%20Pr%C3%A1cticas%20Guiadas/01.%20L%C3%B3gica%20de%20Programaci%C3%B3n%20con%20Code.org/Introducci%C3%B3n%20a%20StudioCode) que muestra cómo Code.org introduce el pensamiento algorítmico mediante puzles de arrastrar y soltar antes de escribir una sola línea de código de texto.
+La referencia pedagógica del uso de esta plataforma es [Introducción a Code.Org](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/05.%20Rob%C3%B3tica/05.%20Pr%C3%A1cticas%20Guiadas/01.%20L%C3%B3gica%20de%20Programaci%C3%B3n%20con%20Code.org/Introducci%C3%B3n%20a%20StudioCode) que explica el funcionamiento básico de Code.org y solventa posibles dudas respecto su uso.
 
 ---
 
@@ -40,8 +40,8 @@ A diferencia de otras prácticas de este bloque, aquí el punto de partida de ca
 
 | Archivo | Concepto | Nivel de entrada sugerido |
 |---|---|---|
-| [`00. Introducción a Code.org.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/05.%20Rob%C3%B3tica/05.%20Pr%C3%A1cticas%20Guiadas/01.%20L%C3%B3gica%20de%20Programaci%C3%B3n%20con%20Code.org/Introducci%C3%B3n%20a%20StudioCode) | Secuencia ordenada de instrucciones | Nivel 1: principiante absoluto |
-| [`01. Secuencias con laberintos.md`](./01.%20Secuencias%20con%20laberintos.md) | Secuencia ordenada de instrucciones | Nivel 1: principiante absoluto |
+| [`00. Introducción a Code.org.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/05.%20Rob%C3%B3tica/05.%20Pr%C3%A1cticas%20Guiadas/01.%20L%C3%B3gica%20de%20Programaci%C3%B3n%20con%20Code.org/Introducci%C3%B3n%20a%20StudioCode) | Instrucciones de uso básicas de la plataforma |  
+| [`01. Secuencias con laberintos.md`](./01.%20Secuencias%20con%20laberintos.md) | Secuencias ordenadas de instrucciones | Nivel 1: principiante absoluto |
 | [`02. Bucles y repeticiones.md`](./02.%20Bucles%20y%20repeticiones.md) | Bucles ("repetir") | Nivel 2: con algo de lógica |
 | [`03. Condicionales.md`](./03.%20Condicionales.md) | Condicionales ("si / si no") | Nivel 2 avanzado: domina bucles |
 | [`04. Funciones.md`](./04.%20Funciones.md) | Funciones (bloques reutilizables) | Nivel 3: con experiencia previa en bloques |
