@@ -78,7 +78,7 @@ Al finalizar esta práctica, el estudiante habrá:
 
 **1.1 Retomar la secuencia con tarjetas**
 
-El docente recuerda la práctica anterior de la ruta icónográfica: "Ya programamos una ruta con tarjetas. Hoy vamos a programar el mismo tipo de instrucción, pero directamente en el robot con código."
+El docente recuerda la práctica anterior de lógica de programación con Code.org: "Ya ordenamos secuencias, bucles y condicionales en bloques. Hoy vamos a programar el mismo tipo de instrucción, pero directamente en el robot con código."
 
 **1.2 Presentar el reto**
 

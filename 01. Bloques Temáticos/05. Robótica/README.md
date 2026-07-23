@@ -86,7 +86,7 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 │
 ├── 05. Prácticas Guiadas/
 │   ├── README.md
-│   ├── 01. Ruta guiada icónográfica/
+│   ├── 01. Lógica de Programación con Code.org/
 │   ├── 02. Robot avanza y se detiene/
 │   ├── 03. Robot gira/
 │   ├── 04. Sigue línea básico/

@@ -33,7 +33,7 @@ A continuación se listan las prácticas disponibles en este directorio, en el o
 
 | Archivo o carpeta | Descripción |
 |---|---|
-| `01. Ruta guiada icónográfica/` | Introduce secuencia, bucle y condicional con la plataforma en bloques studio.code.org (Code.org), sin robot ni pantalla de hardware todavía. El punto de entrada se define por el nivel de lógica de programación del estudiante, no por su grado. |
+| `01. Lógica de Programación con Code.org/` | Serie de 4 prácticas progresivas (secuencia, bucle, condicional, función) con la plataforma en bloques studio.code.org (Code.org), sin robot ni pantalla de hardware todavía. El punto de entrada se define por el nivel de lógica de programación del estudiante, no por su grado. |
 | `02. Robot avanza y se detiene/` | Primer programa real: el robot avanza una distancia fija y se detiene. Introduce tiempo de ejecución y calibración básica. |
 | `03. Robot gira/` | Se agregan giros al programa anterior; culmina en el reto de programar un cuadrado. |
 | `04. Sigue línea básico/` | Introduce el sensor de línea para que el robot siga una ruta marcada en el piso, reaccionando a lo que percibe. |
