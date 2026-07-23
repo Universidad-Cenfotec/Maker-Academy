@@ -40,6 +40,7 @@ A diferencia de otras prácticas de este bloque, aquí el punto de partida de ca
 
 | Archivo | Concepto | Nivel de entrada sugerido |
 |---|---|---|
+| [`00. Introducción a Code.org.md`](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/main/01.%20Bloques%20Tem%C3%A1ticos/05.%20Rob%C3%B3tica/05.%20Pr%C3%A1cticas%20Guiadas/01.%20L%C3%B3gica%20de%20Programaci%C3%B3n%20con%20Code.org/Introducci%C3%B3n%20a%20StudioCode) | Secuencia ordenada de instrucciones | Nivel 1: principiante absoluto |
 | [`01. Secuencias con laberintos.md`](./01.%20Secuencias%20con%20laberintos.md) | Secuencia ordenada de instrucciones | Nivel 1: principiante absoluto |
 | [`02. Bucles y repeticiones.md`](./02.%20Bucles%20y%20repeticiones.md) | Bucles ("repetir") | Nivel 2: con algo de lógica |
 | [`03. Condicionales.md`](./03.%20Condicionales.md) | Condicionales ("si / si no") | Nivel 2 avanzado: domina bucles |
