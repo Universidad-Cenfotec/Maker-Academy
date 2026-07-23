@@ -21,8 +21,6 @@ Servir como punto de entrada al bloque temático de Microcontroladores dentro de
 ## ¿Qué es un microcontrolador?
 
 <img width="400" alt="Placa micro:bit, una de las plataformas de microcontroladores más utilizadas en educación a nivel mundial" src="https://github.com/user-attachments/assets/6e68c978-a9d3-4738-8379-2fd89f717db3" />
-<img width="480" alt="Colección de placas de desarrollo: Arduino UNO, micro:bit, ESP32 y módulos electrónicos sobre una mesa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg" />
-
 
 Un microcontrolador es una pequeña computadora en un chip. A diferencia de una computadora normal, no tiene teclado ni pantalla: su trabajo es **leer sensores del entorno** (luz, temperatura, movimiento) y **controlar actuadores** (LEDs, motores, altavoces) siguiendo las instrucciones de un programa.
 

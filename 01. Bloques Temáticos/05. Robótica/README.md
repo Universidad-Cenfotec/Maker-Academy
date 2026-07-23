@@ -133,7 +133,11 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 | `01. Fundamentos de Robótica/` | Conceptos base: ¿qué es un robot y cómo funciona? |
 | `02. Movimiento y Mecanismos/` | Motores, giros, velocidad y calibración |
 | `03. Sensores y Percepción/` | Cómo el robot percibe su entorno |
+<<<<<<< HEAD
 | `04. SumoBot/` | Guía completa del kit SumoBot: componentes, progresión de programación, proyectos sugeridos y, opcionalmente, competencia |
+=======
+| `04. SumoBot/` | Guía completa para el uso del SumoBot |
+>>>>>>> 3454c0f53676aba230d3062a48657a7a3a0bea20
 | `05. Prácticas Guiadas/` | Actividades paso a paso para el aula |
 | `06. Evaluación/` | Rúbricas y listas de cotejo por nivel |
 

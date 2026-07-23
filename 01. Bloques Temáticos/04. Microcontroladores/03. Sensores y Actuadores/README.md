@@ -15,11 +15,6 @@
 
 ## Propósito
 
-<img width="320" alt="Servomotor SG90, el actuador de movimiento más básico usado en proyectos de robótica educativa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Micro_servo_motor_SG-90.jpg/320px-Micro_servo_motor_SG-90.jpg" />
-
-<img width="320" alt="Sensor ultrasónico HC-SR04 para medición de distancias, uno de los sensores más comunes en proyectos educativos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ultrasonic_distance_sensor_-_HC-SR04.jpg/320px-Ultrasonic_distance_sensor_-_HC-SR04.jpg" />
-<img width="320" alt="Fotorresistencia LDR, sensor de luz básico para proyectos de automatización" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/LDR_1480405_6_7_HDR_Enhancer_1.jpg/320px-LDR_1480405_6_7_HDR_Enhancer_1.jpg" />
-
 Los microcontroladores por sí solos no hacen nada. Su valor está en que pueden **leer el mundo** (sensores) y **actuar sobre él** (actuadores). Esta carpeta cubre los sensores y actuadores más utilizados en proyectos educativos.
 
 ---
