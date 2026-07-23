@@ -1,23 +1,63 @@
-# Ruta Guiada Icónográfica , Práctica Guiada
+# Lógica de Programación con Code.org, Práctica Guiada
 
 > Ruta: `01. Bloques Temáticos/05. Robótica/05. Prácticas Guiadas/01. Ruta guiada icónográfica/README.md`
 
 ---
 
 **Estado:** Completo
-**Versión:** v1.0
+**Versión:** v2.0
 **Bloque:** 05_robotica
-**Tecnología principal:** Tarjetas de flechas o bloques icónicos (sin texto)
-**Nivel sugerido:** Preescolar / Primaria baja
-**Duración estimada:** 30–45 minutos
+**Tecnología principal:** Plataforma en línea studio.code.org (Code.org), programación por bloques de arrastrar y soltar
+**Nivel sugerido:** Según nivel de lógica de programación del estudiante (ver "Niveles de entrada" más abajo), no según grado o edad
+**Duración estimada:** 3 a 6 sesiones de 30-45 minutos, según el nivel de entrada del grupo
 
 ---
 
 ## Propósito de esta práctica
 
-Antes de escribir una sola línea de código, niños y niñas de preescolar y primaria baja pueden aprender la idea central de la programación: una secuencia de instrucciones ordenadas produce un resultado. Esta práctica usa tarjetas con flechas o bloques icónicos (adelante, atrás, girar izquierda, girar derecha) para que el grupo "programe" una ruta que el robot , o incluso una persona haciendo de robot , debe seguir sobre una cuadrícula marcada en el piso.
+Antes de programar un robot físico, el grupo necesita ejercitar la lógica que hace funcionar cualquier programa: secuencias ordenadas, repeticiones y decisiones condicionales. Esta práctica usa **studio.code.org**, la plataforma en línea del proyecto Code.org, para construir esa lógica con laberintos y retos de arrastrar bloques, sin depender todavía de un robot físico ni de una plataforma de hardware como MakeCode o Scratch.
 
-Es la puerta de entrada a la robótica en Maker Academy: no requiere lectoescritura, no requiere pantallas y construye, de forma corporal y concreta, el concepto de algoritmo.
+La referencia pedagógica de esta práctica es el video ["Consigue una hora de código"](https://www.youtube.com/watch?v=n8SdOE_dUEQ), que muestra cómo Code.org introduce el pensamiento algorítmico mediante puzles de arrastrar y soltar antes de escribir una sola línea de código de texto.
+
+Es la puerta de entrada a la robótica en Maker Academy: no requiere un robot armado, no requiere electrónica y construye, de forma visual e interactiva, los conceptos de secuencia, bucle y condicional que luego se aplican directamente sobre hardware real en las prácticas [02. Robot avanza y se detiene](../02.%20Robot%20avanza%20y%20se%20detiene/README.md) y [03. Robot gira](../03.%20Robot%20gira/README.md).
+
+---
+
+## Por qué el criterio de avance es el nivel de lógica, no el grado
+
+A diferencia de otras prácticas de este bloque, aquí el punto de partida de cada estudiante **no se define por su grado escolar**, sino por cuánta lógica de programación ya tiene. Dos estudiantes del mismo grado pueden tener puntos de partida distintos: uno nunca ha ordenado instrucciones y otro ya usó Scratch en casa. Code.org permite este ajuste porque sus cursos están organizados por progresión de conceptos (secuencia, bucle, condicional, función), no por edad estricta.
+
+El docente debe evaluar brevemente al grupo, o incluso a cada estudiante, antes de asignar el punto de entrada correcto usando la tabla de la siguiente sección.
+
+---
+
+## Niveles de entrada
+
+### Nivel 1: Principiante absoluto
+
+Estudiantes que nunca han ordenado instrucciones para resolver un problema y que pueden tener lectura limitada.
+
+- **Curso de Code.org:** Hour of Code "Laberinto clásico" (Classic Maze) como calentamiento de una sesión, seguido de **Course A** dentro de studio.code.org.
+- **Hasta dónde llegar:** completar las etapas de secuencia simple de Course A y detenerse en la primera etapa que introduce el bloque "repetir" (bucle básico). No es necesario completar el curso completo en esta práctica.
+- **Qué se aprende:** que una secuencia de instrucciones ordenadas produce un resultado, y que el orden importa.
+
+### Nivel 2: Con algo de lógica
+
+Estudiantes que ya resolvieron secuencias simples (en papel, con tarjetas o en una sesión anterior) pero no han usado bucles ni condicionales.
+
+- **Curso de Code.org:** **Course C**, o **Course D** si el grupo ya domina la secuencia con soltura.
+- **Hasta dónde llegar:** completar las etapas de bucles ("repetir" y "repetir hasta") y avanzar hasta la primera etapa de condicionales ("si / si no") dentro del laberinto. En Course D esto corresponde a la etapa de "Condicionales y bucles en el laberinto".
+- **Qué se aprende:** bucles para evitar repetir bloques idénticos, y condicionales para que el programa tome decisiones según lo que "percibe" en el camino, un puente directo hacia lo que hará después un sensor real.
+
+### Nivel 3: Con experiencia previa en bloques
+
+Estudiantes que ya usaron Scratch, MakeCode u otra plataforma de bloques y comprenden bucles y condicionales con soltura.
+
+- **Curso de Code.org:** **Course E** o **Course F**.
+- **Hasta dónde llegar:** completar las etapas de bucles anidados y condicionales combinadas, y avanzar hasta la introducción de **funciones** (bloques reutilizables con nombre propio). No es necesario terminar el curso completo: basta con llegar a la primera etapa donde el estudiante crea su propia función.
+- **Qué se aprende:** a reconocer un patrón que se repite dentro del propio código y a encapsularlo en una función, la misma idea que luego permite escribir, por ejemplo, una función `avanzar(tiempo)` reutilizable en el código de un robot real.
+
+> **Nota:** los nombres exactos de las etapas dentro de cada curso pueden variar según actualizaciones de la plataforma. El docente debe ingresar a [studio.code.org](https://studio.code.org) y ubicar la etapa correspondiente al concepto descrito (secuencia, bucle, condicional o función), más que memorizar un número de lección fijo.
 
 ---
 
@@ -25,10 +65,10 @@ Es la puerta de entrada a la robótica en Maker Academy: no requiere lectoescrit
 
 Al finalizar esta práctica, el estudiante habrá:
 
-- Ordenado una secuencia de instrucciones icónicas para llegar de un punto de inicio a una meta
-- Distinguido entre las cuatro instrucciones básicas de movimiento (adelante, atrás, girar izquierda, girar derecha)
-- Comprobado si su secuencia funcionó observando el resultado y corrigiéndola si fue necesario
-- Practicado la idea de que el orden de las instrucciones importa
+- Ordenado una secuencia de instrucciones en bloques para resolver un laberinto o reto visual
+- Usado bloques de repetición para evitar instrucciones repetidas de forma manual
+- Usado bloques condicionales para que el programa tome una decisión distinta según lo que encuentra en el camino (según su nivel de entrada)
+- Practicado la idea de que el orden de las instrucciones importa y que un error se corrige observando el resultado, no adivinando
 
 ---
 
@@ -36,29 +76,29 @@ Al finalizar esta práctica, el estudiante habrá:
 
 | Material | Cantidad | Notas |
 |---|---|---|
-| Tarjetas icónicas de movimiento | 1 set por pareja (mínimo 8 tarjetas: 2 de cada instrucción) | Se pueden imprimir y plastificar; también sirven dibujadas a mano en cartulina |
-| Cinta de enmascarar o cuadrícula de piso | 1 por grupo | Para marcar una cuadrícula de 4×4 o 5×5 casillas en el piso |
-| Marcadores de inicio y meta | 2 por grupo | Un cono, un peluche o una tarjeta de color sirven |
-| Robot educativo con control por botones o app sencilla (opcional) | 1 por grupo | Ej. Bee-Bot, Code-a-pillar o similar; si no hay robot disponible, un estudiante puede hacer de "robot humano" |
+| Computadora, tableta o Chromebook con navegador y acceso a internet | 1 por estudiante o por pareja | studio.code.org funciona en cualquier navegador moderno, sin instalación |
+| Cuenta o sección de aula en Code.org (opcional) | 1 por docente | Permite crear una sección de clase y dar seguimiento al avance de cada estudiante; también se puede trabajar sin cuenta usando el modo invitado de Hour of Code |
+| Proyector o pantalla compartida | 1 por aula | Para modelar el primer reto en conjunto antes de que el grupo trabaje de forma individual o en parejas |
 
 ---
 
 ## Herramientas y software
 
-- Ninguno indispensable: la práctica funciona completamente sin pantallas
-- Si se cuenta con un robot de botones físicos (tipo Bee-Bot), se usa directamente para reforzar la secuencia
-- Cámara o celular (opcional) para registrar el momento como evidencia
+- Navegador web actualizado (Chrome, Edge o Firefox)
+- [studio.code.org](https://studio.code.org): plataforma de cursos por bloques
+- Video de referencia para el docente: ["Consigue una hora de código"](https://www.youtube.com/watch?v=n8SdOE_dUEQ)
 
 ---
 
 ## Preparación del docente (antes de la sesión)
 
-1. Marcar en el piso una cuadrícula simple con cinta de enmascarar (4×4 casillas es suficiente para el primer intento)
-2. Definir un punto de inicio y una meta con al menos un giro necesario en el camino (no una línea recta simple)
-3. Imprimir o preparar las tarjetas icónicas: una flecha hacia adelante, una hacia atrás, una curva a la izquierda y una curva a la derecha
-4. Practicar la ruta una vez antes de la sesión para confirmar que es resoluble en pocas instrucciones (entre 4 y 6)
+1. Ver el video ["Consigue una hora de código"](https://www.youtube.com/watch?v=n8SdOE_dUEQ) para tener claro el tono y el formato de los retos de Code.org.
+2. Ingresar a [studio.code.org](https://studio.code.org) y explorar Course A, C y E (o F) para ubicar, en cada uno, la primera etapa de bucles, la primera de condicionales y la primera de funciones, ya que los nombres de lección cambian con las actualizaciones de la plataforma.
+3. Definir con qué nivel de entrada trabajará cada estudiante o grupo, según la tabla de "Niveles de entrada".
+4. Confirmar que el makerspace o el aula cuenta con conectividad suficiente para que todo el grupo trabaje en línea al mismo tiempo. Si la conectividad es limitada, dividir el grupo en estaciones rotativas.
+5. Si se creará una sección de clase en Code.org, hacerlo con anticipación para no perder tiempo de sesión en configuración.
 
-> **Nota de seguridad:** verificar que el área de la cuadrícula esté libre de mobiliario con bordes filosos, ya que los estudiantes se desplazan agachados o gateando para observar el recorrido de cerca.
+> **Nota de seguridad digital:** si se usan cuentas de estudiantes, seguir la política institucional de datos y privacidad para menores de edad. El modo invitado de Hour of Code no requiere ninguna cuenta ni dato personal.
 
 ---
 
@@ -68,50 +108,50 @@ Al finalizar esta práctica, el estudiante habrá:
 
 **1.1 Presentar el reto con una pregunta**
 
-El docente pregunta: "¿Cómo le explicamos a alguien que no puede vernos cómo llegar de aquí hasta allá?" Se puede demostrar con un ejemplo simple: el docente cierra los ojos y pide indicaciones a un estudiante usando solo las palabras "adelante", "atrás", "gira a la izquierda", "gira a la derecha".
+El docente pregunta: "¿Cómo le explicamos a alguien que no puede vernos cómo llegar de aquí hasta allá?" Se puede demostrar con un ejemplo simple: el docente cierra los ojos y pide indicaciones a un estudiante usando solo instrucciones cortas ("adelante", "gira a la izquierda").
 
-**1.2 Mostrar las tarjetas icónicas**
+**1.2 Mostrar la plataforma**
 
-Se presenta cada tarjeta y su significado. Es clave que el grupo repita en voz alta qué hace cada una antes de continuar.
+Se proyecta studio.code.org y se resuelve en conjunto el primer reto del curso asignado, explicando en voz alta qué hace cada bloque antes de arrastrarlo.
 
 ---
 
-### Fase 2: Experimentación (15–20 min)
+### Fase 2: Experimentación (20–30 min)
 
-**2.1 Primer intento en parejas**
+**2.1 Trabajo individual o en parejas**
 
-Cada pareja recibe un set de tarjetas y debe ordenar la secuencia que lleva del inicio a la meta sobre la cuadrícula. Se les anima a colocar las tarjetas en el piso, en orden, antes de "ejecutar" la ruta.
+Cada estudiante o pareja avanza a su propio ritmo dentro del curso asignado según su nivel de entrada, resolviendo los retos de laberinto en orden.
 
-**2.2 Ejecutar la secuencia**
+**2.2 Observar y corregir**
 
-Un integrante de la pareja recorre físicamente la cuadrícula siguiendo exactamente las tarjetas colocadas por su compañero o compañera, sin desviarse ni "adivinar" el camino correcto. Si hay robot disponible, se introduce la secuencia en el robot y se observa si llega a la meta.
+Si un reto falla, el estudiante debe observar en qué parte de la secuencia de bloques estuvo el error y reordenar o ajustar antes de intentar de nuevo. Este paso de prueba y corrección es el corazón pedagógico de la actividad, igual que en cualquier programación posterior sobre un robot real.
 
-**2.3 Corregir y repetir**
+**2.3 Avanzar hasta el punto definido para su nivel**
 
-Si la secuencia no llega a la meta, la pareja debe identificar en qué tarjeta estuvo el error y reordenar. Este paso de prueba y corrección es el corazón pedagógico de la actividad.
+Cada estudiante avanza hasta la etapa indicada en la tabla de "Niveles de entrada" para su nivel (bucle simple, condicional o función), sin necesidad de completar el curso entero en esta sesión.
 
 ---
 
 ### Fase 3: Reflexión (5–10 min)
 
-1. Cada pareja muestra su secuencia final al grupo
-2. El docente pregunta: "¿Qué pasó la primera vez que no llegaron a la meta? ¿Qué cambiaron?"
-3. Se introduce el vocabulario: esta lista ordenada de instrucciones se llama **secuencia** o **algoritmo**, y programar un robot es, en el fondo, escribir secuencias como esta
+1. Cada estudiante o pareja comenta un reto que le costó resolver y qué cambió para lograrlo.
+2. El docente pregunta: "¿Qué bloque usaron para no repetir la misma instrucción muchas veces?" (nivel 1-2) o "¿Qué bloque usaron para que el programa decidiera algo por sí mismo?" (nivel 2-3).
+3. Se introduce el vocabulario: **secuencia**, **bucle** y **condicional** son los mismos bloques lógicos que luego se van a usar para programar un robot real con MakeCode, Scratch o código de texto.
 
 ---
 
 ## Variantes y extensiones
 
 **Para grupos más avanzados dentro del mismo nivel:**
-- Aumentar la cuadrícula a 6×6 y agregar dos giros obligatorios en la ruta
-- Retirar una tarjeta del set (por ejemplo, la de "atrás") y pedir que resuelvan la ruta sin usarla
+- Pedir que resuelvan el mismo laberinto de dos formas distintas (con y sin bucle) y comparen cuál código es más corto
+- En Course E o F, retar a crear una función propia con un nombre descriptivo antes de usarla en el laberinto
 
-**Para grupos más jóvenes:**
-- Reducir la cuadrícula a 3×3 con una sola vuelta
-- Usar solo tres tarjetas (adelante, girar izquierda, girar derecha) y eliminar "atrás" para simplificar
+**Para grupos que necesitan más apoyo:**
+- Resolver los primeros retos en pareja con roles definidos: quien arrastra los bloques y quien observa el resultado
+- Repetir el mismo reto con tarjetas físicas de flechas antes de pasar a la pantalla, para quienes necesiten apoyo concreto antes de lo digital
 
-**Con robot disponible:**
-- Repetir la misma ruta primero con tarjetas físicas y luego programándola en el robot, para que el grupo compare "mi secuencia en papel" con "la secuencia que entendió la máquina"
+**Puente hacia el robot físico:**
+- Antes de pasar a la práctica [02. Robot avanza y se detiene](../02.%20Robot%20avanza%20y%20se%20detiene/README.md), recordar al grupo que los mismos bloques de secuencia, bucle y condicional que usaron en Code.org existen en MakeCode y Scratch, y que ahora los van a usar para mover un robot de verdad
 
 ---
 
@@ -119,9 +159,9 @@ Si la secuencia no llega a la meta, la pareja debe identificar en qué tarjeta e
 
 Al finalizar, el estudiante debería poder responder:
 
-- ¿Qué pasa si cambio el orden de dos tarjetas en la secuencia?
-- ¿Por qué el robot (o la persona) no llegó a la meta en el primer intento?
-- ¿Qué tarjeta fue la más difícil de usar correctamente y por qué?
+- ¿Qué pasa si cambio el orden de dos bloques en la secuencia?
+- ¿Para qué sirve el bloque de repetir, y por qué es mejor que copiar la misma instrucción varias veces?
+- Si su nivel llegó a condicionales: ¿qué decisión distinta toma el programa cuando encuentra algo distinto en el camino?
 
 ---
 
@@ -129,8 +169,16 @@ Al finalizar, el estudiante debería poder responder:
 
 **Errores frecuentes y cómo anticiparlos:**
 
-- **Confundir "girar" con "avanzar en diagonal":** en una cuadrícula, girar cambia la dirección pero no mueve al robot de casilla. Conviene aclarar esto con un ejemplo físico antes de iniciar.
-- **Colocar todas las tarjetas de golpe sin planificar:** algunos grupos arman la secuencia por ensayo y error sin observar la cuadrícula primero. Vale la pena pedir que "recorran con el dedo" la ruta antes de colocar tarjetas.
-- **Frustración ante el primer error:** es normal y esperado que la primera secuencia falle. El docente debe enmarcar el error como parte del proceso, no como una falla del estudiante.
+- **Arrastrar bloques al azar sin planificar:** algunos estudiantes prueban combinaciones por ensayo y error sin observar el laberinto primero. Vale la pena pedir que "recorran con el dedo" la ruta en pantalla antes de arrastrar bloques.
+- **Confundir el bucle con una simple repetición manual:** el estudiante arrastra el mismo bloque varias veces en vez de usar "repetir". Conviene mostrar explícitamente cuántos bloques ahorra el bucle.
+- **Frustración ante el primer error:** es normal y esperado que el primer intento falle. El docente debe enmarcar el error como parte del proceso, no como una falla del estudiante.
 
-**Gestión del tiempo:** si el grupo es numeroso, preparar dos o tres cuadrículas simultáneas para que no haya filas de espera largas. Esta práctica funciona bien como estación rotativa dentro de una sesión más amplia de introducción a la robótica.
+**Gestión del tiempo:** si la conectividad o el número de dispositivos es limitado, trabajar por estaciones rotativas. Esta práctica puede repartirse en varias sesiones cortas en lugar de una sola sesión larga, ya que Code.org guarda el avance de cada estudiante si se usa una cuenta o sección de clase.
+
+---
+
+## Recursos relacionados
+
+- [`README.md` — Prácticas Guiadas](../README.md): índice de la progresión completa de prácticas guiadas de robótica.
+- [`02. Robot avanza y se detiene/README.md`](../02.%20Robot%20avanza%20y%20se%20detiene/README.md): siguiente práctica de la progresión, donde la misma lógica de secuencia y tiempo se aplica sobre un robot físico.
+- [`../../04. Microcontroladores/05. Progresión de Programación/02. Bloques/01. MakeCode Basico.md`](../../../04.%20Microcontroladores/05.%20Progresión%20de%20Programación/02.%20Bloques/01.%20MakeCode%20Basico.md): siguiente paso natural en programación por bloques, ya sobre una plataforma de microcontrolador real.

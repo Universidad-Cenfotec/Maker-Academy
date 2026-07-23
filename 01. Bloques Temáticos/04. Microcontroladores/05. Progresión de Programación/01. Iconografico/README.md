@@ -1,7 +1,6 @@
-# Programación Iconográfica , Sin Pantalla ni Dispositivo
+# Lógica de Programación con studio.code.org
 
-<img width="360" alt="Robot Ozobot, herramienta de programación iconográfica para preescolar y primaria baja que usa colores en lugar de código" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ozobot.jpeg/320px-Ozobot.jpeg" />
-
+> *Insertar próximamente una imagen: captura de pantalla de un laberinto de Code.org Express Course, donde el estudiante arrastra bloques para mover un personaje por el laberinto hasta la meta.*
 
 > Este archivo pertenece a: **Microcontroladores**
 > Ruta: `01. Bloques Temáticos/04. Microcontroladores/05. Progresión de Programación/01. Iconografico/README.md`
@@ -11,55 +10,68 @@
 ## Estado
 
 **Estado:** Completo
-**Versión:** v1.0
+**Versión:** v2.0
 **Bloque:** 04_microcontroladores
+
+---
+
+## Descripción
+
+Índice del nivel iconográfico de la progresión de programación: tres actividades con studio.code.org que introducen secuencia, repetición y condicionales sin usar hardware físico.
 
 ---
 
 ## Propósito
 
-La programación iconográfica es el nivel de entrada al pensamiento computacional. No requiere ningún dispositivo electrónico, ninguna aplicación y ningún conocimiento previo de tecnología. Solo requiere cuerpos, espacio y materiales simples.
+Esta subcarpeta cubre el nivel de entrada a la programación de microcontroladores usando [studio.code.org](https://studio.code.org) — específicamente el [Express Course 2025](https://studio.code.org/s/express-2025) — como puente entre el pensamiento lógico y la programación real de robots.
 
-Su objetivo no es enseñar sintaxis ni herramientas: es construir el modelo mental fundamental de que una instrucción tiene un significado preciso, que una secuencia de instrucciones produce un comportamiento predecible y que cuando el comportamiento no es el esperado, el error está en las instrucciones, no en el "robot".
+La idea central es simple: los laberintos del Express Course funcionan exactamente igual que un robot físico. El personaje en pantalla recibe instrucciones de movimiento (adelante, girar izquierda, girar derecha) y las ejecuta una por una, sin adivinar intenciones. Eso es exactamente lo que hace un microcontrolador.
 
----
-
-## Actividades de esta subcarpeta
-
-| Archivo | Actividad | Materiales |
-|---|---|---|
-| `tarjetas-flechas.md` | Dirigir a un compañero usando tarjetas de flechas | Tarjetas impresas, espacio en el piso |
-| `secuencias-colores.md` | Programar secuencias usando bloques de colores | Bloques de construcción o fichas de colores |
-| `rutas-en-piso.md` | Planificar y ejecutar rutas con cinta adhesiva en el suelo | Cinta de enmascarar, marcadores |
+> Ver a Cinthya usando studio.code.org con estudiantes: [https://www.youtube.com/watch?v=n8SdOE_dUEQ](https://www.youtube.com/watch?v=n8SdOE_dUEQ)
 
 ---
 
-## Conceptos que se trabajan en este nivel
+## Organización por nivel de lógica de programación
 
-**Secuencia:** las instrucciones se ejecutan una tras otra en el orden en que se escriben (o colocan). No hay instrucciones simultáneas.
+El contenido de esta subcarpeta está organizado por **nivel de comprensión de la lógica de programación**, no por grado ni edad. Un estudiante de secundaria sin experiencia comienza en el Nivel 1. Un estudiante de primaria que ya maneja secuencias puede comenzar en el Nivel 2.
 
-**Precisión:** "da un paso" no es lo mismo que "da un paso hacia adelante". Las instrucciones deben ser específicas.
-
-**Depuración (debugging):** cuando el "robot" no llega al destino, la respuesta es revisar las instrucciones, no culpar al robot. El robot ejecuta exactamente lo que se le dice.
-
-**Abstracción:** en actividades más avanzadas, un color puede representar una secuencia completa de instrucciones (una función).
+| Nivel | Concepto | Archivo | Lecciones del Express Course |
+|---|---|---|---|
+| Nivel 1 | Secuencias | [`01. Tarjetas de Flechas.md`](01.%20Tarjetas%20de%20Flechas.md) | Lecciones 3-5 |
+| Nivel 2 | Repetición (bucles) | [`02. Secuencias de Colores.md`](02.%20Secuencias%20de%20Colores.md) | Lecciones 6-10 |
+| Nivel 3 | Condicionales | [`03. Rutas en el Piso.md`](03.%20Rutas%20en%20el%20Piso.md) | Lecciones 14-20 |
 
 ---
 
-## Aplicación en Maker Academy
+## Relación con la programación de robots
 
-Se consulta como material de apoyo durante la planificación y ejecución de actividades del bloque de Microcontroladores en Maker Academy.
+Cada nivel de esta subcarpeta tiene un equivalente directo en la programación física:
+
+- **Secuencias:** El robot avanza en línea recta, gira, se detiene. Cada instrucción sucede una tras otra. Igual que los bloques del laberinto.
+- **Bucles:** El robot repite un patrón de movimiento (cuadrado, zigzag, ir y volver). En lugar de escribir las mismas instrucciones cuatro veces, se usan bucles.
+- **Condicionales:** El robot detecta un obstáculo con un sensor y decide si avanzar o girar. En el laberinto, el bloque "si hay un camino adelante" hace exactamente lo mismo.
+
+---
+
+## Relación con XperiencED Kids
+
+- **Inspiración:** El docente muestra el laberinto del Express Course en pantalla y pregunta: ¿cómo llevarían el personaje al destino?
+- **Experimentación:** Los estudiantes resuelven los niveles del laberinto, equivocándose y corrigiendo.
+- **Reflexión:** Discusión sobre qué instrucciones fallaron, por qué y cómo eso se aplica a un robot real.
+
+---
 
 ## Recursos relacionados
 
-- [README del bloque](../../README.md)
+- [Progresión de Programación](../README.md)
+- [Bloques: MakeCode](../02.%20Bloques/01.%20MakeCode%20Basico.md)
+- [Express Course 2025 completo](https://studio.code.org/s/express-2025)
+- [Video de clase con studio.code.org](https://www.youtube.com/watch?v=n8SdOE_dUEQ)
 
-## Imagen sugerida
-
-Imagen o diagrama ilustrativo relacionado con el tema 'README'.
+---
 
 ## Nota docente
 
-Estas actividades funcionan con grupos de todas las edades, aunque el nivel de complejidad de las secuencias se ajusta. Con preescolar (4-6 años), secuencias de 4 a 6 pasos son suficientes. Con secundaria, se pueden introducir condicionales ("si hay un obstáculo rojo en el camino, girar a la derecha") y bucles ("repetir 3 veces el bloque de instrucciones").
+No se necesita cuenta para que los estudiantes accedan al Express Course. Pueden entrar como invitados desde cualquier navegador. Si se quiere guardar el progreso, cada estudiante necesita crear una cuenta gratuita en code.org.
 
-La parte más valiosa de estas actividades es el momento de depuración: el grupo discute qué instrucción estuvo mal y por qué. Ese momento de análisis conjunto establece el hábito de pensamiento sistemático que luego se transfiere directamente a la programación con dispositivos reales.
+El docente puede crear una sección en [studio.code.org/sections](https://studio.code.org/sections) para monitorear el avance de cada estudiante desde su propio panel, sin necesidad de estar mirando cada pantalla.

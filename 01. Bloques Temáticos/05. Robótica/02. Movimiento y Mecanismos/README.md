@@ -1,12 +1,21 @@
 # Movimiento y Mecanismos
 
-> Ruta: `01. Bloques Temáticos/05. Robótica/02. Movimiento y Mecanismos`
+> Este archivo pertenece a: **Robótica Educativa**
+> Ruta: `01. Bloques Temáticos/05. Robótica/02. Movimiento y Mecanismos/README.md`
 
 ---
+
+## Estado
 
 **Estado:** Completo
 **Versión:** v1.0
 **Bloque:** 05_robotica
+
+---
+
+## Descripción
+
+Esta carpeta reúne los archivos sobre cómo programar el movimiento de un robot con ruedas: avance, giros, control de velocidad y calibración de motores.
 
 ---
 
@@ -18,14 +27,16 @@ El movimiento es también el primer punto de contacto del estudiante con la frus
 
 ---
 
-## Contenido de esta sección
+## Contenido de esta carpeta
 
 | Archivo | ¿Qué explica? |
 |---|---|
-| `01. Avance y retroceso.md` | Cómo programar el movimiento básico hacia adelante y atrás |
-| `02. Giros.md` | Los distintos tipos de giro y cómo implementarlos |
-| `03. Velocidad.md` | Control de velocidad mediante PWM |
-| `04. Calibración de motores.md` | Por qué los motores no son iguales y cómo compensarlo |
+| [`01. Avance y retroceso.md`](./01.%20Avance%20y%20retroceso.md) | Cómo programar el movimiento básico hacia adelante y atrás |
+| [`02. Giros.md`](./02.%20Giros.md) | Los distintos tipos de giro y cómo implementarlos |
+| [`03. Velocidad.md`](./03.%20Velocidad.md) | Control de velocidad mediante PWM |
+| [`04. Calibración de motores.md`](./04.%20Calibraci%C3%B3n%20de%20motores.md) | Por qué los motores no son iguales y cómo compensarlo |
+
+> Los archivos están numerados en el orden en que se recomienda consultarlos.
 
 ---
 
@@ -35,6 +46,27 @@ El movimiento es también el primer punto de contacto del estudiante con la frus
 2. **Giros** — añadir la capacidad de cambiar de dirección
 3. **Velocidad** — controlar qué tan rápido va (no solo encendido/apagado)
 4. **Calibración** — cuando el robot ya hace las cosas pero no exactamente como se espera
+
+---
+
+## Cómo usar esta carpeta
+
+Sigue la secuencia numerada de los archivos: avance y retroceso, luego giros, luego velocidad y, por último, calibración. Esta sección se trabaja después de "Fundamentos de Robótica", una vez que el kit ya está armado y listo para programarse.
+
+---
+
+## Relación con XperiencED Kids
+
+- **Experimentación:** Todo el contenido de esta carpeta se vive en la práctica: los estudiantes programan, observan el comportamiento del robot y ajustan el código.
+- **Reflexión:** El proceso de calibración enseña a documentar cambios y a razonar sobre qué ajuste produjo qué efecto, un componente clave del cierre reflexivo.
+
+---
+
+## Recursos relacionados
+
+- [`01. Fundamentos de Robótica/README.md`](../01.%20Fundamentos%20de%20Rob%C3%B3tica/README.md): Sección previa con los conceptos base necesarios antes de trabajar el movimiento.
+- [`01. Mapa de Progresión.md`](../01.%20Mapa%20de%20Progresi%C3%B3n.md): Ubica esta sección dentro de la progresión general del bloque de robótica.
+- [`02. Vocabulario.md`](../02.%20Vocabulario.md): Glosario de términos usados en esta sección.
 
 ---
 

@@ -1,6 +1,6 @@
 # Evaluación , Microcontroladores y Programación Física
 
-<img width="400" alt="Placa Arduino UNO conectada a un protoboard con componentes — representación de un proyecto de evaluación práctica en el aula Makerspace" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg" />
+<img width="400" alt="Placa Arduino UNO conectada a un protoboard con componentes — representación de un proyecto de evaluación práctica en el aula Makerspace" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" />
 
 
 > Este archivo pertenece a: **Microcontroladores**
@@ -16,6 +16,12 @@
 
 ---
 
+## Descripción
+
+Reúne los instrumentos de evaluación del bloque de Microcontroladores: una lista de cotejo de proceso y una rúbrica de resultado para proyectos de programación física.
+
+---
+
 ## Propósito
 
 Evaluar la programación física es diferente a evaluar programación en pantalla. El resultado de un proyecto de microcontroladores tiene una dimensión física (el circuito, los componentes, la pieza que se mueve o la luz que se enciende) y una dimensión lógica (el código que controla ese comportamiento). Ambas deben estar presentes para que la evaluación sea justa y completa.
@@ -26,10 +32,12 @@ Los dos instrumentos de esta carpeta están diseñados para capturar esas dos di
 
 ## Instrumentos disponibles
 
+> **Nota de estado:** los dos instrumentos descritos a continuación están planificados para esta carpeta pero aún no se han creado como archivos independientes.
+
 | Archivo | Tipo | Cuándo usarlo |
 |---|---|---|
-| `lista-cotejo-programacion.md` | Lista de cotejo de 25 ítems | Durante y al finalizar cualquier proyecto de programación física |
-| `rubrica-microcontroladores.md` | Rúbrica analítica de 5 criterios | Al finalizar un proyecto con entrega de código y hardware |
+| `lista-cotejo-programacion.md` <!-- pendiente de crear --> | Lista de cotejo de 25 ítems | Durante y al finalizar cualquier proyecto de programación física |
+| `rubrica-microcontroladores.md` <!-- pendiente de crear --> | Rúbrica analítica de 5 criterios | Al finalizar un proyecto con entrega de código y hardware |
 
 ---
 
@@ -71,10 +79,6 @@ Se consulta como material de apoyo durante la planificación y ejecución de act
 ## Recursos relacionados
 
 - [README del bloque](../../README.md)
-
-## Imagen sugerida
-
-Imagen o diagrama ilustrativo relacionado con el tema 'README'.
 
 ## Nota docente
 

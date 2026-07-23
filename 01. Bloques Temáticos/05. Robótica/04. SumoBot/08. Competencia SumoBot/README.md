@@ -57,9 +57,23 @@ Se separó del resto de `04. SumoBot` porque agrupa contenido de **competencia**
 
 ---
 
+## Cómo usar esta carpeta
+
+Recorre los archivos en el orden numerado descrito en la secuencia recomendada: primero el reglamento y el espacio de competencia, luego la organización del evento, y por último la estrategia y las pruebas del robot. Usa la subcarpeta `08. Mini Lecciones de Competencia/` justo antes de cada sesión de programación correspondiente.
+
+---
+
 ## Relación con el resto de `04. SumoBot`
 
 Esta subcarpeta asume que el equipo ya completó el trabajo de las etapas previas de `04. SumoBot`: reconocer las piezas del kit, aplicar las normas de seguridad, recorrer al menos parte de la progresión de programación y calibrar los sensores. El contenido de esta subcarpeta no reemplaza esas etapas, sino que las complementa para los equipos que decidan llevar su robot a competencia.
+
+---
+
+## Relación con XperiencED Kids
+
+- **Inspiración:** el reglamento y la lógica del dohyo se presentan a partir de analogías cotidianas antes de programar cualquier comportamiento.
+- **Experimentación:** las estrategias y la tabla de pruebas llevan al equipo a probar, registrar y ajustar el comportamiento real de su robot antes del evento.
+- **Reflexión:** el checklist y la logística del evento cierran el proceso invitando al equipo a evaluar su nivel de preparación antes de competir.
 
 ## Recursos relacionados
 

@@ -13,9 +13,15 @@
 
 ---
 
+## Descripción
+
+Esta carpeta documenta cómo el microcontrolador lee y controla señales a través de sus pines: entradas y salidas digitales, entradas analógicas, PWM y el Monitor Serial para depurar programas.
+
+---
+
 ## Propósito
 
-<img width="480" alt="Comparación de señal digital (cuadrada 0/1) y señal analógica (sinusoidal) en un osciloscopio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Duty_Cycle_Examples.png/480px-Duty_Cycle_Examples.png" />
+<img width="480" alt="Comparación de señal digital (cuadrada 0/1) y señal analógica (sinusoidal) en un osciloscopio" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Duty_Cycle_Examples.png" />
 
 Esta carpeta cubre cómo el microcontrolador se comunica con el mundo a través de sus pines: cómo leer sensores y botones (entradas) y cómo controlar LEDs, motores y actuadores (salidas).
 
@@ -50,14 +56,10 @@ Se usa como punto de entrada al módulo de E/S para que los docentes entiendan l
 
 ## Recursos relacionados
 
-- [Pines Digitales](01. Pines Digitales.md)
-- [Entradas Analógicas](02. Entradas Analogicas.md)
-- [PWM](03. PWM.md)
-- [Monitor Serial](04. Monitor Serial.md)
-
-## Imagen sugerida
-
-Diagrama comparativo entre señal digital (cuadrada, 0 y 1) y señal analógica (sinusoidal, valores continuos).
+- [Pines Digitales](01.%20Pines%20Digitales.md)
+- [Entradas Analógicas](02.%20Entradas%20Analogicas.md)
+- [PWM](03.%20PWM.md)
+- [Monitor Serial](04.%20Monitor%20Serial.md)
 
 ## Nota docente
 

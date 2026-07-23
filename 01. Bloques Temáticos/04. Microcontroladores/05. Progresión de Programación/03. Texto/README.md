@@ -13,9 +13,15 @@
 
 ---
 
+## Descripción
+
+Índice del nivel de programación en texto: Arduino, MicroPython, CircuitPython y Python para robótica, el último escalón de la progresión de programación.
+
+---
+
 ## Propósito
 
-<img width="200" alt="Logo de Python, lenguaje base de MicroPython y CircuitPython usados en el nivel de programación de texto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/320px-Python-logo-notext.svg.png" />
+<img width="200" alt="Logo de Python, lenguaje base de MicroPython y CircuitPython usados en el nivel de programación de texto" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 
 La programación en texto es el nivel donde la interfaz visual de bloques desaparece y el programador escribe instrucciones directamente en el lenguaje que el compilador o intérprete puede procesar. Es un salto cognitivo real: ahora los errores de sintaxis son posibles, los mensajes de error deben interpretarse y la estructura del programa depende completamente de la disciplina del programador.
 
@@ -61,10 +67,6 @@ Se consulta como material de apoyo durante la planificación y ejecución de act
 ## Recursos relacionados
 
 - [README del bloque](../../README.md)
-
-## Imagen sugerida
-
-Imagen o diagrama ilustrativo relacionado con el tema 'README'.
 
 ## Nota docente
 

@@ -13,9 +13,15 @@
 
 ---
 
+## Descripción
+
+Índice del nivel de programación por bloques: MakeCode, Scratch con hardware y bloques con sensores, segundo escalón de la progresión de programación.
+
+---
+
 ## Propósito
 
-<img width="280" alt="Logo de MakeCode, plataforma de programación por bloques de Microsoft usada con micro:bit y otras placas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MakeCode_logo.svg/320px-MakeCode_logo.svg.png" />
+> *Insertar próximamente una imagen: logo oficial de Microsoft MakeCode.*
 
 Los entornos de programación por bloques permiten construir programas arrastrando piezas visuales en lugar de escribir texto. Los bloques están diseñados para encajar solo de formas sintácticamente correctas: es imposible crear un error de punto y coma o de paréntesis sin cerrar porque la estructura del bloque lo previene.
 
@@ -50,10 +56,6 @@ Se consulta como material de apoyo durante la planificación y ejecución de act
 ## Recursos relacionados
 
 - [README del bloque](../../README.md)
-
-## Imagen sugerida
-
-Imagen o diagrama ilustrativo relacionado con el tema 'README'.
 
 ## Nota docente
 

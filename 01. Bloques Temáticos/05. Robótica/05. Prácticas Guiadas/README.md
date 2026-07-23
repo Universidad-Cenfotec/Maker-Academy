@@ -15,15 +15,15 @@
 
 ## Descripción
 
-Esta carpeta reúne las prácticas guiadas paso a paso del bloque de Robótica: actividades completas, listas para aplicar en el aula o el makerspace, que llevan al grupo desde la primera secuencia sin código hasta un robot capaz de percibir su entorno y reaccionar de forma autónoma. Está dirigida a docentes que ya revisaron los conceptos de los bloques anteriores (Fundamentos, Movimiento y Mecanismos, Sensores y Percepción) y buscan una ruta ordenada de sesiones para llevar a sus estudiantes.
+Esta carpeta reúne las prácticas guiadas paso a paso del bloque de Robótica: actividades completas, listas para aplicar en el aula o el makerspace, que llevan al grupo desde la primera lógica de programación en bloques hasta un robot capaz de percibir su entorno y reaccionar de forma autónoma. Está dirigida a docentes que ya revisaron los conceptos de los bloques anteriores (Fundamentos, Movimiento y Mecanismos, Sensores y Percepción) y buscan una ruta ordenada de sesiones para llevar a sus estudiantes.
 
-> 💡 **Sugerencia visual:** fotografía de un grupo de estudiantes de primaria alrededor de una cuadrícula marcada en el piso con cinta de enmascarar, con tarjetas icónicas de movimiento colocadas en secuencia y un robot educativo al inicio de la ruta.
+> *Insertar próximamente una imagen: captura de pantalla de un laberinto de studio.code.org resuelto con bloques de secuencia, bucle y condicional, junto a una fotografía de un robot educativo listo para la siguiente práctica.*
 
 ---
 
 ## Propósito
 
-Las prácticas de esta carpeta traducen la teoría de robótica en experiencias concretas, ordenadas por dificultad creciente. Cada práctica retoma explícitamente lo aprendido en la anterior, de modo que el grupo construye su comprensión de forma acumulativa: de la secuencia sin código, al primer programa de movimiento, a los giros, a la percepción del entorno mediante sensores. Esta progresión está alineada con la metodología XperiencED Kids: cada práctica recorre un ciclo completo de Inspiración, Experimentación y Reflexión.
+Las prácticas de esta carpeta traducen la teoría de robótica en experiencias concretas, ordenadas por dificultad creciente. Cada práctica retoma explícitamente lo aprendido en la anterior, de modo que el grupo construye su comprensión de forma acumulativa: de la lógica de programación en bloques sin robot físico, al primer programa de movimiento, a los giros, a la percepción del entorno mediante sensores. Esta progresión está alineada con la metodología XperiencED Kids: cada práctica recorre un ciclo completo de Inspiración, Experimentación y Reflexión.
 
 ---
 
@@ -33,7 +33,7 @@ A continuación se listan las prácticas disponibles en este directorio, en el o
 
 | Archivo o carpeta | Descripción |
 |---|---|
-| `01. Ruta guiada icónográfica/` | Introduce la idea de secuencia y algoritmo con tarjetas icónicas, sin código ni pantallas. Nivel preescolar/primaria baja. |
+| `01. Ruta guiada icónográfica/` | Introduce secuencia, bucle y condicional con la plataforma en bloques studio.code.org (Code.org), sin robot ni pantalla de hardware todavía. El punto de entrada se define por el nivel de lógica de programación del estudiante, no por su grado. |
 | `02. Robot avanza y se detiene/` | Primer programa real: el robot avanza una distancia fija y se detiene. Introduce tiempo de ejecución y calibración básica. |
 | `03. Robot gira/` | Se agregan giros al programa anterior; culmina en el reto de programar un cuadrado. |
 | `04. Sigue línea básico/` | Introduce el sensor de línea para que el robot siga una ruta marcada en el piso, reaccionando a lo que percibe. |
@@ -45,7 +45,7 @@ A continuación se listan las prácticas disponibles en este directorio, en el o
 
 ## Cómo usar esta carpeta
 
-Se recomienda aplicar las cinco prácticas en el orden numerado, idealmente en sesiones consecutivas, ya que cada una retoma el código o la calibración lograda en la práctica previa. Antes de facilitar cualquier práctica, el docente debe leer también el archivo conceptual correspondiente en los bloques de "Movimiento y Mecanismos" o "Sensores y Percepción" que se enlaza dentro de cada README. Si el grupo es nuevo en robótica, no omitir la práctica 01 aunque parezca muy sencilla: es la que instala el concepto de secuencia que sostiene todo lo demás.
+Se recomienda aplicar las cinco prácticas en el orden numerado, idealmente en sesiones consecutivas, ya que cada una retoma el código o la calibración lograda en la práctica previa. La práctica 01 se asigna según el nivel de lógica de programación que ya tiene cada estudiante (principiante absoluto, con algo de lógica, o con experiencia previa en bloques), no según su grado escolar: dos estudiantes del mismo grado pueden iniciar en cursos distintos de Code.org. Antes de facilitar cualquier práctica, el docente debe leer también el archivo conceptual correspondiente en los bloques de "Movimiento y Mecanismos" o "Sensores y Percepción" que se enlaza dentro de cada README. Si el grupo es nuevo en programación, no omitir la práctica 01 aunque parezca muy sencilla: es la que instala la lógica de secuencia, bucle y condicional que sostiene todo lo demás.
 
 ---
 

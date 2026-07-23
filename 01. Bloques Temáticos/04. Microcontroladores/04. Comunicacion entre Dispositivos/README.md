@@ -13,6 +13,12 @@
 
 ---
 
+## Descripción
+
+Esta carpeta documenta los protocolos de comunicación entre dispositivos electrónicos más usados en proyectos educativos: UART, I2C, SPI, Bluetooth y WiFi.
+
+---
+
 ## Propósito
 
 Los microcontroladores raramente trabajan solos. Necesitan comunicarse con sensores, pantallas, módulos inalámbricos y otros microcontroladores. Esta carpeta cubre los protocolos de comunicación más usados en proyectos educativos.
@@ -45,14 +51,10 @@ Se usa como introducción antes de trabajar con módulos Bluetooth, sensores I2C
 
 ## Recursos relacionados
 
-- [UART](01. UART.md)
-- [I2C](02. I2C.md)
-- [SPI](03. SPI.md)
-- [Bluetooth y WiFi](04. Bluetooth y WiFi.md)
-
-## Imagen sugerida
-
-Diagrama comparativo de UART, I2C y SPI mostrando el número de cables y la topología de conexión de cada protocolo.
+- [UART](01.%20UART.md)
+- [I2C](02.%20I2C.md)
+- [SPI](03.%20SPI.md)
+- [Bluetooth y WiFi](04.%20Bluetooth%20y%20WiFi.md)
 
 ## Nota docente
 

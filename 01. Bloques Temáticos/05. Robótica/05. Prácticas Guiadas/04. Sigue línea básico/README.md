@@ -1,8 +1,11 @@
-# Sigue Línea Básico , Práctica Guiada
+# Sigue línea básico — Práctica guiada
 
+> Este archivo pertenece a: **Prácticas Guiadas de Robótica**
 > Ruta: `01. Bloques Temáticos/05. Robótica/05. Prácticas Guiadas/04. Sigue línea básico/README.md`
 
 ---
+
+## Estado
 
 **Estado:** Completo
 **Versión:** v1.0
@@ -10,6 +13,12 @@
 **Tecnología principal:** Sensores de línea (infrarrojos) + motores DC
 **Nivel sugerido:** Primaria alta / Secundaria
 **Duración estimada:** 75–90 minutos
+
+---
+
+## Descripción
+
+Cuarta práctica guiada del bloque de Robótica: el robot deja de seguir instrucciones fijas de tiempo y empieza a reaccionar al entorno mediante un sensor de línea, introduciendo el concepto de retroalimentación en tiempo real.
 
 ---
 
@@ -160,3 +169,12 @@ Al finalizar, el estudiante debería poder responder:
 - **El sensor está demasiado alto o demasiado bajo:** si está muy alto, no distingue bien los contrastes; si roza el piso, se ensucia o se daña. La altura recomendada suele ser de pocos milímetros, según las especificaciones del sensor del kit.
 
 **Gestión del tiempo:** la calibración del umbral (Fase 2.2) es el paso que más tiempo consume y el que más se salta por apuro. Vale la pena dedicarle al menos 10 minutos dedicados, porque un umbral mal calibrado hace fallar todo lo que sigue, sin que el error parezca estar ahí.
+
+---
+
+## Recursos relacionados
+
+- [`README.md` — Prácticas Guiadas](../README.md): índice de la secuencia de prácticas guiadas de robótica.
+- [`01. Sensor de línea.md`](../../03.%20Sensores%20y%20Percepción/01.%20Sensor%20de%20línea.md): base conceptual del sensor calibrado en esta práctica.
+- [`03. Robot gira`](../03.%20Robot%20gira/README.md): práctica anterior de la secuencia.
+- [`05. Evita obstáculos básico`](../05.%20Evita%20obstáculos%20básico/README.md): siguiente práctica de la secuencia.

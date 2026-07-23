@@ -11,6 +11,13 @@
 **Versión:** v1.1
 **Bloque:** 04_microcontroladores
 
+---
+
+## Descripción
+
+Este bloque temático reúne los recursos para enseñar programación física con microcontroladores: plataformas de hardware, entradas y salidas, sensores y actuadores, comunicación entre dispositivos y la progresión de programación de iconográfico a texto.
+
+---
 
 ## Propósito
 
@@ -20,7 +27,7 @@ Servir como punto de entrada al bloque temático de Microcontroladores dentro de
 
 ## ¿Qué es un microcontrolador?
 
-<img width="400" alt="Placa micro:bit, una de las plataformas de microcontroladores más utilizadas en educación a nivel mundial" src="https://github.com/user-attachments/assets/6e68c978-a9d3-4738-8379-2fd89f717db3" />
+<img width="480" alt="Placa BBC micro:bit, una de las plataformas de microcontroladores más utilizadas en educación a nivel mundial" src="https://upload.wikimedia.org/wikipedia/commons/0/02/BBC_micro_bit_%2826146399942%29.png" />
 
 Un microcontrolador es una pequeña computadora en un chip. A diferencia de una computadora normal, no tiene teclado ni pantalla: su trabajo es **leer sensores del entorno** (luz, temperatura, movimiento) y **controlar actuadores** (LEDs, motores, altavoces) siguiendo las instrucciones de un programa.
 
@@ -87,15 +94,11 @@ Este archivo es el primer recurso que consulta un docente cuando accede al bloqu
 
 ## Recursos relacionados
 
-- [Plataformas de Desarrollo](01. Plataformas de Desarrollo/README.md)
-- [Entradas y Salidas Digitales](02. Entradas y Salidas Digitales/README.md)
-- [Sensores y Actuadores](03. Sensores y Actuadores/README.md)
-- [Comunicación entre Dispositivos](04. Comunicacion entre Dispositivos/README.md)
-- [Progresión de Programación](05. Progresión de Programación/README.md)
-
-## Imagen sugerida
-
-Foto panorámica de las seis plataformas de desarrollo (micro:bit, Circuit Playground, Arduino UNO, ESP32, IdeaBoard e IdeaSense) colocadas juntas sobre una mesa.
+- [Plataformas de Desarrollo](01.%20Plataformas%20de%20Desarrollo/README.md)
+- [Entradas y Salidas Digitales](02.%20Entradas%20y%20Salidas%20Digitales/README.md)
+- [Sensores y Actuadores](03.%20Sensores%20y%20Actuadores/README.md)
+- [Comunicación entre Dispositivos](04.%20Comunicacion%20entre%20Dispositivos/README.md)
+- [Progresión de Programación](05.%20Progresión%20de%20Programación/README.md)
 
 ## Nota docente
 
@@ -103,4 +106,4 @@ Foto panorámica de las seis plataformas de desarrollo (micro:bit, Circuit Playg
 
 **Una plataforma bien dominada vale más que muchas conocidas superficialmente.** Si el centro tiene micro:bits, dominar esa plataforma al 100% es más valioso que saber un poco de todo.
 
-**Los proyectos concretos motivan más que los conceptos abstractos.** Antes de enseñar "qué es un sensor", hacer que los estudiantes conecten uno y vean los números cambiar en pantalla. La pregunta "¿por qué cambian los números?" surge sola.
+**Los proyectos concretos motivan más que los conceptos abstractos.** Antes de enseñar "qué es un sensor", hacer que los estudiantes conecten uno y vean los números cambiar en pantalla. 

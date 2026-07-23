@@ -13,6 +13,12 @@
 
 ---
 
+## Descripción
+
+Esta carpeta documenta los sensores y actuadores más usados en proyectos educativos: sensor de luz, sensor de distancia, servomotor y motor DC con su driver.
+
+---
+
 ## Propósito
 
 Los microcontroladores por sí solos no hacen nada. Su valor está en que pueden **leer el mundo** (sensores) y **actuar sobre él** (actuadores). Esta carpeta cubre los sensores y actuadores más utilizados en proyectos educativos.
@@ -71,14 +77,10 @@ Se usa como guía de referencia para seleccionar los componentes adecuados segú
 
 ## Recursos relacionados
 
-- [Sensor de Luz](01. Sensor de Luz.md)
-- [Sensor de Distancia](02. Sensor de Distancia.md)
-- [Servomotor](03. Servomotor.md)
-- [Motor DC y Driver](04. Motor DC y Driver.md)
-
-## Imagen sugerida
-
-Fotografía de los cuatro componentes principales: LDR, HC-SR04, servomotor SG90 y motor DC con driver L298N.
+- [Sensor de Luz](01.%20Sensor%20de%20Luz.md)
+- [Sensor de Distancia](02.%20Sensor%20de%20Distancia.md)
+- [Servomotor](03.%20Servomotor.md)
+- [Motor DC y Driver](04.%20Motor%20DC%20y%20Driver.md)
 
 ## Nota docente
 

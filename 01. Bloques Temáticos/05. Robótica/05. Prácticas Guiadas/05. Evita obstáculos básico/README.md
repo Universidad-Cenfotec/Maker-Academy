@@ -1,8 +1,11 @@
-# Evita Obstáculos Básico , Práctica Guiada
+# Evita obstáculos básico — Práctica guiada
 
+> Este archivo pertenece a: **Prácticas Guiadas de Robótica**
 > Ruta: `01. Bloques Temáticos/05. Robótica/05. Prácticas Guiadas/05. Evita obstáculos básico/README.md`
 
 ---
+
+## Estado
 
 **Estado:** Completo
 **Versión:** v1.0
@@ -10,6 +13,12 @@
 **Tecnología principal:** Sensor de distancia ultrasónico + motores DC
 **Nivel sugerido:** Primaria alta / Secundaria
 **Duración estimada:** 75–90 minutos
+
+---
+
+## Descripción
+
+Quinta y última práctica guiada del bloque de Robótica: el robot aprende a percibir el espacio frente a él con un sensor de distancia y a tomar decisiones de navegación autónoma, cerrando la progresión de Prácticas Guiadas.
 
 ---
 
@@ -164,3 +173,12 @@ Al finalizar, el estudiante debería poder responder:
 - **El robot gira siempre hacia el mismo lado y queda "atrapado" en una esquina:** es un comportamiento esperado en esta versión básica. Se puede señalar como una limitación conocida y usarla como gancho para la variante avanzada de detectar el lado más despejado.
 
 **Gestión del tiempo:** conviene reservar los últimos 10 a 15 minutos de la sesión para la reflexión de cierre de todo el ciclo de Prácticas Guiadas, no solo de esta práctica puntual, ya que es la última del bloque y consolida el aprendizaje acumulado.
+
+---
+
+## Recursos relacionados
+
+- [`README.md` — Prácticas Guiadas](../README.md): índice de la secuencia de prácticas guiadas de robótica.
+- [`02. Sensor de distancia.md`](../../03.%20Sensores%20y%20Percepción/02.%20Sensor%20de%20distancia.md): base conceptual del sensor ultrasónico usado en esta práctica.
+- [`04. Sigue línea básico`](../04.%20Sigue%20línea%20básico/README.md): práctica anterior de la secuencia.
+- [`README.md` — Evaluación](../../06.%20Evaluación/README.md): instrumentos para evaluar el desempeño alcanzado al cerrar el ciclo de prácticas guiadas.

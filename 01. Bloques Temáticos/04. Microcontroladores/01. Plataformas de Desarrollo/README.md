@@ -13,11 +13,17 @@
 
 ---
 
+## Descripción
+
+Esta carpeta reúne las fichas de las seis plataformas de microcontroladores disponibles en Maker Academy, con sus características, entornos de programación y recomendaciones de uso según el nivel educativo.
+
+---
+
 ## Propósito
 
-<img width="400" alt="Arduino UNO, una de las plataformas más populares para aprender electrónica y programación en secundaria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg" />
+<img width="400" alt="Arduino UNO, una de las plataformas más populares para aprender electrónica y programación en secundaria" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" />
 
-<img width="200" alt="Logo de Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/320px-Arduino_Logo.svg.png" />
+<img width="200" alt="Logo de Arduino" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
 
 Elegir la plataforma de desarrollo correcta para un grupo o proyecto es una de las decisiones más importantes antes de empezar. Cada plataforma tiene un nivel de dificultad diferente, distintos componentes integrados y un ecosistema propio de software y proyectos.
 
@@ -76,16 +82,12 @@ Es el recurso de orientación principal para docentes que empiezan a trabajar co
 
 ## Recursos relacionados
 
-- [micro:bit](01. Micro:bit.md)
-- [Circuit Playground](02. Circuit Playground.md)
-- [Arduino UNO y Nano](03. Arduino UNO y Nano.md)
-- [ESP32](04. ESP32.md)
-- [IdeaBoard](05. IdeaBoard.md)
-- [IdeaSense](06. IdeaSense.md)
-
-## Imagen sugerida
-
-Tabla visual comparativa con las seis plataformas en columnas y sus características principales en filas.
+- [micro:bit](01.%20MicroBit.md)
+- [Circuit Playground](02.%20Circuit%20Playground.md)
+- [Arduino UNO y Nano](03.%20Arduino%20UNO%20y%20Nano.md)
+- [ESP32](04.%20ESP32.md)
+- [IdeaBoard](05.%20IdeaBoard.md)
+- [IdeaSense](06.%20IdeaSense.md)
 
 ## Nota docente
 

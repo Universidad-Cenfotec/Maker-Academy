@@ -13,6 +13,12 @@
 
 ---
 
+## Descripción
+
+Organiza la progresión de aprendizaje de programación física en tres niveles —iconográfico, bloques y texto— desde las primeras experiencias sin pantalla hasta la escritura de código.
+
+---
+
 ## Propósito
 
 La programación no empieza frente a una computadora. Empieza con entender que las instrucciones tienen un orden, que los detalles importan y que cuando algo no funciona, se puede buscar el error de forma sistemática.
@@ -79,6 +85,12 @@ Se puede explorar el siguiente nivel mientras se sigue en el actual. Muchos estu
 
 Se usa para planificar la secuencia de enseñanza de programación dentro del bloque de Microcontroladores. Permite a los docentes identificar en qué nivel están sus estudiantes y hacia dónde avanzar.
 
+
+## Recursos relacionados
+
+- [`README.md` — Microcontroladores](../README.md): Punto de entrada al bloque temático.
+- [`01. Mapa de Progresión.md`](../01.%20Mapa%20de%20Progresi%C3%B3n.md): Describe los mismos niveles con más detalle de edades e indicadores de logro.
+- [`01. Iconografico/README.md`](01.%20Iconografico/README.md): Primer nivel de esta progresión.
 
 ## Nota docente
 

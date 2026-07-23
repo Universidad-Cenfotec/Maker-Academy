@@ -1,8 +1,11 @@
-# Robot Gira , Práctica Guiada
+# Robot gira — Práctica guiada
 
+> Este archivo pertenece a: **Prácticas Guiadas de Robótica**
 > Ruta: `01. Bloques Temáticos/05. Robótica/05. Prácticas Guiadas/03. Robot gira/README.md`
 
 ---
+
+## Estado
 
 **Estado:** Completo
 **Versión:** v1.0
@@ -10,6 +13,12 @@
 **Tecnología principal:** Robot educativo con motores DC y microcontrolador (Arduino o similar)
 **Nivel sugerido:** Primaria alta
 **Duración estimada:** 60–75 minutos
+
+---
+
+## Descripción
+
+Tercera práctica guiada del bloque de Robótica: el grupo agrega giros al programa de la sesión anterior y culmina con el reto de programar un cuadrado combinando avance, giro y repetición.
 
 ---
 
@@ -165,3 +174,12 @@ Al finalizar, el estudiante debería poder responder:
 - **Se calibra el giro con batería baja y luego falla con batería cargada:** recordar a los grupos recalibrar si cambian de batería o si notan que el robot se mueve de forma distinta a sesiones anteriores.
 
 **Gestión del tiempo:** la calibración del giro (Fase 2.2) suele tomar más tiempo del esperado. Es preferible dedicarle tiempo suficiente antes de pasar al cuadrado completo, en lugar de apurar esta fase y arrastrar el error a todo el programa.
+
+---
+
+## Recursos relacionados
+
+- [`README.md` — Prácticas Guiadas](../README.md): índice de la secuencia de prácticas guiadas de robótica.
+- [`02. Giros.md`](../../02.%20Movimiento%20y%20Mecanismos/02.%20Giros.md): base conceptual de los tipos de giro usados en esta práctica.
+- [`02. Robot avanza y se detiene`](../02.%20Robot%20avanza%20y%20se%20detiene/README.md): práctica anterior de la secuencia.
+- [`04. Sigue línea básico`](../04.%20Sigue%20línea%20básico/README.md): siguiente práctica de la secuencia.

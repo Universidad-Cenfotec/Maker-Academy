@@ -1,6 +1,6 @@
 # Monitor Serial
 
-<img width="560" alt="Monitor Serial del IDE de Arduino mostrando la comunicación en tiempo real entre el microcontrolador y la computadora" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Arduino_Serial_Monitor.png/640px-Arduino_Serial_Monitor.png" />
+<img width="560" alt="Monitor Serial del IDE de Arduino mostrando la comunicación en tiempo real entre el microcontrolador y la computadora" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Open_Serial_Monitor.png" />
 
 
 > Este archivo pertenece a: **Microcontroladores**
@@ -10,9 +10,11 @@
 
 ## Estado
 
-**Estado:** Completo
+**Estado:** Archivado
 **Versión:** v1.0
 **Bloque:** 04_microcontroladores
+
+> **Nota de archivo:** este archivo es una versión anterior y redundante de [`04. Monitor Serial.md`](04.%20Monitor%20Serial.md), que cubre el mismo tema con el nombre y la numeración estándar de esta carpeta. Se conserva por si contiene ejemplos útiles (estrategias de depuración, comunicación bidireccional, plotter serial), pero **no debe usarse como referencia principal**: usar `04. Monitor Serial.md` en su lugar.
 
 ---
 
@@ -172,10 +174,6 @@ Se consulta como material de apoyo durante la planificación y ejecución de act
 ## Recursos relacionados
 
 - [README del bloque](../../README.md)
-
-## Imagen sugerida
-
-Imagen o diagrama ilustrativo relacionado con el tema 'serial-monitor'.
 
 ## Nota docente
 

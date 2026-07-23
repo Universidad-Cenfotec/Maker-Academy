@@ -1,8 +1,11 @@
-# Robot Avanza y se Detiene , Práctica Guiada
+# Robot avanza y se detiene — Práctica guiada
 
+> Este archivo pertenece a: **Prácticas Guiadas de Robótica**
 > Ruta: `01. Bloques Temáticos/05. Robótica/05. Prácticas Guiadas/02. Robot avanza y se detiene/README.md`
 
 ---
+
+## Estado
 
 **Estado:** Completo
 **Versión:** v1.0
@@ -10,6 +13,12 @@
 **Tecnología principal:** Robot educativo con motores DC y microcontrolador (Arduino o similar)
 **Nivel sugerido:** Primaria alta
 **Duración estimada:** 45–60 minutos
+
+---
+
+## Descripción
+
+Segunda práctica guiada del bloque de Robótica: el grupo escribe y carga su primer programa de control real, haciendo que el robot avance una distancia fija y se detenga solo.
 
 ---
 
@@ -161,3 +170,12 @@ Al finalizar, el estudiante debería poder responder:
 - **La desviación se "corrige" cambiando el tiempo en lugar de la velocidad:** si el robot se desvía hacia un lado, cambiar el `delay` no resuelve el problema de raíz. Guiar al grupo hacia el ajuste de velocidad de cada motor por separado.
 
 **Gestión del tiempo:** esta práctica se beneficia de trabajar por estaciones si hay pocos robots disponibles: mientras un grupo prueba en el piso, otro puede estar ajustando su código en la computadora.
+
+---
+
+## Recursos relacionados
+
+- [`README.md` — Prácticas Guiadas](../README.md): índice de la secuencia de prácticas guiadas de robótica.
+- [`01. Avance y retroceso.md`](../../02.%20Movimiento%20y%20Mecanismos/01.%20Avance%20y%20retroceso.md): base conceptual del movimiento que se programa en esta práctica.
+- [`04. Calibración de motores.md`](../../02.%20Movimiento%20y%20Mecanismos/04.%20Calibración%20de%20motores.md): profundiza el ajuste de velocidad usado para corregir la desviación del robot.
+- [`03. Robot gira`](../03.%20Robot%20gira/README.md): siguiente práctica de la secuencia.
