@@ -29,9 +29,50 @@ referencia pedagógica del uso de esta plataforma
 
 ## Página principal 
 
-Al iniciar a la plataforma tendrá dos opciones para iniciar a utilizar la plataforma:
+Al ingresar a la plataforma tendrá dos opciones para iniciar a utilizar la plataforma:
 
-**Inicio de Sesión**
+## 1. Registro
+
+---
+
+<img width="500" alt="Captura de pantalla 2026-07-23 173702" src="https://github.com/user-attachments/assets/38d51745-669a-4a68-b82f-f7c3eb061a8d" />
+
+---
+
+Podrá registrar su cuenta como docente, donde contará con todas las funciones de la cuenta de estudiante, además de:
+
+- _Crear secciones de clase y asignar materiales_
+
+- _Supervisar el progreso de los alumnos y aportar comentarios_
+
+- _Acceder a las evaluaciones y a las claves de respuestas_
+
+---
+
+## 1.1 Al iniciar cree una sección con el tipo de inicio de sesión personal
+
+<img width="500" alt="Captura de pantalla 2026-07-23 182858" src="https://github.com/user-attachments/assets/85185932-a880-4341-8362-8d88284bfbb5" />
+
+---
+
+## 1.2  Una vez creada la sección, pulse asignar un curso
+
+<img width="500" alt="Captura de pantalla 2026-07-23 183828" src="https://github.com/user-attachments/assets/91774a91-dcf9-4f72-ac59-6ab6979412f3" />
+
+---
+
+## 1.3 En el catálogo seleccione el curso que se le indica según la lección y marque las secciones a asignar
+
+
+<img width="500" alt="Captura de pantalla 2026-07-23 191025" src="https://github.com/user-attachments/assets/3562c074-8d59-4af6-81c1-628e9b763fb1" />
+<img width="500"  alt="Captura de pantalla 2026-07-23 191254" src="https://github.com/user-attachments/assets/46adef67-18d9-4dff-b8d7-06b682e00ab4" />
+
+---
+
+ Los estudiantes se registran en la plataforma 
+
+
+
 
 ## Contenido de esta carpeta
 
