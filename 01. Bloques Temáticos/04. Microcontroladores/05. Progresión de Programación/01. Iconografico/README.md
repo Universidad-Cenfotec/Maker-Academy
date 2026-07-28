@@ -27,8 +27,6 @@ Esta subcarpeta cubre el nivel de entrada a la programación de microcontrolador
 
 La idea central es simple: los laberintos del Express Course funcionan exactamente igual que un robot físico. El personaje en pantalla recibe instrucciones de movimiento (adelante, girar izquierda, girar derecha) y las ejecuta una por una, sin adivinar intenciones. Eso es exactamente lo que hace un microcontrolador.
 
-> Ver a Cinthya usando studio.code.org con estudiantes: [https://www.youtube.com/watch?v=n8SdOE_dUEQ](https://www.youtube.com/watch?v=n8SdOE_dUEQ)
-
 ---
 
 ## Organización por nivel de lógica de programación
