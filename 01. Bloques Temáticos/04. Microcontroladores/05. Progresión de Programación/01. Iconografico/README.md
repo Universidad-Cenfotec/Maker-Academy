@@ -66,7 +66,6 @@ Cada nivel de esta subcarpeta tiene un equivalente directo en la programación f
 - [Progresión de Programación](../README.md)
 - [Bloques: MakeCode](../02.%20Bloques/01.%20MakeCode%20Basico.md)
 - [Express Course 2025 completo](https://studio.code.org/s/express-2025)
-- [Video de clase con studio.code.org](https://www.youtube.com/watch?v=n8SdOE_dUEQ)
 
 ---
 
