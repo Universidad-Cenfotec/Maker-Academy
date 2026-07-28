@@ -28,8 +28,6 @@ Esta subcarpeta cubre el nivel de entrada a la programación de microcontrolador
 
 La idea central es simple: los laberintos del Express Course funcionan exactamente igual que un robot físico. El personaje en pantalla recibe instrucciones de movimiento (adelante, girar izquierda, girar derecha) y las ejecuta una por una, sin adivinar intenciones. Eso es exactamente lo que hace un microcontrolador.
 
-> Ver a Cinthya usando studio.code.org con estudiantes: [https://www.youtube.com/watch?v=n8SdOE_dUEQ](https://www.youtube.com/watch?v=n8SdOE_dUEQ)
-
 ---
 
 ## Organización por nivel de lógica de programación
@@ -67,7 +65,6 @@ Cada nivel de esta subcarpeta tiene un equivalente directo en la programación f
 - [Progresión de Programación](../README.md)
 - [Bloques: MakeCode](../02.%20Bloques/01.%20MakeCode%20Basico.md)
 - [Express Course 2025 completo](https://studio.code.org/s/express-2025)
-- [Video de clase con studio.code.org](https://www.youtube.com/watch?v=n8SdOE_dUEQ)
 
 ---
 
