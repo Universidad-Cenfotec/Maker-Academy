@@ -1,7 +1,7 @@
+
 # Lógica de Programación con studio.code.org
 
-<img width="360" alt="Robot Ozobot, herramienta de programación iconográfica para preescolar y primaria baja que usa colores en lugar de código" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ozobot.jpeg" />
-
+<img width="1068" height="497" alt="Captura de pantalla 2026-07-28 134004" src="https://github.com/user-attachments/assets/e3cd533c-1ef1-45bb-9070-edc90c2c3745" />
 
 > Este archivo pertenece a: **Microcontroladores**
 > Ruta: `01. Bloques Temáticos/04. Microcontroladores/05. Progresión de Programación/01. Iconografico/README.md`
