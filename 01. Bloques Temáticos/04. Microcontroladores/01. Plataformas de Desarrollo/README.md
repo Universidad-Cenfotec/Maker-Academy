@@ -21,9 +21,9 @@ Esta carpeta reúne las fichas de las seis plataformas de microcontroladores dis
 
 ## Propósito
 
-<img width="400" alt="Arduino UNO, una de las plataformas más populares para aprender electrónica y programación en secundaria" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" />
+<img width="400" alt="Arduino UNO, una de las plataformas más populares para aprender electrónica y programación en secundaria" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg" />
 
-<img width="200" alt="Logo de Arduino" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
+<img width="200" alt="Logo de Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/320px-Arduino_Logo.svg.png" />
 
 Elegir la plataforma de desarrollo correcta para un grupo o proyecto es una de las decisiones más importantes antes de empezar. Cada plataforma tiene un nivel de dificultad diferente, distintos componentes integrados y un ecosistema propio de software y proyectos.
 

@@ -21,7 +21,7 @@
 
 ## Propósito
 
-> *Insertar próximamente una imagen: logo oficial de Microsoft MakeCode.*
+<img width="280" alt="Logo de MakeCode, plataforma de programación por bloques de Microsoft usada con micro:bit y otras placas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MakeCode_logo.svg/320px-MakeCode_logo.svg.png" />
 
 Los entornos de programación por bloques permiten construir programas arrastrando piezas visuales en lugar de escribir texto. Los bloques están diseñados para encajar solo de formas sintácticamente correctas: es imposible crear un error de punto y coma o de paréntesis sin cerrar porque la estructura del bloque lo previene.
 

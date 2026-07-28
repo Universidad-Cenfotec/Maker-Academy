@@ -1,6 +1,7 @@
 # Lógica de Programación con studio.code.org
 
-> *Insertar próximamente una imagen: captura de pantalla de un laberinto de Code.org Express Course, donde el estudiante arrastra bloques para mover un personaje por el laberinto hasta la meta.*
+<img width="360" alt="Robot Ozobot, herramienta de programación iconográfica para preescolar y primaria baja que usa colores en lugar de código" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ozobot.jpeg/320px-Ozobot.jpeg" />
+
 
 > Este archivo pertenece a: **Microcontroladores**
 > Ruta: `01. Bloques Temáticos/04. Microcontroladores/05. Progresión de Programación/01. Iconografico/README.md`
