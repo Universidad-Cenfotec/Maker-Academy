@@ -1,6 +1,6 @@
 # Lógica de Programación con studio.code.org
 
-<img width="360" alt="Robot Ozobot, herramienta de programación iconográfica para preescolar y primaria baja que usa colores en lugar de código" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ozobot.jpeg/320px-Ozobot.jpeg" />
+<img width="360" alt="Robot Ozobot, herramienta de programación iconográfica para preescolar y primaria baja que usa colores en lugar de código" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ozobot.jpeg" />
 
 
 > Este archivo pertenece a: **Microcontroladores**

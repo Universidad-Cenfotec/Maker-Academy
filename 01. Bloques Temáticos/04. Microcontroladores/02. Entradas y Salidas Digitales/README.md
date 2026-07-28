@@ -21,7 +21,7 @@ Esta carpeta documenta cómo el microcontrolador lee y controla señales a trav�
 
 ## Propósito
 
-<img width="480" alt="Comparación de señal digital (cuadrada 0/1) y señal analógica (sinusoidal) en un osciloscopio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Duty_Cycle_Examples.png/480px-Duty_Cycle_Examples.png" />
+<img width="480" alt="Comparación de señal digital (cuadrada 0/1) y señal analógica (sinusoidal) en un osciloscopio" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Duty_Cycle_Examples.png" />
 
 Esta carpeta cubre cómo el microcontrolador se comunica con el mundo a través de sus pines: cómo leer sensores y botones (entradas) y cómo controlar LEDs, motores y actuadores (salidas).
 

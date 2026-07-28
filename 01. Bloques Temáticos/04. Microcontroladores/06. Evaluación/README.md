@@ -1,6 +1,6 @@
 # Evaluación , Microcontroladores y Programación Física
 
-<img width="400" alt="Placa Arduino UNO conectada a un protoboard con componentes — representación de un proyecto de evaluación práctica en el aula Makerspace" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/640px-Arduino_Uno_-_R3.jpg" />
+<img width="400" alt="Placa Arduino UNO conectada a un protoboard con componentes — representación de un proyecto de evaluación práctica en el aula Makerspace" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" />
 
 
 > Este archivo pertenece a: **Microcontroladores**

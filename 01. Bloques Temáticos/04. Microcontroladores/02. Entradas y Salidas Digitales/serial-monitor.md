@@ -1,6 +1,6 @@
 # Monitor Serial
 
-<img width="560" alt="Monitor Serial del IDE de Arduino mostrando la comunicación en tiempo real entre el microcontrolador y la computadora" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Arduino_Serial_Monitor.png/640px-Arduino_Serial_Monitor.png" />
+<img width="560" alt="Monitor Serial del IDE de Arduino mostrando la comunicación en tiempo real entre el microcontrolador y la computadora" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Open_Serial_Monitor.png" />
 
 
 > Este archivo pertenece a: **Microcontroladores**
