@@ -56,7 +56,7 @@ Los microcontroladores están en todas partes: controlan el semáforo de la esqu
 ├── 02. Entradas y Salidas Digitales/   ← Pines, señales, PWM, Monitor Serial
 ├── 03. Sensores y Actuadores/          ← Luz, distancia, servos, motores
 ├── 04. Comunicación entre Dispositivos/← UART, I2C, SPI, Bluetooth, WiFi
-├── 05. Progresión de Programación/     ← Iconográfico → Bloques → Texto
+├── 05. Progresión de Programación/     ← Curso introductorio: Fundamentos → Sensores/Actuadores → Plataformas
 ├── 06. Evaluación/                     ← Instrumentos de evaluación
 ├── 01. Mapa de Progresión.md
 ├── 02. Vocabulario.md
@@ -68,11 +68,11 @@ Los microcontroladores están en todas partes: controlan el semáforo de la esqu
 
 ## ¿Por dónde empezar?
 
-**Docente sin experiencia en tecnología:**
-→ Empezar por `05. Progresión de Programación / 01. Iconografico`. Son actividades sin computadora que construyen el pensamiento lógico.
+**Docente sin experiencia en programación ni electrónica:**
+→ Empezar por `05. Progresión de Programación / 01. Fundamentos de Programación`. Cubre desde cero las variables, condicionales, pines y umbrales que se usan en el resto del bloque.
 
 **Docente con experiencia en Scratch o programación básica:**
-→ Empezar por `01. Plataformas de Desarrollo / 01. Micro:bit.md` y luego `05. Progresión de Programación / 02. Bloques / 01. MakeCode Basico.md`.
+→ Empezar por `01. Plataformas de Desarrollo / 01. Micro:bit.md` y luego `05. Progresión de Programación / 03. Plataformas de Desarrollo / 01. MicroBit.md`.
 
 **Docente de secundaria técnica:**
 → Revisar `01. Plataformas de Desarrollo / 03. Arduino UNO y Nano.md` y los archivos de `03. Sensores y Actuadores`.

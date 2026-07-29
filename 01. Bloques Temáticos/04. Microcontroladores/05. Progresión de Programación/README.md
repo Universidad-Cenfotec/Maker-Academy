@@ -7,33 +7,33 @@
 
 ## Estado
 
-**Estado:** Completo
-**Versión:** v1.1
+**Estado:** Borrador
+**Versión:** v2.0
 **Bloque:** 04_microcontroladores
 
 ---
 
 ## Descripción
 
-Organiza la progresión de aprendizaje de programación física en tres niveles —iconográfico, bloques y texto— desde las primeras experiencias sin pantalla hasta la escritura de código.
+Organiza un curso introductorio de programación física, pensado para un docente con conocimiento cero de programación y electrónica, que avanza desde los conceptos más básicos hasta programar sensores, actuadores y placas completas, con el objetivo de llegar preparado al bloque de Robótica.
 
 ---
 
 ## Propósito
 
-La programación no empieza frente a una computadora. Empieza con entender que las instrucciones tienen un orden, que los detalles importan y que cuando algo no funciona, se puede buscar el error de forma sistemática.
+Un docente que llega al bloque de Robótica sin haber programado antes suele quedarse atascado en preguntas muy concretas: "¿cómo declaro este sensor?", "¿cómo configuro los pines?", "¿cómo defino un umbral?". Esta sección responde esas preguntas **antes** de llegar a Robótica, para que el bloque de Microcontroladores funcione como el curso base de programación de toda la ruta.
 
-Esta sección organiza el camino desde las primeras experiencias sin tecnología hasta la escritura de código en texto.
+A diferencia de una guía de referencia por componente, esta progresión está ordenada como un curso: primero el vocabulario de programación, después cómo se programa cada sensor y actuador, y finalmente cómo se integra todo en cada placa disponible.
 
 ---
 
-## Tres niveles
+## Tres pasos
 
-| Nivel | ¿Qué es? | ¿Para quién? |
+| Paso | ¿Qué es? | ¿Para quién? |
 |---|---|---|
-| **Iconográfico** | Instrucciones físicas y visuales, sin pantalla | Preescolar y primaria |
-| **Bloques** | Programación visual arrastrando piezas en la computadora | Primaria y secundaria inicial |
-| **Texto** | Código escrito en lenguajes como Python o C++ | Secundaria |
+| **Fundamentos de Programación** | Variables, condicionales, bucles, funciones, pines y umbrales, explicados desde cero | Docentes sin ninguna experiencia previa en programación |
+| **Sensores y Actuadores** | Cómo se programa cada sensor y actuador ya usado en el bloque: declaración, estándares y parámetros | Docentes que ya completaron Fundamentos |
+| **Plataformas de Desarrollo** | Cómo programar cada placa completa, en bloques y en texto según el entorno disponible | Docentes que ya eligieron una placa para su aula |
 
 ---
 
@@ -41,57 +41,55 @@ Esta sección organiza el camino desde las primeras experiencias sin tecnología
 
 ```
 05. Progresión de Programación/
-├── 01. Iconografico/
-│   ├── Tarjetas de Flechas       ← Dar instrucciones con tarjetas físicas
-│   ├── Secuencias de Colores     ← Programar con bloques de colores
-│   └── Rutas en el Piso          ← Planificar caminos en el suelo con cinta
-├── 02. Bloques/
-│   ├── MakeCode Basico           ← MakeCode para micro:bit y Circuit Playground
-│   ├── Scratch con Hardware      ← Scratch con extensiones de hardware
-│   └── Bloques con Sensores      ← Condicionales y sensores con bloques
-└── 03. Texto/
-    ├── Arduino Basico            ← C++ con Arduino IDE
-    ├── MicroPython Basico        ← Python para micro:bit y ESP32
-    ├── CircuitPython Basico      ← Python para Circuit Playground e IdeaBoard
-    └── Python para Robotica      ← Python en proyectos más complejos
+├── 01. Fundamentos de Programación/
+│   ├── Variables, Datos y Comentarios   ← Qué es una variable y cómo documentar código
+│   ├── Condicionales y Bucles           ← Cómo decidir y repetir en un programa
+│   └── Funciones, Pines y Umbrales      ← Cómo organizar código, declarar pines y definir umbrales
+├── 02. Sensores y Actuadores/
+│   ├── Sensor de Luz (LDR)              ← Programación del sensor de luz
+│   ├── Sensor de Distancia (HC-SR04)    ← Programación del sensor ultrasónico
+│   ├── Servomotor                       ← Programación de posición angular
+│   └── Motor DC y Driver                ← Programación de dirección y velocidad
+└── 03. Plataformas de Desarrollo/
+    ├── MicroBit                         ← MakeCode (bloques) y MicroPython (texto)
+    ├── Circuit Playground               ← MakeCode (bloques) y CircuitPython (texto)
+    ├── Arduino UNO y Nano                ← Arduino IDE (texto)
+    ├── ESP32                             ← Arduino IDE y MicroPython (texto)
+    ├── IdeaBoard                         ← IdeaScratch (bloques) e IdeaCode (texto)
+    └── IdeaSense                         ← IdeaCode (texto)
 ```
 
 ---
 
-## ¿Por qué empezar con lo iconográfico?
+## ¿Por qué este orden?
 
-Muchos docentes sienten la tentación de saltarse las actividades sin pantalla por considerarlas "demasiado simples". Sin embargo, son las que más claramente desarrollan el pensamiento lógico:
-
-- El estudiante da una instrucción y otro estudiante (el "robot") la sigue literalmente. Si algo sale mal, el error es inmediato y visible.
-- No hay tecnología que oculte o "corrija" el error automáticamente.
-- La depuración es completamente concreta: "¿En qué paso te equivocaste? ¿Qué instrucción fue incorrecta?"
-
-Dos sesiones de 45 minutos con actividades iconográficas antes de tocar una computadora hacen que el trabajo con bloques sea mucho más sólido.
+Programar un sensor sin saber qué es una variable es memorizar código sin entenderlo. Programar una placa completa sin haber programado antes un sensor por separado hace que, si algo falla, sea imposible saber si el error está en el sensor, en la placa o en la lógica. Por eso el orden va de lo más general (vocabulario de programación) a lo más específico (una placa con un sensor conectado): cada paso reduce una variable de incertidumbre para el siguiente.
 
 ---
 
-## ¿Cuándo pasar al siguiente nivel?
+## ¿Cuándo pasar al siguiente paso?
 
-No se trata de cumplir tiempo ni de llegar a cierta edad. La clave es la **fluidez**:
+No se trata de cumplir tiempo, sino de fluidez:
 
-- De iconográfico a bloques: cuando el estudiante puede crear secuencias de más de 10 pasos y corregir sus propios errores de forma independiente.
-- De bloques a texto: cuando puede leer el programa de otra persona y predecir lo que va a hacer antes de ejecutarlo.
+- De Fundamentos a Sensores y Actuadores: cuando se puede leer un fragmento de código con variables, condicionales y funciones, y explicar en voz alta qué hace cada línea.
+- De Sensores y Actuadores a Plataformas de Desarrollo: cuando se puede programar y probar un sensor por separado (por ejemplo, ver los números de una LDR cambiar en el Monitor Serial) antes de combinarlo con otros componentes.
 
-Se puede explorar el siguiente nivel mientras se sigue en el actual. Muchos estudiantes se benefician de ver código en texto mientras todavía trabajan con bloques: desmitifica el código y reduce el miedo al cambio.
+Se puede saltar directo a [`03. Plataformas de Desarrollo`](03.%20Plataformas%20de%20Desarrollo/README.md) si el docente ya tiene experiencia previa de otro contexto y solo necesita la referencia de una placa específica.
 
 ---
 
 ## Aplicación en Maker Academy
 
-Se usa para planificar la secuencia de enseñanza de programación dentro del bloque de Microcontroladores. Permite a los docentes identificar en qué nivel están sus estudiantes y hacia dónde avanzar.
-
+Se usa para planificar la secuencia de enseñanza de programación dentro del bloque de Microcontroladores, con el objetivo de que los estudiantes lleguen al bloque de Robótica sabiendo programar sensores, actuadores y placas, y no solo conociéndolos físicamente.
 
 ## Recursos relacionados
 
-- [`README.md` — Microcontroladores](../README.md): Punto de entrada al bloque temático.
-- [`01. Mapa de Progresión.md`](../01.%20Mapa%20de%20Progresi%C3%B3n.md): Describe los mismos niveles con más detalle de edades e indicadores de logro.
-- [`01. Iconografico/README.md`](01.%20Iconografico/README.md): Primer nivel de esta progresión.
+- [`README.md` — Microcontroladores`](../README.md): Punto de entrada al bloque temático.
+- [`01. Mapa de Progresión.md`](../01.%20Mapa%20de%20Progresi%C3%B3n.md): Describe la progresión general del bloque, con edades e indicadores de logro.
+- [`01. Fundamentos de Programación/README.md`](01.%20Fundamentos%20de%20Programaci%C3%B3n/README.md): Primer paso de esta progresión.
+- [`03. Sensores y Actuadores`](../03.%20Sensores%20y%20Actuadores/README.md): Documentación física de los componentes que se programan en el paso 2.
+- [`01. Plataformas de Desarrollo`](../01.%20Plataformas%20de%20Desarrollo/README.md): Documentación física de las placas que se programan en el paso 3.
 
 ## Nota docente
 
-Para docentes que nunca han programado: la mejor manera de prepararse es hacer una vez el mismo recorrido que harán sus estudiantes. Empezar con una actividad iconográfica sencilla, luego crear un proyecto básico en MakeCode. No hace falta dominar todo antes de enseñarlo: aprender junto con los estudiantes es una experiencia valiosa en sí misma.
+Para docentes que nunca han programado: la mejor manera de prepararse es hacer una vez el mismo recorrido que harán sus estudiantes, sin saltarse pasos. Empezar por Fundamentos, aunque parezca lento, evita después el problema más común en el bloque de Robótica: estudiantes (y docentes) que saben conectar un sensor pero no saben qué escribir en el código para que funcione.
