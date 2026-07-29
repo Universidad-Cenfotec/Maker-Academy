@@ -1,7 +1,7 @@
 # Proyectos Maker por Grado
 
 Este archivo pertenece a: Maker Academy
-Ruta: Programa Anual K11/Proyectos Maker por Grado/README.md
+Ruta: 03. Proyectos por Grado/README.md
 
 ## Estado
 
