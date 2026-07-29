@@ -27,7 +27,7 @@ El programa trabaja dos dimensiones:
 
 ## Metodología
 
-Maker Academy implementa la metodología institucional XperiencED de la Universidad CENFOTEC, adaptada a contextos escolares y enriquecida con cultura maker, aprendizaje basado en retos, las 4P, la espiral creativa y una mediación pedagógica diferenciada según la edad de los participantes.
+Maker Academy implementa la metodología institucional XperiencED de la Universidad CENFOTEC, adaptada a contextos escolares y enriquecida con cultura maker, aprendizaje basado en retos, las 4P de Mitch Resnick: Projects (Proyectos) · Passion (Pasión) · Peers (Pares) · Play (Juego / Participación) y su espiral creativa. Además,  se aplica una mediación pedagógica diferenciada según la edad de los participantes.
 
 Esta metodología está basada en tres momentos:
 
