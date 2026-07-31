@@ -1,9 +1,10 @@
 # Maker Academy
 
-**Krystell Gabriela Porras Rivera, Estudiante, Universidad CENFOTEC
-**Master Melisa Vargas, Coordinadora Maker Academy, Universidad CENFOTEC  
-**Ing. Gabriela Urbina, Profesora Universidad CENFOTEC  
-**Dr. Tomás de Camino Beck, Director Escuela de Sistemas Inteligentes, Universidad CENFOTEC  
+**Krystell Gabriela Porras Rivera**, Estudiante, Universidad CENFOTEC  
+**Master Melisa Vargas**, Coordinadora de Maker Academy, Universidad CENFOTEC  
+**Ing. Gabriela Urbina**, Profesora, Universidad CENFOTEC  
+**Dr. Tomás de Camino Beck**, Director de la Escuela de Sistemas Inteligentes, Universidad CENFOTEC  
+
 
 ---
 
@@ -37,7 +38,7 @@ Revise:
 
 **XperiencED Maker** es la metodología de la Universidad Cenfotec que aplica la cultura maker para promover el aprendizaje mediante tres momentos: **Inspiración, Experimentación y Reflexión**.
 
-### 3. Elegí la ruta
+### 3. Elija la ruta
 
 | Quiero… | Ir a… |
 |---|---|
