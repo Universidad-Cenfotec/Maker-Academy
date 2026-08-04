@@ -17,8 +17,6 @@
 
 Esta carpeta reúne minilecciones cortas (20 a 30 minutos), listas para usarse directamente con el grupo, que exploran usos generales del kit SumoBot: detenerse ante un obstáculo, seguir una línea y esquivar obstáculos en un circuito libre. Ninguna de ellas requiere que el grupo esté pensando en competencia.
 
-> 💡 **Sugerencia visual:** fotografía de un grupo de estudiantes probando su SumoBot en un circuito de obstáculos armado con cajas de cartón, sin ningún elemento relacionado con el dohyo de competencia.
-
 ---
 
 ## Propósito
