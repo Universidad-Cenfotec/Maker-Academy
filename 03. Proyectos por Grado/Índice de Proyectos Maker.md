@@ -1,12 +1,16 @@
 # Índice de Proyectos Maker
 
-Este archivo pertenece a: Programa Anual Maker Academy K11
-Ruta: 02. Programa Anual K11/Proyectos por Grado/Índice de Proyectos Maker.md
+> Este archivo pertenece a: **Maker Academy**  
+> Ruta: `03. Proyectos por Grado/Índice de Proyectos Maker.md`
+
+---
 
 ## Estado
 
-Estado: En construcción
-Versión: v1.0
+**Estado:** Publicado  
+**Versión:** v2.0
+
+---
 
 ## Descripción
 
