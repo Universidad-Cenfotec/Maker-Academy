@@ -6,7 +6,7 @@
 
 ## Estado
 
-**Estado:** Borrador  
+**Estado:** Publicado 
 **Versión:** v1.0  
 
 ## Descripción
