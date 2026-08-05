@@ -1,11 +1,11 @@
-# Plantilla de Guía del Estudiante XperiencED Kids
+# Plantilla de Guía del Estudiante XperiencED Maker
 
 Este archivo pertenece a: Recursos para Docentes Maker Academy  
-Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Guia_Estudiante_XperiencED_Kids.md
+Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Guia_Estudiante_XperiencED_Maker.md
 
 ## Estado
 
-Estado: Borrador  
+Estado: Publicado
 Versión: v1.0
 
 ## Descripción
@@ -18,11 +18,11 @@ Está pensada para que los estudiantes comprendan qué van a crear, qué necesit
 
 ## Propósito de la plantilla
 
-Orientar la creación de guías estudiantiles alineadas con la metodología XperiencED Kids, integrando los momentos de Inspiración, Experimentación y Reflexión.
+Orientar la creación de guías estudiantiles alineadas con la metodología XperiencED Maker, integrando los momentos de Inspiración, Experimentación y Reflexión.
 
 Esta plantilla busca que cada estudiante cuente con instrucciones claras, preguntas orientadoras, espacios para documentar su proceso y una ruta sencilla para construir, probar, mejorar y compartir su trabajo.
 
-* <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla editable: Guía del Estudiante (XperiencED Kids)</a>
+* <a href="https://docs.google.com/document/d/1nkUbGxYXh-ajeJ9gHeLngMeNEmCDqfPywKFHfbCtQR8/edit?usp=sharing" target="_blank">🚀 Plantilla editable: Guía del Estudiante (XperiencED Maker)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
 ## Contenido
