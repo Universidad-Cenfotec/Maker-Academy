@@ -1,12 +1,14 @@
 # Plantilla de Guía del Estudiante XperiencED Maker
 
-Este archivo pertenece a: Recursos para Docentes Maker Academy  
-Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Guia_Estudiante_XperiencED_Maker.md
+> Este archivo pertenece a: **Recursos para Docentes Maker Academy**  
+> Ruta: `06. Recursos para Docentes/Plantillas/Plantilla_Guia_Estudiante_XperiencED_Maker.md`
+
+---
 
 ## Estado
 
-Estado: Publicado
-Versión: v1.0
+**Estado:** Publicado  
+**Versión:** v1.0
 
 ## Descripción
 
