@@ -5,7 +5,7 @@ Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/03. Recursos para Docentes/ch
 
 ## Estado
 
-**Estado:** Borrador  
+**Estado:** Publicado
 **Versión:** v1.0  
 **Bloque:** Pensamiento Maker
 
@@ -194,3 +194,6 @@ ____________________________________________________________________
 ____________________________________________________________________
 
 ____________________________________________________________________
+
+
+[Descargar el Checklist para la activación de un reto maker](https://docs.google.com/document/d/1BQtddN0ICpwTHrFJ7v_RQELwnK2WJBPpaEFr1nOnHNo/edit?usp=sharing)
