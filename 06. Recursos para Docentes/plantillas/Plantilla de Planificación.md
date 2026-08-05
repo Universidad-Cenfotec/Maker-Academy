@@ -1,12 +1,16 @@
-# Plantilla de Planificación XperiencED Kids
+# Plantilla de Planificación XperiencED Maker
 
-Este archivo pertenece a: Recursos para Docentes Maker Academy  
-Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Planificacion.md
+> Este archivo pertenece a: **Recursos para Docentes Maker Academy**  
+> Ruta: `06. Recursos para Docentes/Plantillas/Plantilla_Planificacion.md`
+
+---
 
 ## Estado
 
-Estado: Borrador  
-Versión: v1.0
+**Estado:** Publicado  
+**Versión:** v1.0
+
+---
 
 ## Descripción
 
@@ -94,7 +98,7 @@ Antes o durante la sesión, identifique los conceptos que los estudiantes necesi
 
 * [Enlaces a presentaciones, lecturas, videos, guías de estudiante, bitácoras, tutoriales o repositorio.]
 
-## Secuencia Didáctica Integrada XperiencED Kids
+## Secuencia Didáctica Integrada XperiencED Maker
 
 La secuencia debe integrar los tres momentos de la metodología: Inspiración, Experimentación y Reflexión. Cada momento debe incluir la intención pedagógica, las acciones del docente, las acciones de los estudiantes y las evidencias esperadas.
 
