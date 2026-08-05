@@ -1,16 +1,16 @@
-# Plantilla de Guía Docente XperiencED Kids
+# Plantilla de Guía Docente XperiencED Maker
 
 Este archivo pertenece a: Recursos para Docentes Maker Academy  
-Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Guia_Docente_XperiencED_Kids.md
+Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Guia_Docente_XperiencED_Maker.md
 
 ## Estado
 
-Estado: Borrador  
+Estado: Publicado 
 Versión: v1.0
 
 ## Descripción
 
-Esta plantilla es una herramienta de apoyo para que los docentes implementen sesiones, módulos o retos maker de forma clara, estructurada y coherente con la metodología XperiencED Kids.
+Esta plantilla es una herramienta de apoyo para que los docentes implementen sesiones, módulos o retos maker de forma clara, estructurada y coherente con la metodología XperiencED Maker.
 
 La guía docente permite orientar la mediación pedagógica antes, durante y después de la experiencia, integrando los momentos de Inspiración, Experimentación y Reflexión.
 
@@ -22,7 +22,7 @@ Orientar la implementación de experiencias maker mediante una guía clara para 
 
 Esta plantilla busca que cada sesión cuente con objetivos claros, competencias definidas, preguntas guía, estrategias de acompañamiento, criterios de evaluación y espacios para la mejora continua.
 
-<a href="https://docs.google.com/document/d/1EbIZOwcJPjZejUpdg6G4sysuoKcYlBj6ArLuREcPQCY/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla: Guía Docente (XperiencED Kids)</a>
+<a href="https://docs.google.com/document/d/1EbIZOwcJPjZejUpdg6G4sysuoKcYlBj6ArLuREcPQCY/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla: Guía Docente (XperiencED Maker)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
 ## Contenido
@@ -86,7 +86,7 @@ Antes o durante la sesión, asegúrese de que los estudiantes comprendan los con
 
 ---
 
-## 04. Guía de Mediación Pedagógica XperiencED Kids
+## 04. Guía de Mediación Pedagógica XperiencED Maker
 
 ### 1. Momento: Inspiración
 
