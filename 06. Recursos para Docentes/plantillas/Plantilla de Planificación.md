@@ -1,7 +1,7 @@
 # Plantilla de Planificación XperiencED Maker
 
 > Este archivo pertenece a: **Recursos para Docentes Maker Academy**  
-> Ruta: `06. Recursos para Docentes/Plantillas/Plantilla_Planificacion.md`
+> Ruta: `06. Recursos para Docentes/Plantillas/Plantilla de Planificación.md`
 
 ---
 
