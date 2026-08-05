@@ -1,12 +1,14 @@
 # Proyectos Maker por Grado
 
-Este archivo pertenece a: Maker Academy
-Ruta: 03. Proyectos por Grado/README.md
+> Este archivo pertenece a: **Maker Academy**  
+> Ruta: `03. Proyectos por Grado/README.md`
+
+---
 
 ## Estado
 
-Estado: En construcción
-Versión: v1.0
+**Estado:** Publicado  
+**Versión:** v1.0  
 
 ## Descripción
 
