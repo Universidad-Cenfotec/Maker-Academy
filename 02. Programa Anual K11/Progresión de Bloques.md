@@ -1,5 +1,4 @@
-# Maker Academy
-## Programa Anual K-11: Crear, Conectar, Programar e Innovar
+# Programa Anual K-11: Crear, Conectar, Programar e Innovar
 ### Progresión de Bloques K-11
 
 **Este archivo pertenece a:** Programa Anual Maker Academy K-11  
