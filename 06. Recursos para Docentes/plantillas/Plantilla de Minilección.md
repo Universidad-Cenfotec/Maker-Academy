@@ -1,12 +1,14 @@
-# Plantilla de Minilección XperiencED Kids con IA
+# Plantilla de Minilección XperiencED Maker
 
-Este archivo pertenece a: Recursos para Docentes Maker Academy
-Ruta: 06. Recursos para Docentes/Plantillas/Plantilla_Breve_Minileccion_XperiencED_Kids_con_IA.md
+> Este archivo pertenece a: **Recursos para Docentes Maker Academy**  
+> Ruta: `06. Recursos para Docentes/Plantillas/Plantilla_Breve_Minileccion_XperiencED_Maker_con_IA.md`
+
+---
 
 ## Estado
 
-Estado: Borrador
-Versión: v1.0
+**Estado:** Publicado  
+**Versión:** v1.0
 
 ## Descripción
 
@@ -18,11 +20,11 @@ La inteligencia artificial puede apoyar la creación de ejemplos, preguntas, ada
 
 ## Propósito de la plantilla
 
-Orientar el diseño de minilecciones alineadas con la metodología XperiencED Kids, integrando los momentos de Inspiración, Experimentación breve y Reflexión.
+Orientar el diseño de minilecciones alineadas con la metodología XperiencED Maker, integrando los momentos de Inspiración, Experimentación breve y Reflexión.
 
 Esta plantilla busca que cada minilección tenga un propósito claro, una actividad concreta, una evidencia rápida de aprendizaje y una evaluación formativa sencilla.
 
-<a href="https://docs.google.com/document/d/1XapjKsqIAoSvE3pThjWg-oQ6JIMO3neydoKPqvH5LNw/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla:Minilección (XperiencED Kids)</a>
+<a href="https://docs.google.com/document/d/1XapjKsqIAoSvE3pThjWg-oQ6JIMO3neydoKPqvH5LNw/edit?usp=sharing" target="_blank">👩‍🏫 Plantilla:Minilección (XperiencED Maker)</a>
 > Si deseas abrirlo en una nueva pestaña: **Ctrl + clic** en Windows o **Cmd + clic** en Mac.
 
 ## Datos generales
