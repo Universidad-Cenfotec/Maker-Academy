@@ -56,20 +56,20 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 │   ├── 03. Sensor de luz.md
 │   └── 04. Múltiples sensores.md
 │
-├── 04. SumoBot/
+├── 04. CenfoBot/
 │   ├── README.md
 │   ├── 01. Partes del kit y funciones.md
-│   ├── 02. Seguridad del kit SumoBot.md
+│   ├── 02. Seguridad del kit CenfoBot.md
 │   ├── 03. Sensores de línea y distancia.md
 │   ├── 04. Calibración de sensores.md
-│   ├── 05. Progresión de programación del SumoBot.md
+│   ├── 05. Progresión de programación del CenfoBot.md
 │   ├── 06. Mini Lecciones/
 │   │   ├── README.md
-│   │   ├── 01. El SumoBot se detiene ante un obstáculo.md
-│   │   ├── 02. El SumoBot sigue una línea.md
-│   │   └── 03. El SumoBot como esquiva-obstáculos.md
-│   ├── 07. Proyectos sugeridos con el kit SumoBot.md
-│   └── 08. Competencia SumoBot/
+│   │   ├── 01. El CenfoBot se detiene ante un obstáculo.md
+│   │   ├── 02. El CenfoBot sigue una línea.md
+│   │   └── 03. El CenfoBot como esquiva-obstáculos.md
+│   ├── 07. Proyectos sugeridos con el kit CenfoBot.md
+│   └── 08. Competencia CenfoBot/
 │       ├── README.md
 │       ├── 01. Reglas básicas.md
 │       ├── 02. Dohyo y borde.md
@@ -96,7 +96,7 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
     ├── README.md
     ├── 01. Lista de cotejo de robótica.md
     ├── 02. Rúbrica de robótica básica.md
-    └── 03. Rúbrica de SumoBot.md
+    └── 03. Rúbrica de CenfoBot.md
 ```
 
 ---
@@ -108,7 +108,7 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 | Preescolar (4–6 años) | Robots desenchufados: secuencias físicas con el cuerpo |
 | Primaria baja (6–9 años) | Primer contacto con robots programables por bloques |
 | Primaria alta (9–12 años) | Control de motores, sensores básicos, proyectos guiados |
-| Secundaria (12–18 años) | Navegación autónoma, SumoBot, integración de múltiples sensores |
+| Secundaria (12–18 años) | Navegación autónoma, CenfoBot, integración de múltiples sensores |
 
 ---
 
@@ -133,7 +133,7 @@ Este bloque acompaña al docente en ese camino: desde los conceptos más básico
 | `01. Fundamentos de Robótica/` | Conceptos base: ¿qué es un robot y cómo funciona? |
 | `02. Movimiento y Mecanismos/` | Motores, giros, velocidad y calibración |
 | `03. Sensores y Percepción/` | Cómo el robot percibe su entorno |
-| `04. SumoBot/` | Guía completa del kit SumoBot: componentes, progresión de programación, proyectos sugeridos y, opcionalmente, competencia |
+| `04. CenfoBot/` | Guía completa del kit CenfoBot: componentes, progresión de programación, proyectos sugeridos y, opcionalmente, competencia |
 | `05. Prácticas Guiadas/` | Actividades paso a paso para el aula |
 | `06. Evaluación/` | Rúbricas y listas de cotejo por nivel |
 

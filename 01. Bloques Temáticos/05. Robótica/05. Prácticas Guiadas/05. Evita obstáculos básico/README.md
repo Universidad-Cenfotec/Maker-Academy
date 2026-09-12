@@ -24,7 +24,7 @@ Quinta y última práctica guiada del bloque de Robótica: el robot aprende a pe
 
 ## Propósito de esta práctica
 
-Esta es la práctica que cierra la progresión de "Prácticas Guiadas" de robótica: el robot ya sabe avanzar, girar y seguir una línea; ahora aprende a percibir el espacio frente a él y a tomar una decisión de navegación autónoma cuando detecta un obstáculo. Es también la base directa de comportamientos usados en el SumoBot, donde detectar al adversario es la primera condición para poder actuar.
+Esta es la práctica que cierra la progresión de "Prácticas Guiadas" de robótica: el robot ya sabe avanzar, girar y seguir una línea; ahora aprende a percibir el espacio frente a él y a tomar una decisión de navegación autónoma cuando detecta un obstáculo. Es también la base directa de comportamientos usados en el CenfoBot, donde detectar al adversario es la primera condición para poder actuar.
 
 Se apoya en los conceptos técnicos desarrollados en [Sensor de distancia](../../03.%20Sensores%20y%20Percepción/02.%20Sensor%20de%20distancia.md), que el docente debe repasar antes de la sesión, en particular el principio de medición por eco ultrasónico.
 
