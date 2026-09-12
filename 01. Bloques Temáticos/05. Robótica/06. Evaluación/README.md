@@ -15,7 +15,7 @@
 
 ## Descripción
 
-Esta carpeta reúne los instrumentos de evaluación formativa del bloque de Robótica: una lista de cotejo del proceso general de trabajo con robots, una rúbrica de las competencias básicas del bloque y una rúbrica específica para la actividad de SumoBot. Está dirigida a docentes que necesitan observar, retroalimentar y documentar el aprendizaje de los estudiantes durante el bloque.
+Esta carpeta reúne los instrumentos de evaluación formativa del bloque de Robótica: una lista de cotejo del proceso general de trabajo con robots, una rúbrica de las competencias básicas del bloque y una rúbrica específica para la actividad de CenfoBot. Está dirigida a docentes que necesitan observar, retroalimentar y documentar el aprendizaje de los estudiantes durante el bloque.
 
 ---
 
@@ -31,7 +31,7 @@ Dentro de Maker Academy, evaluar en robótica no significa solo revisar si el ro
 |---|---|
 | `01. Lista de cotejo de robótica.md` | Checklist de Sí/No para verificar el proceso general de trabajo: seguridad, armado, programación básica, colaboración y documentación. |
 | `02. Rúbrica de robótica básica.md` | Rúbrica formativa con niveles de logro para las competencias centrales del bloque: comprensión conceptual, chasis, movimiento, sensores, calibración y colaboración. |
-| `03. Rúbrica de SumoBot.md` | Rúbrica específica para evaluar el desempeño de los equipos en la actividad de SumoBot: calibración, estrategia, comportamiento en el dohyo y espíritu deportivo. |
+| `03. Rúbrica de CenfoBot.md` | Rúbrica específica para evaluar el desempeño de los equipos en la actividad de CenfoBot: calibración, estrategia, comportamiento en el dohyo y espíritu deportivo. |
 
 > Los archivos están numerados en el orden en que se recomienda consultarlos.
 
@@ -39,7 +39,7 @@ Dentro de Maker Academy, evaluar en robótica no significa solo revisar si el ro
 
 ## Cuándo usar cada instrumento
 
-Se recomienda usar la lista de cotejo durante las primeras sesiones de armado y programación, como verificación rápida de que el proceso esencial se está cumpliendo. La rúbrica de robótica básica se aplica al cierre de un proyecto o unidad, cuando ya hay evidencia suficiente para valorar el nivel de logro con más detalle. La rúbrica de SumoBot se reserva para la actividad de competencia, idealmente usándose también en las sesiones de práctica previas y no solo el día del evento.
+Se recomienda usar la lista de cotejo durante las primeras sesiones de armado y programación, como verificación rápida de que el proceso esencial se está cumpliendo. La rúbrica de robótica básica se aplica al cierre de un proyecto o unidad, cuando ya hay evidencia suficiente para valorar el nivel de logro con más detalle. La rúbrica de CenfoBot se reserva para la actividad de competencia, idealmente usándose también en las sesiones de práctica previas y no solo el día del evento.
 
 ---
 
@@ -47,7 +47,7 @@ Se recomienda usar la lista de cotejo durante las primeras sesiones de armado y 
 
 - **Inspiración:** los instrumentos se presentan a los estudiantes desde el inicio del proyecto, para que sepan qué se espera de ellos antes de empezar a construir.
 - **Experimentación:** la lista de cotejo y la rúbrica de robótica básica se usan durante el armado, la programación y las pruebas, como acompañamiento formativo del proceso.
-- **Reflexión:** la rúbrica de SumoBot y la revisión de la documentación del proceso cierran el bloque, ayudando a los estudiantes a identificar qué aprendieron y qué mejorarían en una próxima versión.
+- **Reflexión:** la rúbrica de CenfoBot y la revisión de la documentación del proceso cierran el bloque, ayudando a los estudiantes a identificar qué aprendieron y qué mejorarían en una próxima versión.
 
 ---
 
@@ -55,8 +55,8 @@ Se recomienda usar la lista de cotejo durante las primeras sesiones de armado y 
 
 - [`01. Lista de cotejo de robótica.md`](01.%20Lista%20de%20cotejo%20de%20rob%C3%B3tica.md): checklist del proceso general de trabajo con robots.
 - [`02. Rúbrica de robótica básica.md`](02.%20R%C3%BAbrica%20de%20rob%C3%B3tica%20b%C3%A1sica.md): rúbrica de competencias del bloque básico.
-- [`03. Rúbrica de SumoBot.md`](03.%20R%C3%BAbrica%20de%20SumoBot.md): rúbrica específica de la actividad de SumoBot.
-- [`../04. SumoBot/08. Competencia SumoBot/05. Checklist de competencia.md`](../04.%20SumoBot/08.%20Competencia%20SumoBot/05.%20Checklist%20de%20competencia.md): checklist previo a la competencia, complementario a la rúbrica de SumoBot.
+- [`03. Rúbrica de CenfoBot.md`](03.%20R%C3%BAbrica%20de%20CenfoBot.md): rúbrica específica de la actividad de CenfoBot.
+- [`../04. CenfoBot/08. Competencia CenfoBot/05. Checklist de competencia.md`](../04.%20CenfoBot/08.%20Competencia%20CenfoBot/05.%20Checklist%20de%20competencia.md): checklist previo a la competencia, complementario a la rúbrica de CenfoBot.
 - [`../01. Fundamentos de Robótica/05. Estabilidad y equilibrio.md`](../01.%20Fundamentos%20de%20Rob%C3%B3tica/05.%20Estabilidad%20y%20equilibrio.md): base conceptual para el criterio de chasis y estabilidad.
 
 ---

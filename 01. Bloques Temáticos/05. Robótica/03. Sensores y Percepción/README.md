@@ -32,7 +32,7 @@ Es también la sección donde los conceptos de robótica se acercan más a la pr
 | Archivo | ¿Qué explica? |
 |---|---|
 | [`01. Sensor de línea.md`](./01.%20Sensor%20de%20l%C3%ADnea.md) | Cómo funciona el sensor IR reflectivo, cómo calibrarlo y cómo programar el seguimiento de una línea con dos sensores |
-| [`02. Sensor de distancia.md`](./02.%20Sensor%20de%20distancia.md) | Cómo funciona el sensor ultrasónico HC-SR04, cómo leer distancias en Arduino y cómo usarlo para evadir obstáculos o detectar al adversario en SumoBot |
+| [`02. Sensor de distancia.md`](./02.%20Sensor%20de%20distancia.md) | Cómo funciona el sensor ultrasónico HC-SR04, cómo leer distancias en Arduino y cómo usarlo para evadir obstáculos o detectar al adversario en CenfoBot |
 | [`03. Sensor de luz.md`](./03.%20Sensor%20de%20luz.md) | Cómo funciona el LDR (fotoresistor), cómo leer su valor de forma analógica y cómo programar un robot que sigue una fuente de luz |
 | [`04. Múltiples sensores.md`](./04.%20M%C3%BAltiples%20sensores.md) | Cómo combinar varios sensores en un mismo robot y cómo definir una jerarquía de prioridad cuando dos sensores "piden" comportamientos distintos al mismo tiempo |
 
@@ -42,7 +42,7 @@ Es también la sección donde los conceptos de robótica se acercan más a la pr
 
 ## Cómo usar esta carpeta
 
-Recorre los cuatro archivos en orden: cada uno se apoya en el anterior. Comienza con el sensor de línea, sigue con el sensor de distancia, luego con el sensor de luz y cierra con Múltiples Sensores, que integra los anteriores en una sola lógica de prioridad. Esta secuencia prepara directamente al grupo para el bloque de SumoBot.
+Recorre los cuatro archivos en orden: cada uno se apoya en el anterior. Comienza con el sensor de línea, sigue con el sensor de distancia, luego con el sensor de luz y cierra con Múltiples Sensores, que integra los anteriores en una sola lógica de prioridad. Esta secuencia prepara directamente al grupo para el bloque de CenfoBot.
 
 ---
 
@@ -57,11 +57,11 @@ Recorre los cuatro archivos en orden: cada uno se apoya en el anterior. Comienza
 ## Recursos relacionados
 
 - [`README.md` — Robótica Educativa](../README.md): índice general del bloque de Robótica.
-- [`04. SumoBot/README.md`](../04.%20SumoBot/README.md): sección donde estos sensores se aplican de forma combinada en el kit SumoBot.
+- [`04. CenfoBot/README.md`](../04.%20CenfoBot/README.md): sección donde estos sensores se aplican de forma combinada en el kit CenfoBot.
 - [`01. Fundamentos de Robótica/04. Sensores y actuadores robóticos.md`](../01.%20Fundamentos%20de%20Rob%C3%B3tica/04.%20Sensores%20y%20actuadores%20rob%C3%B3ticos.md): base conceptual sobre sensores y actuadores previa a esta sección.
 
 ---
 
 ## Nota docente
 
-Esta sección es el puente natural hacia el bloque de SumoBot: los cuatro archivos preparan al estudiante para entender por qué el robot de competencia necesita, como mínimo, sensores de línea (para no salirse del dohyo) y de distancia (para encontrar al adversario). Conviene no saltarse el archivo de Múltiples Sensores, porque es ahí donde se resuelve el error más común de los equipos: programar cada sensor por separado sin definir cuál manda cuando ambos "piden" algo distinto al mismo tiempo.
+Esta sección es el puente natural hacia el bloque de CenfoBot: los cuatro archivos preparan al estudiante para entender por qué el robot de competencia necesita, como mínimo, sensores de línea (para no salirse del dohyo) y de distancia (para encontrar al adversario). Conviene no saltarse el archivo de Múltiples Sensores, porque es ahí donde se resuelve el error más común de los equipos: programar cada sensor por separado sin definir cuál manda cuando ambos "piden" algo distinto al mismo tiempo.
