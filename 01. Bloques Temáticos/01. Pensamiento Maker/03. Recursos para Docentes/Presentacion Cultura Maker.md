@@ -5,7 +5,7 @@ Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/03. Recursos para Docentes/Pr
 
 ## Estado
 
-**Estado:** Borrador  
+**Estado:** Publicado 
 **Versión:** v1.0  
 **Bloque:** Pensamiento Maker
 

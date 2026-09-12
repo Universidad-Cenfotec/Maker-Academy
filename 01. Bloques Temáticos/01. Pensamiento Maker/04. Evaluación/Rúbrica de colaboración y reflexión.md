@@ -5,7 +5,7 @@ Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/04. Rúbrica de colaboración
 
 ## Estado
 
-Estado: Borrador  
+Estado: Publicado  
 Versión: v1.0  
 Bloque: Pensamiento Maker
 
@@ -164,3 +164,5 @@ Profundizar en la argumentación, la calidad de las evidencias, la distribución
 ## Principio orientador
 
 > Reflexionar no consiste solamente en contar qué se hizo. Implica reconocer decisiones, analizar evidencias, aprender de los errores y definir cómo mejorar.
+
+[Descargar la Rúbrica de colaboración y reflexión](https://docs.google.com/document/d/1ywexc4V7Drtb_fGmum99c243U4xxsluw-ly2PJfc0dQ/edit?usp=sharing)

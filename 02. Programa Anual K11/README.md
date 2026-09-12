@@ -1,5 +1,4 @@
-# Maker Academy
-## Programa Anual K-11: Crear, Conectar, Programar e Innovar
+# Programa Anual K-11: Crear, Conectar, Programar e Innovar
 ### Orientaciones para la navegación y el uso de la propuesta anual
 
 **Este archivo pertenece a:** Programa Anual Maker Academy K-11  
@@ -7,7 +6,7 @@
 
 ## Estado
 
-**Estado:** Borrador  
+**Estado:** Publicado  
 **Versión:** v1.0  
 
 ## Descripción

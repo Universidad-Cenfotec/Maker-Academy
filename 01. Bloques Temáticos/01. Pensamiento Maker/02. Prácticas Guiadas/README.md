@@ -13,7 +13,7 @@ Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/02. Prácticas Guiadas/README
 
 Esta carpeta reúne prácticas guiadas dirigidas al estudiantado para aplicar conceptos fundamentales del pensamiento maker mediante retos breves, concretos y adaptables a distintos niveles educativos.
 
-Cada práctica utiliza la metodología **XperiencED Kids**, organizada en tres momentos:
+Cada práctica utiliza la metodología **XperiencED Maker**, organizada en tres momentos:
 
 1. **Inspiración:** conexión con una pregunta, necesidad o situación cercana.
 2. **Experimentación:** construcción, programación, prueba, identificación de errores e iteración.

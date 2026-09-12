@@ -1,55 +1,71 @@
-# Banco de preguntas para desarrollar el pensamiento maker
+# Banco de Preguntas para Desarrollar el Pensamiento Maker
 
-Este archivo pertenece a: Bloque Temático Pensamiento Maker  
-Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/03. Recursos para Docentes/Banco de Preguntas para para desarrollar el pensamiento maker.md
+> Este archivo pertenece a: **Bloque Temático Pensamiento Maker**  
+> Ruta: `01. Bloques Temáticos/01. Pensamiento Maker/03. Recursos para Docentes/Banco de Preguntas para desarrollar el pensamiento maker.md`
+
+---
 
 ## Estado
 
-**Estado:** Borrador  
-**Versión:** v1.0  
-**Bloque:** Pensamiento Maker
+**Estado:** Publicado  
+**Versión:** v2.0  
+**Bloque:** `01_pensamiento-maker`
+
+---
 
 ## Descripción
 
-Este banco reúne preguntas que pueden utilizarse para activar y acompañar el pensamiento maker durante una minilección, práctica guiada, reto o proyecto.
+Este banco reúne preguntas para acompañar la mediación docente durante minilecciones, prácticas guiadas, retos y proyectos maker.
 
-Las preguntas están organizadas según los momentos de XperiencED Kids: Inspiración, Experimentación y Reflexión. También incluyen aspectos relacionados con creatividad, prototipado, colaboración, seguridad, documentación y uso responsable de inteligencia artificial.
+Las preguntas buscan ayudar al estudiantado a observar, formular problemas, imaginar soluciones, construir, programar, probar, aprender de los errores, colaborar, documentar y reflexionar sobre su proceso.
 
-No es necesario utilizar todas las preguntas. El docente puede seleccionar, adaptar o simplificar aquellas que respondan mejor al propósito de la experiencia y a las características del grupo.
+Se organizan según los tres momentos de **XperiencED Maker**:
+
+1. **Inspiración**
+2. **Experimentación**
+3. **Reflexión**
+
+También incluye preguntas relacionadas con prototipado, diseño centrado en el usuario, seguridad, colaboración, documentación y uso responsable de inteligencia artificial.
+
+No es necesario utilizarlas todas ni seguirlas en un orden rígido. La persona docente puede seleccionar, adaptar o simplificar aquellas que respondan al propósito de aprendizaje, al nivel educativo y a las necesidades del grupo.
+
+---
 
 ## Propósito
 
 Apoyar la mediación docente mediante preguntas que promuevan:
 
-- Curiosidad.
-- Observación.
-- Formulación de problemas.
-- Generación de ideas.
-- Construcción y prototipado.
-- Prueba e iteración.
-- Colaboración.
-- Documentación.
-- Reflexión.
-- Autonomía.
-- Uso crítico de la tecnología.
-
-## Recomendaciones para utilizar el banco
-
-- Formule una pregunta a la vez.
-- Brinde tiempo suficiente para pensar y responder.
-- Solicite explicaciones, ejemplos o evidencias.
-- Evite convertir las preguntas en un interrogatorio.
-- Utilice preguntas abiertas cuando existan varias soluciones posibles.
-- Emplee preguntas concretas cuando el equipo necesite enfocar su atención.
-- Devuelva preguntas al equipo antes de proporcionar una respuesta.
-- Permita responder mediante palabras, dibujos, modelos o demostraciones.
-- Adapte el vocabulario a la edad y experiencia del estudiantado.
+- Curiosidad y observación.
+- Comprensión de necesidades y retos.
+- Generación y selección de ideas.
+- Diseño, construcción y programación.
+- Prueba, análisis de errores e iteración.
+- Colaboración y autonomía.
+- Documentación y comunicación.
+- Reflexión sobre los aprendizajes.
+- Uso crítico y responsable de la tecnología y la inteligencia artificial.
 
 ---
 
-# Fase 1. Inspiración
+## Recomendaciones para utilizar el banco
 
-## Para despertar curiosidad
+- Formular una pregunta a la vez.
+- Brindar tiempo para pensar, conversar y responder.
+- Priorizar preguntas abiertas cuando existan diferentes soluciones posibles.
+- Solicitar explicaciones, ejemplos o evidencias.
+- Evitar convertir la mediación en un interrogatorio.
+- Devolver preguntas al equipo antes de ofrecer una respuesta.
+- Permitir respuestas mediante palabras, dibujos, modelos, código o demostraciones.
+- Adaptar el vocabulario a la edad y experiencia del estudiantado.
+- Seleccionar únicamente las preguntas que aporten al momento de la experiencia.
+
+---
+
+## Momento 1. Inspiración
+
+Durante la Inspiración, las preguntas ayudan a despertar la curiosidad, conectar con conocimientos previos, comprender una necesidad y definir el reto que orientará la experiencia.
+
+### Para despertar curiosidad
 
 - ¿Qué observan?
 - ¿Qué les llama la atención?
@@ -62,11 +78,11 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué objeto, sistema o solución les gustaría comprender mejor?
 - ¿Qué creen que existe dentro o detrás de su funcionamiento?
 
-## Para comprender una necesidad
+### Para comprender una necesidad
 
 - ¿Cuál es el problema?
 - ¿Quién experimenta esta necesidad?
-- ¿Cómo afecta a las personas, animales o al ambiente?
+- ¿Cómo afecta a las personas, los animales o el ambiente?
 - ¿Por qué sería importante buscar una solución?
 - ¿Qué necesita realmente la persona usuaria?
 - ¿Qué sabemos sobre su contexto?
@@ -75,7 +91,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Todas las personas experimentan el problema de la misma manera?
 - ¿Qué condiciones debe respetar una posible solución?
 
-## Para observar soluciones existentes
+### Para observar soluciones existentes
 
 - ¿Cómo se resuelve actualmente este problema?
 - ¿Qué funciona bien en las soluciones existentes?
@@ -88,7 +104,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué impacto tiene en el ambiente?
 - ¿Qué idea podríamos adaptar sin copiarla completamente?
 
-## Para formular el reto
+### Para formular el reto
 
 - ¿Qué queremos lograr?
 - ¿Cómo podríamos expresar el reto en una sola frase?
@@ -103,9 +119,11 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 
 ---
 
-# Fase 2. Experimentación
+## Momento 2. Experimentación
 
-## Para generar ideas
+Durante la Experimentación, las preguntas acompañan la generación de ideas, la planificación, la construcción, la programación, las pruebas y la mejora de las soluciones.
+
+### Para generar ideas
 
 - ¿Cuántas maneras diferentes imaginan para resolverlo?
 - ¿Qué idea parece más sencilla?
@@ -116,11 +134,11 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué solución propondrían si no pudieran utilizar electricidad?
 - ¿Qué podrían construir con los materiales disponibles?
 - ¿Qué parte de la naturaleza podría inspirar una solución?
-- ¿Qué idea parece extraña pero vale la pena explorar?
+- ¿Qué idea parece extraña, pero vale la pena explorar?
 - ¿Cómo podrían modificar un objeto que ya existe?
 - ¿Qué idea responde mejor a las necesidades identificadas?
 
-## Para seleccionar una idea
+### Para seleccionar una idea
 
 - ¿Qué criterios utilizarán para decidir?
 - ¿Cuál propuesta responde mejor al problema?
@@ -133,7 +151,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿La propuesta es segura y accesible?
 - ¿Cómo justifican la idea seleccionada?
 
-## Para planificar
+### Para planificar
 
 - ¿Qué necesitan construir primero?
 - ¿Qué materiales utilizarán?
@@ -148,7 +166,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué evidencia deberán registrar?
 - ¿Cómo sabrán cuándo es momento de probar?
 
-## Para construir
+### Para construir
 
 - ¿Qué están tratando de lograr en este momento?
 - ¿Cómo se conecta esta parte con las demás?
@@ -163,7 +181,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Todas las personas del equipo están participando?
 - ¿El prototipo representa la idea que planificaron?
 
-## Para probar
+### Para probar
 
 - ¿Qué desean comprobar?
 - ¿Qué condición mantendrán igual?
@@ -180,7 +198,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿La solución cumple con los criterios del reto?
 - ¿Es necesario realizar otra prueba antes de concluir?
 
-## Para analizar errores
+### Para analizar errores
 
 - ¿En qué momento comenzó el problema?
 - ¿Qué información proporciona este error?
@@ -195,7 +213,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué aprendieron gracias a este intento?
 - ¿Existe un error diferente detrás del problema visible?
 
-## Para iterar y mejorar
+### Para iterar y mejorar
 
 - ¿Qué cambio tendría mayor impacto?
 - ¿Qué parte funciona y conviene conservar?
@@ -211,7 +229,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué diferencia existe entre la primera versión y la actual?
 - ¿Qué todavía no han logrado resolver?
 
-## Para programación y robótica
+### Para programación y robótica
 
 - ¿Qué comportamiento esperan del programa?
 - ¿Qué debe ocurrir primero?
@@ -227,7 +245,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué caso todavía no contempla el programa?
 - ¿Cómo podrían hacer el código más claro o eficiente?
 
-## Para fabricación digital
+### Para fabricación digital
 
 - ¿Qué medidas necesitan verificar?
 - ¿El diseño corresponde con el material disponible?
@@ -241,7 +259,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Cómo podrían reducir desperdicios?
 - ¿Qué cambiarían en el diseño antes de fabricar otra versión?
 
-## Para DIY y autonomía
+### Para DIY y autonomía
 
 - ¿Qué pueden intentar por cuenta propia?
 - ¿Qué conocimiento anterior pueden utilizar?
@@ -253,7 +271,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué han descubierto mediante la experimentación?
 - ¿Cómo pueden apropiarse y personalizar esta creación?
 
-## Para DIWO y colaboración
+### Para DIWO y colaboración
 
 - ¿Qué idea aportó cada integrante?
 - ¿Cómo están tomando las decisiones?
@@ -268,7 +286,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Cómo documentarán los aportes del grupo?
 - ¿Qué aprendieron gracias a trabajar con otras personas?
 
-## Para seguridad y responsabilidad
+### Para seguridad y responsabilidad
 
 - ¿Qué riesgo observan?
 - ¿Qué norma se aplica en esta situación?
@@ -283,7 +301,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué impacto ambiental tienen los materiales seleccionados?
 - ¿Podrían reutilizar alguna pieza?
 
-## Para documentar el proceso
+### Para documentar el proceso
 
 - ¿Qué decisión importante deberían registrar?
 - ¿Qué fotografía mostraría mejor el proceso?
@@ -300,9 +318,11 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 
 ---
 
-# Fase 3. Reflexión
+## Momento 3. Reflexión
 
-## Para analizar el producto
+Durante la Reflexión, las preguntas ayudan a analizar el producto, reconocer los aprendizajes, valorar la colaboración y conectar la experiencia con nuevas situaciones.
+
+### Para analizar el producto
 
 - ¿Qué construyeron?
 - ¿Qué función cumple?
@@ -317,7 +337,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué limitaciones presenta?
 - ¿Cómo se compara con la idea inicial?
 
-## Para analizar el proceso
+### Para analizar el proceso
 
 - ¿Cómo comenzó la idea?
 - ¿Qué decisiones fueron más importantes?
@@ -332,7 +352,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué habilidad desarrollaron?
 - ¿Cómo utilizaron el tiempo y los materiales?
 
-## Para reflexionar sobre la colaboración
+### Para reflexionar sobre la colaboración
 
 - ¿Cómo se organizaron?
 - ¿Qué aporte realizó cada integrante?
@@ -343,9 +363,9 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Todas las voces fueron escuchadas?
 - ¿Qué podrían mejorar en la organización del equipo?
 - ¿Qué aprendieron de otra persona?
-- ¿Qué parte habría sido diferente si trabajaban individualmente?
+- ¿Qué parte habría sido diferente si hubieran trabajado individualmente?
 
-## Para transferir el aprendizaje
+### Para transferir el aprendizaje
 
 - ¿Dónde más podrían utilizar esta idea?
 - ¿Qué otro problema podría resolverse con un mecanismo similar?
@@ -360,9 +380,11 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 
 ---
 
-# Preguntas para el uso responsable de inteligencia artificial
+## Preguntas para el uso responsable de inteligencia artificial
 
-## Antes de utilizar IA
+La inteligencia artificial puede apoyar la ideación, la investigación, la programación, la documentación o la revisión de una propuesta. Su uso debe ser crítico, ético, seguro y supervisado.
+
+### Antes de utilizar IA
 
 - ¿Para qué necesitan utilizar la herramienta?
 - ¿Podrían resolver esta parte sin inteligencia artificial?
@@ -372,7 +394,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Cómo formularán una solicitud clara?
 - ¿Quién tomará la decisión final?
 
-## Al revisar una respuesta generada
+### Al revisar una respuesta generada
 
 - ¿La respuesta se relaciona con el reto?
 - ¿Es correcta y comprensible?
@@ -384,7 +406,7 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 - ¿Qué parte conviene descartar?
 - ¿Cómo pueden comprobar la información mediante otra fuente o prueba?
 
-## Después de utilizar IA
+### Después de utilizar IA
 
 - ¿Cómo influyó la herramienta en el proceso?
 - ¿Qué decisiones fueron tomadas por el equipo?
@@ -397,9 +419,11 @@ Apoyar la mediación docente mediante preguntas que promuevan:
 
 ---
 
-# Adaptación de las preguntas por nivel
+## Adaptación de las preguntas por nivel
 
-## Preescolar
+Las preguntas deben ajustarse a la edad, la experiencia, el vocabulario y el nivel de autonomía del estudiantado.
+
+### Preescolar
 
 Utilice preguntas breves, acompañadas de objetos, imágenes o acciones:
 
@@ -411,7 +435,7 @@ Utilice preguntas breves, acompañadas de objetos, imágenes o acciones:
 - ¿Quieres probar otra vez?
 - ¿Cómo ayudaste al equipo?
 
-## Primero a tercer grado
+### Primero a tercer grado
 
 Promueva explicaciones sencillas:
 
@@ -422,7 +446,7 @@ Promueva explicaciones sencillas:
 - ¿Cómo sabes que funciona?
 - ¿Qué aprendiste?
 
-## Cuarto a sexto grado
+### Cuarto a sexto grado
 
 Incorpore comparación, criterios y documentación:
 
@@ -432,7 +456,7 @@ Incorpore comparación, criterios y documentación:
 - ¿Cómo se diferencia esta versión de la anterior?
 - ¿Qué decisión pueden justificar?
 
-## Secundaria
+### Secundaria
 
 Profundice en análisis, impacto y argumentación:
 
@@ -442,3 +466,27 @@ Profundice en análisis, impacto y argumentación:
 - ¿Qué impacto social, ambiental o ético podría generar?
 - ¿Cómo validaron la solución con las personas usuarias?
 - ¿Qué mejora deberían priorizar y por qué?
+
+---
+
+## Recursos relacionados
+
+- [Checklist de Activación del Reto](<./Checklist de Activación del Reto.md>)
+- [Guía de retroalimentación maker](<./Guía de retroalimentación maker.md>)
+- [Presentación Cultura Maker](<./Presentacion Cultura Maker.md>)
+- [06. Diseño Centrado en el Usuario](<../06. Diseño Centrado en el Usuario.md>)
+- [07. Prototipado Rápido](<../07. Prototipado Rápido.md>)
+- [08. Relación con XperiencED Maker](<../08. Relación con XperiencED Maker.md>)
+- [Metodología XperiencED Maker](<../../../00. Modelo Pedagógico/02. Metodología XperiencED Maker.md>)
+
+---
+
+## Nota docente
+
+Este banco funciona como una herramienta flexible de mediación. No pretende que la persona docente formule todas las preguntas ni que interrumpa constantemente el proceso de creación.
+
+Las preguntas deben utilizarse para ayudar al estudiantado a observar mejor, tomar decisiones, explicar sus ideas, analizar las pruebas y avanzar con mayor autonomía.
+
+La pregunta central para seleccionar una intervención es:
+
+> ¿Qué pregunta puede ayudar al estudiantado a pensar o avanzar sin resolverle el reto?
