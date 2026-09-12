@@ -5,7 +5,7 @@ Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/03. Recursos para Docentes/RE
 
 ## Estado
 
-**Estado:** Borrador  
+**Estado:** Publicado  
 **Versión:** v1.0  
 **Bloque:** Pensamiento Maker
 
@@ -119,4 +119,4 @@ Los materiales de esta carpeta pueden actualizarse a partir de:
 - Los ajustes al modelo pedagógico de Maker Academy.
 - Las necesidades identificadas durante los procesos de acompañamiento y capacitación docente.
 
-Toda modificación debe conservar la coherencia con el modelo pedagógico Maker Academy y con la metodología XperiencED Kids.
+Toda modificación debe conservar la coherencia con el modelo pedagógico Maker Academy y con la metodología XperiencED Maker.

@@ -15,7 +15,7 @@ Esta carpeta reúne minilecciones breves diseñadas para introducir, reforzar o 
 
 Las minilecciones pueden desarrollarse antes, durante o después de un reto, proyecto o experiencia de Maker Academy. Su propósito es facilitar la comprensión de conceptos clave mediante actividades cortas, prácticas y adaptables a diferentes niveles educativos.
 
-Todas las propuestas siguen la metodología **XperiencED Kids**, organizada en tres momentos:
+Todas las propuestas siguen la metodología **XperiencED Maker**, organizada en tres momentos:
 
 * **Inspiración:** activa conocimientos previos, presenta una pregunta, situación o ejemplo.
 * **Experimentación:** permite probar, construir, comparar, modificar o resolver.

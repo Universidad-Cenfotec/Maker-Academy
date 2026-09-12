@@ -5,7 +5,7 @@ Ruta: 01. Bloques Temáticos/01. Pensamiento Maker/04. Evaluación/Lista de cote
 
 ## Estado
 
-Estado: Borrador  
+Estado: Publicado
 Versión: v1.0  
 Bloque: Pensamiento Maker
 
@@ -157,3 +157,5 @@ La evidencia debe centrarse en acciones observables. En lugar de registrar únic
 ## Cierre
 
 La cultura maker se desarrolla progresivamente. Esta lista de cotejo busca hacer visible el proceso de aprender haciendo, compartiendo, probando y mejorando.
+
+[Descargar la Lista de cotejo de cultura maker](https://docs.google.com/document/d/1NnQOwIAHObV-oZRZRBLHachSXQAChOFOa7M-J60e0Io/edit?usp=sharing)

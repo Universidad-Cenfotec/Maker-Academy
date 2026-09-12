@@ -1,4 +1,3 @@
-# Maker Academy
 ## Programa Anual K-11: Crear, Conectar, Programar e Innovar
 ### Matriz Anual K-11
 
@@ -7,7 +6,7 @@
 
 ## Estado
 
-**Estado:** Borrador  
+**Estado:** Publicado  
 **Versión:** v1.0  
 
 ## Descripción
@@ -28,7 +27,7 @@ La explicación detallada de las competencias, los bloques temáticos y la organ
 | **Duración por grado** | 40 semanas |
 | **Organización anual** | 4 módulos de 10 semanas |
 | **Frecuencia sugerida** | 1 sesión semanal de 80 a 120 minutos |
-| **Metodología** | XperiencED Kids |
+| **Metodología** | XperiencED Maker |
 | **Fases metodológicas** | Inspiración, Experimentación y Reflexión |
 | **Cierre anual** | Proyecto integrador, documentación, exposición y reflexión |
 
