@@ -1,36 +1,35 @@
-# ¿Qué es el IoT?
+# ¿Qué es el Internet de las cosas?
 
-> Este archivo pertenece a: **Fundamentos**  
-> Ruta: `01_bloques-tematicos/06_iot-conectividad/fundamentos/que-es-iot.md`
-
----
-
-## Estado
-
-- **Estado:** Borrador
-- **Versión:** v1.0
-- **Bloque:** 06_iot-conectividad
-
----
+| Campo | Valor |
+| --- | --- |
+| Ruta | `01. Bloques Temáticos/06. IoT y Conectividad/01. Fundamentos/01. Qué es IoT.md` |
+| Estado | En revisión |
+| Versión | v1.0 |
+| Bloque | 06_iot-conectividad |
+| Última actualización | 2026-09-13 |
+| Responsable | Equipo Maker Academy |
 
 ## Descripción
 
-_Describe aquí el propósito y contenido de `que-es-iot`._
+IoT conecta objetos capaces de percibir su entorno, procesar información, comunicarse y, en algunos casos, actuar. Una lámpara con temporizador aislado es automatización; si comparte estado o recibe instrucciones por una red, forma parte de una solución IoT.
 
----
+## Propósito
 
-## Contenido
+Distinguir objetos conectados de dispositivos electrónicos aislados y reconocer el valor de los datos.
 
-_Agrega el desarrollo del tema aquí._
+## Actividad
 
----
+Clasifique cinco objetos del aula. Para cada uno indique sensor, dato, conexión, decisión, acción, usuario y riesgo. Proponga una mejora que no requiera recopilar datos personales.
 
-## Recursos relacionados
+## Recursos
 
-- [ ] _Agrega enlaces, materiales o referencias relevantes._
+Tarjetas de objetos: riego, estación meteorológica, iluminación, refrigeración y control de acceso.
 
----
+## Imagen sugerida
 
-## Notas docentes
+Comparación entre circuito aislado y sistema IoT.
 
-_Espacio para indicaciones adicionales dirigidas al docente._
+## Nota docente
+
+Evite definir IoT únicamente como “algo conectado a Internet”; enfatice propósito, datos y retroalimentación.
+
