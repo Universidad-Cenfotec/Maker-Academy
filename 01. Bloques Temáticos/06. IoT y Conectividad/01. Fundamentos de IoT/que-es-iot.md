@@ -7,7 +7,7 @@
 | Versión | v1.0 |
 | Bloque | 06_iot-conectividad |
 | Última actualización | 2026-09-13 |
-| Responsable | Equipo Maker Academy |
+| Responsable | Aylin Salazar |
 
 ## Descripción
 
