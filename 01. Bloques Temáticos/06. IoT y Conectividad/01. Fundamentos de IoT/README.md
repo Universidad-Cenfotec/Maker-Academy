@@ -160,14 +160,15 @@ En primeros niveles puede utilizarse lenguaje cotidiano y representaciones visua
 ---
 
 ## Recursos relacionados
-
 - [`../README.md`](../README.md)
-- [`../00. Orientaciones/01. Progresión K-11.md`](../00.%20Orientaciones/01.%20Progresi%C3%B3n%20K-11.md)
-- [`../00. Orientaciones/02. Vocabulario.md`](../00.%20Orientaciones/02.%20Vocabulario.md)
-- [`../00. Orientaciones/03. Seguridad y privacidad.md`](../00.%20Orientaciones/03.%20Seguridad%20y%20privacidad.md)
+- [`../01. Mapa de Progresión.md`](../01.%20Mapa%20de%20Progresi%C3%B3n.md)
+- [`../02. Vocabulario.md`](../02.%20Vocabulario.md)
+- [`../03.Seguridad.md`](../03.Seguridad.md)
+- [`../04. Alineación con el PNFT.md`](../04.%20Alineaci%C3%B3n%20con%20el%20PNFT.md)
+- [`../02. Plataformas y Herramientas/README.md`](../02.%20Plataformas%20y%20Herramientas/README.md)
 - [`../03. ESP32/README.md`](../03.%20ESP32/README.md)
-- [`../04. Protocolos/README.md`](../04.%20Protocolos/README.md)
-- [`../05. Prácticas/README.md`](../05.%20Pr%C3%A1cticas/README.md)
+- [`../04. Protocolos de Comunicación/README.md`](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md)
+- [`../05. Prácticas Guiadas/README.md`](../05.%20Pr%C3%A1cticas%20Guiadas/README.md)
 
 ---
 
