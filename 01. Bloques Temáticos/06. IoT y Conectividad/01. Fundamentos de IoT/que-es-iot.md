@@ -244,13 +244,13 @@ Cada equipo explica por qué su propuesta sí constituye una solución IoT y res
 ## Recursos relacionados
 
 ### Dentro del repositorio
-
-- [`02. Arquitectura IoT.md`](02.%20Arquitectura%20IoT.md)
-- [`03. Dispositivos y conectividad.md`](03.%20Dispositivos%20y%20conectividad.md)
-- [`04. Casos de uso.md`](04.%20Casos%20de%20uso.md)
-- [`../00. Orientaciones/01. Progresión K-11.md`](../00.%20Orientaciones/01.%20Progresi%C3%B3n%20K-11.md)
-- [`../00. Orientaciones/02. Vocabulario.md`](../00.%20Orientaciones/02.%20Vocabulario.md)
-- [`../00. Orientaciones/03. Seguridad y privacidad.md`](../00.%20Orientaciones/03.%20Seguridad%20y%20privacidad.md)
+- [`README.md`](README.md)
+- [`arquitectura-iot.md`](arquitectura-iot.md)
+- [`dispositivos-conectividad-plataformas.md`](dispositivos-conectividad-plataformas.md)
+- [`casos-uso-iot.md`](casos-uso-iot.md)
+- [`../01. Mapa de ProgresiÃ³n.md`](../01.%20Mapa%20de%20Progresi%C3%B3n.md)
+- [`../02. Vocabulario.md`](../02.%20Vocabulario.md)
+- [`../03.Seguridad.md`](../03.Seguridad.md)
 
 ---
 
