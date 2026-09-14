@@ -417,16 +417,17 @@ Cada equipo presenta el diagrama y justifica sus decisiones. Las preguntas de ci
 ## Recursos relacionados
 
 ### Dentro del repositorio
-
 - [`README.md`](README.md)
-- [https://github.com/Universidad-Cenfotec/Maker-Academy/blob/70ecfe0c6e917736b3f05969cb09ca988adb33f0/01.%20Bloques%20Tem%C3%A1ticos/06.%20IoT%20y%20Conectividad/01.%20Fundamentos%20de%20IoT/que-es-iot.md](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/70ecfe0c6e917736b3f05969cb09ca988adb33f0/01.%20Bloques%20Tem%C3%A1ticos/06.%20IoT%20y%20Conectividad/01.%20Fundamentos%20de%20IoT/que-es-iot.md)
-- [`03. Dispositivos y conectividad.md`](03.%20Dispositivos%20y%20conectividad.md)
-- [`04. Casos de uso.md`](04.%20Casos%20de%20uso.md)
-- [`../00. Orientaciones/02. Vocabulario.md`](../00.%20Orientaciones/02.%20Vocabulario.md)
-- [`../00. Orientaciones/03. Seguridad y privacidad.md`](../00.%20Orientaciones/03.%20Seguridad%20y%20privacidad.md)
+- [`que-es-iot.md`](que-es-iot.md)
+- [`dispositivos-conectividad-plataformas.md`](dispositivos-conectividad-plataformas.md)
+- [`casos-uso-iot.md`](casos-uso-iot.md)
+- [`../01. Mapa de ProgresiÃ³n.md`](../01.%20Mapa%20de%20Progresi%C3%B3n.md)
+- [`../02. Vocabulario.md`](../02.%20Vocabulario.md)
+- [`../03.Seguridad.md`](../03.Seguridad.md)
+- [`../02. Plataformas y Herramientas/README.md`](../02.%20Plataformas%20y%20Herramientas/README.md)
 - [`../03. ESP32/README.md`](../03.%20ESP32/README.md)
-- [`../04. Protocolos/README.md`](../04.%20Protocolos/README.md)
-- [`../05. Prácticas/README.md`](../05.%20Pr%C3%A1cticas/README.md)
+- [`../04. Protocolos de ComunicaciÃ³n/README.md`](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md)
+- [`../05. PrÃ¡cticas Guiadas/README.md`](../05.%20Pr%C3%A1cticas%20Guiadas/README.md)
 
 ### Fuentes de consulta
 
