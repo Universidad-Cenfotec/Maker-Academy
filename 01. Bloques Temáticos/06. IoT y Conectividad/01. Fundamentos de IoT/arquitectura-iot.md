@@ -419,7 +419,7 @@ Cada equipo presenta el diagrama y justifica sus decisiones. Las preguntas de ci
 ### Dentro del repositorio
 
 - [`README.md`](README.md)
-- [`01. Qué es IoT.md`](01.%20Qu%C3%A9%20es%20IoT.md)
+- [https://github.com/Universidad-Cenfotec/Maker-Academy/blob/70ecfe0c6e917736b3f05969cb09ca988adb33f0/01.%20Bloques%20Tem%C3%A1ticos/06.%20IoT%20y%20Conectividad/01.%20Fundamentos%20de%20IoT/que-es-iot.md](https://github.com/Universidad-Cenfotec/Maker-Academy/blob/70ecfe0c6e917736b3f05969cb09ca988adb33f0/01.%20Bloques%20Tem%C3%A1ticos/06.%20IoT%20y%20Conectividad/01.%20Fundamentos%20de%20IoT/que-es-iot.md)
 - [`03. Dispositivos y conectividad.md`](03.%20Dispositivos%20y%20conectividad.md)
 - [`04. Casos de uso.md`](04.%20Casos%20de%20uso.md)
 - [`../00. Orientaciones/02. Vocabulario.md`](../00.%20Orientaciones/02.%20Vocabulario.md)
