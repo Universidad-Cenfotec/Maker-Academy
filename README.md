@@ -1,7 +1,7 @@
 # Maker Academy
 
 **Krystell Gabriela Porras Rivera**, Estudiante, Universidad CENFOTEC  
-**Fiorella María Pérez López**, Estudiante, Universidad CENFOTEC
+**Fiorella María Pérez López**, Estudiante, Universidad CENFOTEC  
 **Aylin Naomy Salazar Delgado**, Estudiante, Universidad CENFOTEC
 
 **Master Melisa Vargas**, Coordinadora de Maker Academy, Universidad CENFOTEC  
