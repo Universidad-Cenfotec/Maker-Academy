@@ -490,7 +490,7 @@ Cada equipo presenta ambas alternativas y responde:
 
 ---
 
-## Imagen sugerida
+## Diagrama con ejemplos ilustrados
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/48584021-1980-4496-bdde-c5689ba02cc3" />
 
