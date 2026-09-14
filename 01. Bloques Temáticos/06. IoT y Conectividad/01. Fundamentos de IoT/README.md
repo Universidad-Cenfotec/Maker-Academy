@@ -171,11 +171,9 @@ En primeros niveles puede utilizarse lenguaje cotidiano y representaciones visua
 
 ---
 
-## Imagen sugerida
+<img width="1672" height="941" alt="Mapa del capítulo" src="https://github.com/user-attachments/assets/c7efa80d-fd96-4bb7-9e77-0a31e447f795" />
 
-Mapa visual del capítulo que muestre cuatro estaciones conectadas: concepto de IoT, arquitectura, componentes y casos de uso. En el centro puede mostrarse un proyecto escolar, como una estación ambiental, mientras alrededor aparecen el sensor, el ESP32, la red, la plataforma y el dashboard.
 
-La composición debe ser sobria, tecnológica y educativa. Se recomienda utilizar azul institucional `#164A98`, azul `#006AEA`, azul claro `#9CC8FF` y grises `#D2D2D2` y `#7C7B75`, de acuerdo con los criterios visuales de la Universidad CENFOTEC.
 
 ---
 
