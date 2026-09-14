@@ -619,6 +619,7 @@ Cada equipo presenta su cadena de componentes y responde:
 ---
 
 ## Diagrama con ejemplos ilustrados
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/25eeb57c-04dc-46e8-b2cd-f5ba94035dcc" />
 
 ---
 
