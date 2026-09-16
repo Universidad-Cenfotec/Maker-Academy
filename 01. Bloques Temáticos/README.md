@@ -14,7 +14,7 @@ Los bloques ayudan a responder preguntas como:
 * ¿Qué competencias desarrolla cada tipo de experiencia?
 * ¿Qué vocabulario técnico necesita conocer el docente?
 * ¿Qué medidas de seguridad deben considerarse?
-* ¿Cómo se conecta cada bloque con XperiencED Kids y el PNFT?
+* ¿Cómo se conecta cada bloque con XperiencED Maker y el PNFT?
 * ¿Qué mini lecciones, prácticas guiadas o evaluaciones pueden apoyar un proyecto?
 
 ---
@@ -72,7 +72,7 @@ Cada bloque puede incluir recursos como:
 
 ---
 
-## Relación con XperiencED Kids
+## Relación con XperiencED Maker
 
 Cada bloque debe apoyar experiencias diseñadas con tres momentos:
 
