@@ -8,7 +8,7 @@
 
 Esta carpeta reúne los seis videos sobre cómo preparar y calibrar el trabajo antes y durante el corte: las tres técnicas de la máquina, cómo diagnosticar y corregir problemas de enfoque, cómo hacer pruebas de material, y cómo enmascarar el material para evitar quemaduras.
 
-> Los videos ya no están alojados en esta carpeta: todo el contenido audiovisual del módulo vive en la [lista de reproducción de Corte Láser en YouTube](https://www.youtube.com/playlist?list=PLPrvH3WPEA_0). Cada video de esta página tiene su enlace directo.
+> Todo el contenido audiovisual del módulo vive en la [lista de reproducción de Corte Láser en YouTube](https://www.youtube.com/playlist?list=PLPrvH3WPEA_0). Cada video de esta página tiene su enlace directo.
 
 ---
 ## Contenido 
