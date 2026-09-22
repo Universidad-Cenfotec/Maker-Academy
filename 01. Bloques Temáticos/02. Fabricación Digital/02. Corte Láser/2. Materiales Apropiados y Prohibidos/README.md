@@ -23,7 +23,7 @@ Repasa los materiales apropiados para cortar y grabar: cartulina, cartón y pape
 
 _Por favor, mantenga presionado Ctrl y haga clic sobre el vínculo para abrir en una nueva pestaña._
 
-**Recurso visual:** [`2-1 Recurso visual.pptx`](./2-1%20Recurso%20visual.pptx) — presentación de apoyo con el resumen de materiales apropiados, prohibidos y de solo grabado.
+**Recurso visual:** [`2-1 Recurso visual.pptx`](./2-1%20Recurso%20visual.pptx): Presentación de apoyo con el resumen de materiales apropiados, prohibidos y de solo grabado.
 
 ---
 
