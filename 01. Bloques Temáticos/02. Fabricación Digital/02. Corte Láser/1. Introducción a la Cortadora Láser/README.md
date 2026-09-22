@@ -1,6 +1,6 @@
 # Introducción a la Cortadora Láser
 
-> Ruta: `01_bloques-tematicos/02_fabricacion-digital/practicas-guiadas/llavero-personalizado`
+> Ruta: `01. Bloques Temáticos/02. Fabricación Digital/02. Corte Láser/01. Introducción a la Cortadora Láser`
 
 ---
 ## Descripción
