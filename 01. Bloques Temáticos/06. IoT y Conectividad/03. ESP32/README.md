@@ -163,10 +163,12 @@ La Documentación maker reúne bocetos, diagramas, código cuando corresponde, r
 
 ---
 
-## Imagen sugerida
+## Progresión de la mediación docente con ESP32
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/88f67ea4-7bd9-42f8-8961-c4ccbac00a95" />
 
+Figura 1. Progresión de la mediación docente con ESP32. Los cinco niveles conservan un propósito común: comunicar la disponibilidad de un recurso del makerspace. Aumentan la profundidad técnica, la autonomía y las evidencias, desde señales representadas hasta soluciones IoT validadas con usuarios, manteniendo seguridad, privacidad y reflexión.
+Fuente: elaboración propia con apoyo de IA para Maker Academy.
 
 ## Nota docente
 
