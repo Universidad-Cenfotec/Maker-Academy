@@ -3,18 +3,13 @@
 > Este archivo pertenece a: **IoT y Conectividad**  
 > Ruta: `01. Bloques Temáticos/06. IoT y Conectividad/03. ESP32/servidor-web-embebido.md`
 
-```
-
 ---
 
 ## Estado
 
-**Estado:** Validado
-
-**Versión:** v1.1
-
-**Bloque:** 06_iot-conectividad
-
+**Estado:** Validado  
+**Versión:** v1.1  
+**Bloque:** 06_iot-conectividad  
 **Última actualización:** 2026-09-30
 
 ---
@@ -95,9 +90,9 @@ Las tres rutas principales requieren usuario y contraseña de aplicación. La co
 Los textos `CAMBIAR_CLAVE_AULA` y `CAMBIAR_CLAVE_WEB` son marcadores ficticios. Sustitúyalos en una copia privada, con claves distintas; no comparta esa copia como Evidencia. El encendido dura nominalmente cinco segundos y se cancela si no quedan estaciones asociadas al AP.
 
 ```cpp
-#include 
-#include 
-#include 
+#include <Arduino.h>
+#include <WiFi.h>
+#include <WebServer.h>
 
 constexpr uint8_t PIN_LED = 23;  // Placa de referencia ESP32-WROOM.
 constexpr unsigned long TIEMPO_ENCENDIDO_MS = 5000;
@@ -134,100 +129,81 @@ bool accesoPermitido() {
 
 void mostrarPagina() {
   if (!accesoPermitido()) return;
-  String pagina = "";
-  pagina += "";
-  pagina += "";
-  pagina += "ESP32: demostracion local";
-  pagina += "
-
-```
-
-# LED de demostracion
-
-Estado observado al cargar: ";
-pagina += encendido ? "ENCENDIDO" : "APAGADO";
-pagina += "
-
-El encendido es temporal. Actualice para volver a consultar.
-
-";
-pagina += "
-
-";
-pagina += "Encender durante 5 s ";
-pagina += "Apagar
-
-";
-pagina += "
-
-[Consultar de nuevo](https://www.google.com/search?q=%2F) | ";
-pagina += "[Ver estado en JSON](https://www.google.com/search?q=%2Festado)
-
-";
-servidor.sendHeader("Cache-Control", "no-store");
-servidor.send(200, "text/html; charset=utf-8", pagina);
+  String pagina = "<!doctype html><html lang='es'><head>";
+  pagina += "<meta charset='utf-8'>";
+  pagina += "<meta name='viewport' content='width=device-width,initial-scale=1'>";
+  pagina += "<title>ESP32: demostracion local</title></head><body>";
+  pagina += "<h1>LED de demostracion</h1><p>Estado observado al cargar: ";
+  pagina += encendido ? "ENCENDIDO" : "APAGADO";
+  pagina += "</p><p>El encendido es temporal. Actualice para volver a consultar.</p>";
+  pagina += "<form method='post' action='/led'>";
+  pagina += "<button name='estado' value='1'>Encender durante 5 s</button> ";
+  pagina += "<button name='estado' value='0'>Apagar</button></form>";
+  pagina += "<p><a href='/'>Consultar de nuevo</a> | ";
+  pagina += "<a href='/estado'>Ver estado en JSON</a></p></body></html>";
+  servidor.sendHeader("Cache-Control", "no-store");
+  servidor.send(200, "text/html; charset=utf-8", pagina);
 }
 
 void mostrarEstado() {
-if (!accesoPermitido()) return;
-String json = "{"led_encendido":";
-json += encendido ? "true" : "false";
-json += ","tiempo_desde_arranque_ms":";
-json += String(millis());
-json += "}";
-servidor.sendHeader("Cache-Control", "no-store");
-servidor.send(200, "application/json", json);
+  if (!accesoPermitido()) return;
+  String json = "{\"led_encendido\":";
+  json += encendido ? "true" : "false";
+  json += ",\"tiempo_desde_arranque_ms\":";
+  json += String(millis());
+  json += "}";
+  servidor.sendHeader("Cache-Control", "no-store");
+  servidor.send(200, "application/json", json);
 }
 
 void cambiarLed() {
-if (!accesoPermitido()) return;
-if (servidor.args() != 1 || !servidor.hasArg("estado")) {
-servidor.send(400, "text/plain; charset=utf-8", "Parametro requerido: estado=0 o 1");
-return;
-}
-const String valor = servidor.arg("estado");
-if (valor != "0" && valor != "1") {
-servidor.send(400, "text/plain; charset=utf-8", "Valor invalido; no se cambia el LED");
-return;
-}
-encendido = (valor == "1");
-ultimoComando = millis();
-digitalWrite(PIN_LED, encendido ? HIGH : LOW);
-servidor.sendHeader("Location", "/");
-servidor.sendHeader("Cache-Control", "no-store");
-servidor.send(303, "text/plain", "Consultar estado en /");
+  if (!accesoPermitido()) return;
+  if (servidor.args() != 1 || !servidor.hasArg("estado")) {
+    servidor.send(400, "text/plain; charset=utf-8", "Parametro requerido: estado=0 o 1");
+    return;
+  }
+  const String valor = servidor.arg("estado");
+  if (valor != "0" && valor != "1") {
+    servidor.send(400, "text/plain; charset=utf-8", "Valor invalido; no se cambia el LED");
+    return;
+  }
+  encendido = (valor == "1");
+  ultimoComando = millis();
+  digitalWrite(PIN_LED, encendido ? HIGH : LOW);
+  servidor.sendHeader("Location", "/");
+  servidor.sendHeader("Cache-Control", "no-store");
+  servidor.send(303, "text/plain", "Consultar estado en /");
 }
 
 void setup() {
-Serial.begin(115200);
-pinMode(PIN_LED, OUTPUT);
-apagarLed();
-WiFi.mode(WIFI_AP);
-if (!WiFi.softAP(AP_SSID, AP_PASSWORD)) {
-Serial.println("No se inicio la red; LED apagado.");
-return;
-}
-servidor.on("/", HTTP_GET, mostrarPagina);
-servidor.on("/estado", HTTP_GET, mostrarEstado);
-servidor.on("/led", HTTP_POST, cambiarLed);
-servidor.onNotFound([](https://www.google.com/search?q=) {
-servidor.send(404, "text/plain; charset=utf-8", "Ruta no encontrada");
-});
-servidor.begin();
-servidorListo = true;
-Serial.print("Abrir http://");
-Serial.println(WiFi.softAPIP());
+  Serial.begin(115200);
+  pinMode(PIN_LED, OUTPUT);
+  apagarLed();
+  WiFi.mode(WIFI_AP);
+  if (!WiFi.softAP(AP_SSID, AP_PASSWORD)) {
+    Serial.println("No se inicio la red; LED apagado.");
+    return;
+  }
+  servidor.on("/", HTTP_GET, mostrarPagina);
+  servidor.on("/estado", HTTP_GET, mostrarEstado);
+  servidor.on("/led", HTTP_POST, cambiarLed);
+  servidor.onNotFound([]() {
+    servidor.send(404, "text/plain; charset=utf-8", "Ruta no encontrada");
+  });
+  servidor.begin();
+  servidorListo = true;
+  Serial.print("Abrir http://");
+  Serial.println(WiFi.softAPIP());
 }
 
 void loop() {
-if (servidorListo) {
-aplicarApagado();
-servidor.handleClient();
-aplicarApagado();
+  if (servidorListo) {
+    aplicarApagado();
+    servidor.handleClient();
+    aplicarApagado();
+  }
+  delay(1);
 }
-delay(1);
-}
-
 ```
 
 #### Cómo analizar el programa
@@ -250,7 +226,7 @@ El estado publicado es el que ordena el software. No confirma que el LED físico
 3. Abrir la IP mostrada por la placa con `http://` y no `https://`.
 4. Introducir las credenciales de aplicación en el diálogo del navegador.
 5. Consultar la página y luego `/estado`; comparar el estado lógico con la observación física.
-6. Encender, observar el apagado temporal y volver a consultar. Una página que permanece abierta no se actualiza automáticamente.
+6. Encender, observar el apagado automático y volver a consultar. Una página que permanece abierta no se actualiza automáticamente.
 7. Probar apagado, una ruta inexistente y un parámetro inválido preparado por la persona docente.
 8. Comprobar acceso rechazado en un cliente nuevo sin credenciales y desconexión de todos los clientes durante el encendido.
 
@@ -291,8 +267,6 @@ Un ESP32 tiene memoria y capacidad limitadas. La biblioteca de esta referencia a
 
 Registre predicción, condición, código o mensaje observado y próxima comprobación. Esa documentación permite separar un fallo de red, uno de aplicación y uno de circuito.
 
-```
-
 ---
 
 ## Aplicación en Maker Academy
@@ -305,11 +279,11 @@ Muestre una señal que una persona necesita consultar desde un navegador. Pregun
 
 | Nivel | Ajuste y apoyo docente | Evidencia |
 | --- | --- | --- |
-| 1. Preescolar | Representar consultar y solicitar una acción con tarjetas. | Distingue observar de cambiar. |
-| 2. 1.º–3.º | Diseñar una interfaz en papel y ordenar la respuesta. | Boceto y explicación del mensaje. |
-| 3. 4.º–6.º | Explorar una interfaz preparada y relacionarla con una salida local. | Reconoce el estado y una página antigua. |
-| 4. 7.º–9.º | Consultar rutas, interpretar errores y modificar una interfaz guiada. | Tabla de respuestas y diagrama del sistema. |
-| 5. 10.º–11.º | Diseñar rutas y validación; revisar acceso y probar con usuarios. | Contrato HTTP, código, resultados y límites. |
+| Preescolar | Representar consultar y solicitar una acción con tarjetas. | Distingue observar de cambiar. |
+| I Ciclo, 1.º-3.º | Diseñar una interfaz en papel y ordenar la respuesta. | Boceto y explicación del mensaje. |
+| II Ciclo, 4.º-6.º | Explorar una interfaz preparada y relacionarla con una salida local. | Reconoce el estado y una página antigua. |
+| III Ciclo, 7.º-9.º | Consultar rutas, interpretar errores y modificar una interfaz guiada. | Tabla de respuestas y diagrama del sistema. |
+| Educación Diversificada, 10.º-11.º | Diseñar rutas y validación; revisar acceso y probar con usuarios. | Contrato HTTP, código, resultados y límites. |
 
 ### Reflexión y evaluación formativa
 
@@ -321,13 +295,13 @@ Valore si la interfaz comunica propósito y estado, si el equipo diferencia cons
 
 ## Recursos relacionados
 
-* [Orientación y progresión de la carpeta](https://www.google.com/search?q=README.md)
-* [Introducción al ESP32 y circuito del LED](https://www.google.com/search?q=introduccion-esp32.md)
-* [Wi-Fi básico](https://www.google.com/search?q=wifi-basico.md)
-* [Mapa de Progresión del bloque](https://www.google.com/search?q=../01.%2520Mapa%2520de%2520Progresi%25C3%25B3n.md)
-* [HTTP y HTTPS](https://www.google.com/search?q=../04.%2520Protocolos%2520de%2520Comunicaci%25C3%25B3n/http-https.md)
-* [Práctica de control de LED web](https://www.google.com/search?q=../05.%2520Pr%25C3%25A1cticas%2520Guiadas/control-led-web/README.md)
-* [Seguridad del bloque](https://www.google.com/search?q=../03.%2520Seguridad.md)
+* [Orientación y progresión de la carpeta](README.md)
+* [Introducción al ESP32 y circuito del LED](introduccion-esp32.md)
+* [Wi-Fi básico](wifi-basico.md)
+* [Mapa de Progresión del bloque](../01.%20Mapa%20de%20Progresi%C3%B3n.md)
+* [HTTP y HTTPS](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/http-https.md)
+* [Práctica de control de LED web](../05.%20Pr%C3%A1cticas%20Guiadas/control-led-web/README.md)
+* [Seguridad del bloque](../03.Seguridad.md)
 * [Biblioteca WebServer oficial](https://github.com/espressif/arduino-esp32/tree/master/libraries/WebServer)
 * [API pública de WebServer](https://github.com/espressif/arduino-esp32/blob/master/libraries/WebServer/src/WebServer.h)
 * [Referencia Wi-Fi de Arduino-ESP32](https://docs.espressif.com/projects/arduino-esp32/en/latest/api/wifi.html)
@@ -336,14 +310,12 @@ Valore si la interfaz comunica propósito y estado, si el equipo diferencia cons
 
 ## Imagen ilustrativa
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3d2907c-574d-4131-a139-82c2d64f4afc" />
+![ESP32 en modo STA o AP, acceso opcional a Internet y consulta y control local del LED mediante solicitudes HTTP.](https://github.com/user-attachments/assets/e3d2907c-574d-4131-a139-82c2d64f4afc)
 
-*Figura 1: Diagrama de interacción entre el cliente local (dispositivo móvil o computadora), el punto de acceso creado por el ESP32, la validación de peticiones HTTP (GET/POST) y el control físico sobre el circuito del LED.*
+*Figura 1: ESP32 como estación de una red autorizada (STA) o creador de una red local (AP). Se distingue la salida opcional a Internet de la consulta y el control local del LED mediante solicitudes HTTP, con validación de acceso, parámetros y estados de conexión.*
 
 ---
 
 ## Nota docente
 
 Prepare las credenciales en privado, pruebe el circuito y seleccione los casos de fallo adecuados al nivel. Si el grupo solo logra pulsar botones, solicite una explicación del recorrido de la solicitud y una comparación entre interfaz y dispositivo antes de ampliar el proyecto.
-
-```
