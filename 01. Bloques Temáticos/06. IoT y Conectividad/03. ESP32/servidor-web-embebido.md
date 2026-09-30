@@ -1,46 +1,3 @@
-Asumiendo que solicita la revisión pedagógica, técnica y de estandarización del archivo `servidor-web-embebido.md` como Revisor de Contenidos de Maker Academy, presento a continuación el dictamen de auditoría y el documento final optimizado para publicación en el repositorio.
-
----
-
-## Dictamen de revisión
-
-* **Estado actual:** En revisión -> **Estado recomendado:** Validado (v1.1).
-
-
-* **Valoración general:** El contenido presenta una alta calidad técnica y pedagógica. Cumple con la estructura conceptual del Modelo Pedagógico Maker Academy, la metodología XperiencED Maker (Inspiración, Experimentación y Reflexión) y los criterios de progresión por competencias del Programa Nacional de Formación Tecnológica (PNFT). La demostración técnica en C++ mediante `WebServer.h` es clara, segura y contextualizada para el entorno de aula.
-
-
-
-### Matriz de evaluación según la Guía de Estandarización
-
-| Criterio de estandarización | Estado | Observación / Ajuste realizado |
-| --- | --- | --- |
-| **Metadatos e inicio del archivo** | Conforme | Presenta módulo, ruta exacta, versión y el identificador de bloque `06_iot-conectividad`.
-
- |
-| **Jerarquía de títulos Markdown** | Conforme | Mantiene una estructura fluida (`#`, `##`, `###`, `####`) sin saltos de nivel.
-
- |
-| **Vocabulario oficial** | Conforme | Usa estrictamente los términos oficiales (*Maker Academy*, *XperiencED Maker*, *PNFT*, *4P*).
-
- |
-| **Alineación pedagógica** | Conforme | Integra los tres momentos de mediación y la progresión graduada desde Preescolar hasta Educación Diversificada.
-
- |
-| **Recursos visuales y diagramas** | Requería ajuste | La sección `## Imagen ilustrativa` se encontraba vacía. Se incorporó la sugerencia descriptiva del recurso visual conforme al libro de marca.
-
- |
-| **Enlaces y navegación interna** | Requería ajuste | Se normalizó la ruta en los recursos relacionados (`../03. Seguridad.md`) para asegurar la compatibilidad de navegación en GitHub.
-
- |
-
----
-
-## Archivo final estandarizado
-
-A continuación se incluye la versión corregida y normalizada, lista para ser integrada en el repositorio institucional:
-
-```markdown
 # Servidor web embebido con ESP32: consulta y control local
 
 > Este archivo pertenece a: **IoT y Conectividad**  
@@ -388,7 +345,5 @@ Valore si la interfaz comunica propósito y estado, si el equipo diferencia cons
 ## Nota docente
 
 Prepare las credenciales en privado, pruebe el circuito y seleccione los casos de fallo adecuados al nivel. Si el grupo solo logra pulsar botones, solicite una explicación del recorrido de la solicitud y una comparación entre interfaz y dispositivo antes de ampliar el proyecto.
-
-```
 
 ```
