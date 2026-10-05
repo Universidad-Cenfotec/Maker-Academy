@@ -149,14 +149,8 @@ Fuentes consultadas el 2026-10-04. Los temas y payloads de este recurso son prop
 
 ---
 
-## Imagen sugerida
-
 ![Ilustración conceptual de estudiantes que comparten tarjetas informativas junto a un tablero MQTT con las secciones Publicar y Suscribirse.](imagenes/mqtt-contexto.png)
 
-**Recurso incluido:** `imagenes/mqtt-contexto.png`.  
-**Propósito:** introducir la publicación y suscripción mediante una analogía humana. La imagen no sustituye la explicación de temas, QoS y broker.
-
----
 
 ## Nota docente
 
