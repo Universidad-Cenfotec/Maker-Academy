@@ -182,14 +182,9 @@ Fuentes consultadas el 2026-10-04. El contrato y los umbrales son ejemplos didá
 
 ---
 
-## Imagen sugerida
-
 ![Ilustración conceptual de un equipo docente y estudiantil que revisa un acuerdo API con cuatro tarjetas: Dato, Formato, Permiso y Respuesta.](imagenes/api-contexto.png)
 
-**Recurso incluido:** `imagenes/api-contexto.png`.  
-**Propósito:** recordar las decisiones que deben acordarse antes de integrar aplicaciones. Los detalles del contrato se encuentran en las tablas del documento.
 
----
 
 ## Nota docente
 
