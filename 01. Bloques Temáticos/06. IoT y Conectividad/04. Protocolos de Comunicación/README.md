@@ -121,14 +121,8 @@ Use dibujos, explicación oral, tablas o documentación técnica según el mapa.
 
 ---
 
-## Imagen sugerida
 
 ![Ilustración de un equipo que trabaja una estación ambiental en el Makerspace junto a tarjetas HTTP/HTTPS, MQTT y API.](imagenes/protocolos-panorama.png)
-
-**Recurso incluido:** `imagenes/protocolos-panorama.png`.  
-**Propósito:** situar los recursos del capítulo en un proyecto educativo con sentido. Las ilustraciones utilizan la paleta institucional y acompañan el contenido; las relaciones técnicas exactas se explican mediante tablas y diagramas editables.
-
----
 
 ## Nota docente
 
