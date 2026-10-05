@@ -17,6 +17,8 @@ _Describe el propósito general de este bloque temático._
 
 _Lista de subcarpetas y archivos principales del bloque._
 
+- [Protocolos de Comunicación](04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md): HTTP/HTTPS, MQTT y API.
+
 ## Alineación curricular
 
 - **Niveles:** Preescolar / Primaria / Secundaria
@@ -30,3 +32,4 @@ _Lista de subcarpetas y archivos principales del bloque._
 | `vocabulario.md` | Términos clave del bloque |
 | `seguridad.md` | Normas de seguridad aplicables |
 | `evaluacion/` | Rúbricas y listas de cotejo |
+
