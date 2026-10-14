@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="710" viewBox="0 0 1200 710" role="img" aria-labelledby="title desc">
+<title id="title">Lecturas de temperatura para investigar</title>
+<desc id="desc">Cinco lecturas simuladas de un aula: 23,0; 23,4; 76,0 grados Celsius, una lectura ausente y 23,2 grados Celsius. La tercera requiere revisión y la cuarta no se reemplaza por cero.</desc>
+<rect width="1200" height="710" fill="#F5F8FC"/><rect width="1200" height="16" fill="#164A98"/>
+<g font-family="Arial, sans-serif">
+<text x="58" y="76" fill="#164A98" font-size="38" font-weight="700">¿Qué podemos afirmar con estas lecturas?</text>
+<text x="58" y="115" fill="#4A5664" font-size="22">Aula A · valores simulados en orden de observación</text>
+<rect x="58" y="166" width="200" height="251" rx="20" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<circle cx="90" cy="200" r="18" fill="#164A98"/>
+<text x="85" y="207" fill="white" font-size="19" font-weight="700">1</text>
+<text x="78" y="283" fill="#164A98" font-size="34" font-weight="700">23,0 °C</text>
+<text x="78" y="340" fill="#3C4856" font-size="19">Lectura</text>
+<text x="78" y="369" fill="#3C4856" font-size="19">inicial</text>
+<rect x="278" y="166" width="200" height="251" rx="20" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<circle cx="310" cy="200" r="18" fill="#164A98"/>
+<text x="305" y="207" fill="white" font-size="19" font-weight="700">2</text>
+<text x="298" y="283" fill="#164A98" font-size="34" font-weight="700">23,4 °C</text>
+<text x="298" y="340" fill="#3C4856" font-size="19">Cercana</text>
+<text x="298" y="369" fill="#3C4856" font-size="19">a la anterior</text>
+<rect x="498" y="166" width="200" height="251" rx="20" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<circle cx="530" cy="200" r="18" fill="#A24A13"/>
+<text x="525" y="207" fill="white" font-size="19" font-weight="700">3</text>
+<text x="518" y="283" fill="#A24A13" font-size="34" font-weight="700">76,0 °C</text>
+<text x="518" y="340" fill="#3C4856" font-size="19">Requiere</text>
+<text x="518" y="369" fill="#3C4856" font-size="19">revisión</text>
+<rect x="718" y="166" width="200" height="251" rx="20" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<circle cx="750" cy="200" r="18" fill="#5B626B"/>
+<text x="745" y="207" fill="white" font-size="19" font-weight="700">4</text>
+<text x="738" y="283" fill="#5B626B" font-size="34" font-weight="700">—</text>
+<text x="738" y="340" fill="#3C4856" font-size="19">Sin</text>
+<text x="738" y="369" fill="#3C4856" font-size="19">lectura</text>
+<rect x="938" y="166" width="200" height="251" rx="20" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<circle cx="970" cy="200" r="18" fill="#164A98"/>
+<text x="965" y="207" fill="white" font-size="19" font-weight="700">5</text>
+<text x="958" y="283" fill="#164A98" font-size="34" font-weight="700">23,2 °C</text>
+<text x="958" y="340" fill="#3C4856" font-size="19">Nueva</text>
+<text x="958" y="369" fill="#3C4856" font-size="19">observación</text>
+<rect x="58" y="458" width="1080" height="187" rx="22" fill="#E4F0FF"/>
+<text x="86" y="507" fill="#164A98" font-size="27" font-weight="700">Antes de avisar, investiguemos</text>
+<text x="86" y="553" fill="#243241" font-size="23">¿Se usó la misma unidad y el mismo lugar? ¿Podemos repetir la medición?</text>
+<text x="86" y="593" fill="#243241" font-size="23">La lectura 3 puede tener varias causas; la 4 significa que falta un dato.</text>
+<text x="58" y="685" fill="#5B626B" font-size="20">El ejemplo no fija un límite de temperatura ni identifica cuál lectura es verdadera.</text>
+</g></svg>

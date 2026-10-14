@@ -2,7 +2,7 @@
 
 > Recurso de consulta docente · [Volver al capítulo](README.md)
 
-**Estado:** En revisión · **Versión:** v2.1 · **Actualización:** 2026-10-14
+**Estado:** En revisión · **Versión:** v3.0 · **Actualización:** 2026-10-14
 
 ## Descripción
 
@@ -97,6 +97,10 @@ Puede ser útil distinguir tres situaciones con palabras diferentes:
 
 Con niños pequeños, estos casos pueden mostrarse con una tarjeta vacía, otra incompleta y una tarjeta nueva. En colegio, pueden orientar estados distintos en una interfaz. La información sobre **cuándo se actualizó** debe proceder de una observación o registro real; escribir una hora decorativa puede dar una falsa sensación de actualidad.
 
+### Comprender una lectura dudosa
+
+Si el receptor ve «76,0 °C · aula A» y explica correctamente esas palabras, hay evidencia de comprensión del mensaje, pero falta evidencia de que la medición represente la temperatura del aula. El equipo puede comparar la lectura con otras, revisar la unidad y el lugar, y mostrar «lectura inusual; verificar» mientras investiga. Una pantalla que solo presenta el valor, sin indicar que se está comprobando, puede llevar a una decisión equivocada aun cuando la entrega haya funcionado. Use el caso y las preguntas de [Datos confiables](datos-confiables.md) para probar qué entiende otra persona de una lectura marcada como dudosa.
+
 ### Preguntas para una reflexión más profunda
 
 - Si la pantalla muestra el último aviso, ¿cómo sabrá la persona usuaria que puede ser anterior?
@@ -119,6 +123,7 @@ La respuesta no tiene que incluir vocabulario técnico. Debe apoyarse en lo que 
 
 - [Orientación del capítulo](README.md).
 - [Del emisor al receptor](del-emisor-al-receptor.md).
+- [Datos confiables: ¿podemos creerle al sensor?](datos-confiables.md).
 - [Mapa de progresión](../01.%20Mapa%20de%20Progresi%C3%B3n.md).
 - [Práctica Un aviso que sí llega](../05.%20Pr%C3%A1cticas%20Guiadas/un-aviso-que-si-llega/README.md).
 

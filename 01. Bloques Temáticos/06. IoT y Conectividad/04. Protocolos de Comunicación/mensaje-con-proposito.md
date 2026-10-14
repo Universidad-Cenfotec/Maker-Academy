@@ -2,7 +2,7 @@
 
 > Recurso de consulta docente · [Volver al capítulo](README.md)
 
-**Estado:** En revisión · **Versión:** v2.1 · **Actualización:** 2026-10-14
+**Estado:** En revisión · **Versión:** v3.0 · **Actualización:** 2026-10-14
 
 ## Descripción
 
@@ -79,6 +79,8 @@ Use estas preguntas al revisar una propuesta:
 
 El mensaje se escribe para quien lo utilizará. Si el destinatario no lee todavía, se puede acompañar con un icono acordado y una explicación oral. Para personas con distintas necesidades visuales, una señal no debe depender solo del color; texto, forma y ubicación también ayudan.
 
+Si el aviso incluye una medición, la cantidad justa de información cambia. «23» deja sin respuesta qué se midió; «23 °C · aula A · 10:00» identifica variable, unidad, lugar y momento. Si la lectura difiere mucho de otras, el mensaje puede indicar «requiere verificación» antes de afirmar que el aula cambió. Un texto claro comunica fielmente lo observado, pero la claridad de la frase por sí sola no comprueba el sensor. El recurso [Datos confiables](datos-confiables.md) desarrolla cómo comparar lecturas y decidir qué se sabe.
+
 ### Una segunda situación para transferir la idea
 
 Imagine que un rincón de lectura quiere avisar que **un libro necesita reparación**. «Falta un libro» sería incorrecto: el libro está presente, pero requiere otra acción. Cambian el estado y la persona que puede ayudar. Pida al grupo que decida qué parte del aviso del estante sirve todavía y qué parte debe cambiar. Si solo cambia la imagen sin revisar el significado, el acuerdo anterior deja de ser fiable.
@@ -119,6 +121,7 @@ La evidencia puede ser oral, visual o escrita. No se valora la extensión del me
 
 - [Orientación del capítulo](README.md).
 - [Del emisor al receptor](del-emisor-al-receptor.md).
+- [Datos confiables: ¿podemos creerle al sensor?](datos-confiables.md).
 - [Práctica Un aviso que sí llega](../05.%20Pr%C3%A1cticas%20Guiadas/un-aviso-que-si-llega/README.md).
 
 ## Nota docente
