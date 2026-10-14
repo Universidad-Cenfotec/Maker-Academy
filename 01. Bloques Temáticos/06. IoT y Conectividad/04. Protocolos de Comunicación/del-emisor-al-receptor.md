@@ -2,7 +2,7 @@
 
 > Recurso de consulta docente · [Volver al capítulo](README.md)
 
-**Estado:** En revisión · **Versión:** v2.1 · **Actualización:** 2026-10-14
+**Estado:** En revisión · **Versión:** v3.0 · **Actualización:** 2026-10-14
 
 ## Descripción
 
@@ -104,6 +104,10 @@ Si la pantalla de destino no cambia, el equipo sabe que **no observó una actual
 
 La tabla orienta una búsqueda, no diagnostica automáticamente una falla técnica. En juego de roles, se puede observar con tarjetas; en un prototipo, con estados visibles preparados por la persona docente.
 
+### Cuando viaja una medición
+
+Una entrega fiel conserva el contenido que salió del origen. Si el sensor simuló «76,0 °C» y el receptor muestra «76,0 °C», el recorrido se puede considerar observado, aunque todavía haya que comprobar si esa lectura representa el aula. Si el origen muestra «23,0 °C» y el receptor conserva «76,0 °C» de un momento anterior, hace falta revisar la actualización o el recorrido. Son investigaciones diferentes: [Datos confiables](datos-confiables.md) propone cómo contrastar la lectura; este recurso ayuda a localizar lo que ocurrió durante la entrega. Anote ambos extremos y el momento observado antes de atribuir la discrepancia a una causa.
+
 ## Aplicación en Maker Academy
 
 - **Inspiración:** separe el estante y la mesa. Pregunte cómo sabría la mesa que faltan lápices.
@@ -117,6 +121,7 @@ La tabla orienta una búsqueda, no diagnostica automáticamente una falla técni
 - [Orientación del capítulo](README.md).
 - [Un mensaje con propósito](mensaje-con-proposito.md).
 - [¿Llegó y se entendió?](llego-y-se-entendio.md).
+- [Datos confiables: ¿podemos creerle al sensor?](datos-confiables.md).
 - [ESP32](../03.%20ESP32/README.md).
 
 ## Nota docente
