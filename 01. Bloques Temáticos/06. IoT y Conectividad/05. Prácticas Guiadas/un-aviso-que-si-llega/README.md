@@ -1,5 +1,5 @@
 # Un aviso que sí llega — práctica guiada
-
+ 
 > Bloque: **IoT y Conectividad** · [Índice de prácticas](../README.md) · [Base conceptual: Mensajes entre objetos](../../04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md)
 
 **Estado:** Desarrollada para revisión docente · **Versión:** v0.3 · **Actualización:** 2026-10-14
