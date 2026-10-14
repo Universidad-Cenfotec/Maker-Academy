@@ -18,6 +18,7 @@ _Describe el propósito general de este bloque temático._
 _Lista de subcarpetas y archivos principales del bloque._
 
 - [Mensajes entre objetos](04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md): avisos claros, entrega e interpretación para todos los niveles.
+- [Prácticas guiadas](05.%20Pr%C3%A1cticas%20Guiadas/README.md): avance inicial con una práctica adaptable a los cinco niveles.
 
 ## Alineación curricular
 
