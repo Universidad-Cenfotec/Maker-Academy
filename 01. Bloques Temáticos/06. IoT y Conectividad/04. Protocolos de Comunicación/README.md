@@ -2,7 +2,7 @@
 
 > Este capítulo pertenece a **IoT y Conectividad**. La ruta de la carpeta conserva su nombre anterior para mantener los enlaces existentes del repositorio.
 
-**Estado:** En revisión · **Versión:** v2.0 · **Actualización:** 2026-10-14
+**Estado:** En revisión · **Versión:** v2.1 · **Actualización:** 2026-10-14
 
 ## La pregunta del capítulo
 
@@ -27,6 +27,30 @@ No se espera que todo el estudiantado configure redes. El [mapa de progresión](
 | [Un mensaje con propósito](mensaje-con-proposito.md) | Elegir destinatario, contenido y respuesta esperada. | Tarjeta o propuesta de mensaje que otra persona entiende. |
 | [Del emisor al receptor](del-emisor-al-receptor.md) | Seguir el aviso y observar cuándo llega o se desvía. | Recorrido representado o prueba entre dispositivos. |
 | [¿Llegó y se entendió?](llego-y-se-entendio.md) | Distinguir aviso recibido, aviso comprendido y situación atendida. | Prueba, ajuste y nueva comprobación. |
+
+## Cómo se conectan los tres recursos
+
+Los documentos responden a momentos diferentes del mismo intercambio:
+
+1. **Diseñar:** el grupo acuerda qué significa la señal y qué información necesita quien la recibirá.
+2. **Compartir:** observa si el aviso sale del origen y aparece en el destino correcto.
+3. **Interpretar:** compara lo que se quiso decir con lo que otra persona entendió y con el estado real.
+
+El orden ayuda a diagnosticar una dificultad. Si la mesa recibió «¡Atención!» pero no sabe qué hacer, conviene revisar el **contenido**. Si la tarjeta clara llegó a otra mesa, la dificultad está en la **entrega**. Si se repusieron los lápices y la mesa sigue viendo el aviso antiguo, hay que revisar **cómo se muestra la actualidad**. Cada problema pide una mejora diferente.
+
+| Si el grupo observa... | Conviene consultar... | Decisión que se espera |
+| --- | --- | --- |
+| La señal admite varias interpretaciones. | [Un mensaje con propósito](mensaje-con-proposito.md). | Acordar palabras, iconos, ubicación y destinatario. |
+| El mensaje es claro pero no aparece donde hace falta. | [Del emisor al receptor](del-emisor-al-receptor.md). | Representar o probar el recorrido y sus extremos. |
+| El mensaje aparece, pero confunde sobre lo ocurrido. | [¿Llegó y se entendió?](llego-y-se-entendio.md). | Separar recepción, comprensión y solución. |
+
+## Profundizar sin acelerar el currículo
+
+En los primeros niveles, la riqueza está en el **significado**: dos niños pueden discrepar sobre lo que indica un símbolo y modificarlo para entenderse. En primaria superior, se pueden comparar estados locales y observar si otra persona interpreta la señal sin ayuda. En secundaria, una entrega preparada permite distinguir lo que muestra el origen de lo que recibe el destino. Innovation Lab puede decidir si necesita una conexión real, cómo mostrar un aviso anterior y qué evidencia obtendrá de usuarios.
+
+Este avance no se mide por la cantidad de dispositivos. Un equipo que justifica por qué un mensaje necesita un destinatario claro ha tomado una decisión de diseño; otro que observa una pantalla encendida sin saber qué confirma necesita volver a la interpretación. Consulte el [mapa de progresión](../01.%20Mapa%20de%20Progresi%C3%B3n.md) para seleccionar autonomía, apoyos y evidencias.
+
+Las tecnologías concretas se trabajan en [ESP32](../03.%20ESP32/README.md) y [Plataformas](../02.%20Plataformas%20y%20Herramientas/README.md). La [práctica guiada de un aviso](../05.%20Pr%C3%A1cticas%20Guiadas/un-aviso-que-si-llega/README.md) lleva estas ideas a una experiencia de aula; aquí se ofrece la base conceptual para que el docente pueda adaptar y explicar sus decisiones.
 
 ## Un propósito, cinco niveles
 
