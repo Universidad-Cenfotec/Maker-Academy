@@ -17,7 +17,7 @@ _Describe el propósito general de este bloque temático._
 
 _Lista de subcarpetas y archivos principales del bloque._
 
-- [Protocolos de Comunicación](04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md): HTTP/HTTPS, MQTT y API.
+- [Mensajes entre objetos](04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md): avisos claros, entrega e interpretación para todos los niveles.
 
 ## Alineación curricular
 

@@ -154,7 +154,7 @@ La Documentación maker reúne bocetos, diagramas, código cuando corresponde, r
 - [Mapa de Progresión de Internet de las Cosas y Conectividad](../01.%20Mapa%20de%20Progresi%C3%B3n.md)
 - [Fundamentos de IoT](../01.%20Fundamentos%20de%20IoT/README.md)
 - [Plataformas y herramientas](../02.%20Plataformas%20y%20Herramientas/README.md)
-- [Protocolos de comunicación](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md)
+- [Mensajes entre objetos](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md)
 - [Seguridad del bloque](../03.Seguridad.md)
 - [Alineación con el PNFT](../04.%20Alineaci%C3%B3n%20con%20el%20PNFT.md)
 - [Progresión institucional de bloques](../../../02.%20Programa%20Anual%20K11/Progresi%C3%B3n%20de%20Bloques.md)

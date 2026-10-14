@@ -299,7 +299,7 @@ Valore si la interfaz comunica propósito y estado, si el equipo diferencia cons
 * [Introducción al ESP32 y circuito del LED](introduccion-esp32.md)
 * [Wi-Fi básico](wifi-basico.md)
 * [Mapa de Progresión del bloque](../01.%20Mapa%20de%20Progresi%C3%B3n.md)
-* [HTTP y HTTPS](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/http-https.md)
+* [Documentación de HTTP en MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 * [Práctica de control de LED web](../05.%20Pr%C3%A1cticas%20Guiadas/control-led-web/README.md)
 * [Seguridad del bloque](../03.Seguridad.md)
 * [Biblioteca WebServer oficial](https://github.com/espressif/arduino-esp32/tree/master/libraries/WebServer)
