@@ -4,7 +4,7 @@
 
 Ruta: `01. Bloques Temáticos/06. IoT y Conectividad/05. Prácticas Guiadas/README.md`
 
-**Estado:** En desarrollo · **Avance del capítulo:** aproximadamente 30 % · **Versión:** v0.3 · **Actualización:** 2026-10-14
+**Estado:** En desarrollo · **Avance del capítulo:** aproximadamente 30 % · **Versión:** v0.3 · **Actualización:** 2026-10-14 
 
 ## Propósito
 
