@@ -255,7 +255,7 @@ El formato debe mantenerse consistente. Cambiar `temperatura_c` por `temp` en al
 | Formato | Organiza el contenido | JSON |
 | Dato | Representa la observación | `temperatura_c: 24.6` |
 
-Los protocolos se desarrollan con mayor detalle en la carpeta [`04. Protocolos de Comunicación`](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md).
+La claridad, entrega e interpretación de los avisos se trabajan en [Mensajes entre objetos](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/README.md).
 
 ### 6. Plataformas IoT
 

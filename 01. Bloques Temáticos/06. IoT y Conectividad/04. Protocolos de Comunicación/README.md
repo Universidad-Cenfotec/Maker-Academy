@@ -1,131 +1,70 @@
-# Protocolos de Comunicación: orientación docente
+# Mensajes entre objetos: orientación docente
 
-> Este archivo pertenece a: **Internet de las Cosas y Conectividad**  
-> Ruta: `01. Bloques Temáticos/06. IoT y Conectividad/04. Protocolos de Comunicación/README.md`
+> Este capítulo pertenece a **IoT y Conectividad**. La ruta de la carpeta conserva su nombre anterior para mantener los enlaces existentes del repositorio.
 
----
+**Estado:** En revisión · **Versión:** v2.0 · **Actualización:** 2026-10-14
 
-## Estado
+## La pregunta del capítulo
 
-**Estado:** En revisión  
-**Versión:** v1.0  
-**Bloque:** 06_iot-conectividad  
-**Última actualización:** 2026-10-04
+**Si un objeto tiene algo que comunicar, ¿cómo hacemos para que el aviso llegue a quien lo necesita y se entienda?**
 
----
+En Maker Academy, esta pregunta puede explorarse con personas y tarjetas, con un prototipo local o con dos dispositivos conectados. La idea compartida es diseñar y poner a prueba un mensaje: **quién lo envía, qué quiere comunicar, a quién va dirigido y qué respuesta esperamos**.
 
-## Descripción
+El hilo conductor es un estante de materiales del aula. Cuando faltan lápices, el estante envía el aviso **«Faltan lápices en el estante A»** a la mesa que los repone. El estado es ficticio y se puede representar con una tarjeta o con un botón; no requiere identificar personas ni vigilar quién tomó el material. Cambiar este contexto por otro problema del grupo es válido si se conserva un destinatario y una razón para comunicar.
 
-Esta carpeta reúne los fundamentos de HTTP/HTTPS, MQTT y API previstos en la estructura del bloque. Continúa el trabajo de fundamentos, plataformas y ESP32 mediante una pregunta común: ¿qué necesita acordar el sistema para comunicar información útil y reconocer cuando algo falla?
+![Tres momentos del aviso del estante: detectar que faltan lápices, compartir el mensaje y mostrarlo en la mesa de materiales.](imagenes/mensajes-panorama.svg)
 
-Los documentos son recursos conceptuales de consulta docente. Incluyen ejemplos y criterios de mediación; el diseño completo de sesiones y los montajes se desarrollan en los recursos de prácticas correspondientes.
+*Figura 1. Un mismo aviso se puede representar o probar con dispositivos. El dibujo muestra el sentido del mensaje, no un circuito ni una red específica.*
 
----
+## Alcance y relación con el bloque
 
-## Propósito
+[Fundamentos de IoT](../01.%20Fundamentos%20de%20IoT/README.md) presenta las partes del sistema y el recorrido general de los datos. [ESP32](../03.%20ESP32/README.md) y [Plataformas](../02.%20Plataformas%20y%20Herramientas/README.md) explican herramientas y conexiones concretas. Este capítulo se detiene en la **comunicación comprensible entre dos puntos**: redactar un aviso útil, observar su entrega y corregir lo que confunde a quien lo recibe.
 
-Ayudar a seleccionar una forma de comunicación con sentido, interpretar mensajes y respuestas, proteger el acceso y reunir Evidencias de comprensión. La conexión se valora por su aporte a la persona usuaria, la calidad del dato y el comportamiento ante interrupciones.
+No se espera que todo el estudiantado configure redes. El [mapa de progresión](../01.%20Mapa%20de%20Progresi%C3%B3n.md) sitúa IoT principalmente en Innovation Lab; en los niveles anteriores, estos mensajes son una preparación mediante señales, secuencias y datos sencillos.
 
----
-
-## Contenido
-
-### 1. Archivos del capítulo
-
-| Recurso | Pregunta orientadora | Aporte |
+| Recurso | Decisión que trabaja | Evidencia posible |
 | --- | --- | --- |
-| [HTTP y HTTPS](http-https.md) | ¿Qué solicita una aplicación y qué confirma la respuesta? | Operaciones, códigos, transporte protegido y recuperación. |
-| [Introducción a MQTT](mqtt-introduccion.md) | ¿Cómo reciben novedades los componentes interesados? | Publicación, suscripción, temas y límites de entrega. |
-| [API básico](api-basico.md) | ¿Qué acuerdos permiten interpretar el intercambio? | Contrato, formato, validez, vigencia y permisos. |
+| [Un mensaje con propósito](mensaje-con-proposito.md) | Elegir destinatario, contenido y respuesta esperada. | Tarjeta o propuesta de mensaje que otra persona entiende. |
+| [Del emisor al receptor](del-emisor-al-receptor.md) | Seguir el aviso y observar cuándo llega o se desvía. | Recorrido representado o prueba entre dispositivos. |
+| [¿Llegó y se entendió?](llego-y-se-entendio.md) | Distinguir aviso recibido, aviso comprendido y situación atendida. | Prueba, ajuste y nueva comprobación. |
 
-Los tres documentos utilizan una estación ambiental ficticia del Makerspace. Sus lecturas están etiquetadas como simuladas. No requieren registrar personas ni crear cuentas estudiantiles.
+## Un propósito, cinco niveles
 
-### 2. Ruta de consulta
+La misma necesidad puede tener expresiones diferentes. La tabla es una guía para seleccionar el alcance, no una lista de requisitos para cada grado.
 
-Se recomienda **HTTP/HTTPS → API → MQTT**. Este orden permite comprender primero un intercambio, después su contrato y finalmente una alternativa de distribución. El nombre de los archivos conserva la estructura prevista del repositorio.
-
-Antes de introducir detalles técnicos, compruebe que el grupo puede explicar entrada, proceso y salida; distinguir red local de Internet y relacionar una lectura con una unidad. Si esas relaciones necesitan apoyo, use tarjetas y mensajes preparados.
-
-### 3. Diferencias que deben quedar claras
-
-| Elemento | Decisión que ayuda a tomar | Límite |
+| Nivel Maker Academy | Qué hace el grupo con el aviso | Qué puede observar la persona docente |
 | --- | --- | --- |
-| HTTP/HTTPS | Cómo consultar o solicitar una operación web. | Una respuesta no demuestra por sí sola un resultado físico. |
-| MQTT | Cómo distribuir mensajes según temas de interés. | La recepción no equivale a ejecución ni a archivo histórico. |
-| API | Qué operaciones, datos y respuestas se acuerdan. | Un formato legible puede contener información inválida. |
+| **Exploradores Maker · preescolar** | Una persona hace de estante, otra lleva una tarjeta con un dibujo y otra recibe el aviso. | Reconoce quién necesita saber que faltan lápices y comunica la señal con apoyo. |
+| **Inventores Maker · 1.º–3.º** | Ordena tarjetas «ocurre → se avisa → se recibe → se responde» y cambia una que resulte confusa. | Explica a quién va el mensaje y qué pasa si se entrega a otra mesa. |
+| **Creadores Maker · 4.º–6.º** | Usa un botón o estado simulado para activar una señal local; registra «hay» y «faltan» con texto o iconos. | Relaciona cada estado con un mensaje y prueba si otra persona lo interpreta igual. |
+| **Diseñadores Maker · 7.º–9.º** | Prueba el aviso entre dos equipos o con una interfaz preparada; interrumpe una entrega de forma controlada. | Diferencia un cambio en el estante de lo que muestra el receptor y registra una corrección. |
+| **Innovation Lab · 10.º–11.º** | Diseña el intercambio según la necesidad, prueba retrasos o mensajes repetidos y valida la claridad con usuarios. | Justifica qué confirma el sistema, cómo informa la ausencia de actualización y qué mejoró tras la prueba. |
 
-API no es un protocolo que compita directamente con HTTP o MQTT. Es un nivel distinto de acuerdo. El proyecto puede utilizar una API HTTP y, además, mensajes MQTT con un contrato de aplicación.
-
-### 4. Criterios de selección
-
-Parta de la necesidad. Para una consulta puntual a un servicio documentado, una API HTTP puede facilitar la integración. Si varios componentes necesitan novedades, analice MQTT y la disponibilidad de un broker. En ambos casos defina permisos, vigencia del dato, respuesta ante fallos y capacidad de mantenimiento.
-
-No se incorpora una tecnología solo para aumentar la dificultad. Una representación con tarjetas puede expresar el mismo aprendizaje central que una implementación: quién envía, quién recibe, qué contenido circula y qué permite afirmar su llegada.
-
-### 5. Progresión y alcance
-
-El [Mapa de Progresión del bloque](../01.%20Mapa%20de%20Progresi%C3%B3n.md) concentra los ajustes por ciclo: Preescolar; I Ciclo, 1.º–3.º; II Ciclo, 4.º–6.º; III Ciclo, 7.º–9.º; y Educación Diversificada, 10.º–11.º. Esta carpeta remite a ese recurso y no introduce otra tabla curricular.
-
-IoT se profundiza principalmente en Innovation Lab. En aproximaciones previas, preserve el propósito y ajuste vocabulario, cantidad de componentes, autonomía y Evidencias. No exija que todos los ciclos configuren servidores, brokers o credenciales.
-
-La conexión con el PNFT se trabaja mediante resolución de problemas, interpretación de información, programación cuando corresponda y uso responsable de tecnología. Esta orientación no asigna códigos curriculares ni sustituye la alineación institucional del bloque.
-
-### 6. Preparación docente
-
-1. Definir la persona usuaria, el dato y la decisión que apoyará.
-2. Seleccionar el alcance con el mapa de progresión.
-3. Preparar mensajes simulados o una red de demostración autorizada.
-4. Comprobar el contrato y los resultados normales y fallidos.
-5. Separar datos públicos de credenciales privadas.
-6. Definir cómo se comunica dato ausente, antiguo o inválido.
-7. Seleccionar Evidencias y una pregunta para orientar la mejora.
-
-Los ejemplos HTTP son mensajes; el JSON es contenido; la secuencia de API es pseudocódigo. No se presentan como firmware listo para cargar. Una demostración física requiere verificar placa, bibliotecas, red y condiciones del centro.
-
----
+En preescolar y primaria inicial se trabaja una **representación de comunicación**, no un proyecto IoT completo. En primaria superior se puede construir una señal local. La conexión real aparece cuando aporta algo al proyecto y el grupo puede explicar lo que ocurre.
 
 ## Aplicación en Maker Academy
 
 ### Inspiración
 
-Presente el problema ambiental y solicite identificar quién necesita la información. Invite a comparar una consulta a demanda con la recepción de novedades. La Pasión se activa mediante una pregunta cercana y el Proyecto conserva una utilidad concreta.
+Muestre dos tarjetas: «¡Ayuda!» y «Faltan lápices en el estante A». Pregunte cuál ayudaría a reponer materiales y qué información falta en la otra. La necesidad concreta da lugar a las decisiones del grupo.
 
 ### Experimentación
 
-Trabaje con los documentos según el alcance elegido. Los Pares pueden asumir roles de dispositivo, servicio y panel, y después intercambiarlos. El Juego consiste en explorar cambios controlados: ruta distinta, mensaje antiguo, campo faltante o servicio detenido. Solicite una predicción antes de observar cada resultado.
+Permita que los pares intercambien los papeles de emisor, mensajero, receptor y persona usuaria. Cambie una condición por vez: destino equivocado, tarjeta sin dibujo, aviso retrasado. El juego hace visible el problema; una nueva versión del mensaje permite probar la solución. En niveles mayores, el equipo puede sustituir las tarjetas por una interfaz o dispositivos disponibles y registrar lo observado.
 
 ### Reflexión y evaluación formativa
 
-| Criterio | Evidencia observable |
-| --- | --- |
-| Propósito | Explica quién utiliza el resultado y para qué. |
-| Comunicación | Identifica emisor, receptor, operación y contenido. |
-| Interpretación | Distingue recibido, válido, vigente y ejecutado. |
-| Responsabilidad | Justifica permisos y protege credenciales. |
-| Iteración | Compara predicción y resultado; propone una mejora. |
+Pida tres respuestas: **¿qué queríamos comunicar?, ¿qué entendió quien recibió el aviso?, ¿qué cambiamos después de probarlo?** Acepte explicación oral, secuencia visual, registro de prueba o documentación técnica según el nivel. Observe si el grupo evita presentar un dato anterior como si acabara de llegar.
 
-Use dibujos, explicación oral, tablas o documentación técnica según el mapa. Una pantalla con datos no es suficiente: el equipo debe explicar qué observó y qué permanece incierto.
+## Cuidado de la experiencia
 
----
+Use estados ficticios y recursos de baja tensión preparados por la persona docente. No asocie el aviso con nombres, fotografías ni hábitos de estudiantes. Cuando una pantalla deje de actualizarse, muestre «sin actualización» en vez de inventar un estado. Las tarjetas y las interfaces deben usar palabras o símbolos además del color; la persona que recibe el mensaje necesita poder interpretarlo.
 
 ## Recursos relacionados
 
-- [HTTP y HTTPS](http-https.md).
-- [MQTT](mqtt-introduccion.md).
-- [API](api-basico.md).
-- [ESP32: orientación de la carpeta](../03.%20ESP32/README.md).
-- [Plataformas y herramientas](../02.%20Plataformas%20y%20Herramientas/README.md).
-- [Mapa de Progresión del bloque](../01.%20Mapa%20de%20Progresi%C3%B3n.md).
-- [Seguridad del bloque](../03.Seguridad.md).
-- [Alineación con el PNFT](../04.%20Alineaci%C3%B3n%20con%20el%20PNFT.md).
+- [Mapa de progresión de IoT y Conectividad](../01.%20Mapa%20de%20Progresi%C3%B3n.md).
+- [Fundamentos de IoT](../01.%20Fundamentos%20de%20IoT/README.md).
+- [ESP32: Wi-Fi básico](../03.%20ESP32/wifi-basico.md), para una ampliación técnica en niveles pertinentes.
+- [Prácticas guiadas](../05.%20Pr%C3%A1cticas%20Guiadas/README.md), para planificaciones y montajes.
 
----
-
-
-![Ilustración de un equipo que trabaja una estación ambiental en el Makerspace junto a tarjetas HTTP/HTTPS, MQTT y API.](imagenes/protocolos-panorama.png)
-
-## Nota docente
-
-Los cuatro documentos quedan **En revisión** para la revisión pedagógica, editorial y técnica del equipo. La carpeta incluye sus imágenes y navegación interna. Los vínculos al mapa y a carpetas vecinas se comprobaron contra el árbol del repositorio al preparar esta actualización.
-
-El README del bloque enlaza esta carpeta. Al revisar el capítulo, compruebe la lectura de los ejemplos y la visualización de las imágenes desde GitHub. Este recurso conserva el alcance conceptual y no sustituye las prácticas guiadas.
+Las tres ilustraciones SVG de esta carpeta son elaboración propia para Maker Academy. Pueden proyectarse, ampliarse o imprimirse; su texto alternativo describe la idea que debe poder comprenderse sin la imagen.

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+<title id="title">Tres formas de mostrar el resultado de un aviso</title>
+<desc id="desc">Un receptor muestra Faltan lápices en el estante A cuando llega un aviso claro; Sin actualización cuando no llega uno nuevo; Verificar estado actual cuando el aviso puede ser antiguo.</desc>
+<rect width="1200" height="590" fill="#F5F8FC"/><rect width="1200" height="16" fill="#164A98"/>
+<g font-family="Arial, sans-serif">
+<text x="64" y="79" fill="#164A98" font-size="38" font-weight="700">Lo que sabe quien recibe el aviso</text>
+<text x="64" y="121" fill="#4A5664" font-size="23">Tres pruebas del mismo estante · estados simulados</text>
+<rect x="64" y="164" width="340" height="325" rx="24" fill="white" stroke="#006AEA" stroke-width="3"/>
+<rect x="430" y="164" width="340" height="325" rx="24" fill="white" stroke="#7C7B75" stroke-width="3"/>
+<rect x="796" y="164" width="340" height="325" rx="24" fill="white" stroke="#164A98" stroke-width="3"/>
+<rect x="84" y="186" width="300" height="47" rx="12" fill="#E4F0FF"/>
+<rect x="450" y="186" width="300" height="47" rx="12" fill="#ECEDEF"/>
+<rect x="816" y="186" width="300" height="47" rx="12" fill="#E4F0FF"/>
+<text x="105" y="217" fill="#164A98" font-size="22" font-weight="700">Aviso nuevo</text>
+<text x="471" y="217" fill="#3B454F" font-size="22" font-weight="700">No llegó aviso</text>
+<text x="837" y="217" fill="#164A98" font-size="22" font-weight="700">Aviso anterior</text>
+<text x="92" y="304" fill="#243241" font-size="26" font-weight="700">Faltan lápices</text>
+<text x="92" y="340" fill="#243241" font-size="26">en el estante A</text>
+<text x="458" y="304" fill="#243241" font-size="26" font-weight="700">Sin actualización</text>
+<text x="458" y="354" fill="#4A5664" font-size="22">Revisar el estante</text>
+<text x="824" y="304" fill="#243241" font-size="26" font-weight="700">Verificar estado</text>
+<text x="824" y="340" fill="#243241" font-size="26">actual</text>
+<text x="92" y="435" fill="#164A98" font-size="21">Se puede avisar a la mesa</text>
+<text x="458" y="435" fill="#3B454F" font-size="21">Aún no sabemos si faltan</text>
+<text x="824" y="435" fill="#164A98" font-size="21">Podría haber cambiado</text>
+<rect x="64" y="522" width="1072" height="43" rx="14" fill="#E4F0FF"/>
+<text x="90" y="552" fill="#164A98" font-size="22" font-weight="700">Mostrar incertidumbre ayuda a tomar una mejor decisión.</text>
+</g></svg>
