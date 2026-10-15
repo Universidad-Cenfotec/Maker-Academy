@@ -49,13 +49,13 @@ A continuación se listan los archivos y subcarpetas disponibles en este directo
 | Proyecto | Tema del temario | Tipo | Estado del desarrollo |
 |---|---|---|---|
 | [`Proyecto 1. Tapones silenciosos para sillas`](./06.%20Productos%20funcionales/04.%20Proyecto%201%20-%20Tapones%20silenciosos%20para%20sillas/README.md) | Diseño y fabricación de productos funcionales | Fundamental | Desarrollado |
-| [`Proyecto 2. Mariposa que aletea`](./07.%20Wearables/04.%20Proyecto%202%20-%20Mariposa%20que%20aletea/README.md) | Integración de electrónica en objetos y textiles (wearables) | Fundamental | Por desarrollar |
-| [`Proyecto 3. Bosque sonoro`](./08.%20Instalaciones%20interactivas/04.%20Proyecto%203%20-%20Bosque%20sonoro/README.md) | Interactividad artística | Fundamental | Por desarrollar |
-| [`Proyecto 4. Arcade maker`](./09.%20Juegos%20y%20experiencias/04.%20Proyecto%204%20-%20Arcade%20maker/README.md) | Creación de juegos o instalaciones interactivas | Avanzado | Por desarrollar |
-| [`Proyecto 5. Robot que saluda`](./07.%20Wearables/05.%20Proyecto%205%20-%20Robot%20que%20saluda/README.md) | Integración de electrónica en objetos | Avanzado | Por desarrollar |
-| [`Proyecto 6. El retrato de mi escuela`](./08.%20Instalaciones%20interactivas/05.%20Proyecto%206%20-%20El%20retrato%20de%20mi%20escuela/README.md) | Arte generativo y visualización de datos | Avanzado | Por desarrollar |
-| [`Proyecto 7. Volcán Poás vivo`](./09.%20Juegos%20y%20experiencias/05.%20Proyecto%207%20-%20Volc%C3%A1n%20Po%C3%A1s%20vivo/README.md) | Diseño de experiencia inmersiva | Avanzado | Por desarrollar |
-| [`Proyecto 8. Reacción en cadena`](./09.%20Juegos%20y%20experiencias/06.%20Proyecto%208%20-%20Reacci%C3%B3n%20en%20cadena/README.md) | Colaboración y gestión de proyectos | Avanzado | Por desarrollar |
+| [`Proyecto 2. Mariposa que aletea`](./07.%20Wearables/04.%20Proyecto%202%20-%20Mariposa%20que%20aletea/README.md) | Integración de electrónica en objetos y textiles (wearables) | Fundamental | Desarrollado |
+| [`Proyecto 3. Bosque sonoro`](./08.%20Instalaciones%20interactivas/04.%20Proyecto%203%20-%20Bosque%20sonoro/README.md) | Interactividad artística | Fundamental | Ficha completa |
+| [`Proyecto 4. Arcade maker`](./09.%20Juegos%20y%20experiencias/04.%20Proyecto%204%20-%20Arcade%20maker/README.md) | Creación de juegos o instalaciones interactivas | Avanzado | Ficha completa |
+| [`Proyecto 5. Robot que saluda`](./07.%20Wearables/05.%20Proyecto%205%20-%20Robot%20que%20saluda/README.md) | Integración de electrónica en objetos | Avanzado | Ficha completa |
+| [`Proyecto 6. El retrato de mi escuela`](./08.%20Instalaciones%20interactivas/05.%20Proyecto%206%20-%20El%20retrato%20de%20mi%20escuela/README.md) | Arte generativo y visualización de datos | Avanzado | Ficha completa |
+| [`Proyecto 7. Volcán Poás vivo`](./09.%20Juegos%20y%20experiencias/05.%20Proyecto%207%20-%20Volc%C3%A1n%20Po%C3%A1s%20vivo/README.md) | Diseño de experiencia inmersiva | Avanzado | Ficha completa |
+| [`Proyecto 8. Reacción en cadena`](./09.%20Juegos%20y%20experiencias/06.%20Proyecto%208%20-%20Reacci%C3%B3n%20en%20cadena/README.md) | Colaboración y gestión de proyectos | Avanzado | Ficha completa |
 
 ### Minilecciones
 
