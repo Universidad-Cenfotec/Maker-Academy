@@ -1,1 +1,73 @@
+# 02. Primaria — Niveles 1 y 2
 
+> **Ciclo:** Primaria
+> **Niveles institucionales:** 2. Inventores Maker · 3. Creadores Maker
+> **Estado:** En revisión
+> **Última actualización:** 2026-10-18
+
+---
+
+## Descripción
+
+En Primaria la electrónica pasa del juego a **la construcción real**. El estudiantado arma sus primeros circuitos con luz, experimenta con materiales y comienza a dar nombre a los conceptos: voltaje, corriente, resistencia. Se parte de lo que se ve y se toca, y el circuito cobra protagonismo.
+
+## Propósito
+
+- Que el estudiantado **monte circuitos reales** y observe qué pasa al cambiarlos.
+- Construir de forma vivencial las ideas de **voltaje, corriente y resistencia**.
+- Aprender a **predecir y reparar**: si algo no funciona, encontrar dónde está el problema.
+- Dar el paso del **descubrimiento (Preescolar)** al **experimento con intención**.
+- Diferenciar **series y paralelo** y dar los primeros pasos con el **multímetro**.
+
+## Estructura del ciclo
+
+| Carpeta | Nivel institucional | Grados | Enfoque |
+|---|---|---|---|
+| `01. Nivel 1 - Inventores Maker/` | 2. Inventores Maker | 1.º–3.º | Primeros circuitos con luz |
+| `02. Nivel 2 - Creadores Maker/` | 3. Creadores Maker | 4.º–6.º | Voltaje, corriente y resistencia |
+
+## Lecciones por nivel
+
+### Nivel 1 — Inventores Maker (1.º–3.º)
+
+| # | Lección | Idea central | Duración |
+|---|---|---|---|
+| 01 | Mi primer circuito con luz | Armar un circuito que enciende un LED | 20–25 min |
+| 02 | ¿Por qué el LED tiene una dirección? | El LED solo conduce en un sentido | 20–25 min |
+| 03 | Materiales que dejan pasar la electricidad | Conductores y aislantes | 20–25 min |
+| 04 | Circuito abierto y circuito cerrado | Interrumpir o completar el camino | 20–25 min |
+
+### Nivel 2 — Creadores Maker (4.º–6.º)
+
+| # | Lección | Idea central | Duración |
+|---|---|---|---|
+| 01 | El reto de reparar el circuito | Encontrar y arreglar qué falla | 20–30 min |
+| 02 | Voltaje, corriente y resistencia en palabras sencillas | Tres conceptos con analogías | 20–30 min |
+| 03 | ¿Para qué sirve una resistencia? | Proteger y limitar la corriente | 20–30 min |
+| 04 | Circuitos en serie y en paralelo | Dos formas de conectar | 20–30 min |
+| 05 | Primeros pasos con el multímetro | Medir, comprobar y diagnosticar | 20–30 min |
+
+## Cómo facilitar estas lecciones
+
+- **Construir antes de teorizar:** cada concepto sale de un circuito que los estudiantes arman y observan.
+- **Usar la pregunta antes de la respuesta:** "¿Qué crees que pasará si…?".
+- **Buscar la falla como juego:** convertir el error en un reto de diagnóstico, no en un fracaso.
+- **Conectar con lo cotidiano:** luces de la casa, juguetes, linternas, desarmar aparatos (con seguridad).
+- **Cerrar con una consigna concreta:** responder, dibujar el circuito o explicarlo con sus palabras.
+
+## Recursos y materiales base
+
+- Pilas AA o AAA, portapilas y cables con pinzas cocodrilo.
+- LEDs de varios colores y resistencias.
+- Interruptor y materiales variados para probar conductores y aislantes (metal, plástico, madera, papel).
+- **1 multímetro** para diagnosticar y medir.
+
+## Recursos relacionados
+
+- [Vocabulario del bloque](../02.%20Vocabulario.md)
+- [Seguridad del bloque](../03.%20Seguridad.md)
+- [00. README del módulo de Mini Lecciones](../00.%20README.md)
+
+## Nota docente
+
+En Primaria el error es el mejor maestro: un LED que no enciende porque está mal conectado enseña más que diez explicaciones. Se recomienda que cada dupla tenga su propio circuito y que el docente guie con preguntas en lugar de dar la solución.
