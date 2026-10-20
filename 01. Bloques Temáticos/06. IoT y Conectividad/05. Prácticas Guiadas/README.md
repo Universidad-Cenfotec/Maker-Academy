@@ -30,6 +30,8 @@ Cada guía parte de una necesidad y una persona usuaria; propone **Inspiración,
 
 En todas las edades, utilice datos ficticios cuando sea posible, evite cuentas personales sin autorización y muestre cuándo no hay información reciente. La práctica con tarjetas puede ser una experiencia completa para un nivel inicial. En los niveles conectados separe lo que observó el sensor, lo que respondió la red y lo que entendió la persona usuaria.
 
+Para documentar sin sobrecargar la sesión, adapte el [registro breve de pruebas y criterios de retroalimentación](registro-de-pruebas.md). El grupo debe conservar al menos una decisión, prueba o mejora explicable; la persona docente selecciona los criterios apropiados. Deje al estudiantado elegir qué mensaje, diseño de pantalla o regla probar dentro de las condiciones de seguridad y del reto.
+
 ## Recursos visuales
 
 La [ilustración del aviso](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/imagenes/mensajes-panorama.svg) y la [comparación de mensajes](../04.%20Protocolos%20de%20Comunicaci%C3%B3n/imagenes/tarjeta-clara.svg) abren la primera práctica. Las cuatro guías restantes incluyen diagramas SVG propios de [vigencia](imagenes/tablero-vigencia.svg), [solicitud y salida](imagenes/solicitud-y-led.svg), [registro remoto](imagenes/lectura-al-registro.svg) y [alerta](imagenes/alerta-con-pruebas.svg). Pueden proyectarse o imprimirse; cada imagen incluye descripción alternativa. Los diagramas representan decisiones, no conexiones eléctricas.
