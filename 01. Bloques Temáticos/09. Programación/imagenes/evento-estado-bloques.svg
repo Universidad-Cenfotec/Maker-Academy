@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="390" viewBox="0 0 1160 390" role="img" aria-labelledby="title desc">
+  <title id="title">Evento, elección y respuesta de una guía interactiva</title>
+  <desc id="desc">Al iniciar se muestra una pregunta. La elección de materiales muestra la ruta de materiales; la elección de lectura muestra la ruta de lectura; sin elección reconocida se pide elegir de nuevo.</desc>
+  <rect width="1160" height="390" fill="#f5f8fc"/>
+  <text x="42" y="48" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#164A98">Una guía que responde a la elección del visitante</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="43" y="125" width="205" height="105" rx="15" fill="#164A98"/>
+    <text x="145" y="164" font-size="19" font-weight="700" fill="white">EVENTO</text>
+    <text x="145" y="194" font-size="17" fill="white">Iniciar guía</text>
+    <rect x="343" y="125" width="245" height="105" rx="15" fill="#DCEBFF" stroke="#006AEA" stroke-width="2"/>
+    <text x="465" y="164" font-size="19" font-weight="700" fill="#164A98">ESTADO</text>
+    <text x="465" y="194" font-size="17" fill="#183153">Destino elegido</text>
+    <rect x="726" y="84" width="380" height="68" rx="13" fill="white" stroke="#006AEA" stroke-width="2"/>
+    <rect x="726" y="162" width="380" height="68" rx="13" fill="white" stroke="#006AEA" stroke-width="2"/>
+    <rect x="726" y="240" width="380" height="68" rx="13" fill="white" stroke="#7C7B75" stroke-width="2"/>
+    <text x="916" y="113" font-size="17" font-weight="700" fill="#164A98">MATERIALES</text>
+    <text x="916" y="137" font-size="16" fill="#183153">Mostrar su ruta</text>
+    <text x="916" y="191" font-size="17" font-weight="700" fill="#164A98">LECTURA</text>
+    <text x="916" y="215" font-size="16" fill="#183153">Mostrar su ruta</text>
+    <text x="916" y="269" font-size="17" font-weight="700" fill="#334155">OTRA O NINGUNA</text>
+    <text x="916" y="293" font-size="16" fill="#183153">Pedir elegir de nuevo</text>
+  </g>
+  <g fill="none" stroke="#006AEA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M248 178h95 M588 178h84v-60h54 M672 178h54 M672 178v96h54"/>
+  </g>
+  <text x="43" y="356" font-family="Arial, sans-serif" font-size="16" fill="#334155">Prueba: iniciar, elegir cada destino y comprobar qué ocurre sin una elección válida.</text>
+</svg>

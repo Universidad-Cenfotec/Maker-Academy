@@ -26,11 +26,12 @@ Los bloques ayudan a responder preguntas como:
 | **B01** | Fundamentos del Pensamiento Maker            | Cultura maker, diseño centrado en usuario, prototipado, colaboración, documentación y aprendizaje del error.        |
 | **B02** | Fabricación Digital                          | Diseño 2D/3D, impresión 3D, corte láser, archivos digitales, materiales, ensamblajes y prototipado.                 |
 | **B03** | Electrónica para Makers                      | Electricidad básica, componentes, circuitos, protoboard, sensores, actuadores y medición.                           |
-| **B04** | Programación y Microcontroladores            | Programación por bloques o texto, entradas y salidas, sensores, actuadores, Arduino, micro:bit, ESP32 y depuración. |
+| **B04** | Programación y Microcontroladores            | Programación aplicada a placas, entradas y salidas, sensores, actuadores, Arduino, micro:bit y ESP32.               |
 | **B05** | Robótica                                     | Robots móviles, motores, sensores, movimiento, rutas, navegación, obstáculos y retos robóticos.                     |
 | **B06** | IoT y Conectividad                           | Dispositivos conectados, ESP32, Wi-Fi, Bluetooth, datos en la nube, dashboards y automatización.                    |
 | **B07** | Proyectos Innovadores y Creatividad Digital  | Productos funcionales, instalaciones interactivas, arte tecnológico, juegos, documentación y pitch.                 |
 | **B08** | Robótica Avanzada y Desafíos de Programación | Sumobot, robots modulares, control preciso, sensores, navegación autónoma, competencia e IA aplicada a robótica.    |
+| **B09** | [Programación](09.%20Programaci%C3%B3n/README.md) | Algoritmos, programación por bloques y progresión hacia Python; primera entrega en revisión.                  |
 
 ---
 
