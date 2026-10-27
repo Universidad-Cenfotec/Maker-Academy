@@ -1,0 +1,4 @@
+# Archivo settings.toml de la IdeaBoard (se edita desde IdeaCode)
+CIRCUITPY_WIFI_SSID = "nombre-de-la-red"
+CIRCUITPY_WIFI_PASSWORD = "clave-de-la-red"
+URL_HOJA = "https://script.google.com/macros/s/CODIGO-DE-SU-SCRIPT/exec"

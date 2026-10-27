@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="246mm" height="146mm" viewBox="0 0 246 146">
+<!-- Rojo (corte): stroke #ff0000, 0.1 mm. Azul (grabado): fill #0000ff. Unidades en mm. -->
+<rect x="0" y="0" width="246" height="146" rx="6" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<circle cx="8" cy="8" r="1.6" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<circle cx="238" cy="8" r="1.6" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<circle cx="8" cy="138" r="1.6" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<circle cx="238" cy="138" r="1.6" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<circle cx="55" cy="73" r="3.6" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<text x="55" y="100" font-size="7" fill="#0000ff" font-family="Arial" text-anchor="middle">MOVER</text>
+<circle cx="55" cy="73" r="16" fill="none" stroke="#0000ff" stroke-width="0.6"/>
+<circle cx="150" cy="73" r="14" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<text x="150" y="94" font-size="5.5" fill="#0000ff" font-family="Arial" text-anchor="middle">1 INICIAR</text>
+<circle cx="178" cy="48" r="14" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<text x="178" y="31" font-size="5.5" fill="#0000ff" font-family="Arial" text-anchor="middle">2 ESCUDO</text>
+<circle cx="206" cy="73" r="14" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<text x="206" y="94" font-size="5.5" fill="#0000ff" font-family="Arial" text-anchor="middle">3 PAUSA</text>
+<circle cx="178" cy="98" r="14" fill="none" stroke="#ff0000" stroke-width="0.1"/>
+<text x="178" y="119" font-size="5.5" fill="#0000ff" font-family="Arial" text-anchor="middle">4 SONIDO</text>
+<text x="123.0" y="136" font-size="8" fill="#0000ff" font-family="Arial" text-anchor="middle">TORTUGA BAULA - ARCADE MAKER</text>
+</svg>
