@@ -10,11 +10,11 @@
 
 **Estado:** En revisión
 
-**Versión:** v0.1
+**Versión:** v0.2
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-01
 
 ---
 
@@ -54,6 +54,8 @@ Empiece con **un evento y una respuesta visible**. Después agregue dos destinos
 ### Elegir el entorno
 
 Sprite Lab puede servir para una historia o personaje que responde a eventos. Una plataforma local o tarjetas de papel permiten desarrollar la misma pregunta si hay problemas de acceso. Consulte [Herramientas para el Aula](../06.%20Herramientas%20para%20el%20Aula/README.md) antes de reservar equipos o pedir cuentas. Las plataformas no sustituyen la decisión sobre el reto y la evidencia.
+
+Si el grupo ya entiende un evento y una decisión, la [ruta de Scratch](../06.%20Herramientas%20para%20el%20Aula/ruta-scratch-y-prueba-de-usuario.md) permite abrir un proyecto inicial, predecir el efecto de un cambio y comprobarlo con otra persona. Para la transición de 7.º–9.º, siga con [Del Bloque al Texto](../03.%20Del%20Bloque%20al%20Texto/README.md).
 
 ## Aplicación en Maker Academy
 

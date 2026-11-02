@@ -10,11 +10,11 @@
 
 **Estado:** En revisión
 
-**Versión:** v0.1
+**Versión:** v0.2
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-01
 
 ---
 
@@ -28,9 +28,18 @@ Ofrecer criterios para decidir si una herramienta permite crear, probar y explic
 
 ## Contenido
 
-### Recurso disponible
+### Recursos disponibles
 
 [Code.org en Maker Academy](code-org-en-maker-academy.md) reúne una selección por propósito: actividades iniciales de CS Fundamentals, Sprite Lab para creaciones por bloques y Python Lab cuando conviene a mayores de 13 años y el idioma no impide participar. También distingue Game Lab y App Lab como opciones JavaScript. La selección no reemplaza la [progresión K–11](../01.%20Mapa%20de%20Progresi%C3%B3n.md).
+
+| Recurso | Uso concreto |
+| --- | --- |
+| [Juegos y entornos interactivos](juegos-y-entornos-interactivos.md) | Blockly Games, Scratch y Python Tutor con nivel sugerido, prueba y transferencia. |
+| [Videos breves](videos-breves.md) | Enlaces de Scratch Team y Code.org con una pausa y una acción posterior. |
+| [Ruta: Laberinto y tarjetas](ruta-laberinto-y-tarjetas.md) | Sesión de predicción, depuración y creación de un recorrido distinto. |
+| [Ruta: proyecto de Scratch](ruta-scratch-y-prueba-de-usuario.md) | Leer un proyecto inicial, modificar una regla y probar con un usuario. |
+
+Los recursos enlazan a sus autores originales. No se copian videos, gráficos, juegos ni lecciones ajenas al repositorio; el material de B09 aporta la mediación, adaptación y evaluación propias.
 
 ### Antes de elegir
 
@@ -61,6 +70,9 @@ Pida que expliquen qué decisión pudieron representar, qué prueba realizaron y
 ## Recursos relacionados
 
 - [Code.org en Maker Academy](code-org-en-maker-academy.md).
+- [Juegos y entornos interactivos](juegos-y-entornos-interactivos.md).
+- [Videos breves](videos-breves.md).
+- [Del Bloque al Texto](../03.%20Del%20Bloque%20al%20Texto/README.md).
 - [Práctica de guía interactiva](../02.%20Programaci%C3%B3n%20por%20Bloques/practica-guia-interactiva.md).
 - [Evaluación del bloque](../07.%20Evaluaci%C3%B3n/README.md).
 

@@ -10,11 +10,11 @@
 
 **Estado:** En revisión
 
-**Versión:** v0.1
+**Versión:** v0.2
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-01
 
 ---
 
@@ -38,6 +38,8 @@ Acompañar a docentes para que el estudiantado construya una secuencia con prop�
 | [Práctica: la ruta del visitante](practica-ruta-del-visitante.md) | Preparar y aplicar un recorrido con un obstáculo y una persona usuaria. | Predicción, observación y cambio en la ruta. |
 
 La [ilustración de la ruta](../imagenes/ruta-probada.svg) se usa antes y después de la prueba. Su propósito es mostrar que un programa se revisa a partir de lo que hizo quien lo ejecutó, no de lo que el autor quiso decir.
+
+Después de la práctica física, la [ruta con Blockly Games · Laberinto](../06.%20Herramientas%20para%20el%20Aula/ruta-laberinto-y-tarjetas.md) permite comparar un recorrido digital con otro creado en tarjetas. Use el [video breve de depuración](../06.%20Herramientas%20para%20el%20Aula/videos-breves.md) si ayuda a hacer visible la primera diferencia entre predicción y ejecución.
 
 ### Ideas que conviene distinguir
 

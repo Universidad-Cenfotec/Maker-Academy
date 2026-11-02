@@ -10,11 +10,11 @@
 
 **Estado:** En revisión
 
-**Versión:** v0.1
+**Versión:** v0.2
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-01
 
 ---
 
@@ -46,10 +46,10 @@ Un visitante del makerspace necesita llegar a una estación. El grupo puede traz
 | --- | --- | --- |
 | [01. Instrucciones y Algoritmos](01.%20Instrucciones%20y%20Algoritmos/README.md) | Secuencia, precisión, predicción y descomposición antes de elegir un entorno. | Desarrollada para revisión. |
 | [02. Programación por Bloques](02.%20Programaci%C3%B3n%20por%20Bloques/README.md) | Eventos, decisiones, repeticiones y estados en una creación propia. | Desarrollada para revisión. |
-| 03. Del Bloque al Texto | Leer comportamientos equivalentes, interpretar errores y depurar. | Prevista en el [planeamiento](00.%20Planeamiento%20del%20Bloque.md). |
+| [03. Del Bloque al Texto](03.%20Del%20Bloque%20al%20Texto/README.md) | Leer comportamientos equivalentes, interpretar errores y depurar con Python introductorio. | Desarrollada para revisión. |
 | 04. Python con Propósito | Programas con datos, funciones y decisiones comprobables. | Prevista en el planeamiento. |
 | 05. Prácticas y Proyectos | Proyectos integrados, versiones y pruebas con usuarios. | Prevista en el planeamiento. |
-| [06. Herramientas para el Aula](06.%20Herramientas%20para%20el%20Aula/README.md) | Elegir Code.org u otro entorno por su utilidad pedagógica y condiciones de acceso. | Desarrollada para revisión. |
+| [06. Herramientas para el Aula](06.%20Herramientas%20para%20el%20Aula/README.md) | Elegir Code.org, Blockly Games, Scratch, Python Tutor y videos breves según el reto y el acceso. | Ampliada con rutas de aula. |
 | [07. Evaluación](07.%20Evaluaci%C3%B3n/README.md) | Registrar una prueba y retroalimentar sin premiar solo la velocidad. | Desarrollada para revisión. |
 
 Consulte el [mapa de progresión](01.%20Mapa%20de%20Progresi%C3%B3n.md) antes de tomar una actividad de otra edad. El [planeamiento del bloque](00.%20Planeamiento%20del%20Bloque.md) contiene el orden de desarrollo y la relación con B04. Se irán agregando carpetas completas; el índice no enlaza a archivos vacíos.
@@ -59,6 +59,8 @@ Consulte el [mapa de progresión](01.%20Mapa%20de%20Progresi%C3%B3n.md) antes de
 Los documentos conceptuales son consulta docente: explican una decisión, la muestran con un caso y ofrecen preguntas para mediar. Las prácticas indican preparación, tres momentos de XperiencED Maker, pruebas habituales y de fallo, evidencias y adaptaciones. El estudiantado puede usar dibujos, explicaciones orales, bloques o código de texto para mostrar la misma idea con distinta profundidad.
 
 Una actividad de Code.org puede ayudar a explorar un concepto. La meta de Maker Academy se comprueba cuando el grupo puede **predecir, probar, explicar y cambiar** su propia solución, incluso si eligió una herramienta diferente.
+
+Para incorporar un recurso externo, consulte el [catálogo de juegos y entornos](06.%20Herramientas%20para%20el%20Aula/juegos-y-entornos-interactivos.md) y la [selección de videos breves](06.%20Herramientas%20para%20el%20Aula/videos-breves.md). Cada enlace propone qué observar y cómo llevar la idea a una creación propia. Las [rutas con Laberinto](06.%20Herramientas%20para%20el%20Aula/ruta-laberinto-y-tarjetas.md) y [Scratch](06.%20Herramientas%20para%20el%20Aula/ruta-scratch-y-prueba-de-usuario.md) ofrecen sesiones que pueden adaptarse sin red.
 
 ## Aplicación en Maker Academy
 
@@ -80,6 +82,8 @@ Conserve una primera versión, una prueba y una mejora. Pregunte **qué cambio t
 - [Mapa de progresión](01.%20Mapa%20de%20Progresi%C3%B3n.md).
 - [Matriz Anual K–11](../../02.%20Programa%20Anual%20K11/Matriz%20Anual%20K-11.md).
 - [B04 Microcontroladores](../04.%20Microcontroladores/README.md).
+- [Del Bloque al Texto](03.%20Del%20Bloque%20al%20Texto/README.md).
+- [Juegos y entornos interactivos](06.%20Herramientas%20para%20el%20Aula/juegos-y-entornos-interactivos.md).
 
 ## Imagen sugerida
 
