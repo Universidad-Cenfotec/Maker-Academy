@@ -22,6 +22,16 @@ Vamos a construir un cartel interactivo que comunique mensajes de convivencia me
 
 Cada botón mostrará un símbolo diferente en la matriz LED 5×5.
 
+
+### Ejemplo de nuestro proyecto
+
+La siguiente imagen muestra una idea de cómo podría verse nuestra señalética interactiva. Podemos personalizar el diseño, los colores y los mensajes.
+
+![Ejemplo de señalética interactiva](https://raw.githubusercontent.com/Universidad-Cenfotec/Maker-Academy/main/Recursos%20visuales/Ejemplos/EjemploSe%C3%B1aletica.png)
+
+*Imagen de referencia conceptual. El diseño final puede variar según las ideas y materiales de cada equipo.*
+
+
 **Nuestro reto:** ¿Cómo podemos utilizar la tecnología para comunicar mensajes positivos en nuestra escuela?
 
 ## 2. ¿Qué necesitamos? 🧰
