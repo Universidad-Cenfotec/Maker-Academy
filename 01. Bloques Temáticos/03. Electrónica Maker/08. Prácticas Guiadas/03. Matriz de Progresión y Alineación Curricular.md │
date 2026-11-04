@@ -1,1 +1,140 @@
+# Matriz de Progresión y Alineación Curricular
+
+> Ruta: `01. Bloques Temáticos/03. Electrónica Maker/08. Prácticas Guiadas/03. Matriz de Progresión y Alineación Curricular.md`
+
+---
+
+## Estado
+
+- Estado: En construcción.
+- Versión: v0.1.
+- Alcance: Matriz de las 16 prácticas propuestas.
+- Validación: Las referencias curriculares oficiales están pendientes de verificación. Esta matriz distingue entre una relación pedagógica propuesta y una correspondencia respaldada por una referencia oficial.
+
+Este documento organiza la colección completa. No reemplaza el [Mapa de Progresión](../01.%20Mapa%20de%20Progresi%C3%B3n.md) ni el documento de [Alineación con el PNFT](../04.%20Alineaci%C3%B3n%20con%20el%20PNFT.md) del bloque.
+
+---
+
+## Cómo leer esta matriz
+
+- **Posición**: lugar de la práctica dentro de la secuencia sugerida de su nivel. Es orientativo: cada grupo puede reordenar según sus conocimientos previos.
+- **Resultado de aprendizaje**: lo que el estudiantado podrá hacer y explicar al finalizar la práctica.
+- **Evidencias**: cómo se documentará el aprendizaje.
+- **Referencia curricular**: pendiente hasta completar la revisión del PNFT, el Programa Anual y las fuentes oficiales. No se declara coherencia curricular completa mientras esta columna esté pendiente.
+
+---
+
+## Matriz por nivel
+
+### Exploradores Maker — Preescolar
+
+| Práctica | Posición | Temas | Resultado de aprendizaje | Evidencias | Referencia curricular |
+|---|---|---|---|---|---|
+| [La luz del escenario](01.%20Exploradores%20Maker/01.%20La%20luz%20del%20escenario.md) | 1 | Energía, encendido y apagado. | Relacionar una acción con el encendido de una luz preparada. | Explicación oral, dibujo y demostración acompañada. | Pendiente |
+| [El camino de la luciérnaga](01.%20Exploradores%20Maker/02.%20El%20camino%20de%20la%20luci%C3%A9rnaga.md) | 2 | Camino completo e interrumpido. | Reconocer, mediante juego y demostración acompañada, la diferencia entre un recorrido completo y uno interrumpido. | Representación del recorrido y explicación oral. | Pendiente |
+| [El museo de las luces](01.%20Exploradores%20Maker/03.%20El%20museo%20de%20las%20luces.md) | 3 | Ubicación de la luz, control y comunicación. | Elegir dónde colocar una luz y explicar qué efecto produce en la creación. | Montaje de la exposición y explicación oral. | Pendiente |
+
+Condiciones del nivel: dispositivos preparados y verificados por el docente; sin componentes sueltos, sin pilas de botón y sin manejo autónomo de herramientas eléctricas.
+
+### Inventores Maker — 1.º a 3.º
+
+| Práctica | Posición | Temas | Resultado de aprendizaje | Evidencias | Referencia curricular |
+|---|---|---|---|---|---|
+| [Mi tarjeta luminosa](02.%20Inventores%20Maker/01.%20Mi%20tarjeta%20luminosa.md) | 1 | Circuito cerrado, LED, polaridad y protección. | Construir con apoyo un circuito protegido y explicar su recorrido. | Tarjeta funcional, dibujo del recorrido y explicación oral. | Pendiente |
+| [El botón secreto](02.%20Inventores%20Maker/02.%20El%20bot%C3%B3n%20secreto.md) | 2 | Pulsador, interruptor y control. | Comparar control momentáneo y permanente y elegir uno según su propósito. | Tabla de observaciones y elección explicada. | Pendiente |
+| [El puente de los materiales](02.%20Inventores%20Maker/03.%20El%20puente%20de%20los%20materiales.md) | 3 | Conductores, aislantes, predicción y prueba. | Formular predicciones, probar muestras autorizadas en un montaje preparado y registrar resultados. | Tabla de predicciones y resultados. | Pendiente |
+
+Condiciones del nivel: el docente selecciona resistencias y verifica portapilas; la simulación es guiada o por demostración.
+
+### Creadores Maker — 4.º a 6.º
+
+| Práctica | Posición | Temas | Resultado de aprendizaje | Evidencias | Referencia curricular |
+|---|---|---|---|---|---|
+| [Del plano a la maqueta luminosa](03.%20Creadores%20Maker/01.%20Del%20plano%20a%20la%20maqueta%20luminosa.md) | 1 | Esquema, protoboard y ramas en paralelo. | Traducir un esquema a un montaje y explicar sus conexiones. | Esquema marcado, fotografía del montaje y explicación. | Pendiente |
+| [La lámpara de las dos versiones](03.%20Creadores%20Maker/02.%20La%20l%C3%A1mpara%20de%20las%20dos%20versiones.md) | 2 | Resistencia, brillo, observación y medición. | Comparar valores seguros de resistencia y justificar una elección. | Tabla comparativa y justificación escrita u oral. | Pendiente |
+| [Detectives de la casa encantada](03.%20Creadores%20Maker/03.%20Detectives%20de%20la%20casa%20encantada.md) | 3 | Continuidad, hipótesis y diagnóstico. | Localizar fallas de conexión mediante comprobaciones registradas. | Bitácora: hipótesis, prueba, resultado y corrección. | Pendiente |
+
+Condiciones del nivel: introducción al multímetro con acompañamiento; fallas de diagnóstico seguras y preparadas por el docente.
+
+### Diseñadores Maker — 7.º a 9.º
+
+| Práctica | Posición | Temas | Resultado de aprendizaje | Evidencias | Referencia curricular |
+|---|---|---|---|---|---|
+| [Exploradores de luz y sombra](04.%20Dise%C3%B1adores%20Maker/01.%20Exploradores%20de%20luz%20y%20sombra.md) | 1 | LDR, resistencia y medición. | Medir y explicar la respuesta de un LDR ante cambios de iluminación. | Tabla de condiciones, valores y conclusión. | Pendiente |
+| [La caja del botón definido](04.%20Dise%C3%B1adores%20Maker/02.%20La%20caja%20del%20bot%C3%B3n%20definido.md) | 2 | Pull-up, pull-down y voltaje de señal. | Comparar ambas configuraciones mediante medición del nodo. | Dos esquemas y tabla de cuatro estados. | Pendiente |
+| [El guardián térmico](04.%20Dise%C3%B1adores%20Maker/03.%20El%20guardi%C3%A1n%20t%C3%A9rmico.md) | 3 | Sensor de temperatura, alimentación e interpretación. | Medir la salida de un sensor y contrastarla con su ficha técnica. | Tabla de lecturas, condiciones y límites. | Pendiente |
+| [Una señal que permanece](04.%20Dise%C3%B1adores%20Maker/04.%20Una%20se%C3%B1al%20que%20permanece.md) | 4 | Soldadura THT, inspección y comprobación. | Trasladar un circuito validado a un montaje soldado y probarlo con supervisión. | Inspección visual, registro de continuidad y prueba funcional. | Pendiente |
+
+Condiciones del nivel: soldadura solo tras inducción de seguridad completa y con supervisión directa. El guardián térmico es una experiencia de medición; no se presenta como alarma automática.
+
+### Innovation Lab — 10.º y 11.º
+
+| Práctica | Posición | Temas | Resultado de aprendizaje | Evidencias | Referencia curricular |
+|---|---|---|---|---|---|
+| [Un circuito, tres representaciones](05.%20Innovation%20Lab/01.%20Un%20circuito%20tres%20representaciones.md) | 1 | Montaje, esquemático y diseño de placa. | Comprobar la correspondencia entre las tres representaciones. | Archivo editable y comprobación documentada. | Pendiente |
+| [Del prototipo a mi primera PCB](05.%20Innovation%20Lab/02.%20Del%20prototipo%20a%20mi%20primera%20PCB.md) | 2 | Huellas, layout, verificación y archivos de fabricación. | Diseñar una placa, revisar sus reglas y preparar archivos de fabricación. | Proyecto editable y registro de verificaciones. | Pendiente |
+| [El desafío de la segunda versión](05.%20Innovation%20Lab/03.%20El%20desaf%C3%ADo%20de%20la%20segunda%20versi%C3%B3n.md) | 3 | Revisión entre pares, criterios de diseño, verificación y control de versiones. | Identificar una mejora, justificarla y documentar su verificación y sus límites. | Lista de revisión, versión corregida y justificación. | Pendiente |
+
+Condiciones del nivel: la fabricación de PCB es una ampliación opcional; el diseño y la revisión pueden completarse digitalmente.
+
+---
+
+## Secuencia sugerida de toda la colección
+
+| Etapa | Práctica | Nivel |
+|---|---|---|
+| 1 | La luz del escenario | Exploradores |
+| 2 | El camino de la luciérnaga | Exploradores |
+| 3 | El museo de las luces | Exploradores |
+| 4 | Mi tarjeta luminosa | Inventores |
+| 5 | El botón secreto | Inventores |
+| 6 | El puente de los materiales | Inventores |
+| 7 | Del plano a la maqueta luminosa | Creadores |
+| 8 | La lámpara de las dos versiones | Creadores |
+| 9 | Detectives de la casa encantada | Creadores |
+| 10 | Exploradores de luz y sombra | Diseñadores |
+| 11 | La caja del botón definido | Diseñadores |
+| 12 | El guardián térmico | Diseñadores |
+| 13 | Una señal que permanece | Diseñadores |
+| 14 | Un circuito, tres representaciones | Innovation Lab |
+| 15 | Del prototipo a mi primera PCB | Innovation Lab |
+| 16 | El desafío de la segunda versión | Innovation Lab |
+
+La secuencia es orientativa. No se exige que un grupo haya completado las prácticas de niveles anteriores para participar; se revisan sus conocimientos previos y se ofrecen apoyos.
+
+---
+
+## Vínculo con el PNFT
+
+Las prácticas se alinearán con:
+
+- El enfoque del PNFT: aprender con tecnologías y aprender de tecnología.
+- El [Mapa de Progresión](../01.%20Mapa%20de%20Progresi%C3%B3n.md) del bloque.
+- El documento de [Alineación con el PNFT](../04.%20Alineaci%C3%B3n%20con%20el%20PNFT.md).
+- El Programa Anual correspondiente.
+
+Mientras no se completen las referencias oficiales, esta matriz documenta la progresión pedagógica propuesta, sin declarar una correspondencia curricular verificada.
+
+---
+
+## Progreso de verificación
+
+| Revisión | Estado |
+|---|---|
+| Estructura de la colección | Completada |
+| Matriz de progresión pedagógica | Completada |
+| Guías desarrolladas | Pendiente |
+| Referencias curriculares oficiales | Pendiente |
+| Prueba piloto | Pendiente |
+
+---
+
+## Documentos relacionados
+
+- [Índice de Prácticas Guiadas](00.%20README.md).
+- [Componentes y Materiales](01.%20Componentes%20y%20Materiales.md).
+- [Plantilla de Práctica Guiada](02.%20Plantilla%20de%20Pr%C3%A1ctica%20Guiada.md).
+- [Índice de Recursos](06.%20Recursos%20de%20Respaldo/00.%20%C3%8Dndice%20de%20Recursos.md).
+- [Mapa de Progresión](../01.%20Mapa%20de%20Progresi%C3%B3n.md).
+- [Alineación con el PNFT](../04.%20Alineaci%C3%B3n%20con%20el%20PNFT.md).
 
