@@ -57,6 +57,14 @@ Sprite Lab puede servir para una historia o personaje que responde a eventos. Un
 
 Si el grupo ya entiende un evento y una decisión, la [ruta de Scratch](../06.%20Herramientas%20para%20el%20Aula/ruta-scratch-y-prueba-de-usuario.md) permite abrir un proyecto inicial, predecir el efecto de un cambio y comprobarlo con otra persona. Para la transición de 7.º–9.º, siga con [Del Bloque al Texto](../03.%20Del%20Bloque%20al%20Texto/README.md).
 
+### Cómo decidir qué bloque enseñar
+
+Parta de la acción que necesita la persona usuaria. Para una guía de estaciones, el evento responde **cuándo** aparece la pregunta; la condición, **qué** respuesta corresponde a la elección; la variable guarda **cuál** fue la elección durante esa ejecución. Una repetición solo aporta si permite intentar de nuevo y tiene una salida clara. Si un equipo aún no puede explicar dos respuestas distintas, posponga las variables y pruebe primero dos eventos de botón.
+
+Reserve una prueba para cada pieza nueva. Después de agregar el evento, reinicie dos veces y compruebe que aparece la misma pregunta. Después de agregar la decisión, pruebe ambas opciones en distinto orden. Si el proyecto muestra una ruta anterior al reiniciar, discuta qué dato quedó guardado y dónde debe establecerse el estado inicial. Las tres pruebas forman una secuencia de depuración que el grupo puede repetir sin depender de la persona docente.
+
+Un entorno sin botón de entrada libre no permite probar cualquier palabra; use las acciones que sí ofrece: no elegir, pulsar dos veces o reiniciar a mitad de la escena. La evidencia es la relación entre la acción real y la respuesta, no la cantidad de bloques visibles.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
