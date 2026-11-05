@@ -56,6 +56,14 @@ Abra el primer nivel seleccionado. En parejas, indiquen con el dedo los pasos qu
 
 En 2.º–3.º, use una cuadrícula corta y mantenga la orientación fija. En 4.º–6.º, agregue un patrón de tres pasos y compare tres tarjetas sueltas con una repetición. Si hay dificultades de motricidad o lectura, un estudiante puede indicar acciones oralmente mientras otro mueve la ficha; también se pueden usar flechas grandes o relieve. Para preescolar, utilice la [práctica de ruta física](../01.%20Instrucciones%20y%20Algoritmos/practica-ruta-del-visitante.md) sin exigir el juego.
 
+### Después del juego: diseñar una casilla difícil
+
+Invite a cada pareja a dibujar un recorrido corto con un obstáculo y entregar sus instrucciones a otra pareja. Antes de ejecutar, quien diseñó marca en una hoja dónde espera que termine el personaje. Quien prueba sigue las tarjetas sin pedir pistas y señala el primer paso que lo llevaría contra una casilla cerrada. La pareja autora conserva su versión, cambia una tarjeta y repite el mismo recorrido.
+
+Para profundizar, pregunte si tres avances iguales pueden expresarse con una repetición y qué ocurriría si el obstáculo aparece antes del tercer avance. Una repetición de cantidad fija no responde por sí sola a un cambio del camino; la condición necesita consultar el entorno en un momento oportuno. Con grupos más pequeños, compare físicamente dos tiras de flechas antes de nombrar los bloques. En primaria superior, deje que el grupo argumente qué información haría falta para decidir antes de avanzar.
+
+El cierre no consiste en enseñar la pantalla resuelta. Pida mostrar las tarjetas iniciales, una observación de la otra pareja y la versión revisada. Así se comprueba si la idea aprendida en Laberinto funciona también en una ruta creada por estudiantes.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
