@@ -83,6 +83,14 @@ Guarde la primera y segunda secuencia. Cada equipo completa oralmente o por escr
 
 Si una ruta llega por casualidad y el equipo no puede explicar sus pasos, pida que la ejecute de nuevo con una orientación distinta o que señale cada instrucción. Si un estudiante tiene dificultad para desplazarse, use una figura, una cuadrícula táctil o un compañero que ejecute las instrucciones dictadas. No fotografíe estudiantes sin autorización.
 
+### Segunda ronda: una regla que cambia
+
+Cuando la primera ruta llegue a D3, no termine la actividad con un «correcto». Mueva la tarjeta de casilla cerrada a C2 antes de entregar una nueva cuadrícula al equipo. Pregunte qué parte del camino sigue siendo válida y desde qué casilla hay que diseñar otro tramo. La persona que ejecuta conserva el papel de Ejecutor Robótico y no cambia la ruta de memoria; el equipo autor debe entregar tarjetas revisadas.
+
+Registre ambas ejecuciones con una fila por paso: tarjeta, posición antes, posición después y observación. Para preescolar, use figuras sobre el suelo o dos fotos de las tarjetas sin personas identificables. En primaria, marque con un círculo la primera tarjeta que ya no funciona. En secundaria, añada la orientación inicial y un caso límite: ¿qué sucede si el destino está cerrado? No hace falta que todas las edades hagan la misma tabla.
+
+Al compartir, pida a quien ejecutó una frase precisa: «En la tercera tarjeta llegué a C2 y estaba cerrado». El equipo autor responde con el cambio que probó. Esta pequeña conversación muestra cómo la escucha modifica el diseño y deja una evidencia útil para la bitácora.
+
 ## Aplicación en Maker Academy
 
 La experiencia conserva **Inspiración, Experimentación y Reflexión** y permite a cada equipo decidir una ruta. El error no se presenta como falta de habilidad: muestra qué parte de la instrucción necesita otra prueba. La conversación de cierre da valor a la explicación y a la colaboración, además de la llegada al destino.
