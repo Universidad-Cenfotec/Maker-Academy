@@ -66,6 +66,12 @@ Use cuentas gestionadas según la política institucional cuando hagan falta; no
 | Crear una interacción para otra persona. | Scratch y [un proyecto inicial revisado](ruta-scratch-y-prueba-de-usuario.md). | ¿La persona entiende qué puede hacer sin recibir pistas? |
 | Ver cómo cambia un dato en Python. | Python Tutor y la [práctica de transición](../03.%20Del%20Bloque%20al%20Texto/practica-misma-logica-dos-lenguajes.md). | ¿Qué valor tenía el dato al entrar en la condición? |
 
+### Tres formas de sacar un juego de su pantalla
+
+Después de **Laberinto**, dibuje una ruta nueva y pida a una pareja que anticipe el primer paso conflictivo antes de ejecutarla con tarjetas. Después de **Tortuga**, cambie el tamaño del dibujo y pregunte si la misma repetición conserva la forma; una persona describe la regla mientras otra intenta reproducirla. Después de **Pájaro**, invente dos destinos y una condición que los separe; pruebe también un dato que no encaje en ninguno. En los tres casos, la pregunta viaja a una creación del grupo.
+
+Scratch permite observar una interacción completa y modificar solo el evento o la respuesta que el equipo quiere investigar. Python Tutor permite detenerse antes de una comparación y predecir el valor que tomará la variable. Elija el recurso por la duda concreta que puede hacer visible y cierre con una evidencia pequeña: predicción, observación y cambio. Evite pasar de sitio en sitio durante una sola sesión; dar tiempo para probar una idea suele revelar más que completar varias pantallas.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
