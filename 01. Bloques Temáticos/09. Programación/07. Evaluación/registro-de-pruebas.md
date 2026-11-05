@@ -81,6 +81,12 @@ Antes de mostrar, cada equipo explica a quién ayuda su creación, una prueba qu
 | El proyecto funciona con ayuda oral del equipo. | Repetir con otra persona sin explicaciones durante la prueba. |
 | La nueva versión resuelve el caso observado. | Comprobar que el caso anterior sigue funcionando. |
 
+### Dos registros, una decisión visible
+
+Si el equipo cambia el programa varias veces, no hace falta una ficha por cada clic. Guarde la ronda que explica una decisión importante y, cuando sea útil, otra que muestre qué ocurrió después. La primera podría decir: «Pensábamos que lectura mostraría la zona de lectura; apareció materiales». La segunda: «Cambiamos la condición; lectura funcionó y volvimos a comprobar materiales». La relación entre las dos permite conversar sobre una mejora con evidencia.
+
+Si quien prueba no puede leer una indicación, registre cómo accedió a ella: lectura en voz alta, símbolos, relieve o apoyo disponible. Esa nota ayuda a distinguir una barrera de acceso de un fallo en la regla. Para coevaluar, la otra pareja describe lo que hizo el programa y en qué momento necesitó ayuda; el equipo autor decide qué cambiar y cuál caso probará después. La ficha puede responderse con palabras, dibujo o audio autorizado sin perder la pregunta central.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
