@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -37,6 +37,13 @@ Una secuencia ejecuta acciones en orden *después* del evento. Por ejemplo: most
 ### 2. La decisión usa información disponible
 
 Llame **estado** a la información que el programa conserva en un momento: destino elegido, mensaje visible o posición del personaje. Una condición pregunta por parte de ese estado: «si el destino es materiales, mostrar ruta A; si es lectura, mostrar ruta B». El programa debe dar una respuesta comprensible cuando no haya selección o llegue un valor diferente. No conviene asumir que todo visitante elegirá una de las opciones esperadas.
+
+Distinga la señal del dato: un clic activa un evento en ese instante; una variable como `destino` puede conservar la elección **durante la ejecución** para que una condición posterior la consulte, aun después de terminar la respuesta al clic. Con el programa abierto, pruebe elegir «lectura», cambiar de escena y consultar de nuevo `destino`: si nadie lo cambió, sigue valiendo «lectura». Al reiniciar, la variable debe volver al valor inicial que el proyecto defina; no presuponga que sobreviva al cierre o que todos los entornos reinicien igual. Un mensaje visible también forma parte del estado de la interfaz, aunque no necesariamente esté guardado en una variable.
+
+| Regla | Pregunta que resuelve | Ejemplo de guía |
+| --- | --- | --- |
+| Condicional simple: **si… entonces** | ¿Ocurre esta acción cuando se cumple una condición? | Si el destino es materiales, mostrar su ruta; si no se cumple, esa regla no cambia el mensaje. |
+| Condicional doble: **si… entonces / de lo contrario** | ¿Cuál de dos respuestas se muestra en todos los casos? | Si el destino es materiales, mostrar esa ruta; de lo contrario, pedir otra elección. Para distinguir también «lectura», hace falta otra condición o una rama adicional. |
 
 | Prueba del visitante | Estado o entrada | Respuesta que se espera |
 | --- | --- | --- |

@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-11-01
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -32,13 +32,13 @@ Dar al personal docente un punto de entrada concreto para secuencias, bucles, de
 
 | Recurso y acceso | Nivel B09 sugerido | Qué se puede probar en clase | Transferencia a una creación propia |
 | --- | --- | --- | --- |
-| [Blockly Games · Laberinto](https://blockly.games/maze?lang=es) | 1.º–6.º, con mediación diferente según lectura y experiencia. | Predecir el recorrido, ejecutar y localizar el primer giro que no coincide. Los niveles posteriores incorporan repetición y condiciones; no hay que completarlos todos. | Diseñar un laberinto en papel para que otra pareja lo resuelva con tarjetas. |
-| [Blockly Games · Tortuga](https://blockly.games/turtle?lang=es) | 4.º–9.º. | Comparar un dibujo hecho con pasos repetidos y otro con un bucle. | Crear un patrón para identificar una estación del makerspace; pedir a otra persona que describa cómo lo dibujaría. |
-| [Blockly Games · Pájaro](https://blockly.games/bird?lang=es) | 6.º–9.º, después de trabajar decisiones sencillas. | Cambiar una condición y observar en qué caso el pájaro toma otra ruta. | Escribir dos reglas para orientar a alguien según el destino elegido y probar un caso distinto. |
-| [Code.org · CS Fundamentals](https://code.org/en-US/curriculum/computer-science-fundamentals) | Preescolar–6.º, según actividad y lectura requerida. | Seleccionar una actividad de secuencia, evento o depuración, con acompañamiento. | Construir la [ruta del visitante](../01.%20Instrucciones%20y%20Algoritmos/practica-ruta-del-visitante.md) o una interacción propia. |
-| [CS Unplugged · recursos en español](https://www.csunplugged.org/es/) | Preescolar–6.º, según la actividad. | Resolver un juego con cartas o una búsqueda física antes de formalizar instrucciones. Parte del catálogo detallado sigue en inglés. | Explicar el procedimiento a otra pareja y revisar un paso que no pudo seguir. |
-| [Scratch · proyectos iniciales](https://scratch.mit.edu/help/starter_projects/) | 4.º–9.º. | Abrir «Maze Starter» o «Pong Starter», inspeccionar bloques, predecir qué cambia si se modifica una regla y probarlo. | Adaptar un proyecto a una necesidad del grupo, atribuir la obra de partida cuando corresponda y explicar un cambio. |
-| [Python Tutor · visualizador](https://pythontutor.com/visualize.html) | 7.º–11.º. | Seguir línea por línea un ejemplo corto; observar el valor de una variable y cuál rama se ejecuta. | Aplicar las mismas pruebas a un programa propio en Python. |
+| [Blockly Games · Laberinto](https://blockly.games/maze?lang=es) | I Ciclo, 1.º–3.º; II Ciclo, 4.º–6.º, con mediación diferente según lectura y experiencia. | Predecir el recorrido, ejecutar y localizar el primer giro que no coincide. Los niveles posteriores incorporan repetición y condiciones; no hay que completarlos todos. | Diseñar un laberinto en papel para que otra pareja lo resuelva con tarjetas. |
+| [Blockly Games · Tortuga](https://blockly.games/turtle?lang=es) | II Ciclo, 4.º–6.º; III Ciclo, 7.º–9.º. | Comparar un dibujo hecho con pasos repetidos y otro con un bucle. | Crear un patrón para identificar una estación del makerspace; pedir a otra persona que describa cómo lo dibujaría. |
+| [Blockly Games · Pájaro](https://blockly.games/bird?lang=es) | II Ciclo, 4.º–6.º (6.º); III Ciclo, 7.º–9.º, después de trabajar decisiones sencillas. | Cambiar una condición y observar en qué caso el pájaro toma otra ruta. | Escribir dos reglas para orientar a alguien según el destino elegido y probar un caso distinto. |
+| [Code.org · CS Fundamentals](https://code.org/en-US/curriculum/computer-science-fundamentals) | Preescolar; I Ciclo, 1.º–3.º; II Ciclo, 4.º–6.º, según actividad y lectura requerida. | Seleccionar una actividad de secuencia, evento o depuración, con acompañamiento. | Construir la [ruta del visitante](../01.%20Instrucciones%20y%20Algoritmos/practica-ruta-del-visitante.md) o una interacción propia. |
+| [CS Unplugged · recursos en español](https://www.csunplugged.org/es/) | Preescolar; I Ciclo, 1.º–3.º; II Ciclo, 4.º–6.º, según la actividad. | Resolver un juego con cartas o una búsqueda física antes de formalizar instrucciones. Parte del catálogo detallado sigue en inglés. | Explicar el procedimiento a otra pareja y revisar un paso que no pudo seguir. |
+| [Scratch · proyectos iniciales](https://scratch.mit.edu/help/starter_projects/) | II Ciclo, 4.º–6.º; III Ciclo, 7.º–9.º. | Abrir «Maze Starter» o «Pong Starter», inspeccionar bloques, predecir qué cambia si se modifica una regla y probarlo. | Adaptar un proyecto a una necesidad del grupo, atribuir la obra de partida cuando corresponda y explicar un cambio. |
+| [Python Tutor · visualizador](https://pythontutor.com/visualize.html) | III Ciclo, 7.º–9.º; Educación Diversificada, 10.º–11.º. | Seguir línea por línea un ejemplo corto; observar el valor de una variable y cuál rama se ejecuta. | Aplicar las mismas pruebas a un programa propio en Python. |
 
 Los tres juegos de Blockly están disponibles en español desde los enlaces anteriores. Scratch permite crear proyectos abiertos; el material de inicio es un punto de partida, no una tarea de reproducción. Python Tutor es un **visualizador**, no un curso completo de Python. Para Code.org consulte también la [guía de selección del bloque](code-org-en-maker-academy.md).
 
@@ -51,6 +51,8 @@ Para Scratch, pida mirar dentro del proyecto antes de modificarlo: «¿Qué even
 ### Acceso y resguardo
 
 Revise el enlace, idioma, sonido, anuncios o navegación externa, funciones de accesibilidad, disponibilidad de equipos y modo de guardar en el dispositivo del centro. No suponga que un recurso que abre en la computadora docente funcionará igual en cada equipo. Proyecte una actividad y haga que el grupo decida las acciones si no hay dispositivos individuales.
+
+**Comprobación en la red institucional antes de la clase:** abra en un equipo estudiantil los enlaces concretos de Blockly Games, Code.org, Scratch y Python Tutor; pruebe una actividad, la ejecución, el sonido si se utiliza y la forma de guardar. Registre fecha, equipo, red, recurso y resultado (abre / bloqueado / funciona parcialmente). Si un cortafuegos bloquea el sitio, acuerde con el centro la alternativa autorizada y prepare tarjetas, proyecto local o traza impresa. La disponibilidad pública del enlace no confirma el acceso desde cada institución.
 
 Use cuentas gestionadas según la política institucional cuando hagan falta; no pida cuentas personales ni publique nombres, fotos o proyectos de menores sin autorización. Los enlaces de Scratch pueden llevar a contenido creado por la comunidad, por lo que conviene seleccionar y abrir el proyecto concreto antes de la sesión. En un visualizador externo, no pegue código con datos privados. Si la red falla, conserve la misma pregunta mediante tarjetas, cuadrícula, una captura previamente autorizada o un programa impreso.
 

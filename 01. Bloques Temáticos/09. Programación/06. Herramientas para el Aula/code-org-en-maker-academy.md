@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -54,7 +54,13 @@ Sprite Lab informa soporte para español de Latinoamérica. Python Lab aparece e
 
 Antes de pedir acceso, confirme si la actividad elegida puede verse sin iniciar sesión y qué exige guardar o recuperar el trabajo. No solicite al estudiantado datos personales ni publicación abierta para completar una evidencia del bloque. Use nombres ficticios en ejemplos. Si la red se interrumpe, continúe con un esquema de «entrada → regla → respuesta» en papel; después podrá programarse sin perder la decisión pedagógica.
 
-### 4. Una mini secuencia de aula
+En perfiles, nombres de proyectos, comentarios y capturas no publique **nombres completos, fotografías, ubicaciones ni horarios** del estudiantado. Use seudónimos o nombres de equipo autorizados y revise los permisos de compartir antes de mostrar un enlace. Esta elección concreta trabaja ciudadanía digital y protección de datos en el eje del [PNFT](../../../00.%20Modelo%20Pedag%C3%B3gico/04.%20Articulaci%C3%B3n%20con%20el%20PNFT.md), además de la lógica de programación.
+
+### 4. IA como pista de depuración
+
+Si el centro autoriza una herramienta de IA generativa, la persona docente puede usar un asistente o una Gema de Gemini para preparar **preguntas**, no para obtener el proyecto terminado. Ejemplo con un caso ficticio: «Mi guía no responde al clic. Dame dos pistas para comprobar el evento, sin escribir los bloques de solución». El equipo predice, prueba una pista y comprueba el resultado en su propio programa; registra qué aceptó o descartó y por qué. No introduzca nombres, capturas identificables ni proyectos privados en el asistente. El acceso directo del estudiantado depende de la edad, las cuentas y las políticas vigentes del centro; la responsabilidad de la decisión y de la evidencia sigue siendo humana.
+
+### 5. Una mini secuencia de aula
 
 **Primer momento:** con tarjetas, una pareja representa cómo orientar a quien busca materiales. Otra la prueba y comunica dónde tuvo dudas.
 
@@ -83,6 +89,7 @@ Solicite una predicción, el resultado observado por alguien más y el cambio pr
 - [CS Fundamentals, catálogo oficial](https://code.org/en-US/curriculum/computer-science-fundamentals).
 - [Sprite Lab, ficha oficial](https://code.org/en-US/tools/sprite-lab).
 - [Python Lab, ficha oficial](https://code.org/tools/python-lab/).
+- [Gemas de Gemini: condiciones de uso y acceso](https://support.google.com/gemini/answer/15236321?hl=es).
 - [Mapa de progresión de B09](../01.%20Mapa%20de%20Progresi%C3%B3n.md).
 
 ## Imagen sugerida

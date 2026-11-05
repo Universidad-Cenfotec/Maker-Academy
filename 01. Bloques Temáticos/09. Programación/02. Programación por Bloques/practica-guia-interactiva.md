@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -36,7 +36,7 @@ Prepare tarjetas de dos destinos reales o imaginarios, papel para bosquejo y un 
 
 Acuerde un criterio de éxito que pueda observar otra persona: **al comenzar se ve la pregunta; materiales y lectura producen indicaciones diferentes; una respuesta no reconocida pide volver a elegir**. La longitud o decoración no forman parte del criterio.
 
-![Esquema de la guía: inicio, dos destinos y una respuesta para entradas inesperadas.](../imagenes/evento-estado-bloques.svg)
+![Un evento inicia la guía; el estado conserva el destino elegido y se bifurca hacia materiales, lectura o la solicitud de elegir nuevamente.](../imagenes/evento-estado-bloques.svg)
 
 ### 2. Inspiración · una persona nueva en el espacio
 
@@ -62,20 +62,28 @@ Los equipos pueden cambiar destinos y formato si mantienen una necesidad clara. 
 
 Evite dar a todo el grupo la misma secuencia de bloques. Las opciones concretas dependerán del entorno y de lo que el estudiantado decidió diseñar.
 
+**Preguntas para depurar sin tomar el control del proyecto:**
+
+- Si no responde al clic: ¿qué objeto recibe el evento?, ¿el botón que probaron es ese objeto?, ¿el proyecto estaba iniciado?, ¿aparece la pregunta antes de hacer clic? Prueben primero un mensaje temporal para comprobar si el evento se activa.
+- Si repite el mensaje sin parar: ¿qué condición termina la repetición?, ¿cambia `destino` dentro del bucle?, ¿el programa espera una nueva acción o lee siempre el mismo valor? Detengan la ejecución y hagan una vuelta a mano antes de editar.
+- Si responde con la ruta equivocada: ¿qué valor tenía `destino` justo antes de la condición?, ¿se reinició entre pruebas?, ¿qué otra opción dejó de funcionar después del cambio?
+
 ### 4. Ajuste por nivel y acceso
 
 | Grupo | Versión útil | Evidencia |
 | --- | --- | --- |
-| **1.º–3.º** | Un personaje responde al evento de inicio y luego a una opción; el adulto ayuda a leer. | Dice o muestra qué acción activó el mensaje. |
-| **4.º–6.º** | Dos destinos y recuperación ante una elección ausente o no prevista. | Explica la condición o los eventos y muestra una prueba ajena. |
-| **7.º–9.º** | Traza evento, valor y resultado; compara después el mismo caso con texto. | Predice tres resultados y documenta un cambio de regla. |
-| **10.º–11.º** | Usa el prototipo para validar la interacción antes de desarrollar otra implementación. | Justifica decisiones de interfaz, pruebas y límites. |
+| **I Ciclo, 1.º–3.º** | Un personaje responde al evento de inicio y luego a una opción; el adulto ayuda a leer. | Dice o muestra qué acción activó el mensaje. |
+| **II Ciclo, 4.º–6.º** | Dos destinos y recuperación ante una elección ausente o no prevista. | Explica la condición o los eventos y muestra una prueba ajena. |
+| **III Ciclo, 7.º–9.º** | Traza evento, valor y resultado; compara después el mismo caso con texto. | Predice tres resultados y documenta un cambio de regla. |
+| **Educación Diversificada, 10.º–11.º** | Usa el prototipo para validar la interacción antes de desarrollar otra implementación. | Justifica decisiones de interfaz, pruebas y límites. |
 
 En preescolar, trabaje el antecedente unplugged: una persona levanta una tarjeta de destino y otra sigue una indicación. No necesita abrir el editor. Si no hay red, el prototipo en papel permite todas las pruebas de decisión; fotografíelo solo según las autorizaciones del centro.
 
 ### 5. Reflexión y evaluación formativa
 
 Cada equipo conserva el bosquejo inicial y completa el [registro breve](../07.%20Evaluaci%C3%B3n/registro-de-pruebas.md) con una predicción, un resultado y un cambio comprobado. Invite a la persona visitante a decir dónde dudó. Pregunte: «¿La guía ayudó sin que ustedes hablaran?», «¿qué cambió después de su prueba?» y «¿qué caso aún no probaron?».
+
+Organice la **Bitácora Maker** según los tres momentos de la metodología: **Inspiración (20 % del tiempo orientativo):** necesidad, persona usuaria y predicción inicial; **Experimentación (60 %):** bosquejo, primera versión, entradas probadas, diferencia observada y nuevo intento; **Reflexión (20 %):** devolución de la persona visitante, explicación del cambio y próxima prueba. Estas proporciones distribuyen el tiempo de la experiencia, no la calificación. Se puede registrar con dibujos, notas breves o audio autorizado; una prueba significativa basta para abrir la conversación.
 
 Una guía con pocos bloques y respuestas verificadas cumple mejor la meta que una escena extensa que nadie puede usar. Si un equipo termina antes, proponga comprobar un destino nuevo o revisar la legibilidad de instrucciones, no sumar adornos por obligación.
 

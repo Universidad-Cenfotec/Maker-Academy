@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -45,10 +45,10 @@ No use todos los criterios como lista rígida en cada sesión. Elija dos o tres 
 | Nivel | Evidencia suficiente para una primera versión |
 | --- | --- |
 | **Preescolar** | Señala inicio y destino, predice y muestra qué tarjeta cambió después de observar. Una explicación oral es válida. |
-| **1.º–3.º** | Ordena bloques o tarjetas, ejecuta con otra persona y cuenta qué salió distinto. |
-| **4.º–6.º** | Prueba dos elecciones, muestra una rama corregida y explica el evento que la activa. |
-| **7.º–9.º** | Documenta un caso normal y otro límite; rastrea una condición antes de modificarla. |
-| **10.º–11.º** | Diseña pruebas para entradas válidas e inválidas, documenta versiones, límites y respuesta de usuarios. |
+| **I Ciclo, 1.º–3.º** | Ordena bloques o tarjetas, ejecuta con otra persona y cuenta qué salió distinto. |
+| **II Ciclo, 4.º–6.º** | Prueba dos elecciones, muestra una rama corregida y explica el evento que la activa. |
+| **III Ciclo, 7.º–9.º** | Documenta un caso normal y otro límite; rastrea una condición antes de modificarla. |
+| **Educación Diversificada, 10.º–11.º** | Diseña pruebas para entradas válidas e inválidas, documenta versiones, límites y respuesta de usuarios. |
 
 La misma calidad de razonamiento puede expresarse oralmente, con dibujos, demostración, bloques o texto. Permita que el estudiante muestre la lógica sin imponer la escritura como única forma de evidencia en etapas iniciales.
 

@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -34,6 +34,8 @@ Relacionar una predicción con un resultado observado y con un cambio concreto; 
 
 **Quién probó y con qué entrada o situación:** __________________________
 
+**Roles durante esta ronda (quién diseñó, ejecutó y observó):** __________
+
 | Antes de probar | Durante la prueba | Después de la prueba |
 | --- | --- | --- |
 | Esperábamos que… | Ocurrió… | Cambiamos… porque… |
@@ -43,6 +45,12 @@ Relacionar una predicción con un resultado observado y con un cambio concreto; 
 
 **Nos falta probar:** ____________________________________________________
 
+**Quien probó dice:** «Entendí…» __________ «Dudé cuando…» ______________
+
+**Nosotros reconocemos un aporte de otra persona:** ______________________
+
+**Decisión maker que repetiríamos / cambiaríamos:** _____________________
+
 La persona docente puede registrar las respuestas de un grupo que aún no escribe o pedir un dibujo con flechas y dos versiones. En secundaria, «entrada» puede especificar un valor, un estado inicial y la salida esperada. No registre nombres de visitantes externos ni datos personales en los ejemplos que se publicarán.
 
 ### Ejemplo de uso
@@ -50,6 +58,19 @@ La persona docente puede registrar las respuestas de un grupo que aún no escrib
 **Proyecto:** guía de dos estaciones. **Prueba:** una compañera elige lectura. **Esperábamos:** indicaciones hacia lectura. **Ocurrió:** apareció la ruta de materiales. **Cambiamos:** la condición comparaba con «materiales» en las dos ramas; corregimos la segunda y reiniciamos. **Nueva prueba:** lectura mostró la indicación prevista; después comprobamos materiales para asegurar que siguiera funcionando. **Pendiente:** intentar continuar sin elegir destino.
 
 El ejemplo no ofrece un diagnóstico universal. Si ambas ramas son eventos de botones distintos, la causa podría ser el evento asociado al botón de lectura. El registro debe describir la causa que se pudo observar en el proyecto real.
+
+### Coevaluación durante Show Your Work
+
+Antes de mostrar, cada equipo explica a quién ayuda su creación, una prueba que la hizo cambiar y un límite que todavía conoce. Quien visita prueba un caso y devuelve **una observación y una pregunta**, sin calificar a la persona. La conversación puede registrarse con palabras, dibujo o audio autorizado.
+
+| Aspecto | Descriptor observable para pares | Pregunta breve |
+| --- | --- | --- |
+| Funcionamiento | La misma entrada produce la respuesta que se anunció, o el equipo identifica dónde difiere. | ¿Qué ocurrió cuando lo probé? |
+| Colaboración | Más de una persona pudo proponer, ejecutar o revisar; se escucha la observación ajena. | ¿Qué idea de otra persona ayudó a cambiar algo? |
+| Mentalidad maker | El equipo muestra una versión anterior, una prueba y una decisión justificada para la siguiente. | ¿Qué aprendieron del intento que falló? |
+| Claridad y acceso | Pude entender cómo comenzar y qué hacer si me equivoco, con los apoyos disponibles. | ¿En qué momento necesité una pista? |
+
+**Autoevaluación del equipo:** «Hoy pude explicar…», «al probar con alguien descubrimos…», «en la siguiente versión comprobaré…». El docente recoge una evidencia de cada aspecto pertinente y acuerda una próxima prueba; estos descriptores orientan retroalimentación, no una puntuación automática.
 
 ### Lectura formativa
 

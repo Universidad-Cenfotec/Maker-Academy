@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-11-01
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -60,6 +60,10 @@ print(mensaje)
 ```
 
 `=` asigna un valor; `==` compara dos valores. Python lee el `if` y, si es falso, prueba el `elif`. La rama `else` cubre todos los valores restantes. La sangría indica qué instrucción pertenece a cada rama. `print` muestra el mensaje que quedó asignado. Esta salida en consola representa la respuesta de una guía; no es una interfaz de botones.
+
+En la primera línea, `destino = "materiales"` **guarda** el texto para consultarlo después. En `if destino == "materiales":`, `==` **pregunta** si coinciden los valores y produce verdadero o falso. Escribir `if destino = "materiales":` provoca un error de sintaxis: asignar no equivale a comparar. En bloques, la asignación suele aparecer como «fijar destino a…» y la comparación como una pieza con dos entradas dentro de «si…». Pida señalar ambas operaciones en el ejemplo antes de cambiar una condición.
+
+La sangría de las líneas `mensaje = ...` equivale a colocar instrucciones **dentro de la boca** de cada bloque «si», «si no, si» o «de lo contrario» en Scratch o MakeCode. La línea `print(mensaje)` vuelve al margen porque debe ejecutarse después de elegir una rama. Si se quita la sangría de una instrucción que debería estar dentro de una rama, Python ya no puede interpretar esa estructura como se pretendía; compare visualmente los márgenes antes de ejecutar.
 
 Una persona docente puede preguntar antes de ejecutar: «¿Qué valor tiene `destino`?», «¿se probará la segunda condición?» y «¿qué línea asignará `mensaje`?». Con `destino = "materiales"`, la primera condición es verdadera y se asigna el primer mensaje. No se ejecutan también las ramas siguientes.
 

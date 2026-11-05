@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -42,7 +42,9 @@ Prepare una cuadrícula de cuatro columnas (A–D) y tres filas (1–3), en pape
 
 Materiales: cinta removible o cuadrícula dibujada, tarjetas de flechas, una figura y dos hojas para conservar versiones. Si el grupo es pequeño, reduzca el recorrido a tres pasos y mantenga solo la idea de inicio, obstáculo y llegada. Asegure un trayecto accesible; ejecutar el programa con una figura sobre la mesa es tan válido como caminarlo.
 
-![Una ruta se corrige después de encontrar una casilla cerrada.](../imagenes/ruta-probada.svg)
+Prepare tarjetas grandes con flechas oscuras y fondo contrastante; identifique inicio, obstáculo y destino también con palabras, formas o relieve, sin depender solo del color. Una cuadrícula táctil con cinta de textura diferente permite seguir la ruta con una figura. Para quien prefiera escuchar, una persona lee cada tarjeta o da una señal sonora acordada por paso; la predicción y la corrección pueden comunicarse oralmente, con gestos, por escrito o mediante un dispositivo de apoyo. Consulte con el estudiante qué modalidad le resulta útil y mantenga la misma decisión sobre la ruta.
+
+![Dos cuadrículas de A a D y de 1 a 3: la primera ruta se detiene al pasar de A1 a B1, casilla cerrada; la segunda baja por A2, cruza la fila 2 y llega a materiales en D3.](../imagenes/ruta-probada.svg)
 
 ### 2. Inspiración · ¿qué necesita saber quien llega?
 
@@ -51,7 +53,7 @@ Diga «mostrale al visitante dónde están los materiales» sin dar la ruta. Pre
 ### 3. Experimentación · primera versión y prueba
 
 1. En parejas o tríos, elijan una ruta y coloquen las tarjetas. No es necesario usar el recorrido modelo del documento conceptual.
-2. Otro equipo recibe las tarjetas y sigue las instrucciones sin preguntas aclaratorias durante la prueba. Quien las creó observa en silencio.
+2. Otro equipo recibe las tarjetas. Una persona asume el papel de **Ejecutor Robótico**: sigue exactamente las tarjetas y las reglas acordadas, paso a paso, sin adivinar la intención de quien creó la ruta ni inventar un desvío. Puede mover una figura, desplazarse o indicar los pasos mediante apoyos. Quien diseñó observa en silencio; después de la prueba sí pueden conversar.
 3. Registre dos cosas: **«pensábamos que terminaría en...»** y **«terminó en...»**. Si llegó a una casilla cerrada, detenga la ejecución, sin improvisar un atajo.
 4. Devuelva la secuencia. El equipo identifica el primer paso que debe cambiar, prepara la versión 2 y la entrega a otra persona.
 5. Cambie una condición: coloque una tarjeta de «cerrado» en otro lugar *antes de la segunda ronda*. Pregunte si las instrucciones todavía sirven o si necesitan otro recorrido. Este cambio es una nueva prueba, no un defecto oculto de quien ejecutó.
@@ -67,11 +69,11 @@ Diga «mostrale al visitante dónde están los materiales» sin dar la ruta. Pre
 
 | Nivel | Alcance de la prueba | Evidencia |
 | --- | --- | --- |
-| **Exploradores · preescolar** | Dos o tres tarjetas y figuras grandes; el adulto lee cuando hace falta. | Señala dónde quería llegar y qué flecha cambió. |
-| **Inventores · 1.º–3.º** | Ruta completa en papel con inicio y destino. | Ordena tarjetas y explica un desvío. |
-| **Creadores · 4.º–6.º** | Dos recorridos posibles; otro equipo prueba uno sin ayuda. | Compara dos versiones y una decisión de diseño. |
-| **Diseñadores · 7.º–9.º** | Traza paso a paso y condición nueva. | Registra estado inicial, punto de fallo y nueva prueba. |
-| **Innovation Lab · 10.º–11.º** | Define datos de cuadrícula, reglas y caso no previsto en una representación propia. | Explica qué se validó con usuarios y qué no. |
+| **Preescolar** | Dos o tres tarjetas y figuras grandes; el adulto lee cuando hace falta. | Señala dónde quería llegar y qué flecha cambió. |
+| **I Ciclo, 1.º–3.º** | Ruta completa en papel con inicio y destino. | Ordena tarjetas y explica un desvío. |
+| **II Ciclo, 4.º–6.º** | Dos recorridos posibles; otro equipo prueba uno sin ayuda. | Compara dos versiones y una decisión de diseño. |
+| **III Ciclo, 7.º–9.º** | Traza paso a paso y condición nueva. | Registra estado inicial, punto de fallo y nueva prueba. |
+| **Educación Diversificada, 10.º–11.º** | Define datos de cuadrícula, reglas y caso no previsto en una representación propia. | Explica qué se validó con usuarios y qué no. |
 
 Para secundaria, el desafío es especificar y comprobar el recorrido, no utilizar un lenguaje de texto si el grupo todavía trabaja la transición. Un programa digital puede añadirse después de probar la lógica con tarjetas.
 

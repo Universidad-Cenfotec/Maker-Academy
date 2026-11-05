@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-11-01
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -37,7 +37,7 @@ Ayudar a seleccionar eventos, secuencias, condiciones y repeticiones que sirvan 
 | [Eventos, decisiones y repeticiones](eventos-decisiones-y-repeticiones.md) | Preparar preguntas y ejemplos antes de abrir el entorno. | Predice dos rutas del programa y explica qué las activa. |
 | [Práctica: una guía interactiva](practica-guia-interactiva.md) | Crear una guía breve que responda a la elección de un visitante. | Otra persona prueba dos elecciones y una inesperada; el equipo modifica su guía. |
 
-![Un evento inicia la guía; una elección cambia el mensaje y una entrada inesperada recibe una respuesta clara.](../imagenes/evento-estado-bloques.svg)
+![Un evento inicia la guía; el destino guardado como estado dirige hacia la ruta de materiales, la de lectura o una invitación a elegir de nuevo.](../imagenes/evento-estado-bloques.svg)
 
 ### Una secuencia posible
 
@@ -45,11 +45,11 @@ Empiece con **un evento y una respuesta visible**. Después agregue dos destinos
 
 | Nivel | Entrada razonable | Reto que amplía la comprensión |
 | --- | --- | --- |
-| **Exploradores · preescolar** | Juego de «cuando muestro esta tarjeta, el personaje hace esto» con una persona que ejecuta. | Distinguir señal e instrucción; todavía no se exige interfaz digital. |
-| **Inventores · 1.º–3.º** | Un evento de inicio y secuencia corta de acciones en bloques. | Comparar el orden de dos acciones. |
-| **Creadores · 4.º–6.º** | Dos elecciones que cambian mensaje o movimiento. | Probar qué ocurre si la elección no corresponde a ninguna de las dos. |
-| **Diseñadores · 7.º–9.º** | Separar evento, estado y regla; rastrear una condición. | Comparar el comportamiento con una versión de texto introductoria. |
-| **Innovation Lab · 10.º–11.º** | Usar una interfaz por bloques solo si ayuda a modelar o prototipar. | Justificar una transición hacia Python y diseñar pruebas equivalentes. |
+| **Preescolar** | Juego de «cuando muestro esta tarjeta, el personaje hace esto» con una persona que ejecuta. | Distinguir señal e instrucción; todavía no se exige interfaz digital. |
+| **I Ciclo, 1.º–3.º** | Un evento de inicio y secuencia corta de acciones en bloques. | Comparar el orden de dos acciones. |
+| **II Ciclo, 4.º–6.º** | Dos elecciones que cambian mensaje o movimiento. | Probar qué ocurre si la elección no corresponde a ninguna de las dos. |
+| **III Ciclo, 7.º–9.º** | Separar evento, estado y regla; rastrear una condición. | Comparar el comportamiento con una versión de texto introductoria. |
+| **Educación Diversificada, 10.º–11.º** | Usar una interfaz por bloques solo si ayuda a modelar o prototipar. | Justificar una transición hacia Python y diseñar pruebas equivalentes. |
 
 ### Elegir el entorno
 

@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-11-01
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -32,9 +32,9 @@ Ofrecer estímulos breves para anticipar un resultado, observar una técnica de 
 
 | Video y autor | Uso sugerido en B09 | Pausa y acción en clase |
 | --- | --- | --- |
-| [Getting Started with Scratch](https://www.youtube.com/watch?v=9jTPZfhuVro) · Scratch Team | 4.º–6.º; presentar bloques, personaje y proyecto propio. | Pause antes de que se ejecute una acción: «¿qué bloque hará que empiece?». Luego el equipo construye una escena con un evento y la prueba con otra persona. |
-| [Debugging with the Step Button (Course A)](https://www.youtube.com/watch?v=AtbqIF4gOb8) · Code.org | 1.º–6.º, con mediación y traducción docente cuando haga falta; ver cómo localizar el primer paso problemático. | Detenga la demostración antes de la corrección. Predigan dónde se desvía el personaje; apliquen esa forma de observar en la [ruta del visitante](../01.%20Instrucciones%20y%20Algoritmos/practica-ruta-del-visitante.md). |
-| [Create a Sprite with the Scratch Paint Editor](https://www.youtube.com/watch?v=9C_wblf4FIE) · Scratch Team | 4.º–6.º; crear un personaje reconocible para una interacción. | Pida diseñar un personaje que ayude a distinguir dos estaciones sin depender solo del color; después programe un evento que cambie su mensaje. |
+| [Getting Started with Scratch](https://www.youtube.com/watch?v=9jTPZfhuVro) · Scratch Team | II Ciclo, 4.º–6.º; presentar bloques, personaje y proyecto propio. | Pause antes de que se ejecute una acción: «¿qué bloque hará que empiece?». Luego el equipo construye una escena con un evento y la prueba con otra persona. |
+| [Debugging with the Step Button (Course A)](https://www.youtube.com/watch?v=AtbqIF4gOb8) · Code.org | I Ciclo, 1.º–3.º; II Ciclo, 4.º–6.º, con mediación y traducción docente cuando haga falta; ver cómo localizar el primer paso problemático. | Detenga la demostración antes de la corrección. Predigan dónde se desvía el personaje; apliquen esa forma de observar en la [ruta del visitante](../01.%20Instrucciones%20y%20Algoritmos/practica-ruta-del-visitante.md). |
+| [Create a Sprite with the Scratch Paint Editor](https://www.youtube.com/watch?v=9C_wblf4FIE) · Scratch Team | II Ciclo, 4.º–6.º; crear un personaje reconocible para una interacción. | Pida diseñar un personaje que ayude a distinguir dos estaciones sin depender solo del color; después programe un evento que cambie su mensaje. |
 
 Los dos videos del equipo de Scratch son introducciones breves a la herramienta y a la creación de personajes. El de depuración de Code.org dura aproximadamente dos minutos en su versión de curso. Están en inglés; si no hay subtítulos adecuados, explique usted el fragmento o represente la acción con tarjetas. No se requiere que preescolar vea YouTube para participar en el reto.
 

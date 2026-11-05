@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-11-01
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -58,6 +58,12 @@ No presente la modificación como «hacer más bonito el juego». Un cambio visu
 
 Si no hay red, una pareja representa el programa con tarjetas de eventos y otra hace de visitante. En un equipo compartido, rote quién anticipa, quién cambia bloques y quién prueba. No publique capturas con nombres reales ni enlaces a proyectos estudiantiles sin autorización. Cuando se comparta un remix, conserve la atribución al proyecto de partida y revise las normas de Scratch y del centro para publicación.
 
+Revise el perfil, el título, los comentarios y el contenido del proyecto antes de compartirlo: no incluya **nombres completos, fotografías, ubicaciones ni horarios** de estudiantes. Use personajes y datos ficticios. Esta revisión se vincula con la ciudadanía digital del [PNFT](../../../00.%20Modelo%20Pedag%C3%B3gico/04.%20Articulaci%C3%B3n%20con%20el%20PNFT.md); la prueba con pares se puede hacer en el aula sin publicación abierta.
+
+### IA como apoyo supervisado
+
+Cuando las reglas del centro lo permitan, la persona docente puede pedir a una Gema de Gemini u otro asistente autorizado una pista sobre un programa ficticio: «Al tocar el personaje no aparece el mensaje. ¿Qué evento debería revisar primero? Haz preguntas, sin darme los bloques resueltos». El equipo decide qué comprobar, lo prueba y documenta si la pista ayudó. No envíe código que contenga datos personales, perfiles ni capturas de estudiantes; no presente la respuesta de la IA como evidencia de trabajo propio. Para uso directo por menores, compruebe antes las condiciones de edad y cuenta del servicio y la autorización institucional.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
@@ -78,6 +84,7 @@ Compare la predicción con las tres pruebas. Pida que el grupo explique qué blo
 - [Eventos, decisiones y repeticiones](../02.%20Programaci%C3%B3n%20por%20Bloques/eventos-decisiones-y-repeticiones.md).
 - [Videos breves](videos-breves.md).
 - [Juegos y entornos interactivos](juegos-y-entornos-interactivos.md).
+- [Gemas de Gemini: condiciones de uso y acceso](https://support.google.com/gemini/answer/15236321?hl=es).
 
 ## Imagen sugerida
 

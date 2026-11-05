@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-10-26
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -34,6 +34,8 @@ Orientar una mediación en la que el grupo pase de «yo sé llegar» a «otra pe
 
 En la actividad, fije un **inicio** y una **orientación** visibles. Acordar «un paso = moverse una casilla» evita que cada equipo mida de manera distinta. Esta definición sencilla es parte del programa; no es una ayuda escondida que se agrega después de que alguien se pierde.
 
+La ambigüedad también aparece fuera de la cuadrícula. «Sirve el jugo en el vaso» deja sin precisar cuál vaso, cuánto jugo y qué hacer si está lleno. En una conversación solemos completar esos detalles por contexto; una computadora solo aplica las reglas que se le dieron. Pida dos interpretaciones razonables de la frase y acuerde después una versión comprobable: «Toma el vaso marcado A y vierte jugo hasta la línea indicada». No se trata de prohibir el lenguaje cotidiano, sino de descubrir cuándo hace falta precisar una instrucción.
+
 | Frase inicial | Duda que deja | Versión comprobable |
 | --- | --- | --- |
 | «Ve a los materiales». | ¿Dónde están? ¿Desde dónde empezás? | «Inicia en A1 mirando hacia la fila 3; avanza una casilla hacia A2». |
@@ -41,6 +43,8 @@ En la actividad, fije un **inicio** y una **orientación** visibles. Acordar «u
 | «Si no podés, buscá otro camino». | ¿Qué cuenta como obstáculo? | Primero marque el obstáculo y pida al equipo que diseñe una nueva ruta que pueda probarse. |
 
 La última frase es una oportunidad para descomponer el problema. Evite presentar una condición compleja antes de que el grupo pueda mostrar dónde y por qué falla la primera ruta.
+
+Si dos estudiantes interpretan una tarjeta de forma distinta, detenga la discusión en esa tarjeta. Pida a cada quien que muestre su interpretación desde el mismo inicio y bajo la regla acordada; registre ambos resultados sin atribuir el desacuerdo a falta de atención. Pregunte qué dato faltaba y permita que el equipo autor reescriba la tarjeta. Una nueva persona ejecuta la versión revisada para comprobar si el desacuerdo se resolvió.
 
 ### 2. Algoritmo, secuencia y resultado
 
@@ -86,11 +90,11 @@ La descomposición no debe volver idénticos todos los proyectos. El estudiantad
 
 | Nivel | Pregunta adecuada | Evidencia observable |
 | --- | --- | --- |
-| **Exploradores** | ¿Cuál tarjeta va primero para llegar a la mesa? | Señala o explica un cambio después de probar. |
-| **Inventores** | ¿En qué instrucción se fue por otro camino? | Reordena la secuencia y vuelve a entregar las tarjetas. |
-| **Creadores** | ¿Qué parte puede probarse sola? | Divide una ruta en tramos y compara dos versiones. |
-| **Diseñadores** | ¿Qué estado inicial y reglas necesita quien ejecuta? | Registra una traza y un caso que provoca un error. |
-| **Innovation Lab** | ¿Cómo representaría la ruta para que pueda revisarse y cambiarse? | Justifica datos, casos de prueba y límites de la solución. |
+| **Preescolar** | ¿Cuál tarjeta va primero para llegar a la mesa? | Señala o explica un cambio después de probar. |
+| **I Ciclo, 1.º–3.º** | ¿En qué instrucción se fue por otro camino? | Reordena la secuencia y vuelve a entregar las tarjetas. |
+| **II Ciclo, 4.º–6.º** | ¿Qué parte puede probarse sola? | Divide una ruta en tramos y compara dos versiones. |
+| **III Ciclo, 7.º–9.º** | ¿Qué estado inicial y reglas necesita quien ejecuta? | Registra una traza y un caso que provoca un error. |
+| **Educación Diversificada, 10.º–11.º** | ¿Cómo representaría la ruta para que pueda revisarse y cambiarse? | Justifica datos, casos de prueba y límites de la solución. |
 
 El grado orienta la profundidad. No se pide usar una cuadrícula escrita en preescolar: se puede construir con cinta, figuras y estaciones físicas.
 

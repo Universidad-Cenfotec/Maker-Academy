@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1160" height="410" viewBox="0 0 1160 410" role="img" aria-labelledby="title desc">
   <title id="title">Una regla en bloques y en Python</title>
   <desc id="desc">Un dato llamado destino se compara con materiales y lectura. En bloques se expresa con dos preguntas y una salida restante; en Python con if, elif y else. Ambas representaciones se comprueban con materiales, lectura y otro valor.</desc>
-  <rect width="1160" height="410" fill="#f5f8fc"/>
+  <rect width="1160" height="410" fill="#9CC8FF"/>
   <text x="42" y="47" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#164A98">Una decisión, dos formas de expresarla</text>
-  <text x="42" y="78" font-family="Arial, sans-serif" font-size="17" fill="#334155">Entrada: destino elegido por la persona visitante</text>
+  <text x="42" y="78" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Entrada: destino elegido por la persona visitante</text>
   <g font-family="Arial, sans-serif">
-    <rect x="42" y="110" width="505" height="191" rx="16" fill="white" stroke="#9CC8FF" stroke-width="2"/>
-    <rect x="613" y="110" width="505" height="191" rx="16" fill="white" stroke="#9CC8FF" stroke-width="2"/>
+    <rect x="42" y="110" width="505" height="191" rx="16" fill="#D2D2D2" stroke="#164A98" stroke-width="2"/>
+    <rect x="613" y="110" width="505" height="191" rx="16" fill="#D2D2D2" stroke="#164A98" stroke-width="2"/>
     <text x="65" y="145" font-size="20" font-weight="700" fill="#164A98">Tarjetas o bloques</text>
     <text x="636" y="145" font-size="20" font-weight="700" fill="#164A98">Python 3</text>
-    <rect x="65" y="163" width="455" height="34" rx="8" fill="#DCEBFF"/>
-    <rect x="65" y="202" width="455" height="34" rx="8" fill="#DCEBFF"/>
-    <rect x="65" y="241" width="455" height="34" rx="8" fill="#e9edf2"/>
-    <text x="79" y="185" font-size="16" fill="#183153">si destino = materiales → ruta A</text>
-    <text x="79" y="224" font-size="16" fill="#183153">si no, si destino = lectura → ruta B</text>
-    <text x="79" y="263" font-size="16" fill="#183153">si no → pedir una nueva elección</text>
-    <rect x="636" y="163" width="455" height="112" rx="8" fill="#e9edf2"/>
-    <text x="652" y="181" font-size="14" font-family="monospace" fill="#183153">if destino == "materiales":</text>
-    <text x="652" y="198" font-size="14" font-family="monospace" fill="#183153">    mensaje = "ruta A"</text>
-    <text x="652" y="215" font-size="14" font-family="monospace" fill="#183153">elif destino == "lectura":</text>
-    <text x="652" y="232" font-size="14" font-family="monospace" fill="#183153">    mensaje = "ruta B"</text>
-    <text x="652" y="249" font-size="14" font-family="monospace" fill="#183153">else:</text>
-    <text x="652" y="266" font-size="14" font-family="monospace" fill="#183153">    mensaje = "elegir de nuevo"</text>
+    <rect x="65" y="163" width="455" height="34" rx="8" fill="#D2D2D2"/>
+    <rect x="65" y="202" width="455" height="34" rx="8" fill="#D2D2D2"/>
+    <rect x="65" y="241" width="455" height="34" rx="8" fill="#D2D2D2"/>
+    <text x="79" y="185" font-size="16" fill="#164A98">si destino = materiales → ruta A</text>
+    <text x="79" y="224" font-size="16" fill="#164A98">si no, si destino = lectura → ruta B</text>
+    <text x="79" y="263" font-size="16" fill="#164A98">si no → pedir una nueva elección</text>
+    <rect x="636" y="163" width="455" height="112" rx="8" fill="#D2D2D2"/>
+    <text x="652" y="181" font-size="14" font-family="monospace" fill="#164A98">if destino == "materiales":</text>
+    <text x="652" y="198" font-size="14" font-family="monospace" fill="#164A98">    mensaje = "ruta A"</text>
+    <text x="652" y="215" font-size="14" font-family="monospace" fill="#164A98">elif destino == "lectura":</text>
+    <text x="652" y="232" font-size="14" font-family="monospace" fill="#164A98">    mensaje = "ruta B"</text>
+    <text x="652" y="249" font-size="14" font-family="monospace" fill="#164A98">else:</text>
+    <text x="652" y="266" font-size="14" font-family="monospace" fill="#164A98">    mensaje = "elegir de nuevo"</text>
     <text x="42" y="340" font-size="19" font-weight="700" fill="#164A98">Las mismas pruebas para las dos versiones</text>
     <rect x="42" y="352" width="1076" height="42" rx="9" fill="#164A98"/>
-    <text x="62" y="379" font-size="17" fill="white">materiales → ruta A</text>
-    <text x="417" y="379" font-size="17" fill="white">lectura → ruta B</text>
-    <text x="765" y="379" font-size="17" fill="white">otro valor → elegir de nuevo</text>
+    <text x="62" y="379" font-size="17" fill="#D2D2D2">materiales → ruta A</text>
+    <text x="417" y="379" font-size="17" fill="#D2D2D2">lectura → ruta B</text>
+    <text x="765" y="379" font-size="17" fill="#D2D2D2">otro valor → elegir de nuevo</text>
   </g>
 </svg>

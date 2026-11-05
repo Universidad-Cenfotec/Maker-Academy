@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-11-01
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -50,6 +50,8 @@ En grupos con experiencias distintas de Python, asigne roles de lector de códig
 
 Entregue este programa tal como está. La condición repetida es intencional para la práctica.
 
+Es un **código base con un fallo intencional**, para que nadie empiece desde una hoja vacía. La persona docente conserva una copia original y el equipo trabaja sobre otra versión. Antes de corregir, cada equipo escribe encima de la rama sospechosa una hipótesis en un comentario de Python, por ejemplo `# Hipótesis: la segunda condición compara el destino equivocado`. El comentario empieza con `#` y Python lo ignora: sirve para dejar constancia del razonamiento, no para cambiar el resultado.
+
 ```python
 destino = "lectura"
 
@@ -66,7 +68,7 @@ print(mensaje)
 1. Sin ejecutarlo, prediga qué imprimirá con `lectura`. Señale la línea que cree que decidirá el resultado.
 2. Ejecute. Anote la salida exacta y compárela con la tabla de intención.
 3. Avance línea por línea en Python Tutor o con una traza de papel. Marque el valor de `destino` y el resultado de cada comparación. ¿Por qué la segunda rama tampoco se ejecutó?
-4. Cambie **solo una condición**. Vuelva a probar `lectura`, luego `materiales` y `otro`, modificando el valor de la primera línea antes de cada ejecución.
+4. Escriba la hipótesis como comentario `#` junto a la rama que revisará. Cambie **solo una condición**. Vuelva a probar `lectura`, luego `materiales` y `otro`, modificando el valor de la primera línea antes de cada ejecución. Si la prueba contradice la hipótesis, consérvela y escriba una nueva antes de editar otra vez.
 5. Pruebe `Lectura` con mayúscula. Decida si se aceptará esa variante. Si se decide que sí, explique que se necesitará una regla adicional; no cambie la especificación silenciosamente después de observar la salida.
 
 | Registro | Respuesta del equipo |

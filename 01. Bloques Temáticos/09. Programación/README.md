@@ -14,7 +14,7 @@
 
 **Bloque:** 09_programacion
 
-**Última actualización:** 2026-11-01
+**Última actualización:** 2026-11-05
 
 ---
 
@@ -36,7 +36,7 @@ Orientar al personal docente para seleccionar retos de programación apropiados 
 
 Un visitante del makerspace necesita llegar a una estación. El grupo puede trazar una ruta de flechas, programar un personaje que indique el camino o crear una herramienta de consulta. Lo importante cambia con la edad: en preescolar se prueba el orden; en primaria, un evento o una decisión; en secundaria, la lectura, la depuración y la validación de un programa.
 
-![La misma necesidad de orientar a un visitante se representa con flechas, bloques y texto según el nivel.](imagenes/ruta-programacion-b09.svg)
+![Tres representaciones para orientar a una persona visitante: una ruta de flechas que otra persona ejecuta, bloques que responden a una elección y una regla en Python que se prueba con distintos destinos.](imagenes/ruta-programacion-b09.svg)
 
 *Figura. La progresión aumenta las posibilidades de representar y probar una idea; no obliga a usar pantalla en los primeros niveles.*
 
