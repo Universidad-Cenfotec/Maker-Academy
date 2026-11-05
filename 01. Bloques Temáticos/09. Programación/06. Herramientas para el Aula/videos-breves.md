@@ -55,6 +55,12 @@ Para secundaria, el video de depuración puede compararse con la ejecución paso
 
 Abra previamente cada enlace en el modo en que lo verá el grupo. Proyecte el video seleccionado y cierre la reproducción al terminar para evitar sugerencias ajenas al objetivo. No copie ni vuelva a subir videos de terceros al repositorio. Los subtítulos automáticos pueden equivocarse con vocabulario de programación; revise la traducción antes de usarla como explicación. Sin acceso a YouTube, lea una consigna breve y represente la misma decisión con tarjetas o una captura permitida por el centro.
 
+### Pausas que convierten un video en una prueba
+
+Elija un fragmento de pocos minutos y marque de antemano dónde se detendrá. En el video sobre el botón de paso, pause **antes** de que aparezca la corrección y pida señalar qué instrucción creen que causa el desvío. Anote dos predicciones distintas, continúe y compare con el resultado observado. Luego traslade la misma forma de mirar a la ruta de tarjetas hecha por el grupo.
+
+En un video introductorio de Scratch, deténgase cuando aparezca el evento de inicio: «¿qué ocurrirá si nadie pulsa la bandera?». Después de verlo, cada pareja crea una escena mínima con su propia respuesta y se la entrega a otra persona para probar. El video se convierte así en una demostración breve, seguida de una decisión original. Si el audio o el idioma dificultan la participación, use subtítulos revisados, una explicación breve en vivo o una secuencia de imágenes autorizadas; la evidencia sigue siendo la predicción y la prueba de la creación.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
