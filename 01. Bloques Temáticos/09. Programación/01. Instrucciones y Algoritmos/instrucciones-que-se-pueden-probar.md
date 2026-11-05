@@ -98,6 +98,12 @@ La descomposición no debe volver idénticos todos los proyectos. El estudiantad
 
 El grado orienta la profundidad. No se pide usar una cuadrícula escrita en preescolar: se puede construir con cinta, figuras y estaciones físicas.
 
+### Distinguir un error de una ruta diferente
+
+Entregue la misma cuadrícula a dos equipos. Uno baja por A2 y otro elige un rodeo más largo; ambos pueden llegar a D3. Antes de discutir eficiencia, compruebe si la persona visitante entendió el inicio, respetó la casilla cerrada y llegó sin instrucciones orales adicionales. Una ruta distinta de la prevista no es un error si cumple los criterios acordados.
+
+Luego compare un caso que sí falla: la tarjeta «gira a la derecha» sin orientación inicial. Si dos ejecutores obtienen destinos diferentes, el problema es la información que falta, no quién interpretó mejor. La revisión consiste en agregar una referencia visible y entregar la nueva versión a otra persona. Conserve ambas rutas y el punto de desacuerdo: son material para hablar de especificación, prueba y mejora antes de introducir bloques.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
