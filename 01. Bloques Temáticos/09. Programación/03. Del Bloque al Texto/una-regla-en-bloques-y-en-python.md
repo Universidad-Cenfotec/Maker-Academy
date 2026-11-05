@@ -89,6 +89,12 @@ Sin conexión, entregue la impresión con las ramas cubiertas por una tira de pa
 
 Cuando el grupo puede predecir las tres salidas y explicar el límite de las mayúsculas, se puede introducir una forma de recibir la elección desde teclado o una función que agrupe la regla. No agregue ambas cosas de golpe. En 10.º–11.º, las mismas pruebas pueden convertirse en casos automatizados para una función; eso corresponde al desarrollo posterior de **Python con Propósito**.
 
+### Una comprobación sin copiar código
+
+Antes de mostrar la solución en Python, escriba tres salidas deseadas y oculte una de las ramas del programa. Pida al equipo que prediga qué texto aparecerá para `lectura` y que justifique su respuesta usando el valor de `destino`. Solo entonces muestre la rama oculta y ejecute. Si la predicción no coincide, registre el primer punto en que cambió el valor esperado.
+
+Una variación útil es pedir que cambien `destino = "materiales"` por `destino = "lectura"` y dejar intactas las comparaciones. Si intentan reemplazar `==` por `=`, el mensaje de sintaxis permite revisar el papel de cada operador. Si cambian la sangría, compare la posición de la línea con el lugar que ocuparía dentro de un bloque «si». El objetivo es explicar una respuesta concreta, no memorizar de golpe una lista de errores.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
