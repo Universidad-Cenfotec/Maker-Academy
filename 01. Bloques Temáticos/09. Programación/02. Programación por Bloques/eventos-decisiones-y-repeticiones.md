@@ -76,6 +76,12 @@ El ejemplo de la tabla ilustra una hipótesis. Cada equipo registra lo que ocurr
 
 En 7.º–9.º, trace el mismo caso como «entrada → condición → respuesta» y compare con una versión de Python introductoria cuando el grupo esté listo. La equivalencia se comprueba con las **mismas tres pruebas**, no por parecido visual entre bloques y líneas. En 10.º–11.º, una función que recibe el destino y devuelve una indicación permite probar la decisión sin interfaz. La carpeta de transición a texto se desarrollará en una entrega posterior de B09.
 
+### Cuando dos acciones llegan muy rápido
+
+Un visitante elige «materiales» y enseguida «lectura». ¿Qué mensaje queda visible? La respuesta depende de cómo el proyecto actualiza el estado y de cuál evento ejecutó la última acción. Haga que el grupo prediga el resultado, pruebe ambas órdenes y explique si la guía debería conservar la elección anterior o reemplazarla. Si el mensaje antiguo permanece, ubique la instrucción que lo muestra o el dato que no se reinició antes de añadir un bloque nuevo.
+
+Esta pequeña prueba permite hablar de persistencia sin afirmar que toda variable guarda información para siempre. La variable conserva un valor mientras el programa sigue ejecutándose o hasta que otra instrucción lo cambie; la forma de guardar entre sesiones depende de la herramienta. Con tarjetas, una persona sostiene el destino actual y otra cambia la tarjeta cuando ocurre un evento. Ese gesto hace visible qué dato consulta la siguiente condición.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
