@@ -92,6 +92,12 @@ Guarde la tabla de predicción y las tres salidas después del cambio. Pida a ot
 
 La evidencia mínima es una predicción, una traza del caso `lectura`, la condición corregida y una segunda ejecución. Regístrela con la [ficha breve](../07.%20Evaluaci%C3%B3n/registro-de-pruebas.md) si el grupo ya la usa; no exija documentar cada pulsación del visualizador.
 
+### Una segunda falla para quien ya resolvió la primera
+
+Después de corregir el `elif`, proponga `destino = " Lectura "`. Antes de ejecutarlo, el equipo predice la salida y escribe si el programa debería aceptar espacios y mayúsculas. Con la regla actual, llegará a `else`. Si decide admitir esa forma de escribir, puede probar `destino.strip().lower()` como una transformación del dato **antes** de compararlo. Pida que explique qué hace cada operación y que vuelva a probar las tres entradas originales. Esta extensión se reserva para grupos que ya justificaron la primera corrección.
+
+También puede entregar una copia donde falta la sangría de una línea `mensaje = ...`. Python mostrará un error antes de producir una respuesta. Compare ese mensaje del intérprete con el fallo de la condición repetida: uno impide ejecutar el programa y el otro permite ejecutarlo con un resultado incorrecto. El grupo no necesita aprender todos los nombres de errores, pero sí distinguir qué pudo observar y qué prueba conviene intentar después.
+
 ## Aplicación en Maker Academy
 
 **Inspiración:** una necesidad real de orientar a quien visita el espacio. **Experimentación:** comparar representaciones, probar tres entradas y corregir una condición. **Reflexión:** explicar por qué el programa corría sin error de sintaxis y, aun así, respondía mal para lectura. La revisión entre pares hace visible lo que el autor asumía sobre las entradas.
