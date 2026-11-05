@@ -64,6 +64,12 @@ Revise el perfil, el título, los comentarios y el contenido del proyecto antes 
 
 Cuando las reglas del centro lo permitan, la persona docente puede pedir a una Gema de Gemini u otro asistente autorizado una pista sobre un programa ficticio: «Al tocar el personaje no aparece el mensaje. ¿Qué evento debería revisar primero? Haz preguntas, sin darme los bloques resueltos». El equipo decide qué comprobar, lo prueba y documenta si la pista ayudó. No envíe código que contenga datos personales, perfiles ni capturas de estudiantes; no presente la respuesta de la IA como evidencia de trabajo propio. Para uso directo por menores, compruebe antes las condiciones de edad y cuenta del servicio y la autorización institucional.
 
+### Del proyecto inicial a una creación del equipo
+
+Conserve una copia del proyecto de partida y pida que cada equipo describa un comportamiento que sí sirve para su nueva guía y otro que deberá cambiar. Por ejemplo, el movimiento por teclado puede ayudar a recorrer el espacio; la indicación al llegar a una estación necesita un mensaje nuevo. Antes de editar, dibujen dos acciones posibles de la persona visitante y la respuesta prevista. Esa hoja permite comprobar después si el cambio respondió a una necesidad o solo añadió efectos.
+
+En la prueba con otra pareja, observe primero sin hablar. Si la persona no entiende qué tecla usar, registre el problema de orientación antes de tocar la condición de llegada. Si llega a materiales pero recibe el mensaje de lectura, examine la regla que selecciona el destino. Una mejora puede ser una instrucción visible al inicio o una respuesta al error; no siempre requiere más bloques. Al compartir, distinga el proyecto original de la modificación propia y explique qué se aprendió de la prueba.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
