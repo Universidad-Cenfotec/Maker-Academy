@@ -49,6 +49,14 @@ La [herramienta Python Tutor](../06.%20Herramientas%20para%20el%20Aula/juegos-y-
 
 El código de texto puede fallar por indentación o por una condición equivocada. Son problemas distintos. La primera afecta la forma en que Python entiende el bloque; la segunda, la regla que el equipo quiso expresar. No añada mensajes de error artificiales para hacer más vistosa la práctica.
 
+### La misma prueba en dos representaciones
+
+Prepare tres tarjetas de entrada: `materiales`, `lectura` y `otro`. Antes de abrir Python, una pareja señala qué rama del proyecto por bloques respondería a cada tarjeta. Luego lee el fragmento de texto y predice sus tres salidas. La comparación se hace con el comportamiento observado: la interfaz del proyecto puede usar botones mientras Python imprime una línea en consola.
+
+Cuando una salida no coincide, no reescriba todo el programa. Pida que el grupo lea el valor de `destino`, señale la comparación que se hizo y marque la primera rama donde su predicción se apartó de la ejecución. Conviene guardar la hipótesis en un comentario `#` y cambiar una condición por vez. Después se repite el caso que falló **y** uno que antes funcionaba. Así se distingue una corrección comprobada de una modificación que simplemente cambió el error de lugar.
+
+En una sesión sin computadora, tres estudiantes pueden hacer de entrada, intérprete y registro de variables. Quien interpreta lee las condiciones en orden; quien registra anota qué mensaje quedó asignado. La conversación sobre `=` y `==` conserva su sentido aunque el grupo todavía necesite apoyo con teclado o sintaxis.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
