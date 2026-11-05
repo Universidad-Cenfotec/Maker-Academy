@@ -56,6 +56,14 @@ La repetición de un mismo paso puede reconocerse como patrón, pero no hace fal
 
 En preescolar, la persona docente marca inicio y llegada con objetos cercanos; dos o tres tarjetas y una explicación oral son suficientes. En 1.º–3.º puede agregarse un giro y una regla de lectura. En 4.º–6.º el grupo compara dos rutas y registra qué cambió. En secundaria, la misma situación sirve para discutir representación, casos de prueba y reglas para entradas no previstas, sin convertirla en un curso de navegación de robots.
 
+### Una sesión que deja algo para revisar
+
+En los primeros cinco minutos, muestre dos instrucciones incompletas: «llevá el personaje a la mesa» y «avanzá dos casillas desde A1». Deje que dos personas las ejecuten por separado. La diferencia entre sus resultados abre la pregunta por el punto de partida, la orientación y el tamaño de un paso. No dé la ruta correcta todavía.
+
+Durante la construcción, cada pareja conserva la primera secuencia con una marca en el paso que falló. Otra pareja la ejecuta sin aclaraciones y devuelve una observación descriptiva: «me detuve en B1», en lugar de «está mal». El equipo autor escribe una segunda versión y vuelve a probar la misma situación. Una ruta alternativa también vale si respeta las reglas y llega al destino.
+
+Para cerrar, pida tres evidencias pequeñas: predicción, primer resultado y cambio. En preescolar pueden ser figuras colocadas sobre dos rutas; en III Ciclo, 7.º–9.º, una tabla con posición y orientación después de cada instrucción. Si la clase termina antes de completar el recorrido, conserve el punto de desacuerdo como pregunta para la siguiente sesión.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
