@@ -70,6 +70,12 @@ Si el centro autoriza una herramienta de IA generativa, la persona docente puede
 
 El producto cambia con la edad; se conserva la relación entre intención, prueba y mejora.
 
+### Si la lección termina antes que la investigación
+
+Un equipo puede completar un nivel de Code.org sin saber explicar por qué su personaje tomó una ruta. Antes de abrir el siguiente, pida que prediga qué pasará si se invierte el orden de dos bloques o si se usa una entrada que no apareció en la lección. Regrese a la creación propia: una guía del makerspace debe orientar a otra persona, no repetir la meta del juego. El avance que registra la plataforma es una pista sobre la actividad completada; la evidencia de B09 es una decisión explicada y puesta a prueba.
+
+Si la actividad requiere una cuenta, prepare de antemano el modo autorizado de acceso y guardado. Proyectar un reto para resolverlo entre todos también puede servir, siempre que distintos estudiantes formulen hipótesis y alguien pruebe la regla resultante. Para grupos con lectura incipiente, acompañe la consigna con tarjetas y lectura en voz alta; conserve una alternativa física cuando la plataforma no sea accesible en la red del centro.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
