@@ -21,7 +21,7 @@ Imágenes y fotos del Proyecto 3: Bosque sonoro.
 
 ## Propósito
 
-Guardar las imágenes del Proyecto 3: Bosque sonoro: diagramas elaborados para Maker Academy y fotos del prototipo real.
+Almacenar las imágenes del Proyecto 3: Bosque sonoro, incluidos los diagramas elaborados para Maker Academy y las fotografías del prototipo.
 
 ---
 
@@ -46,9 +46,9 @@ Guardar las imágenes del Proyecto 3: Bosque sonoro: diagramas elaborados para M
 | [`arduino-ide-subir-y-monitor-serie.png`](./arduino-ide-subir-y-monitor-serie.png) | Arduino IDE: botones Verificar y Subir, y monitor serie a 115200. |
 | [`ideaboard-conectores.png`](./ideaboard-conectores.png) | Conectores de la IdeaBoard, sobre la imagen oficial de CRCibernética. |
 
-### Fotos pendientes del prototipo real
+### Fotografías recomendadas para futuras versiones
 
-Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el aviso de la guía por la imagen:
+Las siguientes fotografías complementarían las guías. Pueden incorporarse cuando se cuente con el registro del prototipo:
 
 | Archivo sugerido | Qué debe mostrar | Guía donde se usa |
 |---|---|---|
@@ -78,8 +78,8 @@ Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el 
 ## Cómo insertar una foto
 
 1. Guarde la foto en esta carpeta con el nombre sugerido (letras minúsculas, sin tildes ni espacios).
-2. En la guía, busque el aviso "Insertar próximamente una imagen" que menciona ese archivo.
-3. Reemplace el aviso por esta línea, cambiando el nombre del archivo y el texto alternativo:
+2. En la guía, ubique el paso que describe el contenido de la foto.
+3. Agregue la siguiente línea inmediatamente después de ese paso, con el nombre del archivo y el texto alternativo correspondientes:
 
 ```html
 <img width="500" alt="descripción breve de la foto" src="./06.%20Im%C3%A1genes/nombre-del-archivo.jpg" />

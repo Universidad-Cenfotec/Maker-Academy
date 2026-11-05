@@ -15,13 +15,13 @@
 
 ## Descripción
 
-Carpeta del Proyecto 3. Instalación inspirada en la naturaleza costarricense que responde con sonido al toque del público. Tema del temario: interactividad artística.
+Carpeta del Proyecto 3: instalación inspirada en la naturaleza costarricense que responde con sonido al contacto del público. Tema del temario: interactividad artística.
 
 ---
 
 ## Propósito
 
-Primaria: árbol de cartón con hojas de aluminio táctiles que suenan como animales. Secundaria: plantas reales conectadas a la IdeaBoard que suenan como instrumentos musicales por Bluetooth MIDI o por computadora.
+En Primaria, se construye un árbol de cartón con hojas de aluminio táctiles que reproducen sonidos de animales. En Secundaria, se conectan plantas reales a la IdeaBoard para que funcionen como instrumentos musicales, con ejecución en iPhone (Bluetooth MIDI) o en Windows (USB).
 
 ---
 
@@ -31,13 +31,13 @@ A continuación se listan los archivos y subcarpetas disponibles en este directo
 
 | Archivo o carpeta | Descripción |
 |---|---|
-| [`01. Ficha del proyecto.md`](./01.%20Ficha%20del%20proyecto.md) | Ficha del proyecto. |
-| [`02. Versión primaria.md`](./02.%20Versi%C3%B3n%20primaria.md) | Guía paso a paso de Primaria. |
-| [`03. Versión secundaria.md`](./03.%20Versi%C3%B3n%20secundaria.md) | Guía paso a paso de Secundaria. |
+| [`01. Ficha del proyecto.md`](./01.%20Ficha%20del%20proyecto.md) | Resumen del reto, objetivos y etapas generales. |
+| [`02. Versión primaria.md`](./02.%20Versi%C3%B3n%20primaria.md) | Guía docente paso a paso para Primaria. |
+| [`03. Versión secundaria.md`](./03.%20Versi%C3%B3n%20secundaria.md) | Guía docente paso a paso para Secundaria, con ejecución en iPhone y en Windows. |
 | [`04. Materiales.md`](./04.%20Materiales.md) | Materiales del kit del SumoBot, del makerspace y de construcción. |
 | [`05. Plataformas/`](./05.%20Plataformas/) | Guías técnicas por placa con conexiones y código. |
-| [`06. Imágenes/`](./06.%20Im%C3%A1genes/) | Diagramas y lista de fotos del prototipo. |
-| [`07. Código/`](./07.%20C%C3%B3digo/) | Código listo para copiar a cada placa. |
+| [`06. Imágenes/`](./06.%20Im%C3%A1genes/) | Diagramas y fotografías del prototipo. |
+| [`07. Código/`](./07.%20C%C3%B3digo/) | Código listo para cargar en cada placa. |
 
 > Los archivos están ordenados en el orden en que se recomienda consultarlos.
 
@@ -45,7 +45,7 @@ A continuación se listan los archivos y subcarpetas disponibles en este directo
 
 ## Cómo usar esta carpeta
 
-Lea la ficha y luego la guía del nivel. Elija la guía de su placa en `05. Plataformas/` y copie el código desde `07. Código/`. Las fotos del prototipo se guardan en `06. Imágenes/`.
+Consulte primero la ficha del proyecto y luego la guía del nivel correspondiente. Las conexiones y el código específicos de cada placa se encuentran en `05. Plataformas/` y `07. Código/`.
 
 ---
 
@@ -66,4 +66,4 @@ Lea la ficha y luego la guía del nivel. Elija la guía de su placa en `05. Plat
 
 ## Nota docente
 
-Proyecto desarrollado. Construya un prototipo antes de implementarlo con el grupo y agregue las fotos indicadas en `06. Imágenes/README.md`.
+Se recomienda construir el prototipo completo antes de implementar el proyecto con el grupo, con el fin de anticipar ajustes de calibración y conexión.
