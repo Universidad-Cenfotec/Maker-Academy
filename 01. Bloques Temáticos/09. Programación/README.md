@@ -62,6 +62,14 @@ Una actividad de Code.org puede ayudar a explorar un concepto. La meta de Maker 
 
 Para incorporar un recurso externo, consulte el [catálogo de juegos y entornos](06.%20Herramientas%20para%20el%20Aula/juegos-y-entornos-interactivos.md) y la [selección de videos breves](06.%20Herramientas%20para%20el%20Aula/videos-breves.md). Cada enlace propone qué observar y cómo llevar la idea a una creación propia. Las [rutas con Laberinto](06.%20Herramientas%20para%20el%20Aula/ruta-laberinto-y-tarjetas.md) y [Scratch](06.%20Herramientas%20para%20el%20Aula/ruta-scratch-y-prueba-de-usuario.md) ofrecen sesiones que pueden adaptarse sin red.
 
+### Cómo recorrer el bloque sin convertirlo en una lista de plataformas
+
+La ruta puede comenzar con una instrucción escrita por estudiantes para otra persona, seguir con una guía en bloques que responde a dos elecciones y terminar con una regla corta en Python que conserva las mismas tres pruebas. Cada paso recupera una pregunta del anterior: ¿qué dato necesita quien ejecuta?, ¿cuándo se activa una acción?, ¿cuál condición produjo la respuesta? El equipo puede detenerse en cualquiera de las representaciones cuando ya haya creado y probado una solución adecuada a su nivel.
+
+Una secuencia de aula posible ocupa tres encuentros: recorrido y tarjetas; interacción por bloques con prueba de otra pareja; lectura y comparación de una regla textual para III Ciclo, 7.º–9.º. En Educación Diversificada, 10.º–11.º, el proyecto puede extenderse con entradas validadas y pruebas de uso. El tiempo se ajusta a la edad y al acceso; ninguna herramienta sustituye la conversación sobre lo que el programa hizo.
+
+Al cerrar, reúna una primera versión, una observación ajena y una versión revisada. El [registro breve](07.%20Evaluaci%C3%B3n/registro-de-pruebas.md) ayuda a conservar esa trayectoria sin exigir capturas de cada pantalla.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
