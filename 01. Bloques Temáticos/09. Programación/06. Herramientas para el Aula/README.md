@@ -53,6 +53,14 @@ Los recursos enlazan a sus autores originales. No se copian videos, gráficos, j
 
 Un recurso externo puede modificar interfaz, disponibilidad o requisitos. Revise la herramienta antes de cada aplicación y siga las políticas del centro sobre cuentas de menores, datos y publicación de proyectos. Las producciones del estudiantado se comparten solo por canales autorizados.
 
+### Preparar un recurso externo sin depender de él
+
+Antes de la clase, entre desde un equipo del estudiantado, no solo desde el computador docente. Compruebe que abre la actividad concreta, que el idioma permite comprender las consignas, que el botón de ejecutar funciona y que el producto se puede recuperar o guardar según las reglas del centro. Para un video, confirme duración, audio, subtítulos y el minuto en que conviene detenerlo. Anote la fecha de la comprobación en el planeamiento.
+
+Prepare la misma pregunta sin pantalla. Si se usará Blockly Games para encontrar el primer giro equivocado, dibuje un laberinto de cuatro o cinco casillas y tenga listas flechas de papel. Si se usará Python Tutor, imprima el código y una tabla para registrar `destino` y `mensaje`. Esta alternativa permite continuar la prueba cuando la red se interrumpe; no obliga a improvisar un juego ajeno al propósito.
+
+Después de usar el recurso, pida una transferencia visible: construir otra ruta, modificar una respuesta para un visitante o explicar un caso nuevo que la plataforma no mostró. Un resultado dentro del sitio es punto de partida para la creación del equipo, no la única evidencia de aprendizaje.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
