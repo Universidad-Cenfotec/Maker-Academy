@@ -29,10 +29,11 @@ Guardar el código del Proyecto 3 listo para copiar a cada placa.
 
 | Archivo | Descripción |
 |---|---|
-| [`primaria_code.py`](./primaria_code.py) | IdeaBoard, Primaria: cuatro hojas que suenan. |
-| [`secundaria_code.py`](./secundaria_code.py) | IdeaBoard, Secundaria: estados, sensor, tira LED y sonido. |
-| [`arduino_uno.ino`](./arduino_uno.ino) | Arduino Uno con CapacitiveSensor. |
-| [`esp32.ino`](./esp32.ino) | ESP32 genérico o IdeaBoard con Arduino IDE. |
+| [`primaria_code.py`](./primaria_code.py) | IdeaBoard, Primaria (IdeaCode): cuatro hojas de aluminio que suenan. |
+| [`arduino_uno.ino`](./arduino_uno.ino) | Arduino Uno, Primaria: hojas de aluminio con CapacitiveSensor. |
+| [`planta_lectura.ino`](./planta_lectura.ino) | IdeaBoard o ESP32, Secundaria (Arduino IDE): prueba del sensor; también envía las lecturas a la computadora. |
+| [`planta_ble_midi.ino`](./planta_ble_midi.ino) | IdeaBoard o ESP32, Secundaria (Arduino IDE): planta musical por Bluetooth MIDI para GarageBand. |
+| [`planta_midi.py`](./planta_midi.py) | Secundaria, versión con computadora: convierte las lecturas en notas MIDI para REAPER. |
 
 ---
 

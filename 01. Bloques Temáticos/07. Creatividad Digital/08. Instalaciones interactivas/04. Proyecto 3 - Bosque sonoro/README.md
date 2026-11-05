@@ -15,13 +15,13 @@
 
 ## Descripción
 
-Carpeta del Proyecto 3. Instalación artística inspirada en la biodiversidad costarricense que responde con luz y sonido. Tema del temario: interactividad artística.
+Carpeta del Proyecto 3. Instalación inspirada en la naturaleza costarricense que responde con sonido al toque del público. Tema del temario: interactividad artística.
 
 ---
 
 ## Propósito
 
-Primaria: árbol con hojas de aluminio táctiles que suenan como animales. Secundaria: instalación con estados, sensor de distancia, hojas táctiles, LEDs y sonido.
+Primaria: árbol de cartón con hojas de aluminio táctiles que suenan como animales. Secundaria: plantas reales conectadas a la IdeaBoard que suenan como instrumentos musicales por Bluetooth MIDI o por computadora.
 
 ---
 
