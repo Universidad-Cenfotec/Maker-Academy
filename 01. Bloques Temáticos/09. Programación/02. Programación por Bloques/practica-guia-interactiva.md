@@ -87,6 +87,14 @@ Organice la **Bitácora Maker** según los tres momentos de la metodología: **I
 
 Una guía con pocos bloques y respuestas verificadas cumple mejor la meta que una escena extensa que nadie puede usar. Si un equipo termina antes, proponga comprobar un destino nuevo o revisar la legibilidad de instrucciones, no sumar adornos por obligación.
 
+### Una prueba de uso con alguien nuevo
+
+No explique los botones a quien visita la guía. Entréguele solo la necesidad: «Querés encontrar la zona de lectura». Observe si sabe cómo empezar, si comprende la indicación y si puede recuperarse de una elección equivocada. Anote el momento exacto en que pide ayuda. Después de la prueba, pregunte qué esperaba que ocurriera; evite convertir la conversación en una evaluación de la persona que probó.
+
+Si el grupo observa que no hay respuesta al clic, primero comprueba el evento con un mensaje temporal; si la respuesta es incorrecta, inspecciona el valor de destino antes de cambiar condiciones. Si aparece un bucle continuo, detiene la ejecución y representa una sola vuelta en papel. Una mejora de interfaz puede ser tan importante como corregir un bloque: un botón sin texto claro hace fallar la guía aunque la condición sea correcta.
+
+Guarde una captura del bosquejo o una descripción de la versión inicial y una evidencia de la nueva prueba. En Show Your Work, el equipo explica un cambio causado por lo que hizo la persona visitante y propone qué comprobaría si llegara alguien que no lee la interfaz con facilidad.
+
 ## Aplicación en Maker Academy
 
 **Inspiración:** una necesidad de orientación elegida por el grupo. **Experimentación:** bosquejo, versión mínima, prueba de otra persona y cambio. **Reflexión:** el equipo explica por qué cambió una respuesta y qué sigue pendiente. Los roles de diseñador, visitante y observador rotan para que cada estudiante tome decisiones y vea una prueba desde fuera.
