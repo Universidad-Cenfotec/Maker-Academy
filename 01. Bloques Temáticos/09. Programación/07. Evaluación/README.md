@@ -56,6 +56,19 @@ La misma calidad de razonamiento puede expresarse oralmente, con dibujos, demost
 
 Describa lo observado y pida un cambio verificable: «La guía muestra la ruta de materiales aun cuando elegí lectura. ¿Qué valor está consultando la condición? Probémosla otra vez después de cambiarla». Evite un juicio general como «mal código». Si la ejecución coincide con lo esperado, pregunte a quién más serviría y qué caso aún no se ha probado.
 
+### Una conversación de evaluación en cuatro movimientos
+
+Primero, pida al equipo que diga para quién creó la solución y qué esperaba que ocurriera. Después, deje que otra persona la pruebe sin ayuda oral. Registre el primer resultado distinto de lo esperado, incluso si el producto funciona en otros casos. En tercer lugar, solicite una sola decisión de mejora y una nueva prueba. Cierre con una pregunta sobre el límite que el grupo todavía reconoce. Este orden evita que el resultado final oculte las decisiones que llevaron hasta él.
+
+| Evidencia | Lo que permite conversar | Si todavía no aparece |
+| --- | --- | --- |
+| Predicción antes de ejecutar | Si el equipo entiende la regla que construyó. | Entregue una entrada concreta y pida señalar el resultado. |
+| Prueba por otra persona | Si la interacción se comprende sin explicaciones del autor. | Rote los roles y repita un caso breve. |
+| Cambio ligado a una observación | Si se depuró una causa identificada. | Pregunte dónde ocurrió la primera diferencia. |
+| Próximo caso de prueba | Si el grupo reconoce límites y puede seguir mejorando. | Proponga una entrada nueva, sin decir cómo resolverla. |
+
+Para la autoevaluación, cada integrante completa «aporté…», «escuché…» y «la próxima vez probaría…». En Show Your Work, quien visita aporta una observación verificable y una pregunta; el equipo decide qué hará con ellas. La [ficha de registro](registro-de-pruebas.md) permite conservar solo una ronda representativa, sin convertir la bitácora en una transcripción de toda la clase.
+
 ## Aplicación en Maker Academy
 
 ### Inspiración
