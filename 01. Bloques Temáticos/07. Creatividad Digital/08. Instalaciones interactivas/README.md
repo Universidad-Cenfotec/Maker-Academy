@@ -64,4 +64,4 @@ Lea los archivos teóricos antes de iniciar el proyecto correspondiente. Las car
 
 ## Nota docente
 
-Los archivos de esta carpeta usan la estructura básica y están pendientes de desarrollo.
+Los subtemas y los proyectos de esta carpeta están desarrollados. Cada proyecto tiene guías de Primaria y Secundaria, guías por placa, código y la lista de fotos pendientes en su carpeta `06. Imágenes/`.

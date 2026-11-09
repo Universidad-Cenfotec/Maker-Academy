@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tortuga baula: arcade maker</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.min.js"></script>
+<style>
+  body { margin: 0; background: #06263a; color: #fff; font-family: sans-serif; text-align: center; }
+  button { margin: 8px; padding: 8px 16px; font-size: 16px; }
+  #estado { font-size: 14px; opacity: .8; }
+</style>
+</head>
+<body>
+<button id="conectar">Conectar control</button>
+<span id="estado">Sin control: use las flechas, la barra espaciadora y la tecla P</span>
+<script>
+// ===== Proyecto 4: Arcade maker. Juego "Tortuga baula" en p5.js =====
+// El control envia por cable USB lineas como "0,1,0,0,512": b1,b2,b3,b4,pot (0 a 1000).
+// b1 = iniciar, b2 = escudo, b3 = pausa, b4 = sonido. El potenciometro mueve la tortuga.
+
+// ---------- Reglas del juego (cambie estos numeros) ----------
+const VIDAS = 3;
+const PUNTOS_POR_NIVEL = 10;
+const VELOCIDAD_INICIAL = 2;
+const AUMENTO_POR_NIVEL = 0.7;
+const PROB_BOLSA = 0.35;          // 35 % de lo que cae son bolsas plasticas
+const DURACION_ESCUDO = 3000;     // ms
+const ANCHO = 800, ALTO = 600;
+
+// ---------- Estado ----------
+let control = { b: [0, 0, 0, 0], antes: [0, 0, 0, 0], pot: -1 };
+let tortuga = { x: ANCHO / 2, y: ALTO - 60 };
+let cosas = [];
+let puntos = 0, vidas = VIDAS, nivel = 1;
+let pantalla = "inicio";          // inicio, jugando, pausa, fin
+let escudoHasta = 0, escudosNivel = 1;
+let sonidoActivo = true;
+let audio;
+
+function setup() {
+  createCanvas(ANCHO, ALTO);
+  textAlign(CENTER, CENTER);
+  document.getElementById("conectar").onclick = conectar;
+}
+
+// ---------- Conexion con el control (Web Serial, Chrome o Edge) ----------
+async function conectar() {
+  if (!("serial" in navigator)) { alert("Use Chrome o Edge para conectar el control."); return; }
+  const puerto = await navigator.serial.requestPort();
+  await puerto.open({ baudRate: 115200 });
+  document.getElementById("estado").textContent = "Control conectado";
+  const lector = puerto.readable.pipeThrough(new TextDecoderStream()).getReader();
+  let resto = "";
+  while (true) {
+    const { value, done } = await lector.read();
+    if (done) break;
+    resto += value;
+    const lineas = resto.split("\n");
+    resto = lineas.pop();
+    for (const l of lineas) leerLinea(l.trim());
+  }
+}
+
+function leerLinea(l) {
+  const p = l.split(",");
+  if (p.length !== 5 || p.some(x => x === "" || isNaN(x))) return;   // ignora otros mensajes
+  control.b = p.slice(0, 4).map(Number);
+  control.pot = Number(p[4]);
+}
+
+// Detecta el momento en que se presiona un boton (no mientras se mantiene)
+function presionado(i) { return control.b[i] === 1 && control.antes[i] === 0; }
+
+function keyPressed() {
+  if (key === " ") accion(0);
+  if (key === "e" || key === "E") accion(1);
+  if (key === "p" || key === "P") accion(2);
+  if (key === "s" || key === "S") accion(3);
+}
+
+function accion(i) {
+  if (i === 0 && (pantalla === "inicio" || pantalla === "fin")) reiniciar();
+  if (i === 1 && pantalla === "jugando" && escudosNivel > 0) { escudoHasta = millis() + DURACION_ESCUDO; escudosNivel--; pitido(880, 0.15); }
+  if (i === 2 && pantalla === "jugando") pantalla = "pausa";
+  else if (i === 2 && pantalla === "pausa") pantalla = "jugando";
+  if (i === 3) sonidoActivo = !sonidoActivo;
+}
+
+function reiniciar() {
+  puntos = 0; vidas = VIDAS; nivel = 1; cosas = []; escudosNivel = 1; escudoHasta = 0;
+  pantalla = "jugando";
+  pitido(523, 0.1);
+}
+
+// ---------- Sonido sencillo con Web Audio ----------
+function pitido(frecuencia, segundos) {
+  if (!sonidoActivo) return;
+  audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+  const o = audio.createOscillator(), g = audio.createGain();
+  o.frequency.value = frecuencia; g.gain.value = 0.1;
+  o.connect(g); g.connect(audio.destination);
+  o.start(); o.stop(audio.currentTime + segundos);
+}
+
+// ---------- Bucle principal ----------
+function draw() {
+  for (let i = 0; i < 4; i++) if (presionado(i)) accion(i);
+  control.antes = control.b.slice();
+  fondoMar();
+  if (pantalla === "inicio") { mensaje("TORTUGA BAULA", "Atrape medusas y esquive las bolsas plasticas\nBoton 1 o barra espaciadora para empezar"); return; }
+  if (pantalla === "fin") { mensaje("FIN DEL JUEGO", "Puntos: " + puntos + "   Nivel: " + nivel + "\nBoton 1 para jugar otra vez"); return; }
+  moverTortuga();
+  if (pantalla === "jugando") actualizarCosas();
+  dibujarCosas();
+  dibujarTortuga();
+  marcador();
+  if (pantalla === "pausa") mensaje("PAUSA", "Boton 3 o tecla P para seguir");
+}
+
+function moverTortuga() {
+  if (control.pot >= 0) tortuga.x = map(control.pot, 0, 1000, 40, ANCHO - 40);
+  else {
+    if (keyIsDown(LEFT_ARROW)) tortuga.x -= 7;
+    if (keyIsDown(RIGHT_ARROW)) tortuga.x += 7;
+  }
+  tortuga.x = constrain(tortuga.x, 40, ANCHO - 40);
+}
+
+function actualizarCosas() {
+  const velocidad = VELOCIDAD_INICIAL + (nivel - 1) * AUMENTO_POR_NIVEL;
+  if (random() < 0.02 + nivel * 0.004) {
+    cosas.push({ x: random(30, ANCHO - 30), y: -20, bolsa: random() < PROB_BOLSA });
+  }
+  for (const c of cosas) c.y += velocidad;
+  for (const c of cosas) {
+    if (!c.fuera && abs(c.x - tortuga.x) < 45 && abs(c.y - tortuga.y) < 30) {
+      c.fuera = true;
+      if (c.bolsa) {
+        if (millis() < escudoHasta) { pitido(660, 0.05); }
+        else { vidas--; pitido(150, 0.3); if (vidas <= 0) pantalla = "fin"; }
+      } else {
+        puntos++; pitido(1046, 0.06);
+        if (puntos % PUNTOS_POR_NIVEL === 0) { nivel++; escudosNivel = 1; pitido(784, 0.2); }
+      }
+    }
+  }
+  cosas = cosas.filter(c => !c.fuera && c.y < ALTO + 30);
+}
+
+// ---------- Dibujo ----------
+function fondoMar() {
+  background(6, 38, 58);
+  noStroke();
+  for (let i = 0; i < 6; i++) { fill(10, 60 + i * 8, 90 + i * 8, 60); rect(0, i * 100, ANCHO, 100); }
+}
+
+function dibujarTortuga() {
+  push();
+  translate(tortuga.x, tortuga.y);
+  if (millis() < escudoHasta) { noFill(); stroke(120, 220, 255); strokeWeight(4); circle(0, 0, 110); }
+  noStroke();
+  fill(40, 60, 70); ellipse(-34, 10, 30, 14); ellipse(34, 10, 30, 14);   // aletas
+  fill(30, 45, 55); ellipse(0, 0, 70, 50);                              // caparazon
+  stroke(200); strokeWeight(2); line(-20, -10, -20, 15); line(0, -18, 0, 20); line(20, -10, 20, 15);
+  noStroke(); fill(40, 60, 70); circle(0, -32, 20);                     // cabeza
+  pop();
+}
+
+function dibujarCosas() {
+  for (const c of cosas) {
+    push(); translate(c.x, c.y); noStroke();
+    if (c.bolsa) {
+      fill(235, 235, 235, 200); rect(-16, -18, 32, 36, 6);
+      fill(6, 38, 58); rect(-8, -18, 16, 8, 3);
+    } else {
+      fill(255, 150, 210, 200); arc(0, 0, 36, 30, PI, TWO_PI);
+      stroke(255, 150, 210); strokeWeight(2);
+      for (let k = -12; k <= 12; k += 8) line(k, 0, k + sin(frameCount * 0.2 + k) * 4, 18);
+    }
+    pop();
+  }
+}
+
+function marcador() {
+  noStroke(); fill(255); textSize(20); textAlign(LEFT, TOP);
+  text("Puntos: " + puntos + "   Vidas: " + vidas + "   Nivel: " + nivel + "   Escudo: " + escudosNivel, 16, 12);
+  textAlign(CENTER, CENTER);
+}
+
+function mensaje(titulo, texto) {
+  fill(0, 0, 0, 150); noStroke(); rect(0, 0, ANCHO, ALTO);
+  fill(255); textSize(44); text(titulo, ANCHO / 2, ALTO / 2 - 50);
+  textSize(20); text(texto, ANCHO / 2, ALTO / 2 + 30);
+}
+</script>
+</body>
+</html>

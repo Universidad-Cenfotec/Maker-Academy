@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El retrato de mi escuela</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.min.js"></script>
+<style>
+  body { margin: 0; background: #111; color: #eee; font-family: sans-serif; text-align: center; }
+  .barra { padding: 8px; }
+  button, label { margin: 6px; font-size: 15px; }
+</style>
+</head>
+<body>
+<div class="barra">
+  <label>Archivo CSV: <input type="file" id="archivo" accept=".csv"></label>
+  <button id="ejemplo">Probar con datos de ejemplo</button>
+  <button id="guardar">Guardar imagen</button>
+</div>
+<script>
+// ===== Proyecto 6: obra generativa con los datos de la escuela =====
+// Lee un CSV con columnas lugar, luz, temperatura (o temp) y ruido. La columna de fecha es opcional.
+// Reglas de la obra (cambielas para crear su propio estilo):
+//   - Cada lugar es una columna. Cada medicion es una flor, de arriba (primera) hacia abajo (ultima).
+//   - Temperatura -> color: azul (frio) a rojo (caliente).
+//   - Luz -> tamano de la flor.
+//   - Ruido -> cantidad de petalos y cuanto tiemblan.
+const TEMP_MIN = 18, TEMP_MAX = 32;
+const ANCHO = 900, ALTO = 650;
+let datos = [];
+
+function setup() {
+  createCanvas(ANCHO, ALTO);
+  angleMode(RADIANS);
+  noLoop();
+  document.getElementById("archivo").onchange = e => {
+    const f = e.target.files[0];
+    if (f) f.text().then(t => { datos = leerCSV(t); redraw(); });
+  };
+  document.getElementById("ejemplo").onclick = () => { datos = ejemplo(); redraw(); };
+  document.getElementById("guardar").onclick = () => saveCanvas("retrato-de-mi-escuela", "png");
+}
+
+function leerCSV(texto) {
+  const lineas = texto.trim().split(/\r?\n/);
+  const sep = lineas[0].includes(";") ? ";" : ",";
+  const cab = lineas[0].toLowerCase().split(sep).map(s => s.trim());
+  const col = n => cab.findIndex(c => c.startsWith(n));
+  const iL = col("lugar"), iLuz = col("luz"), iT = col("temp"), iR = col("ruido");
+  if (iL < 0 || iLuz < 0 || iT < 0 || iR < 0) { alert("El CSV necesita las columnas lugar, luz, temperatura y ruido"); return []; }
+  return lineas.slice(1).map(l => l.split(sep)).filter(p => p.length > iR).map(p => ({
+    lugar: p[iL].trim(), luz: Number(p[iLuz].replace(",", ".")),
+    temp: Number(p[iT].replace(",", ".")), ruido: Number(p[iR].replace(",", "."))
+  })).filter(d => !isNaN(d.luz) && !isNaN(d.temp) && !isNaN(d.ruido));
+}
+
+function ejemplo() {
+  const lugares = ["aula", "comedor", "biblioteca", "patio"];
+  const out = [];
+  for (let h = 0; h < 12; h++) for (const l of lugares) out.push({
+    lugar: l,
+    luz: l === "patio" ? 70 + random(30) : 30 + random(30),
+    temp: 21 + h * 0.6 + (l === "patio" ? 3 : 0) + random(-1, 1),
+    ruido: l === "comedor" ? 50 + random(40) : (l === "biblioteca" ? 5 + random(10) : 20 + random(30))
+  });
+  return out;
+}
+
+function draw() {
+  background(17);
+  if (datos.length === 0) {
+    fill(200); textAlign(CENTER, CENTER); textSize(18);
+    text("Cargue el CSV de la estacion o pruebe con los datos de ejemplo", width / 2, height / 2);
+    return;
+  }
+  randomSeed(7);
+  const lugares = [...new Set(datos.map(d => d.lugar))];
+  const anchoCol = width / lugares.length;
+  const alto = height - 110;
+  lugares.forEach((lugar, i) => {
+    const filas = datos.filter(d => d.lugar === lugar);
+    const paso = alto / max(filas.length, 1);
+    filas.forEach((d, k) => flor(anchoCol * (i + 0.5), 30 + paso * (k + 0.5), d, min(anchoCol, paso * 2.2)));
+    fill(230); noStroke(); textAlign(CENTER, TOP); textSize(14);
+    text(lugar, anchoCol * (i + 0.5), height - 76);
+  });
+  leyenda();
+}
+
+function flor(x, y, d, maximo) {
+  const t = constrain(map(d.temp, TEMP_MIN, TEMP_MAX, 0, 1), 0, 1);
+  const c = lerpColor(color(60, 140, 255), color(255, 70, 40), t);
+  const r = map(constrain(d.luz, 0, 100), 0, 100, maximo * 0.12, maximo * 0.45);
+  const petalos = floor(map(constrain(d.ruido, 0, 100), 0, 100, 5, 18));
+  const temblor = map(constrain(d.ruido, 0, 100), 0, 100, 0, r * 0.35);
+  push(); translate(x, y); noStroke();
+  c.setAlpha(170); fill(c);
+  for (let p = 0; p < petalos; p++) {
+    const a = TWO_PI * p / petalos;
+    const rr = r + random(-temblor, temblor);
+    ellipse(cos(a) * rr * 0.55, sin(a) * rr * 0.55, rr * 0.7, rr * 0.35);
+  }
+  fill(255, 240, 200, 220); circle(0, 0, r * 0.35);
+  pop();
+}
+
+function leyenda() {
+  const y = height - 45;
+  noStroke(); textSize(12); fill(200); textAlign(LEFT, CENTER);
+  for (let i = 0; i <= 100; i++) {
+    fill(lerpColor(color(60, 140, 255), color(255, 70, 40), i / 100));
+    rect(20 + i * 2, y, 2, 14);
+  }
+  fill(200);
+  text(TEMP_MIN + " °C", 20, y + 26); text(TEMP_MAX + " °C", 200, y + 26);
+  text("color = temperatura      tamaño = luz      cantidad de pétalos y temblor = ruido", 250, y + 4);
+  text("cada columna es un lugar; las flores van de la primera medición (arriba) a la última (abajo)", 250, y + 24);
+}
+</script>
+</body>
+</html>
