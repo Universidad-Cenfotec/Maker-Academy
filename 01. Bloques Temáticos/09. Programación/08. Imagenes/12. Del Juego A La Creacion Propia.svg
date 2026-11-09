@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="466" viewBox="0 0 1200 466" role="img" aria-labelledby="title desc">
+  <title id="title">Del juego en pantalla a una creación propia</title>
+  <desc id="desc">Cuatro fases: jugar un reto corto, detener con una pregunta, crear una versión del grupo con tarjetas, bloques o código, y probar con otra persona. Abajo se aclara que terminar niveles es avance en la plataforma, mientras que explicar y transferir es la evidencia de Maker Academy.</desc>
+  <rect width="1200" height="466" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">Del juego en pantalla a una creación propia</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Una plataforma enseña una técnica; la evidencia es lo que el grupo crea y explica</text>
+  <rect x="48" y="120" width="252" height="230" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="174" cy="170" r="30" fill="#006AEA"/>
+  <text x="174" y="178" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+  <text x="174" y="232" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#164A98" text-anchor="middle">JUGAR</text>
+  <text x="174" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#006AEA" text-anchor="middle">Un reto corto</text>
+  <text x="174" y="294" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">Laberinto, Sprite Lab,</text>
+  <text x="174" y="318" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">proyecto inicial…</text>
+  <path d="M304 235 h18" stroke="#164A98" stroke-width="4"/><path d="M328 235 l-9 -7 v14 z" fill="#164A98"/>
+  <rect x="330" y="120" width="252" height="230" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="456" cy="170" r="30" fill="#E8761A"/>
+  <text x="456" y="178" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+  <text x="456" y="232" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#164A98" text-anchor="middle">DETENER</text>
+  <text x="456" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#006AEA" text-anchor="middle">Una pregunta</text>
+  <text x="456" y="294" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">«¿Qué entrada</text>
+  <text x="456" y="318" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">cambia la ruta?»</text>
+  <path d="M586 235 h18" stroke="#164A98" stroke-width="4"/><path d="M610 235 l-9 -7 v14 z" fill="#164A98"/>
+  <rect x="612" y="120" width="252" height="230" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="738" cy="170" r="30" fill="#2E9E5B"/>
+  <text x="738" y="178" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="738" y="232" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#164A98" text-anchor="middle">CREAR</text>
+  <text x="738" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#006AEA" text-anchor="middle">Una versión del grupo</text>
+  <text x="738" y="294" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">Tarjetas, bloques</text>
+  <text x="738" y="318" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">o código propio</text>
+  <path d="M868 235 h18" stroke="#164A98" stroke-width="4"/><path d="M892 235 l-9 -7 v14 z" fill="#164A98"/>
+  <rect x="894" y="120" width="252" height="230" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="1020" cy="170" r="30" fill="#7B4FC9"/>
+  <text x="1020" y="178" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="1020" y="232" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#164A98" text-anchor="middle">PROBAR</text>
+  <text x="1020" y="260" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#006AEA" text-anchor="middle">Con otra persona</text>
+  <text x="1020" y="294" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">Predicción, observación</text>
+  <text x="1020" y="318" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">y un cambio</text>
+  <rect x="48" y="376" width="1104" height="64" rx="16" fill="#D2D2D2" stroke="#D2D2D2" stroke-width="2"/>
+  <text x="600" y="415" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">Terminar niveles = avance en la plataforma.   Explicar y transferir = evidencia de Maker Academy.</text>
+</svg>

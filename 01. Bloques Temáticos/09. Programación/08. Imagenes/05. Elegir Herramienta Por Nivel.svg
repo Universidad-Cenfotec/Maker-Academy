@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">Qué herramienta usar en cada nivel de B09</title>
+  <desc id="desc">Cinco columnas de preescolar a undécimo. Preescolar: tarjetas, ScratchJr y Pre-reader Express. I Ciclo: ScratchJr, Blockly Laberinto, CS Fundamentals y tarjetas de Scratch. II Ciclo: Scratch con tarjetas, OctoStudio y extensiones de música, lápiz, micro:bit y LEGO. III Ciclo: Scratch con Makey Makey, Sprite Lab o Game Lab, Python Tutor y comparación de bloques con Python. Diversificada: Python Lab, editor local, Python Tutor y proyecto con usuarios. Cada columna indica la evidencia esperada.</desc>
+  <rect width="1200" height="510" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">¿Qué herramienta uso en cada nivel?</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Sugerencias para B09. El reto del grupo decide; la herramienta es un medio.</text>
+  <rect x="48" y="118" width="212" height="330" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="48" y="118" width="212" height="62" rx="16" fill="#164A98"/>
+  <rect x="48" y="158" width="212" height="22" fill="#164A98"/>
+  <text x="154.0" y="146" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F7F9FC" text-anchor="middle">Preescolar</text>
+  <text x="154.0" y="168" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#F7F9FC" text-anchor="middle"></text>
+  <text x="64" y="210" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#006AEA" text-anchor="start">Flechas y movimiento</text>
+  <circle cx="70" cy="242" r="5" fill="#006AEA"/>
+  <text x="82" y="248" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Tarjetas y piso</text>
+  <circle cx="70" cy="276" r="5" fill="#006AEA"/>
+  <text x="82" y="282" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">ScratchJr (tableta)</text>
+  <circle cx="70" cy="310" r="5" fill="#006AEA"/>
+  <text x="82" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">CS Fundamentals:</text>
+  <text x="82" y="350" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Pre-reader Express</text>
+  <rect x="60" y="386" width="188" height="46" rx="10" fill="#D2D2D2"/>
+  <text x="154.0" y="415" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#164A98" text-anchor="middle">Juega, señala y cuenta</text>
+  <rect x="278" y="118" width="212" height="330" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="278" y="118" width="212" height="62" rx="16" fill="#164A98"/>
+  <rect x="278" y="158" width="212" height="22" fill="#164A98"/>
+  <text x="384.0" y="146" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F7F9FC" text-anchor="middle">I Ciclo</text>
+  <text x="384.0" y="168" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#F7F9FC" text-anchor="middle">1.º–3.º</text>
+  <text x="294" y="210" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#006AEA" text-anchor="start">Secuencias y eventos</text>
+  <circle cx="300" cy="242" r="5" fill="#006AEA"/>
+  <text x="312" y="248" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">ScratchJr</text>
+  <circle cx="300" cy="276" r="5" fill="#006AEA"/>
+  <text x="312" y="282" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Blockly · Laberinto</text>
+  <circle cx="300" cy="310" r="5" fill="#006AEA"/>
+  <text x="312" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">CS Fundamentals</text>
+  <circle cx="300" cy="344" r="5" fill="#006AEA"/>
+  <text x="312" y="350" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Tarjetas de Scratch</text>
+  <rect x="290" y="386" width="188" height="46" rx="10" fill="#D2D2D2"/>
+  <text x="384.0" y="415" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#164A98" text-anchor="middle">Compara lo esperado</text>
+  <rect x="508" y="118" width="212" height="330" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="508" y="118" width="212" height="62" rx="16" fill="#164A98"/>
+  <rect x="508" y="158" width="212" height="22" fill="#164A98"/>
+  <text x="614.0" y="146" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F7F9FC" text-anchor="middle">II Ciclo</text>
+  <text x="614.0" y="168" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#F7F9FC" text-anchor="middle">4.º–6.º</text>
+  <text x="524" y="210" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#006AEA" text-anchor="start">Eventos y condiciones</text>
+  <circle cx="530" cy="242" r="5" fill="#006AEA"/>
+  <text x="542" y="248" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Scratch + tarjetas</text>
+  <circle cx="530" cy="276" r="5" fill="#006AEA"/>
+  <text x="542" y="282" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">OctoStudio (teléfono)</text>
+  <circle cx="530" cy="310" r="5" fill="#006AEA"/>
+  <text x="542" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Extensiones: música,</text>
+  <text x="542" y="350" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">lápiz, micro:bit, LEGO</text>
+  <rect x="520" y="386" width="188" height="46" rx="10" fill="#D2D2D2"/>
+  <text x="614.0" y="415" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#164A98" text-anchor="middle">Dos versiones y prueba</text>
+  <rect x="738" y="118" width="212" height="330" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="738" y="118" width="212" height="62" rx="16" fill="#164A98"/>
+  <rect x="738" y="158" width="212" height="22" fill="#164A98"/>
+  <text x="844.0" y="146" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F7F9FC" text-anchor="middle">III Ciclo</text>
+  <text x="844.0" y="168" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#F7F9FC" text-anchor="middle">7.º–9.º</text>
+  <text x="754" y="210" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#006AEA" text-anchor="start">Leer, depurar, comparar</text>
+  <circle cx="760" cy="242" r="5" fill="#006AEA"/>
+  <text x="772" y="248" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Scratch + Makey Makey</text>
+  <circle cx="760" cy="276" r="5" fill="#006AEA"/>
+  <text x="772" y="282" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Sprite Lab / Game Lab</text>
+  <circle cx="760" cy="310" r="5" fill="#006AEA"/>
+  <text x="772" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Python Tutor</text>
+  <circle cx="760" cy="344" r="5" fill="#006AEA"/>
+  <text x="772" y="350" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Bloques ↔ Python</text>
+  <rect x="750" y="386" width="188" height="46" rx="10" fill="#D2D2D2"/>
+  <text x="844.0" y="415" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#164A98" text-anchor="middle">Hipótesis y traza</text>
+  <rect x="968" y="118" width="212" height="330" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="968" y="118" width="212" height="62" rx="16" fill="#164A98"/>
+  <rect x="968" y="158" width="212" height="22" fill="#164A98"/>
+  <text x="1074.0" y="146" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#F7F9FC" text-anchor="middle">Diversificada</text>
+  <text x="1074.0" y="168" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#F7F9FC" text-anchor="middle">10.º–11.º</text>
+  <text x="984" y="210" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#006AEA" text-anchor="start">Python con propósito</text>
+  <circle cx="990" cy="242" r="5" fill="#006AEA"/>
+  <text x="1002" y="248" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Python Lab</text>
+  <circle cx="990" cy="276" r="5" fill="#006AEA"/>
+  <text x="1002" y="282" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Editor local de Python</text>
+  <circle cx="990" cy="310" r="5" fill="#006AEA"/>
+  <text x="1002" y="316" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Python Tutor</text>
+  <circle cx="990" cy="344" r="5" fill="#006AEA"/>
+  <text x="1002" y="350" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Proyecto con usuarios</text>
+  <rect x="980" y="386" width="188" height="46" rx="10" fill="#D2D2D2"/>
+  <text x="1074.0" y="415" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#164A98" text-anchor="middle">Pruebas y versiones</text>
+  <path d="M263.0 283 l10 10 l-10 10" fill="none" stroke="#164A98" stroke-width="3"/>
+  <path d="M493.0 283 l10 10 l-10 10" fill="none" stroke="#164A98" stroke-width="3"/>
+  <path d="M723.0 283 l10 10 l-10 10" fill="none" stroke="#164A98" stroke-width="3"/>
+  <path d="M953.0 283 l10 10 l-10 10" fill="none" stroke="#164A98" stroke-width="3"/>
+  <text x="48" y="486" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Sin red o sin equipos: la misma pregunta se trabaja con tarjetas, recorridos en el piso o una traza impresa.</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="466" viewBox="0 0 1200 466" role="img" aria-labelledby="title desc">
+  <title id="title">Laberinto con tarjetas</title>
+  <desc id="desc">Cuadrícula de cinco por cuatro con inicio abajo a la izquierda, un obstáculo y la meta arriba a la derecha. La versión uno, con tres flechas a la derecha y una hacia arriba, choca con el obstáculo en el paso dos. La versión dos, repetir tres veces arriba y repetir cuatro veces a la derecha, llega a la meta. Debajo, el registro pensamos, ocurrió, cambiamos y al probar de nuevo.</desc>
+  <rect width="1200" height="466" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">Laberinto con tarjetas: predecir, probar, corregir</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Cuadrícula de 5 × 4 dibujada por el grupo · inicio, obstáculo y destino</text>
+  <rect x="60" y="116" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="134" y="116" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="208" y="116" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="282" y="116" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="356" y="116" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="60" y="190" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="134" y="190" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="208" y="190" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="282" y="190" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="356" y="190" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="60" y="264" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="134" y="264" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="208" y="264" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="282" y="264" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="356" y="264" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="60" y="338" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="134" y="338" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="208" y="338" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="282" y="338" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="356" y="338" width="74" height="74" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="214" y="344" width="62" height="62" rx="6" fill="#7C7B75"/>
+  <text x="245.0" y="382" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">✕</text>
+  <circle cx="97.0" cy="375.0" r="22" fill="#006AEA"/>
+  <text x="97.0" y="381.0" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle">INICIO</text>
+  <rect x="366" y="126" width="54" height="54" rx="8" fill="#2E9E5B"/>
+  <text x="393.0" y="159.0" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">META</text>
+  <path d="M119.0 375.0 H204" stroke="#D64545" stroke-width="5" stroke-dasharray="10 6"/>
+  <text x="171.0" y="362" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#D64545" text-anchor="middle">v1 ✕</text>
+  <path d="M97.0 353.0 V153.0 H362" fill="none" stroke="#2E9E5B" stroke-width="5"/>
+  <text x="237.6" y="143.0" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#2E9E5B" text-anchor="middle">v2 ✓</text>
+  <text x="470" y="136" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#D64545" text-anchor="start">Versión 1</text>
+  <rect x="470" y="152" width="54" height="64" rx="8" fill="#FFFFFF" stroke="#D64545" stroke-width="2"/>
+  <text x="497" y="196" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98" text-anchor="middle">→</text>
+  <rect x="534" y="152" width="54" height="64" rx="8" fill="#FFFFFF" stroke="#D64545" stroke-width="2"/>
+  <text x="561" y="196" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98" text-anchor="middle">→</text>
+  <rect x="598" y="152" width="54" height="64" rx="8" fill="#FFFFFF" stroke="#D64545" stroke-width="2"/>
+  <text x="625" y="196" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98" text-anchor="middle">→</text>
+  <rect x="662" y="152" width="54" height="64" rx="8" fill="#FFFFFF" stroke="#D64545" stroke-width="2"/>
+  <text x="689" y="196" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98" text-anchor="middle">↑</text>
+  <text x="740" y="194" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#D64545" text-anchor="start">Choca en el paso 2</text>
+  <text x="470" y="262" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#2E9E5B" text-anchor="start">Versión 2</text>
+  <rect x="470" y="278" width="150" height="64" rx="8" fill="#FFFFFF" stroke="#2E9E5B" stroke-width="2"/>
+  <text x="545" y="306" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#E8761A" text-anchor="middle">repetir 3</text>
+  <text x="545" y="330" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#164A98" text-anchor="middle">↑</text>
+  <rect x="630" y="278" width="150" height="64" rx="8" fill="#FFFFFF" stroke="#2E9E5B" stroke-width="2"/>
+  <text x="705" y="306" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#E8761A" text-anchor="middle">repetir 4</text>
+  <text x="705" y="330" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#164A98" text-anchor="middle">→</text>
+  <text x="800" y="318" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#2E9E5B" text-anchor="start">Llega a la meta</text>
+  <rect x="470" y="370" width="682" height="76" rx="16" fill="#D2D2D2" stroke="#D2D2D2" stroke-width="2"/>
+  <text x="490" y="400" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#164A98" text-anchor="start">Registro: pensamos… · ocurrió… · cambiamos… · al probar de nuevo…</text>
+  <text x="490" y="428" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Otra pareja sigue las tarjetas sin recibir correcciones.</text>
+</svg>

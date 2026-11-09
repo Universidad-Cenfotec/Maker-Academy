@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="466" viewBox="0 0 1200 466" role="img" aria-labelledby="title desc">
+  <title id="title">Un video corto en cuatro momentos</title>
+  <desc id="desc">Barra de reproducción con una pausa marcada. Cuatro tarjetas: antes, mostrar una imagen fija y pedir una predicción; durante, pausar en la decisión técnica y escuchar dos ideas; después, cerrar el video y construir; cierre, completar pensábamos, ocurrió y cambiamos.</desc>
+  <rect width="1200" height="466" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">Un video corto, cuatro momentos</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Guion de cinco minutos para que el video abra una pregunta y no sea solo para mirar</text>
+  <rect x="48" y="118" width="1104" height="18" rx="9" fill="#D2D2D2"/>
+  <rect x="48" y="118" width="420" height="18" rx="9" fill="#006AEA"/>
+  <circle cx="468" cy="127" r="16" fill="#164A98"/>
+  <rect x="461" y="119" width="5" height="16" fill="#FFFFFF"/><rect x="471" y="119" width="5" height="16" fill="#FFFFFF"/>
+  <text x="468" y="168" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#164A98" text-anchor="middle">pausa aquí</text>
+  <rect x="48" y="192" width="264" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="48" y="192" width="264" height="50" rx="16" fill="#164A98"/><rect x="48" y="222" width="264" height="20" fill="#164A98"/>
+  <text x="180" y="225" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">1 · Antes</text>
+  <text x="72" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Imagen fija.</text>
+  <text x="72" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">«¿Qué hará al</text>
+  <text x="72" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">pulsar iniciar?»</text>
+  <rect x="330" y="192" width="264" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="330" y="192" width="264" height="50" rx="16" fill="#164A98"/><rect x="330" y="222" width="264" height="20" fill="#164A98"/>
+  <text x="462" y="225" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">2 · Durante</text>
+  <text x="354" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Pausa en la</text>
+  <text x="354" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">decisión técnica.</text>
+  <text x="354" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Dos ideas distintas.</text>
+  <rect x="612" y="192" width="264" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="612" y="192" width="264" height="50" rx="16" fill="#164A98"/><rect x="612" y="222" width="264" height="20" fill="#164A98"/>
+  <text x="744" y="225" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">3 · Después</text>
+  <text x="636" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Cerrar el video.</text>
+  <text x="636" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Construir o mover</text>
+  <text x="636" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">tarjetas.</text>
+  <rect x="894" y="192" width="264" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="894" y="192" width="264" height="50" rx="16" fill="#164A98"/><rect x="894" y="222" width="264" height="20" fill="#164A98"/>
+  <text x="1026" y="225" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">4 · Cierre</text>
+  <text x="918" y="280" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">«Pensábamos…,</text>
+  <text x="918" y="310" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">ocurrió…,</text>
+  <text x="918" y="340" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">cambiamos…»</text>
+  <text x="48" y="440" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Si no se observa un cambio en lo que el grupo construyó, el video fue motivación: todavía falta la prueba.</text>
+</svg>
