@@ -1,7 +1,7 @@
 # Catalogo de recursos visuales
 
 Inventario de imagenes del repositorio. Las rutas de uso apuntan a los documentos Markdown que las referencian.
-| Categor?a | Recurso | Referenciado desde |
+| Categoría | Recurso | Referenciado desde |
 |---|---|---|
 | Códigos con Bloques | [calibracion-ideascratch.png](<C%C3%B3digos%20con%20Bloques/calibracion-ideascratch.png>) | [01. Calibracion Avanzada.md](<../01.%20Bloques%20Tem%C3%A1ticos/08.%20Rob%C3%B3tica%20Avanzada/01.%20Control%20De%20Precisi%C3%B3n/01.%20Calibracion%20Avanzada.md>) |
 | Códigos con Bloques | [control-proporcional-ideascratch.png](<C%C3%B3digos%20con%20Bloques/control-proporcional-ideascratch.png>) | [02. Control Proporcional.md](<../01.%20Bloques%20Tem%C3%A1ticos/08.%20Rob%C3%B3tica%20Avanzada/01.%20Control%20De%20Precisi%C3%B3n/02.%20Control%20Proporcional.md>) |
