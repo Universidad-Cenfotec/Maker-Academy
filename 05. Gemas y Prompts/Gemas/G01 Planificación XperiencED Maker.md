@@ -27,7 +27,7 @@ La gema integra elementos del modelo Maker Academy, como cultura maker, PNFT, ap
 La planificación generada por la gema debe ser revisada y adaptada por el docente antes de implementarse.
 
 <p align="center">
-  <img src="../../Recursos%20visuales/Fotograf%C3%ADas/GemaPlanificacionXperiencEDKids.png" alt="Gema Diseñador XperiencED" width="600">
+  <img src="../../Recursos%20visuales/Gemas/gema-xperienced-kids-planificacion.png" alt="Gema Diseñador XperiencED" width="600">
 </p>
 
 ---

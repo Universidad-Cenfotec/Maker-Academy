@@ -27,7 +27,7 @@ La gema permite relacionar los retos maker con asignaturas como Matemática, Cie
 Las propuestas generadas por la gema deben ser revisadas y adaptadas por el docente responsable del área curricular y por el docente que facilita la experiencia maker antes de su implementación.
 
 <p align="center">
-  <img src="../../Recursos%20visuales/Fotograf%C3%ADas/GemaIntegracionCurricular.png" alt="Gema para Integración Curricular" width="600">
+  <img src="../../Recursos%20visuales/Gemas/gema-integracion-curricular.png" alt="Gema para Integración Curricular" width="600">
 </p>
 
 ---
