@@ -85,7 +85,7 @@ Esta opción permite crear el programa arrastrando bloques, sin necesidad de esc
 
 **Código de referencia:**
 
-![Programación por bloques de Señalética interactiva](<Recursos visuales/Códigos con Bloques/senaletica-bloques.png>)
+![Programación por bloques de Señalética interactiva](<../Recursos visuales/Códigos con Bloques/senaletica-bloques.png>)
 
 #### Opción B. Programación en Python
 
