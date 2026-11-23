@@ -43,6 +43,7 @@ Guardar las imágenes del Proyecto 4: Arcade maker: capturas de Scratch, del jue
 | [`scratch-programa-personaje.png`](./scratch-programa-personaje.png) | Primaria: programas del personaje (inicio, fin y movimiento por inclinación). |
 | [`juego-pagina-completa.png`](./juego-pagina-completa.png) | Secundaria: página completa del juego con la historia y las instrucciones. |
 | [`juego-control-opcional.png`](./juego-control-opcional.png) | Secundaria: apartado desplegable del control físico opcional en la página del juego. |
+| [`juego-reto-estrella.png`](./juego-reto-estrella.png) | Secundaria: resultado del reto 6.2, con la estrella de vida en el juego. |
 | [`juego-inicio.png`](./juego-inicio.png) | Secundaria: pantalla de inicio de Tortuga baula. |
 | [`juego-partida.png`](./juego-partida.png) | Secundaria: partida en curso. |
 | [`juego-escudo.png`](./juego-escudo.png) | Secundaria: escudo activo. |
@@ -55,9 +56,9 @@ Guardar las imágenes del Proyecto 4: Arcade maker: capturas de Scratch, del jue
 | [`ideaboard-conectores.png`](./ideaboard-conectores.png) | Conectores de la IdeaBoard, sobre la imagen oficial de CRCibernética. |
 | [`consola-tapa.png`](./consola-tapa.png) | Secundaria: tapa de la consola para corte láser (mejora opcional). |
 
-### Fotos pendientes del prototipo real
+### Fotografías recomendadas para futuras versiones
 
-Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el aviso de la guía por la imagen:
+Las siguientes fotografías complementarían las guías. Pueden incorporarse cuando se cuente con el registro del prototipo:
 
 | Archivo sugerido | Qué debe mostrar | Guía donde se usa |
 |---|---|---|
@@ -80,8 +81,8 @@ Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el 
 ## Cómo insertar una foto
 
 1. Guarde la foto en esta carpeta con el nombre sugerido (letras minúsculas, sin tildes ni espacios).
-2. En la guía indicada, busque el aviso "Insertar próximamente una imagen" con la descripción correspondiente.
-3. Reemplace el aviso por esta línea, cambiando el nombre del archivo y el texto alternativo:
+2. En la guía indicada, ubique el paso que describe el contenido de la foto.
+3. Agregue la siguiente línea inmediatamente después de ese paso, con el nombre del archivo y el texto alternativo correspondientes:
 
 ```html
 <img width="500" alt="descripción breve de la foto" src="./06.%20Im%C3%A1genes/nombre-del-archivo.jpg" />

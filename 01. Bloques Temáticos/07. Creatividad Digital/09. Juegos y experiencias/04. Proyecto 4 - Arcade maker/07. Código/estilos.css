@@ -1,0 +1,321 @@
+/* ════════════════════════════════════════════════
+   ESTILOS DEL JUEGO TORTUGA BAULA (CSS)
+   Define colores, tamaños, tipografías y distribución.
+   ════════════════════════════════════════════════ */
+
+:root {
+  color-scheme: dark;
+  --cyan: #39d8ee;
+  --navy: #071d35;
+  --yellow: #ffe26a;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: radial-gradient(ellipse at 50% 0%, #113d66 0%, #061729 72%);
+  font:
+    15px/1.55 system-ui,
+    -apple-system,
+    Segoe UI,
+    sans-serif;
+  color: #eaf9ff;
+  min-height: 100vh;
+}
+.page {
+  max-width: 1150px;
+  margin: auto;
+  padding: 20px 16px 36px;
+}
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 13px;
+}
+.top h1 {
+  font-size: clamp(20px, 3vw, 32px);
+  letter-spacing: 1px;
+  margin: 0;
+  font-weight: 900;
+  text-shadow: 3px 3px #05304c;
+}
+.eyebrow {
+  font-size: 10px;
+  letter-spacing: 2.5px;
+  color: #78dff2;
+  font-weight: 900;
+  margin-bottom: 1px;
+}
+.tag {
+  font-size: 11px;
+  padding: 7px 10px;
+  background: #153b59;
+  border: 1px solid #3e7896;
+  color: #c5ebfa;
+  border-radius: 4px;
+}
+.frame {
+  border: 5px solid #39cde6;
+  border-radius: 8px;
+  background: #03182d;
+  box-shadow:
+    0 0 0 5px #092946,
+    0 12px 36px #0008,
+    0 0 25px #18dcff30;
+  overflow: hidden;
+}
+.hud {
+  min-height: 62px;
+  display: grid;
+  grid-template-columns: 1.7fr 1fr 1fr 0.85fr;
+  align-items: center;
+  background: #061a31;
+  border-bottom: 4px solid #23cce8;
+}
+.hud > div {
+  text-align: center;
+  border-right: 2px solid #1b718f;
+  padding: 6px 2px;
+}
+.hud > div:last-child {
+  border: none;
+}
+.hud small {
+  display: block;
+  font-size: 10px;
+  color: #8ee6f6;
+  letter-spacing: 2px;
+  font-weight: 800;
+}
+.hud strong {
+  display: block;
+  font-size: clamp(16px, 2.6vw, 28px);
+  color: var(--yellow);
+  font-family: monospace;
+  font-weight: 1000;
+  letter-spacing: 1px;
+}
+.hud .game-name {
+  color: white;
+  font-size: clamp(14px, 2.5vw, 24px);
+  letter-spacing: 0;
+}
+.hearts {
+  color: #ff476a !important;
+}
+.screen {
+  position: relative;
+  overflow: hidden;
+  background: #086092;
+  aspect-ratio: 16/9;
+}
+canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+.screen:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    0deg,
+    #00132216 0,
+    #00132216 1px,
+    transparent 2px,
+    transparent 4px
+  );
+  opacity: 0.25;
+}
+.overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #02192c99;
+  padding: 18px;
+  text-align: center;
+}
+.overlay.hidden {
+  display: none;
+}
+.panel {
+  width: min(520px, 98%);
+  background: #061d36ed;
+  border: 3px solid #4ce9f4;
+  box-shadow: 8px 8px 0 #001321;
+  padding: 24px 20px;
+}
+.panel h2 {
+  margin: 0 0 12px;
+  color: #ffe66a;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font: 900 clamp(23px, 4.6vw, 42px) / 1.15 monospace;
+  text-shadow: 3px 3px #ab4b52;
+}
+.panel p {
+  font-size: clamp(12px, 1.7vw, 16px);
+  margin: 7px 0 14px;
+  color: #e6f6fd;
+}
+.panel .tip {
+  font-size: 12px;
+  color: #8be3f0;
+}
+.btn {
+  border: 2px solid #a4f9fc;
+  background: #095b84;
+  color: white;
+  box-shadow: 3px 3px 0 #02182c;
+  border-radius: 3px;
+  font: 800 12px system-ui;
+  letter-spacing: 0.4px;
+  padding: 11px 15px;
+  cursor: pointer;
+  min-height: 42px;
+}
+.btn:hover {
+  filter: brightness(1.2);
+}
+.btn:focus-visible {
+  outline: 3px solid #ffe66a;
+  outline-offset: 3px;
+}
+.btn.primary {
+  background: #f5c94f;
+  border-color: #ffeb97;
+  color: #182742;
+}
+.toolbar {
+  display: flex;
+  gap: 9px;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 12px;
+  background: #071e36;
+}
+.status {
+  margin-left: auto;
+  font-size: 12px;
+  color: #aed5e4;
+}
+.status[data-connected="true"] {
+  color: #90f4ba;
+}
+.bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-top: 17px;
+}
+.info {
+  background: #081d33d9;
+  border: 1px solid #27526a;
+  border-radius: 6px;
+  padding: 14px 17px;
+}
+.info h3 {
+  color: #92e7f4;
+  margin: 0 0 8px;
+  letter-spacing: 0.5px;
+  font-size: 15px;
+}
+.info p {
+  margin: 7px 0;
+  font-size: 13px;
+  color: #c9e3ed;
+}
+.kbd {
+  font: 800 12px monospace;
+  background: #193b53;
+  border: 1px solid #588ca6;
+  border-bottom-width: 3px;
+  border-radius: 3px;
+  padding: 2px 6px;
+  white-space: nowrap;
+}
+.mobile {
+  display: none;
+  justify-content: space-between;
+  margin-top: 10px;
+  gap: 10px;
+}
+.mobile button {
+  flex: 1;
+  touch-action: none;
+  user-select: none;
+  min-height: 53px;
+}
+.message {
+  color: #a7f1d5 !important;
+}
+.help {
+  font-size: 11px !important;
+  color: #82afc6 !important;
+}
+details.control {
+  margin-top: 10px;
+  border-top: 1px solid #27526a;
+  padding-top: 8px;
+}
+details.control summary {
+  cursor: pointer;
+  color: #92e7f4;
+  font-weight: 800;
+  font-size: 13px;
+}
+details.control p {
+  font-size: 12.5px;
+}
+@media (max-width: 700px) {
+  .page {
+    padding: 12px 8px 24px;
+  }
+  .hud {
+    min-height: 52px;
+  }
+  .hud small {
+    font-size: 8px;
+    letter-spacing: 1px;
+  }
+  .hud strong {
+    font-size: 15px;
+  }
+  .hud .game-name {
+    font-size: 14px;
+  }
+  .toolbar .status {
+    flex-basis: 100%;
+    margin-left: 0;
+  }
+  .bottom {
+    grid-template-columns: 1fr;
+  }
+  .mobile {
+    display: flex;
+  }
+  .frame {
+    border-width: 3px;
+  }
+  .panel {
+    padding: 10px;
+  }
+  .panel h2 {
+    font-size: 24px;
+  }
+  .panel p {
+    font-size: 12px;
+  }
+  .screen {
+    aspect-ratio: 16/10;
+  }
+}

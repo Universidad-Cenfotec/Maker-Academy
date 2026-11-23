@@ -38,8 +38,6 @@ Esta carpeta no contiene archivos STL. El modelo se descarga directamente desde 
 | Perfil de impresión publicado | PLA, capa de 0,12 mm, 2 paredes, 15 % de relleno |
 | Material aproximado | 56 g de PLA por soporte |
 
-> *Insertar próximamente una imagen: soporte de la micro:bit recién impreso, junto a la micro:bit y al portapilas de 2 pilas AAA.*
-
 ---
 
 ## Cómo usar esta carpeta
