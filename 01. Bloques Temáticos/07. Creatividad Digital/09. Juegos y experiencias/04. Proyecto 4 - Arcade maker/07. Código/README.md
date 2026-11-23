@@ -29,7 +29,7 @@ Guardar el código del Proyecto 4 listo para copiar a cada placa.
 
 | Archivo | Descripción |
 |---|---|
-| [`juego.html`](./juego.html) | Juego base Tortuga baula en HTML y JavaScript. Se abre en Chrome o Edge de computadora. |
+| [`juego.html`](./juego.html) | Juego base Tortuga baula en HTML, CSS y JavaScript. Se abre en Chrome o Edge de computadora. |
 | [`control_botones_code.py`](./control_botones_code.py) | IdeaBoard: control de dos botones de arcade en IO05 e IO18 (versión del prototipo). |
 | [`control_joystick_botones_code.py`](./control_joystick_botones_code.py) | IdeaBoard: alternativa con joystick (VRx en IO34, SW en IO04) y dos botones. |
 | [`arduino_uno.ino`](./arduino_uno.ino) | Control alternativo con Arduino Uno. |
@@ -44,7 +44,9 @@ Guardar el código del Proyecto 4 listo para copiar a cada placa.
 - **Archivos `.py`:** se abren en IdeaCode y se guardan en la IdeaBoard con el nombre `code.py`.
 - **Archivos `.ino`:** se abren en Arduino IDE. Cada uno debe ir dentro de una carpeta con el mismo nombre.
 - **Archivos `.html`:** se abren con doble clic en Chrome o Edge de computadora; no necesitan internet. Si Web Serial no funciona así, ejecute `py -m http.server` en esta carpeta y abra `http://localhost:8000/juego.html`.
-- **Reglas del juego:** se cambian en las constantes del inicio del código de `juego.html` (`VIDAS`, `PUNTOS_POR_NIVEL`, `VELOCIDAD_INICIAL`, `PROB_BOLSA` y `TAMANO_OBJETOS`).
+- **Reglas del juego:** se cambian en la sección 1 del código de `juego.html` (`VIDAS`, `PUNTOS_POR_NIVEL`, `VELOCIDAD_INICIAL`, `PROB_BOLSA` y `TAMANO_OBJETOS`).
+- **Diseño del juego:** las figuras en pixel art y los colores se cambian en la sección 2 (`MEDUSA`, `BOLSA`, `COLORES_MEDUSA`, `COLORES_BOLSA` y `COLORES_MAR`); la tortuga, en la función `dibujarTortuga()`.
+- **Programas `.py`:** corresponden al control físico opcional de Secundaria.
 - **Código de micro:bit:** está en la guía `02. Microbit.md` y se pega en la vista JavaScript de MakeCode.
 
 ---

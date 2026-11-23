@@ -41,15 +41,17 @@ Guardar las imágenes del Proyecto 4: Arcade maker: capturas de Scratch, del jue
 | [`scratch-sonido-pop.png`](./scratch-sonido-pop.png) | Primaria: búsqueda del sonido Pop en la biblioteca. |
 | [`scratch-programa-manzana.png`](./scratch-programa-manzana.png) | Primaria: programa del objeto que cae. |
 | [`scratch-programa-personaje.png`](./scratch-programa-personaje.png) | Primaria: programas del personaje (inicio, fin y movimiento por inclinación). |
+| [`juego-pagina-completa.png`](./juego-pagina-completa.png) | Secundaria: página completa del juego con la historia y las instrucciones. |
+| [`juego-control-opcional.png`](./juego-control-opcional.png) | Secundaria: apartado desplegable del control físico opcional en la página del juego. |
 | [`juego-inicio.png`](./juego-inicio.png) | Secundaria: pantalla de inicio de Tortuga baula. |
 | [`juego-partida.png`](./juego-partida.png) | Secundaria: partida en curso. |
 | [`juego-escudo.png`](./juego-escudo.png) | Secundaria: escudo activo. |
-| [`juego-pausa.png`](./juego-pausa.png) | Secundaria: juego en pausa. |
+| [`juego-pausa.png`](./juego-pausa.png) | Secundaria: juego en pausa (extensión). |
 | [`juego-fin.png`](./juego-fin.png) | Secundaria: pantalla de fin del juego con el mensaje ambiental. |
 | [`ideacode-editor.png`](./ideacode-editor.png) | Secundaria: editor IdeaCode sin placa conectada. |
 | [`foto-s-botones-arcade-frente.jpg`](./foto-s-botones-arcade-frente.jpg) | Secundaria: dos botones de arcade montados en la placa de acrílico. |
-| [`foto-s-botones-arcade-cableado-1.jpg`](./foto-s-botones-arcade-cableado-1.jpg) | Secundaria: cables soldados a los microswitch. |
-| [`foto-s-botones-arcade-cableado-2.jpg`](./foto-s-botones-arcade-cableado-2.jpg) | Secundaria: detalle de las soldaduras. |
+| [`foto-s-botones-arcade-cableado-1.jpg`](./foto-s-botones-arcade-cableado-1.jpg) | Secundaria: cables conectados a los terminales del microswitch. |
+| [`foto-s-botones-arcade-cableado-2.jpg`](./foto-s-botones-arcade-cableado-2.jpg) | Secundaria: detalle de los terminales con los cables conectados. |
 | [`ideaboard-conectores.png`](./ideaboard-conectores.png) | Conectores de la IdeaBoard, sobre la imagen oficial de CRCibernética. |
 | [`consola-tapa.png`](./consola-tapa.png) | Secundaria: tapa de la consola para corte láser (mejora opcional). |
 
@@ -67,13 +69,12 @@ Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el 
 | `foto-p-06-prueba-jugadores.jpg` | estudiantes de otro equipo jugando mientras los creadores toman notas | 02. Versión primaria |
 | `foto-p-07-soporte-impreso.jpg` | soporte recién impreso junto a la micro:bit y al portapilas | 07. Modelos 3D |
 | `foto-s-01-documento-diseno.jpg` | documento de diseño del juego con el boceto de las pantallas | 03. Versión secundaria |
-| `foto-s-02-punta-jumper.jpg` | unión entre el cable del botón y medio jumper hembra-hembra, aislada con termoencogible | 03. Versión secundaria |
-| `foto-s-03-control-ideaboard.jpg` | control de dos botones conectado a las filas IO05 e IO18, con señal y GND identificados | 03. Versión secundaria |
-| `foto-s-04-consola-ideacode.png` | consola de IdeaCode con líneas como `0,0,0,0,500` que cambian al presionar | 03. Versión secundaria |
-| `foto-s-05-elegir-puerto.png` | ventana de Chrome para elegir el puerto serie de la IdeaBoard | 03. Versión secundaria |
-| `foto-s-06-jugando-control.jpg` | estudiante jugando Tortuga baula con el control de dos botones | 03. Versión secundaria |
-| `foto-s-07-prueba-externa.jpg` | jugador externo probando el juego mientras el equipo toma notas | 03. Versión secundaria |
-
+| `foto-s-02-pixel-art-papel.jpg` | hoja cuadriculada con un objeto en pixel art, las letras de cada color y la cuadrícula escrita | 03. Versión secundaria |
+| `foto-s-03-juego-redisenado.png` | juego rediseñado por un equipo, con su propio personaje, objetos y fondo | 03. Versión secundaria |
+| `foto-s-04-prueba-externa.jpg` | jugador externo probando el juego rediseñado mientras el equipo toma notas | 03. Versión secundaria |
+| `foto-s-05-jumper-pelado.jpg` | jumper hembra-hembra con un extremo pelado y el otro con su conector intacto | 03. Versión secundaria y 01. IdeaBoard (extensión) |
+| `foto-s-06-control-ideaboard.jpg` | control de dos botones conectado a las filas IO05 e IO18, con señal y GND identificados | 03. Versión secundaria y 01. IdeaBoard (extensión) |
+| `foto-s-07-elegir-puerto.png` | ventana de Chrome para elegir el puerto serie de la IdeaBoard | 03. Versión secundaria y 01. IdeaBoard (extensión) |
 ---
 
 ## Cómo insertar una foto

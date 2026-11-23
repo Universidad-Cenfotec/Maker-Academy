@@ -21,7 +21,7 @@ Carpeta del Proyecto 4. Videojuego con control físico construido por los estudi
 
 ## Propósito
 
-En Primaria, se programa un juego en Scratch que se controla con una micro:bit, por inclinación o con sus botones A y B, montada en un soporte impreso en 3D. En Secundaria, se modifica el juego web "Tortuga baula" y se construye un control con dos botones de arcade conectados a la IdeaBoard.
+En Primaria, se programa un juego en Scratch que se controla con una micro:bit, por inclinación o con sus botones A y B, montada en un soporte impreso en 3D. En Secundaria, se programa y rediseña el juego web "Tortuga baula" con HTML, CSS y JavaScript, con apoyo de inteligencia artificial para el diseño gráfico.
 
 ---
 
@@ -33,7 +33,7 @@ A continuación se listan los archivos y subcarpetas disponibles en este directo
 |---|---|
 | [`01. Ficha del proyecto.md`](./01.%20Ficha%20del%20proyecto.md) | Resumen del reto, objetivos y etapas generales. |
 | [`02. Versión primaria.md`](./02.%20Versi%C3%B3n%20primaria.md) | Guía docente paso a paso para Primaria: Scratch con micro:bit. |
-| [`03. Versión secundaria.md`](./03.%20Versi%C3%B3n%20secundaria.md) | Guía docente paso a paso para Secundaria: Tortuga baula con control de dos botones. |
+| [`03. Versión secundaria.md`](./03.%20Versi%C3%B3n%20secundaria.md) | Guía docente paso a paso para Secundaria: programación y rediseño de Tortuga baula. |
 | [`04. Materiales.md`](./04.%20Materiales.md) | Materiales del kit del SumoBot, del makerspace y de construcción. |
 | [`05. Plataformas/`](./05.%20Plataformas/) | Guías técnicas por placa con conexiones y código. |
 | [`06. Imágenes/`](./06.%20Im%C3%A1genes/) | Capturas, fotos y lista de fotos pendientes. |
@@ -67,4 +67,4 @@ Consulte primero la ficha del proyecto y luego la guía del nivel correspondient
 
 ## Nota docente
 
-Se recomienda construir el prototipo completo antes de implementar el proyecto con el grupo. En Secundaria, verifique la conexión entre el control y el juego en la computadora que se utilizará.
+Se recomienda construir el prototipo completo antes de implementar el proyecto con el grupo. En Secundaria, el control físico es una extensión opcional: verifique su conexión con el juego antes de usarlo con el grupo.
