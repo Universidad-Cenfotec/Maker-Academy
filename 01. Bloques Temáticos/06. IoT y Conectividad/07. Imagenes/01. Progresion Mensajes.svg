@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1260" viewBox="0 0 1000 1260" role="img" aria-labelledby="title desc">
+<title id="title">Progresión de mensajes entre objetos en Maker Academy</title>
+<desc id="desc">Cinco niveles aplican el aviso del estante de materiales: dibujo y roles en preescolar, secuencia en primaria inicial, señal local en primaria superior, entrega preparada en secundaria inicial y solución conectada validada en Innovation Lab.</desc>
+<rect width="1000" height="1260" fill="#F5F8FC"/><rect width="1000" height="16" fill="#164A98"/>
+<g font-family="Arial, sans-serif">
+<text x="58" y="74" fill="#164A98" font-size="37" font-weight="700">Un aviso, cinco formas de aprender</text>
+<text x="58" y="115" fill="#4A5664" font-size="23">Faltan lápices en el estante A · ejemplo simulado</text>
+<rect x="58" y="158" width="884" height="172" rx="22" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<rect x="58" y="158" width="244" height="172" rx="22" fill="#164A98"/>
+<rect x="278" y="158" width="24" height="172" fill="#164A98"/>
+<circle cx="105" cy="208" r="27" fill="#9CC8FF"/>
+<text x="97" y="218" fill="#102D5F" font-size="28" font-weight="700">1</text>
+<text x="88" y="252" fill="white" font-size="21" font-weight="700">Exploradores</text>
+<text x="88" y="277" fill="white" font-size="21" font-weight="700">Maker</text>
+<text x="88" y="308" fill="white" font-size="19">Preescolar</text>
+<text x="332" y="203" fill="#164A98" font-size="25" font-weight="700">Tarjeta con dibujo</text>
+<text x="332" y="245" fill="#243241" font-size="22">Avisa a quien repone los lápices</text>
+<text x="332" y="291" fill="#4A5664" font-size="19">Se observa: Nombra al destinatario con apoyo</text>
+<rect x="58" y="353" width="884" height="172" rx="22" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<rect x="58" y="353" width="244" height="172" rx="22" fill="#164A98"/>
+<rect x="278" y="353" width="24" height="172" fill="#164A98"/>
+<circle cx="105" cy="403" r="27" fill="#9CC8FF"/>
+<text x="97" y="413" fill="#102D5F" font-size="28" font-weight="700">2</text>
+<text x="88" y="447" fill="white" font-size="21" font-weight="700">Inventores</text>
+<text x="88" y="472" fill="white" font-size="21" font-weight="700">Maker</text>
+<text x="88" y="503" fill="white" font-size="19">1.º–3.º</text>
+<text x="332" y="398" fill="#164A98" font-size="25" font-weight="700">Secuencia de tarjetas</text>
+<text x="332" y="440" fill="#243241" font-size="22">Corrige destino o ubicación confusa</text>
+<text x="332" y="486" fill="#4A5664" font-size="19">Se observa: Explica qué cambió en el aviso</text>
+<rect x="58" y="548" width="884" height="172" rx="22" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<rect x="58" y="548" width="244" height="172" rx="22" fill="#164A98"/>
+<rect x="278" y="548" width="24" height="172" fill="#164A98"/>
+<circle cx="105" cy="598" r="27" fill="#9CC8FF"/>
+<text x="97" y="608" fill="#102D5F" font-size="28" font-weight="700">3</text>
+<text x="88" y="642" fill="white" font-size="21" font-weight="700">Creadores</text>
+<text x="88" y="667" fill="white" font-size="21" font-weight="700">Maker</text>
+<text x="88" y="698" fill="white" font-size="19">4.º–6.º</text>
+<text x="332" y="593" fill="#164A98" font-size="25" font-weight="700">Señal local</text>
+<text x="332" y="635" fill="#243241" font-size="22">Distingue «hay» y «faltan»</text>
+<text x="332" y="681" fill="#4A5664" font-size="19">Se observa: Otro equipo interpreta la señal</text>
+<rect x="58" y="743" width="884" height="172" rx="22" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<rect x="58" y="743" width="244" height="172" rx="22" fill="#164A98"/>
+<rect x="278" y="743" width="24" height="172" fill="#164A98"/>
+<circle cx="105" cy="793" r="27" fill="#9CC8FF"/>
+<text x="97" y="803" fill="#102D5F" font-size="28" font-weight="700">4</text>
+<text x="88" y="837" fill="white" font-size="21" font-weight="700">Diseñadores</text>
+<text x="88" y="862" fill="white" font-size="21" font-weight="700">Maker</text>
+<text x="88" y="893" fill="white" font-size="19">7.º–9.º</text>
+<text x="332" y="788" fill="#164A98" font-size="25" font-weight="700">Entrega preparada</text>
+<text x="332" y="830" fill="#243241" font-size="22">Observa envío y recepción interrumpida</text>
+<text x="332" y="876" fill="#4A5664" font-size="19">Se observa: Registra qué muestra cada extremo</text>
+<rect x="58" y="938" width="884" height="172" rx="22" fill="white" stroke="#9CC8FF" stroke-width="3"/>
+<rect x="58" y="938" width="244" height="172" rx="22" fill="#164A98"/>
+<rect x="278" y="938" width="24" height="172" fill="#164A98"/>
+<circle cx="105" cy="988" r="27" fill="#9CC8FF"/>
+<text x="97" y="998" fill="#102D5F" font-size="28" font-weight="700">5</text>
+<text x="88" y="1043" fill="white" font-size="21" font-weight="700">Innovation Lab</text>
+<text x="88" y="1075" fill="white" font-size="19">10.º–11.º</text>
+<text x="332" y="983" fill="#164A98" font-size="25" font-weight="700">Solución conectada</text>
+<text x="332" y="1025" fill="#243241" font-size="22">Prueba avisos tardíos o repetidos</text>
+<text x="332" y="1071" fill="#4A5664" font-size="19">Se observa: Valida el mensaje con usuarios</text>
+<rect x="58" y="1148" width="884" height="76" rx="18" fill="#E4F0FF"/>
+<text x="84" y="1181" fill="#164A98" font-size="23" font-weight="700">Se conserva el propósito y se ajusta el apoyo.</text>
+<text x="84" y="1209" fill="#243241" font-size="20">La conexión real se introduce cuando aporta valor al proyecto.</text>
+</g></svg>

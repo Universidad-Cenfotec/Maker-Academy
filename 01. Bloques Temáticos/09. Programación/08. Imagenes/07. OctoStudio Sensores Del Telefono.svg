@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="564" viewBox="0 0 1200 564" role="img" aria-labelledby="title desc">
+  <title id="title">OctoStudio: programar con el teléfono</title>
+  <desc id="desc">Teléfono con bloques de ejemplo: al agitar, reproducir sonido y cambiar color; al recibir un rayo, moverse y enviar otro. Alrededor se describen cuatro entradas: tocar, agitar e inclinar, cámara y grabar sonido; los rayos entre teléfonos por Bluetooth; e ideas para el aula como un dado sonoro, un cuento con fotos, un instrumento y pistas que viajan entre teléfonos.</desc>
+  <rect width="1200" height="564" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">OctoStudio: programar con el teléfono</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Para primaria · Android y iOS · gratis · usa los sensores que el teléfono ya tiene</text>
+  <rect x="470" y="110" width="260" height="400" rx="36" fill="#164A98"/>
+  <rect x="486" y="138" width="228" height="344" rx="14" fill="#F7F9FC"/>
+  <rect x="570" y="120" width="60" height="8" rx="4" fill="#D2D2D2"/>
+  <path d="M500 166 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h150 q6 0 6 6 v22 q0 6 -6 6 h-150 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#F2B705"/>
+  <text x="514" y="183.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">al agitar</text>
+  <path d="M500 210 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h150 q6 0 6 6 v22 q0 6 -6 6 h-150 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#2E9E5B"/>
+  <text x="514" y="227.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">reproducir sonido</text>
+  <path d="M500 254 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h150 q6 0 6 6 v22 q0 6 -6 6 h-150 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#7B4FC9"/>
+  <text x="514" y="271.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">cambiar color</text>
+  <path d="M500 316 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h150 q6 0 6 6 v22 q0 6 -6 6 h-150 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#F2B705"/>
+  <text x="514" y="333.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">al recibir ✦</text>
+  <path d="M500 360 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h150 q6 0 6 6 v22 q0 6 -6 6 h-150 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#006AEA"/>
+  <text x="514" y="377.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">moverse</text>
+  <path d="M500 404 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h150 q6 0 6 6 v22 q0 6 -6 6 h-150 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#E8761A"/>
+  <text x="514" y="421.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">enviar ✦</text>
+  <text x="600" y="462" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#7C7B75" text-anchor="middle">Proyecto de ejemplo</text>
+  <rect x="48" y="114" width="380" height="82" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <text x="70" y="144" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Tocar</text>
+  <text x="70" y="172" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Toca la pantalla y un personaje responde.</text>
+  <line x1="428" y1="155" x2="470" y2="155" stroke="#006AEA" stroke-width="3" stroke-dasharray="6 6"/>
+  <rect x="48" y="214" width="380" height="82" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <text x="70" y="244" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Agitar e inclinar</text>
+  <text x="70" y="272" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">El sensor de movimiento inicia una acción.</text>
+  <line x1="428" y1="255" x2="470" y2="255" stroke="#006AEA" stroke-width="3" stroke-dasharray="6 6"/>
+  <rect x="48" y="314" width="380" height="82" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <text x="70" y="344" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Cámara</text>
+  <text x="70" y="372" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Toma una foto y conviértela en personaje.</text>
+  <line x1="428" y1="355" x2="470" y2="355" stroke="#006AEA" stroke-width="3" stroke-dasharray="6 6"/>
+  <rect x="48" y="414" width="380" height="82" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <text x="70" y="444" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Grabar sonido</text>
+  <text x="70" y="472" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Graba tu voz o un ruido del aula.</text>
+  <line x1="428" y1="455" x2="470" y2="455" stroke="#006AEA" stroke-width="3" stroke-dasharray="6 6"/>
+  <rect x="772" y="114" width="380" height="160" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <text x="794" y="146" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Rayos (beam) ✦</text>
+  <text x="794" y="176" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Un teléfono envía una señal y otro</text>
+  <text x="794" y="199" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">responde por Bluetooth. Ideal para</text>
+  <text x="794" y="222" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">juegos entre equipos o una cadena</text>
+  <text x="794" y="245" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">de mensajes.</text>
+  <rect x="772" y="294" width="380" height="186" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <text x="794" y="326" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Ideas para el aula</text>
+  <text x="794" y="356" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">• Un dado que suena al agitarlo.</text>
+  <text x="794" y="379" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">• Un cuento con fotos del makerspace.</text>
+  <text x="794" y="402" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">• Un instrumento que cambia al inclinar.</text>
+  <text x="794" y="425" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">• Pistas que viajan de teléfono</text>
+  <text x="794" y="448" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">  a teléfono.</text>
+  <text x="48" y="540" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Antes de clase: revise permisos de cámara y micrófono, y use fotos sin rostros del estudiantado.</text>
+</svg>

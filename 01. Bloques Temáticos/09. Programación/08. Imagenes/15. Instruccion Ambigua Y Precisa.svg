@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="494" viewBox="0 0 1200 494" role="img" aria-labelledby="title desc">
+  <title id="title">Instrucción ambigua y precisa</title>
+  <desc id="desc">A la izquierda, una instrucción ambigua: camina hasta la mesa de materiales, con preguntas sobre el punto de inicio, la orientación y la cantidad de pasos. A la derecha, cuatro pasos numerados que se pueden probar: pararse en la puerta mirando la pizarra, avanzar cuatro pasos, girar a la derecha y avanzar dos pasos. Abajo, la prueba: otra persona sigue los pasos sin ayuda.</desc>
+  <rect width="1200" height="494" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">¿Otra persona puede seguir esta instrucción?</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Comparar una instrucción ambigua con una que se puede probar</text>
+  <rect x="48" y="112" width="540" height="270" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="48" y="112" width="540" height="54" rx="16" fill="#7C7B75"/><rect x="48" y="144" width="540" height="22" fill="#7C7B75"/>
+  <text x="318" y="147" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">AMBIGUA</text>
+  <text x="78" y="216" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#164A98" text-anchor="start">«Camina hasta la mesa de materiales.»</text>
+  <text x="78" y="262" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#164A98" text-anchor="start">• ¿Desde dónde empiezo?</text>
+  <text x="78" y="294" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#164A98" text-anchor="start">• ¿Hacia qué lado miro?</text>
+  <text x="78" y="326" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#164A98" text-anchor="start">• ¿Cuántos pasos?</text>
+  <rect x="612" y="112" width="540" height="270" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <rect x="612" y="112" width="540" height="54" rx="16" fill="#164A98"/><rect x="612" y="144" width="540" height="22" fill="#164A98"/>
+  <text x="882" y="147" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF" text-anchor="middle">SE PUEDE PROBAR</text>
+  <circle cx="650" cy="206" r="15" fill="#164A98"/>
+  <text x="650" y="213" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">1</text>
+  <text x="676" y="212" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#164A98" text-anchor="start">Párate en la puerta, mirando la pizarra.</text>
+  <circle cx="650" cy="248" r="15" fill="#164A98"/>
+  <text x="650" y="255" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">2</text>
+  <text x="676" y="254" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#164A98" text-anchor="start">Avanza 4 pasos.</text>
+  <circle cx="650" cy="290" r="15" fill="#164A98"/>
+  <text x="650" y="297" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">3</text>
+  <text x="676" y="296" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#164A98" text-anchor="start">Gira a la derecha.</text>
+  <circle cx="650" cy="332" r="15" fill="#164A98"/>
+  <text x="650" y="339" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">4</text>
+  <text x="676" y="338" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#164A98" text-anchor="start">Avanza 2 pasos: llegaste a materiales.</text>
+  <rect x="48" y="404" width="1104" height="64" rx="16" fill="#D2D2D2" stroke="#D2D2D2" stroke-width="2"/>
+  <text x="600" y="443" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">Prueba: otra persona sigue los pasos sin ayuda. ¿Dónde se detuvo? Ese es el paso que se mejora.</text>
+</svg>

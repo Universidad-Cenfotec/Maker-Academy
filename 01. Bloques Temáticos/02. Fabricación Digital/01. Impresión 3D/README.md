@@ -25,7 +25,7 @@ Los estudiantes aprenderán a transformar ideas en modelos digitales, preparar a
 6. Preparación para impresión.
 7. Evaluación y mejora de prototipos.
 
-## Relación con XperiencED Kids
+## Relación con XperiencED Maker
 
 ### Inspiración
 Explorar objetos impresos en 3D y analizar cómo fueron diseñados.

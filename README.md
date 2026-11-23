@@ -17,7 +17,7 @@ Este espacio reúne y organiza los documentos, proyectos y recursos necesarios p
 
 Está dirigido a docentes, personas facilitadoras, coordinación, centros educativos y equipos responsables de implementar Maker Academy.
 
-![](<Recursos visuales/Fotografías/fotomaker001.jpg>)
+![](<Recursos%20visuales/Fotograf%C3%ADas/foto-taller-maker-01.jpg>)
 
 ---
 
@@ -181,6 +181,6 @@ Este repositorio busca que cada docente pueda:
 
 ## Créditos
 
-![](<Recursos visuales/Logos/Logo Universidad-Horizontal-Gradiente.png>)
+![](<Recursos%20visuales/Logos/logo-universidad-horizontal-gradiente.png>)
 
 Escuela de Sistemas Inteligentes

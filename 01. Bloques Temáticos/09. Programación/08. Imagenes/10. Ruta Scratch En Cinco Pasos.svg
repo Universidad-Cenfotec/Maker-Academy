@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">Ruta Scratch en cinco pasos</title>
+  <desc id="desc">Cinco pasos en fila: mirar dentro del proyecto para encontrar el evento que lo inicia, predecir con dos acciones, cambiar una regla pequeña, probar con otra persona sin pistas y mejorar repitiendo la prueba. Una flecha punteada regresa al paso dos si algo falla. Abajo, la tabla de prueba con destino A, destino B y error o reinicio, y la alternativa sin red.</desc>
+  <rect width="1200" height="510" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">Ruta Scratch: abrir, cambiar y probar</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Proyecto inicial «Maze Starter» → una guía para orientar a una persona visitante</text>
+  <rect x="48" y="120" width="206" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="151" cy="160" r="24" fill="#164A98"/>
+  <text x="151" y="167" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">1</text>
+  <text x="151" y="214" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">Mirar dentro</text>
+  <text x="151" y="270" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">¿Qué evento inicia</text>
+  <text x="151" y="292" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">el proyecto?</text>
+  <path d="M258 225 h12" stroke="#006AEA" stroke-width="4"/><path d="M274 225 l-8 -7 v14 z" fill="#006AEA"/>
+  <rect x="274" y="120" width="206" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="377" cy="160" r="24" fill="#164A98"/>
+  <text x="377" y="167" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">2</text>
+  <text x="377" y="214" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">Predecir</text>
+  <text x="377" y="270" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">Dibujar qué pasará</text>
+  <text x="377" y="292" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">con dos acciones.</text>
+  <path d="M484 225 h12" stroke="#006AEA" stroke-width="4"/><path d="M500 225 l-8 -7 v14 z" fill="#006AEA"/>
+  <rect x="500" y="120" width="206" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="603" cy="160" r="24" fill="#164A98"/>
+  <text x="603" y="167" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">3</text>
+  <text x="603" y="214" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">Cambiar una regla</text>
+  <text x="603" y="270" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">Un grupo pequeño</text>
+  <text x="603" y="292" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">de bloques.</text>
+  <path d="M710 225 h12" stroke="#006AEA" stroke-width="4"/><path d="M726 225 l-8 -7 v14 z" fill="#006AEA"/>
+  <rect x="726" y="120" width="206" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="829" cy="160" r="24" fill="#164A98"/>
+  <text x="829" y="167" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">4</text>
+  <text x="829" y="214" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">Probar</text>
+  <text x="829" y="236" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">con otra persona</text>
+  <text x="829" y="270" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">Juega sin pistas;</text>
+  <text x="829" y="292" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">anotamos sus dudas.</text>
+  <path d="M936 225 h12" stroke="#006AEA" stroke-width="4"/><path d="M952 225 l-8 -7 v14 z" fill="#006AEA"/>
+  <rect x="952" y="120" width="206" height="210" rx="16" fill="#F7F9FC" stroke="#164A98" stroke-width="2"/>
+  <circle cx="1055" cy="160" r="24" fill="#164A98"/>
+  <text x="1055" y="167" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">5</text>
+  <text x="1055" y="214" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#164A98" text-anchor="middle">Mejorar</text>
+  <text x="1055" y="270" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">Cambiar una cosa y</text>
+  <text x="1055" y="292" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="middle">repetir la prueba.</text>
+  <path d="M1061 336 v28 h-1013 v-28" fill="none" stroke="#006AEA" stroke-width="3" stroke-dasharray="8 8"/>
+  <text x="560" y="392" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#164A98" text-anchor="middle">Si algo falla, volvemos al paso 2 con una nueva predicción.</text>
+  <rect x="48" y="414" width="1104" height="70" rx="16" fill="#D2D2D2" stroke="#D2D2D2" stroke-width="2"/>
+  <text x="70" y="446" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#164A98" text-anchor="start">Tabla de prueba:</text>
+  <text x="220" y="446" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Destino A  ·  Destino B  ·  Error o reinicio  →  ¿qué entendió la persona? ¿pudo seguir sin ayuda?</text>
+  <text x="70" y="470" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">Sin red: una pareja hace de programa con tarjetas de eventos y otra hace de visitante.</text>
+</svg>
