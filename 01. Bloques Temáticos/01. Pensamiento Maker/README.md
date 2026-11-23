@@ -164,5 +164,5 @@ La pregunta central para revisar una experiencia de este bloque es:
 
 > **Pensar como maker es imaginar con curiosidad, crear para aprender y compartir para mejorar.**
 
-![Foto Maker](../../Recursos%20visuales/Fotograf%C3%ADas/fotomaker002.jpeg)
+![Foto Maker](<../../Recursos%20visuales/Fotograf%C3%ADas/foto-taller-maker-02.jpeg>)
 

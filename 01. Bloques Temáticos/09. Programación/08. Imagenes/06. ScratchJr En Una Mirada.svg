@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-labelledby="title desc">
+  <title id="title">ScratchJr en una mirada</title>
+  <desc id="desc">Dibujo de una tableta con escenario, personajes y seis categorías de bloques por color: inicio amarillo, movimiento azul, apariencia morado, sonido verde, control naranja y final rojo. Un guion de ejemplo une bandera, avanzar tres veces, sonido y fin. A la derecha, cinco pasos: elegir personaje, arrastrar bloques, tocar la bandera y observar, cambiar un bloque y mostrar la historia a otra persona.</desc>
+  <rect width="1200" height="530" fill="#9CC8FF"/>
+  <text x="48" y="54" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#164A98">ScratchJr en una mirada</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="17" fill="#164A98">Para 5–7 años · tableta o teléfono · gratis · no necesita leer para empezar</text>
+  <rect x="48" y="112" width="560" height="360" rx="28" fill="#164A98"/>
+  <rect x="68" y="132" width="520" height="320" rx="12" fill="#F7F9FC"/>
+  <rect x="84" y="146" width="330" height="190" rx="8" fill="#FFFFFF" stroke="#D2D2D2" stroke-width="2"/>
+  <text x="249" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#7C7B75" text-anchor="middle">Escenario</text>
+  <circle cx="200" cy="260" r="34" fill="#E8761A"/>
+  <circle cx="190" cy="252" r="5" fill="#FFFFFF"/><circle cx="212" cy="252" r="5" fill="#FFFFFF"/>
+  <path d="M188 272 q12 10 24 0" stroke="#FFFFFF" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M250 260 h90" stroke="#006AEA" stroke-width="4" stroke-dasharray="8 8"/>
+  <path d="M342 260 l-12 -8 v16 z" fill="#006AEA"/>
+  <rect x="430" y="146" width="142" height="190" rx="8" fill="#FFFFFF" stroke="#D2D2D2" stroke-width="2"/>
+  <text x="501" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#7C7B75" text-anchor="middle">Personajes</text>
+  <circle cx="501" cy="210" r="16" fill="#E8761A"/>
+  <circle cx="501" cy="252" r="16" fill="#1592A3"/>
+  <circle cx="501" cy="294" r="16" fill="#7B4FC9"/>
+  <rect x="84" y="350" width="74" height="24" rx="6" fill="#F2B705"/>
+  <text x="121" y="367" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Inicio</text>
+  <rect x="168" y="350" width="74" height="24" rx="6" fill="#006AEA"/>
+  <text x="205" y="367" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Movimiento</text>
+  <rect x="252" y="350" width="74" height="24" rx="6" fill="#7B4FC9"/>
+  <text x="289" y="367" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Apariencia</text>
+  <rect x="336" y="350" width="74" height="24" rx="6" fill="#2E9E5B"/>
+  <text x="373" y="367" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Sonido</text>
+  <rect x="420" y="350" width="74" height="24" rx="6" fill="#E8761A"/>
+  <text x="457" y="367" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Control</text>
+  <rect x="504" y="350" width="74" height="24" rx="6" fill="#D64545"/>
+  <text x="541" y="367" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Final</text>
+  <path d="M90 398 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h70 q6 0 6 6 v22 q0 6 -6 6 h-70 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#F2B705"/>
+  <text x="104" y="415.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">▶ bandera</text>
+  <path d="M206 398 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h60 q6 0 6 6 v22 q0 6 -6 6 h-60 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#006AEA"/>
+  <text x="220" y="415.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">→ ×3</text>
+  <path d="M312 398 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h60 q6 0 6 6 v22 q0 6 -6 6 h-60 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#2E9E5B"/>
+  <text x="326" y="415.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">♪ pop</text>
+  <path d="M418 398 q0 -6 6 -6 h14 l6 6 h12 l6 -6 h60 q6 0 6 6 v22 q0 6 -6 6 h-60 l-6 6 h-12 l-6 -6 h-14 q-6 0 -6 -6 z" fill="#D64545"/>
+  <text x="432" y="415.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start">■ fin</text>
+  <circle cx="668" cy="148" r="20" fill="#164A98"/>
+  <text x="668" y="155" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">1</text>
+  <text x="700" y="144" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Elige un personaje</text>
+  <text x="700" y="168" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">y un fondo para la historia.</text>
+  <circle cx="668" cy="214" r="20" fill="#164A98"/>
+  <text x="668" y="221" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">2</text>
+  <text x="700" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Arrastra bloques</text>
+  <text x="700" y="234" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">de izquierda a derecha.</text>
+  <circle cx="668" cy="280" r="20" fill="#164A98"/>
+  <text x="668" y="287" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">3</text>
+  <text x="700" y="276" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Toca la bandera</text>
+  <text x="700" y="300" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">y observa: ¿hizo lo que esperabas?</text>
+  <circle cx="668" cy="346" r="20" fill="#164A98"/>
+  <text x="668" y="353" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">4</text>
+  <text x="700" y="342" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Cambia un bloque</text>
+  <text x="700" y="366" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">y vuelve a probar.</text>
+  <circle cx="668" cy="412" r="20" fill="#164A98"/>
+  <text x="668" y="419" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#F7F9FC" text-anchor="middle">5</text>
+  <text x="700" y="408" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#164A98" text-anchor="start">Muestra tu historia</text>
+  <text x="700" y="432" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#164A98" text-anchor="start">a otra persona.</text>
+  <text x="48" y="506" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#164A98" text-anchor="start">Tip docente: lean los bloques en voz alta por su color y su dibujo; no hace falta saber leer para programar una secuencia.</text>
+</svg>
