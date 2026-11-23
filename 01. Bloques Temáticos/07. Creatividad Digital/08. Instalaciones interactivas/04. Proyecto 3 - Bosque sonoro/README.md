@@ -21,7 +21,7 @@ Carpeta del Proyecto 3: instalación inspirada en la naturaleza costarricense qu
 
 ## Propósito
 
-En Primaria, se construye un árbol de cartón con hojas de aluminio táctiles que reproducen sonidos de animales. En Secundaria, se conectan plantas reales a la IdeaBoard para que funcionen como instrumentos musicales, con ejecución en iPhone (Bluetooth MIDI) o en Windows (USB).
+En Primaria, se construye "El guardián del bosque": un bosque de papel con una micro:bit que duerme de día, despierta de noche según la luz y hace sonar tres plantas como animales de Costa Rica. En Secundaria, se conectan plantas reales a la IdeaBoard para que funcionen como instrumentos musicales, con ejecución en iPhone (Bluetooth MIDI) o en Windows (USB).
 
 ---
 
@@ -32,7 +32,7 @@ A continuación se listan los archivos y subcarpetas disponibles en este directo
 | Archivo o carpeta | Descripción |
 |---|---|
 | [`01. Ficha del proyecto.md`](./01.%20Ficha%20del%20proyecto.md) | Resumen del reto, objetivos y etapas generales. |
-| [`02. Versión primaria.md`](./02.%20Versi%C3%B3n%20primaria.md) | Guía docente paso a paso para Primaria. |
+| [`02. Versión primaria.md`](./02.%20Versi%C3%B3n%20primaria.md) | Guía docente paso a paso para Primaria: "El guardián del bosque" con micro:bit. |
 | [`03. Versión secundaria.md`](./03.%20Versi%C3%B3n%20secundaria.md) | Guía docente paso a paso para Secundaria, con ejecución en iPhone y en Windows. |
 | [`04. Materiales.md`](./04.%20Materiales.md) | Materiales del kit del SumoBot, del makerspace y de construcción. |
 | [`05. Plataformas/`](./05.%20Plataformas/) | Guías técnicas por placa con conexiones y código. |

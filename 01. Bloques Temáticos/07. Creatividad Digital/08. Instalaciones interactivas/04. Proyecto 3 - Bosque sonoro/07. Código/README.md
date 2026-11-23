@@ -29,8 +29,8 @@ Guardar el código del Proyecto 3 listo para copiar a cada placa.
 
 | Archivo | Descripción |
 |---|---|
-| [`primaria_code.py`](./primaria_code.py) | IdeaBoard, Primaria (IdeaCode): cuatro hojas de aluminio que suenan. |
-| [`arduino_uno.ino`](./arduino_uno.ino) | Arduino Uno, Primaria: hojas de aluminio con CapacitiveSensor. |
+| [`guardian_del_bosque.js`](./guardian_del_bosque.js) | micro:bit V2, Primaria (MakeCode): "El guardián del bosque", con día y noche según la luz y tres plantas táctiles. |
+| [`guardian_ideaboard_code.py`](./guardian_ideaboard_code.py) | IdeaBoard, Primaria (IdeaCode): adaptación del guardián con fotorresistencia y buzzer. |
 | [`planta_lectura.ino`](./planta_lectura.ino) | IdeaBoard o ESP32, Secundaria (Arduino IDE): prueba del sensor; también envía las lecturas a la computadora. |
 | [`planta_ble_midi.ino`](./planta_ble_midi.ino) | IdeaBoard o ESP32, Secundaria (Arduino IDE): planta musical por Bluetooth MIDI para GarageBand. |
 | [`planta_midi.py`](./planta_midi.py) | Secundaria, versión con computadora: convierte las lecturas en notas MIDI para REAPER. |
@@ -41,8 +41,7 @@ Guardar el código del Proyecto 3 listo para copiar a cada placa.
 
 - **Archivos `.py`:** se abren en IdeaCode y se guardan en la IdeaBoard con el nombre `code.py`.
 - **Archivos `.ino`:** se abren en Arduino IDE. Cada uno debe ir dentro de una carpeta con el mismo nombre.
-- **Archivos `.html`:** se abren con doble clic en Chrome o Edge. Necesitan internet la primera vez para cargar p5.js.
-- **Código de micro:bit:** está en la guía `02. Microbit.md` y se pega en la vista JavaScript de MakeCode.
+- **Archivo `.js` de micro:bit:** se pega en la vista JavaScript de [makecode.microbit.org](https://makecode.microbit.org) y luego se cambia a Bloques.
 
 ---
 

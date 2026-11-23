@@ -31,9 +31,9 @@ A continuación se listan los archivos y subcarpetas disponibles en este directo
 
 | Archivo o carpeta | Descripción |
 |---|---|
-| [`01. IdeaBoard.md`](./01.%20IdeaBoard.md) | Guía con IdeaBoard (plataforma principal). |
-| [`02. Microbit.md`](./02.%20Microbit.md) | Guía con micro:bit. |
-| [`03. Arduino.md`](./03.%20Arduino.md) | Guía con Arduino Uno. |
+| [`01. IdeaBoard.md`](./01.%20IdeaBoard.md) | Guía con IdeaBoard: plataforma principal de Secundaria y adaptación del guardián para Primaria. |
+| [`02. Microbit.md`](./02.%20Microbit.md) | Guía con micro:bit V2: plataforma principal de Primaria ("El guardián del bosque"). |
+| [`03. Arduino.md`](./03.%20Arduino.md) | Nota: este proyecto no tiene versión para Arduino Uno. |
 | [`04. ESP32.md`](./04.%20ESP32.md) | Guía con ESP32 genérico. |
 
 > Los archivos están ordenados en el orden en que se recomienda consultarlos.

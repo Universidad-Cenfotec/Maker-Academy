@@ -31,6 +31,13 @@ Almacenar las imágenes del Proyecto 3: Bosque sonoro, incluidos los diagramas e
 
 | Archivo | Descripción |
 |---|---|
+| [`makecode-bloques-dia-noche.png`](./makecode-bloques-dia-noche.png) | Primaria: bloques "al iniciar" y "para siempre" del día y la noche. |
+| [`simulador-guardian-dia.png`](./simulador-guardian-dia.png) | Primaria: simulador de MakeCode de día, con la carita dormida. |
+| [`simulador-guardian-noche.png`](./simulador-guardian-noche.png) | Primaria: simulador de MakeCode de noche, con el control de luz en 10 y la carita sorprendida. |
+| [`makecode-bloques-sonidos-noche.png`](./makecode-bloques-sonidos-noche.png) | Primaria: funciones buho, grillos, ranas y jaguar. |
+| [`makecode-bloques-para-siempre.png`](./makecode-bloques-para-siempre.png) | Primaria: bloque "para siempre" completo con la secuencia nocturna. |
+| [`makecode-bloques-al-iniciar.png`](./makecode-bloques-al-iniciar.png) | Primaria: bloque "al iniciar" completo con los pines táctiles. |
+| [`makecode-bloques-plantas.png`](./makecode-bloques-plantas.png) | Primaria: bloques "al presionarse pin" de las tres plantas. |
 | [`planta-flujo.png`](./planta-flujo.png) | Secundaria: flujo de la planta musical con iPhone y con computadora. |
 | [`bosque-sonoro-plantas-conectadas.jpg`](./bosque-sonoro-plantas-conectadas.jpg) | Secundaria: bosque de plantas de distintos tamaños, cada una con su IdeaBoard. |
 | [`planta-garageband-final.jpg`](./planta-garageband-final.jpg) | Secundaria: prototipo completo con GarageBand abierto en el iPhone. |
@@ -46,20 +53,30 @@ Almacenar las imágenes del Proyecto 3: Bosque sonoro, incluidos los diagramas e
 | [`arduino-ide-subir-y-monitor-serie.png`](./arduino-ide-subir-y-monitor-serie.png) | Arduino IDE: botones Verificar y Subir, y monitor serie a 115200. |
 | [`ideaboard-conectores.png`](./ideaboard-conectores.png) | Conectores de la IdeaBoard, sobre la imagen oficial de CRCibernética. |
 
-### Fotografías recomendadas para futuras versiones
+### Fotos pendientes de Primaria, en orden de sesión
 
-Las siguientes fotografías complementarían las guías. Pueden incorporarse cuando se cuente con el registro del prototipo:
+Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el aviso "Insertar próximamente una imagen" de la guía por la imagen:
+
+| Sesión | Archivo sugerido | Qué debe mostrar | Guía donde se usa |
+|---|---|---|---|
+| 1 | `foto-p-01-bosque-terminado.jpg` | bosque de papel terminado sobre una mesa, con tres plantas de hojas de aluminio y, al frente, la roca gris con la micro:bit de pie mostrando la carita dormida; se ven los tres cables del borde de la micro:bit hacia las plantas | 01. Ficha del proyecto y 02. Versión primaria |
+| 1 | `foto-p-02-tapar-pantalla.jpg` | mano de un estudiante tapando la pantalla de la micro:bit, que muestra la carita sorprendida, con el portapilas conectado | 02. Versión primaria |
+| 1 | `foto-p-03-boceto-bosque.jpg` | página de bitácora con el boceto del bosque, la roca con la cara del guardián y tres plantas rotuladas con su animal | 02. Versión primaria |
+| 2 | `foto-p-04-base-arboles.jpg` | base de cartón con árboles de cartulina verde y café pegados de pie con pestañas dobladas, con el espacio libre al frente para la roca | 02. Versión primaria |
+| 2 | `foto-p-05-planta-aluminio.jpg` | planta de cartulina con las hojas forradas de papel aluminio y una pestaña de aluminio de 2 × 4 cm en la base, señalada con una flecha | 02. Versión primaria |
+| 2 | `foto-p-06-caja-ranura.jpg` | caja pequeña con la ranura en la parte superior, antes de forrarla, junto a la micro:bit para mostrar el tamaño de la ranura | 02. Versión primaria |
+| 2 | `foto-p-07-roca-pintada.jpg` | roca pintada de gris con musgo de papel crepé y una cara dibujada alrededor de la ranura, todavía sin la micro:bit | 02. Versión primaria |
+| 3 | `foto-p-08-descargar-microbit.jpg` | micro:bit conectada por cable USB a la computadora con MakeCode abierto y el botón Descargar señalado | 02. Versión primaria |
+| 4 | `foto-p-09-microbit-en-roca.jpg` | micro:bit de pie en la ranura de la roca, pantalla al frente sin tapar, pines P0, P1 y P2 visibles y el cable del portapilas entrando a la roca | 02. Versión primaria |
+| 4 | `foto-p-10-pinzas-pines.jpg` | vista de cerca del borde de la micro:bit con tres pinzas lagarto en P0, P1 y P2, sin tocar las franjas pequeñas ni los pines vecinos | 02. Versión primaria |
+| 4 | `foto-p-11-jumper-pestana.jpg` | punta metálica de un jumper pegada con cinta adhesiva sobre la pestaña de aluminio de una planta | 02. Versión primaria |
+| 4 | `foto-p-12-tocando-planta.jpg` | estudiante tocando una hoja de aluminio mientras la micro:bit muestra la carita feliz del pájaro | 02. Versión primaria |
+| 4 | `foto-p-13-aula-oscura.jpg` | aula con las luces apagadas y varios bosques de papel sobre las mesas, con las micro:bit mostrando la carita sorprendida | 02. Versión primaria |
+
+### Fotografías recomendadas para Secundaria
 
 | Archivo sugerido | Qué debe mostrar | Guía donde se usa |
 |---|---|---|
-| `foto-00-arbol-terminado.jpg` | árbol de cartón de Primaria terminado, con las hojas de aluminio y la placa a la vista | 01. Ficha del proyecto |
-| `foto-p-01-arbol-ejemplo.jpg` | árbol de ejemplo con una hoja conectada a la placa | 02. Versión primaria |
-| `foto-p-02-diseno-arbol.jpg` | dibujo del árbol en la bitácora con el animal de cada hoja | 02. Versión primaria |
-| `foto-p-03-hojas-aluminio.jpg` | cuatro hojas de cartulina forradas con papel aluminio | 02. Versión primaria |
-| `foto-p-04-arbol-decorado.jpg` | árbol decorado con los dibujos de los animales | 02. Versión primaria |
-| `foto-p-05-cables-lagarto.jpg` | cables lagarto mordiendo las pestañas de aluminio y conectados a la placa | 02. Versión primaria |
-| `foto-p-06-tocando-hoja.jpg` | mano tocando una hoja de aluminio mientras suena la placa | 02. Versión primaria |
-| `foto-p-07-visita.jpg` | estudiantes de otro grupo tocando las hojas del árbol | 02. Versión primaria |
 | `foto-s-01-ejemplos-ble-midi.png` | menú File, Examples de Arduino IDE con los ejemplos de BLE-MIDI visibles | 03. Versión secundaria |
 | `foto-s-02-jumper-en-hoja.jpg` | punta metálica del jumper pegada con cinta sobre una hoja de la planta | 03. Versión secundaria |
 | `foto-s-03-monitor-serie-lecturas.png` | monitor serie con lecturas cerca de 1123 sin tocar y cerca de 853 al tocar la planta | 03. Versión secundaria |
@@ -78,8 +95,8 @@ Las siguientes fotografías complementarían las guías. Pueden incorporarse cua
 ## Cómo insertar una foto
 
 1. Guarde la foto en esta carpeta con el nombre sugerido (letras minúsculas, sin tildes ni espacios).
-2. En la guía, ubique el paso que describe el contenido de la foto.
-3. Agregue la siguiente línea inmediatamente después de ese paso, con el nombre del archivo y el texto alternativo correspondientes:
+2. En la guía, busque el aviso "Insertar próximamente una imagen" con la descripción de esa foto (para Secundaria, ubique el paso que describe su contenido).
+3. Reemplace el aviso por la siguiente línea, con el nombre del archivo y el texto alternativo correspondientes:
 
 ```html
 <img width="500" alt="descripción breve de la foto" src="./06.%20Im%C3%A1genes/nombre-del-archivo.jpg" />
