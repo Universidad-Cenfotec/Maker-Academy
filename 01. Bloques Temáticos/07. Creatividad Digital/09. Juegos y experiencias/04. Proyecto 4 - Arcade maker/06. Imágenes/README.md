@@ -21,20 +21,37 @@ Imágenes y fotos del Proyecto 4: Arcade maker.
 
 ## Propósito
 
-Guardar las imágenes del Proyecto 4: Arcade maker: diagramas elaborados para Maker Academy y fotos del prototipo real.
+Guardar las imágenes del Proyecto 4: Arcade maker: capturas de Scratch, del juego y de IdeaCode, y fotos del prototipo real.
 
 ---
 
 ## Contenido de esta carpeta
 
-### Diagramas e imágenes ya incluidos
+### Imágenes ya incluidas
 
 | Archivo | Descripción |
 |---|---|
-| [`juego-tortuga.png`](./juego-tortuga.png) | Juego base durante una partida. |
-| [`juego-inicio.png`](./juego-inicio.png) | Pantalla de inicio del juego. |
-| [`consola-tapa.png`](./consola-tapa.png) | Vista de la tapa de la consola para corte láser. |
+| [`scratch-microbit-pagina.png`](./scratch-microbit-pagina.png) | Primaria: página de Scratch para micro:bit con los requisitos. |
+| [`scratch-extension-microbit.png`](./scratch-extension-microbit.png) | Primaria: ventana de extensiones de Scratch con la tarjeta micro:bit. |
+| [`scratch-conectar-microbit.png`](./scratch-conectar-microbit.png) | Primaria: ventana de conexión de la micro:bit en Scratch. |
+| [`scratch-bloques-microbit.png`](./scratch-bloques-microbit.png) | Primaria: categoría micro:bit y prueba con "al presionar botón A". |
+| [`scratch-bandera-enviar-iniciar.png`](./scratch-bandera-enviar-iniciar.png) | Primaria: programa del escenario que envía el mensaje iniciar. |
+| [`scratch-crear-variables.png`](./scratch-crear-variables.png) | Primaria: creación de las variables puntos y vidas. |
+| [`scratch-bloques-movimiento.png`](./scratch-bloques-movimiento.png) | Primaria: bloques de la categoría Movimiento. |
+| [`scratch-sonido-pop.png`](./scratch-sonido-pop.png) | Primaria: búsqueda del sonido Pop en la biblioteca. |
+| [`scratch-programa-manzana.png`](./scratch-programa-manzana.png) | Primaria: programa del objeto que cae. |
+| [`scratch-programa-personaje.png`](./scratch-programa-personaje.png) | Primaria: programas del personaje (inicio, fin y movimiento por inclinación). |
+| [`juego-inicio.png`](./juego-inicio.png) | Secundaria: pantalla de inicio de Tortuga baula. |
+| [`juego-partida.png`](./juego-partida.png) | Secundaria: partida en curso. |
+| [`juego-escudo.png`](./juego-escudo.png) | Secundaria: escudo activo. |
+| [`juego-pausa.png`](./juego-pausa.png) | Secundaria: juego en pausa. |
+| [`juego-fin.png`](./juego-fin.png) | Secundaria: pantalla de fin del juego con el mensaje ambiental. |
+| [`ideacode-editor.png`](./ideacode-editor.png) | Secundaria: editor IdeaCode sin placa conectada. |
+| [`foto-s-botones-arcade-frente.jpg`](./foto-s-botones-arcade-frente.jpg) | Secundaria: dos botones de arcade montados en la placa de acrílico. |
+| [`foto-s-botones-arcade-cableado-1.jpg`](./foto-s-botones-arcade-cableado-1.jpg) | Secundaria: cables soldados a los microswitch. |
+| [`foto-s-botones-arcade-cableado-2.jpg`](./foto-s-botones-arcade-cableado-2.jpg) | Secundaria: detalle de las soldaduras. |
 | [`ideaboard-conectores.png`](./ideaboard-conectores.png) | Conectores de la IdeaBoard, sobre la imagen oficial de CRCibernética. |
+| [`consola-tapa.png`](./consola-tapa.png) | Secundaria: tapa de la consola para corte láser (mejora opcional). |
 
 ### Fotos pendientes del prototipo real
 
@@ -42,29 +59,27 @@ Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el 
 
 | Archivo sugerido | Qué debe mostrar | Guía donde se usa |
 |---|---|---|
-| `foto-00-consola-terminada.jpg` | consola terminada conectada al juego | 01. Ficha del proyecto |
-| `foto-p-01-control-ejemplo.jpg` | control de cartón de ejemplo conectado a la micro:bit y al juego | 02. Versión primaria |
+| `foto-p-01-control-en-uso.jpg` | estudiante sosteniendo la micro:bit en su soporte, inclinándola mientras el personaje se mueve en Scratch | 02. Versión primaria |
 | `foto-p-02-ficha-juego.jpg` | ficha del juego y dibujo de la pantalla en la bitácora | 02. Versión primaria |
-| `foto-p-03-bloques-scratch.jpg` | captura de los bloques de Scratch del personaje y del objeto que cae | 02. Versión primaria |
-| `foto-p-04-capas-boton.jpg` | capas de un botón: aluminio de abajo, esponja con hueco y cartulina con aluminio | 02. Versión primaria |
-| `foto-p-05-control-conectado.jpg` | control de cartón con los cuatro cables lagarto conectados a la micro:bit | 02. Versión primaria |
-| `foto-p-06-control-decorado.jpg` | control de cartón decorado con flechas y el nombre del juego | 02. Versión primaria |
-| `foto-p-07-prueba-jugadores.jpg` | estudiantes de otro equipo jugando con el control de cartón | 02. Versión primaria |
-| `foto-s-01-documento-diseno.jpg` | documento de diseño del juego escrito por el equipo | 03. Versión secundaria |
-| `foto-s-02-juego-modificado.jpg` | captura del juego modificado por el equipo | 03. Versión secundaria |
-| `foto-s-03-piezas-laser.jpg` | piezas de la consola recién cortadas en láser | 03. Versión secundaria |
-| `foto-s-04-consola-armada.jpg` | consola armada con los botones y el potenciómetro colocados | 03. Versión secundaria |
-| `foto-s-05-cableado.jpg` | interior de la consola con los botones y el potenciómetro cableados a la IdeaBoard | 03. Versión secundaria |
-| `foto-s-06-jugando-consola.jpg` | estudiante jugando con la consola conectada a la computadora | 03. Versión secundaria |
+| `foto-p-03-portapilas-jst.jpg` | micro:bit con el portapilas de 2 pilas AAA conectado al conector JST | 02. Versión primaria |
+| `foto-p-04-scratch-link.png` | ícono de Scratch Link activo en la barra de tareas de Windows | 02. Versión primaria |
+| `foto-p-05-microbit-soporte.jpg` | micro:bit en el soporte impreso en 3D, vista de frente, con el portapilas atrás | 02. Versión primaria, 02. Microbit |
+| `foto-p-06-prueba-jugadores.jpg` | estudiantes de otro equipo jugando mientras los creadores toman notas | 02. Versión primaria |
+| `foto-p-07-soporte-impreso.jpg` | soporte recién impreso junto a la micro:bit y al portapilas | 07. Modelos 3D |
+| `foto-s-01-documento-diseno.jpg` | documento de diseño del juego con el boceto de las pantallas | 03. Versión secundaria |
+| `foto-s-02-punta-jumper.jpg` | unión entre el cable del botón y medio jumper hembra-hembra, aislada con termoencogible | 03. Versión secundaria |
+| `foto-s-03-control-ideaboard.jpg` | control de dos botones conectado a las filas IO05 e IO18, con señal y GND identificados | 03. Versión secundaria |
+| `foto-s-04-consola-ideacode.png` | consola de IdeaCode con líneas como `0,0,0,0,500` que cambian al presionar | 03. Versión secundaria |
+| `foto-s-05-elegir-puerto.png` | ventana de Chrome para elegir el puerto serie de la IdeaBoard | 03. Versión secundaria |
+| `foto-s-06-jugando-control.jpg` | estudiante jugando Tortuga baula con el control de dos botones | 03. Versión secundaria |
 | `foto-s-07-prueba-externa.jpg` | jugador externo probando el juego mientras el equipo toma notas | 03. Versión secundaria |
-| `foto-s-08-demo-day.jpg` | consola y juego en el Demo Day con público jugando | 03. Versión secundaria |
 
 ---
 
 ## Cómo insertar una foto
 
 1. Guarde la foto en esta carpeta con el nombre sugerido (letras minúsculas, sin tildes ni espacios).
-2. En la guía, busque el aviso "Insertar próximamente una imagen" que menciona ese archivo.
+2. En la guía indicada, busque el aviso "Insertar próximamente una imagen" con la descripción correspondiente.
 3. Reemplace el aviso por esta línea, cambiando el nombre del archivo y el texto alternativo:
 
 ```html

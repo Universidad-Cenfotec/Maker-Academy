@@ -29,11 +29,12 @@ Guardar el código del Proyecto 4 listo para copiar a cada placa.
 
 | Archivo | Descripción |
 |---|---|
-| [`control_code.py`](./control_code.py) | IdeaBoard: control con cuatro botones y potenciómetro. |
-| [`juego.html`](./juego.html) | Juego base Tortuga baula en p5.js. Se abre en Chrome o Edge. |
-| [`arduino_uno.ino`](./arduino_uno.ino) | Control con Arduino Uno. |
-| [`esp32.ino`](./esp32.ino) | Control con ESP32 genérico o IdeaBoard en Arduino IDE. |
-| [`tapa-consola.svg`](./tapa-consola.svg) | Tapa de la consola para corte láser (rojo corta, azul graba). |
+| [`juego.html`](./juego.html) | Juego base Tortuga baula en HTML y JavaScript. Se abre en Chrome o Edge de computadora. |
+| [`control_botones_code.py`](./control_botones_code.py) | IdeaBoard: control de dos botones de arcade en IO05 e IO18 (versión del prototipo). |
+| [`control_joystick_botones_code.py`](./control_joystick_botones_code.py) | IdeaBoard: alternativa con joystick (VRx en IO34, SW en IO04) y dos botones. |
+| [`arduino_uno.ino`](./arduino_uno.ino) | Control alternativo con Arduino Uno. |
+| [`esp32.ino`](./esp32.ino) | Control alternativo con ESP32 genérico o IdeaBoard en Arduino IDE. |
+| [`tapa-consola.svg`](./tapa-consola.svg) | Mejora opcional: tapa de la consola para corte láser (rojo corta, azul graba). |
 | [`probeta-botones.svg`](./probeta-botones.svg) | Probeta para elegir el diámetro de los agujeros de los botones. |
 
 ---
@@ -42,7 +43,8 @@ Guardar el código del Proyecto 4 listo para copiar a cada placa.
 
 - **Archivos `.py`:** se abren en IdeaCode y se guardan en la IdeaBoard con el nombre `code.py`.
 - **Archivos `.ino`:** se abren en Arduino IDE. Cada uno debe ir dentro de una carpeta con el mismo nombre.
-- **Archivos `.html`:** se abren con doble clic en Chrome o Edge. Necesitan internet la primera vez para cargar p5.js.
+- **Archivos `.html`:** se abren con doble clic en Chrome o Edge de computadora; no necesitan internet. Si Web Serial no funciona así, ejecute `py -m http.server` en esta carpeta y abra `http://localhost:8000/juego.html`.
+- **Reglas del juego:** se cambian en las constantes del inicio del código de `juego.html` (`VIDAS`, `PUNTOS_POR_NIVEL`, `VELOCIDAD_INICIAL`, `PROB_BOLSA` y `TAMANO_OBJETOS`).
 - **Código de micro:bit:** está en la guía `02. Microbit.md` y se pega en la vista JavaScript de MakeCode.
 
 ---
@@ -64,4 +66,4 @@ Guardar el código del Proyecto 4 listo para copiar a cada placa.
 
 ## Nota docente
 
-El código se revisó con un simulador de las librerías. Antes de la clase, cárguelo en la placa real y ajuste los pines y valores marcados como ajustes.
+Los nombres de pines de los programas de IdeaBoard coinciden con la definición oficial de la placa en CircuitPython. Antes de la clase, cargue el programa en la placa real y verifique en la consola de IdeaCode que las lecturas cambien al presionar los botones.
