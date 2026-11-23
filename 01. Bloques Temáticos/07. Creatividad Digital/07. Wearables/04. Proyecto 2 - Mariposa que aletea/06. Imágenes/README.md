@@ -31,7 +31,12 @@ Guardar las imágenes del Proyecto 2: Mariposa que aletea: diagramas elaborados 
 
 | Archivo | Descripción |
 |---|---|
-| [`primaria-donde-van-las-tiras.jpg`](./primaria-donde-van-las-tiras.jpg) | Primaria: foto anotada de la parte de atrás, con las tiras, los dobleces y el mango. |
+| [`foto-p-01-materiales.jpg`](./foto-p-01-materiales.jpg) | Primaria: LED, resistencia y caja de 2 pilas AA. |
+| [`foto-p-02-mariposa-recortada.jpg`](./foto-p-02-mariposa-recortada.jpg) | Primaria: mariposa recortada en una sola pieza, con los dobleces marcados. |
+| [`foto-p-03-pinza-y-tira.jpg`](./foto-p-03-pinza-y-tira.jpg) | Primaria: parte posterior con la pinza pegada y la tira que mueve las alas. |
+| [`foto-p-04-caminos-cobre.jpg`](./foto-p-04-caminos-cobre.jpg) | Primaria: caminos de cinta de cobre con el espacio para la resistencia. |
+| [`foto-p-05-mariposa-terminada.jpg`](./foto-p-05-mariposa-terminada.jpg) | Primaria: circuito terminado con el LED encendido. |
+| [`primaria-donde-van-las-tiras.jpg`](./primaria-donde-van-las-tiras.jpg) | Primaria: foto anotada de la primera versión, con dos tiras, los dobleces y el mango. |
 | [`primaria-circuito-cobre.png`](./primaria-circuito-cobre.png) | Primaria: circuito con cinta de cobre, resistencia y caja de pilas AA. |
 | [`primaria-mecanismo-de-lado.png`](./primaria-mecanismo-de-lado.png) | Primaria: cómo la pinza dobla las alas, visto desde la cabeza. |
 | [`primaria-mariposa-terminada.png`](./primaria-mariposa-terminada.png) | Primaria: render de la primera idea (pinza debajo del cuerpo). Referencia, no es la versión final. |
@@ -54,19 +59,6 @@ Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el 
 
 | Archivo sugerido | Qué debe mostrar | Guía donde se usa |
 |---|---|---|
-| `foto-p-01-mariposa-terminada.jpg` | mariposa de Primaria terminada, vista de frente, con el LED encendido | 02. Versión primaria |
-| `foto-p-02-pinza-abierta-cerrada.jpg` | pinza de ropa cerrada y apretada, con la punta abierta | 02. Versión primaria |
-| `foto-p-03-mariposa-recortada.jpg` | mariposa recortada en una sola pieza de cartulina | 02. Versión primaria |
-| `foto-p-04-pinza-ubicada.jpg` | parte de atrás: pinza acostada sobre el cuerpo, con los dientes hacia la cabeza | 02. Versión primaria |
-| `foto-p-05-aleteo-apretada.jpg` | mariposa con el mango apretado y las alas dobladas hacia atrás | 02. Versión primaria |
-| `foto-p-06-patas-led.jpg` | LED de cerca mostrando la pata larga y la corta | 02. Versión primaria |
-| `foto-p-07-prueba-led.jpg` | prueba del LED: cable rojo, resistencia y LED torcidos, cable negro en la pata corta, LED encendido | 02. Versión primaria |
-| `foto-p-08-caminos-cobre.jpg` | dos caminos de cinta de cobre sobre el cuerpo, con el espacio para la resistencia | 02. Versión primaria |
-| `foto-p-09-led-pegado.jpg` | LED en la cabeza con las patas acostadas sobre los caminos de cobre | 02. Versión primaria |
-| `foto-p-10-resistencia.jpg` | resistencia cruzando el espacio del camino positivo | 02. Versión primaria |
-| `foto-p-11-cables-caja.jpg` | cables rojo y negro de la caja pegados al inicio de cada camino | 02. Versión primaria |
-| `foto-p-12-led-encendido.jpg` | mariposa con el LED encendido | 02. Versión primaria |
-| `foto-p-13-galeria.jpg` | galería de mariposas terminadas en una mesa o en un tendedero | 02. Versión primaria |
 | `foto-s-01-piezas-recien-impresas-sobre-cama.jpg` | piezas recién impresas sobre la cama de la impresora | 03. Versión secundaria |
 | `foto-s-02-mariposa-conectada-ideaboard-aleteando-acercar.jpg` | mariposa conectada a la IdeaBoard aleteando al acercar la mano | 03. Versión secundaria |
 | `foto-s-03-prueba-engranajes.jpg` | estudiantes girando dos engranajes de prueba y observando que giran en sentidos opuestos | 03. Versión secundaria |
