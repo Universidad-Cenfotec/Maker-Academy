@@ -1,0 +1,133 @@
+// Robot que saluda: version Secundaria (IdeaBoard, Arduino IDE)
+// Cuando alguien se acerca a menos de DISTANCIA_CM, el robot saluda:
+// LED verde y el brazo saluda dos veces; en cada saludo suena una nota.
+// Luego descansa (LED naranja) y vuelve a esperar (LED azul).
+//
+// Librerias (Arduino IDE > Library Manager): ESP32Servo y Adafruit NeoPixel.
+// Placa: ESP32 Dev Module. Puente SELECT de la IdeaBoard en Vin.
+//
+// Conexiones (siempre con la IdeaBoard desconectada):
+//   Servo SG90:   cafe GND, rojo V+, naranja senal  -> fila IO25
+//   HC-SR05:      VCC y GND -> V+ y GND de la fila IO26; TRIG -> senal IO26
+//                 ECHO -> senal IO27 (directo). Si el sensor tiene pin OUT, no se conecta.
+//   Buzzer (activo o pasivo): + -> senal IO05, - -> GND de la fila IO05
+//   Portapilas 4 AA en la bornera verde de la IdeaBoard (energia extra para el servo).
+//   LED RGB: integrado en la placa (IO02), no se conecta nada.
+//   Los ojos del robot son los dos cilindros del sensor ultrasonico.
+
+#include <ESP32Servo.h>
+#include <Adafruit_NeoPixel.h>
+
+// ---------- Valores que se pueden ajustar ----------
+const int DISTANCIA_CM   = 40;    // saluda si alguien esta mas cerca que esto
+const int BRAZO_REPOSO   = 90;    // angulo del brazo abajo
+const int BRAZO_ARRIBA   = 150;   // angulo del brazo arriba (bajarlo si choca)
+const int TIEMPO_MOVIDA_MS = 250; // tiempo para que el brazo llegue arriba o abajo
+const int VECES_SALUDO   = 2;     // cuantas veces sube y baja
+const int DESCANSO_MS    = 5000;  // tiempo sin saludar despues de un saludo
+// Buzzer ACTIVO (suena solo con darle energia, siempre el mismo pitido): true.
+// Buzzer PASIVO (puede tocar notas distintas): false.
+const bool BUZZER_ACTIVO = true;
+// ----------------------------------------------------
+
+const int PIN_SERVO  = 25;
+const int PIN_TRIG   = 26;
+const int PIN_ECHO   = 27;
+const int PIN_BUZZER = 5;
+const int PIN_LED    = 2;
+
+Servo brazo;
+ESP32PWM buzzer;
+Adafruit_NeoPixel led(1, PIN_LED, NEO_GRB + NEO_KHZ800);
+
+void color(int r, int g, int b) {
+  led.setPixelColor(0, led.Color(r, g, b));
+  led.show();
+}
+
+void nota(double frecuencia, int duracionMs) {
+  if (BUZZER_ACTIVO) {
+    // El buzzer activo no cambia de nota: solo se enciende y se apaga
+    digitalWrite(PIN_BUZZER, HIGH);
+    delay(duracionMs);
+    digitalWrite(PIN_BUZZER, LOW);
+  } else {
+    buzzer.writeTone(frecuencia);
+    delay(duracionMs);
+    buzzer.writeScaled(0.0);   // silencio
+  }
+  delay(30);
+}
+
+int medirDistanciaCm() {
+  digitalWrite(PIN_TRIG, LOW);
+  delayMicroseconds(2);
+  digitalWrite(PIN_TRIG, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(PIN_TRIG, LOW);
+  long duracion = pulseIn(PIN_ECHO, HIGH, 30000);   // espera maximo 30 ms
+  if (duracion == 0) return 999;                    // nada delante
+  return duracion / 58;                             // microsegundos a cm
+}
+
+void saludar(int distancia) {
+  Serial.print("Hola! Persona a ");
+  Serial.print(distancia);
+  Serial.println(" cm");
+  color(0, 150, 0);                 // verde
+
+  // Saluda de una vez: el brazo sube, suena una nota arriba y baja.
+  // Notas agudas: el buzzer piezo suena mas fuerte entre 1000 y 4000 Hz.
+  const double notas[] = {1047, 1319, 1568, 2093};   // Do, Mi, Sol, Do agudo
+  for (int i = 0; i < VECES_SALUDO; i++) {
+    brazo.write(BRAZO_ARRIBA);             // sube a la velocidad del servo
+    delay(TIEMPO_MOVIDA_MS);
+    nota(notas[i % 4], 120);               // pitido o nota con el brazo arriba
+    brazo.write(BRAZO_REPOSO);             // baja
+    delay(TIEMPO_MOVIDA_MS);
+  }
+  nota(1568, 200);                                         // nota final
+
+  color(150, 60, 0);                // naranja: descansando
+  delay(DESCANSO_MS);
+  color(0, 0, 150);                 // azul: esperando
+}
+
+void setup() {
+  Serial.begin(115200);
+
+  // Reserva los 4 temporizadores para que el servo (50 Hz) y el buzzer
+  // no compartan el mismo y no se estorben
+  ESP32PWM::allocateTimer(0);
+  ESP32PWM::allocateTimer(1);
+  ESP32PWM::allocateTimer(2);
+  ESP32PWM::allocateTimer(3);
+  brazo.setPeriodHertz(50);
+  brazo.attach(PIN_SERVO, 500, 2400);
+  brazo.write(BRAZO_REPOSO);
+
+  if (BUZZER_ACTIVO) {
+    pinMode(PIN_BUZZER, OUTPUT);
+    digitalWrite(PIN_BUZZER, LOW);
+  } else {
+    buzzer.attachPin(PIN_BUZZER, 1000, 10);
+    buzzer.writeScaled(0.0);
+  }
+
+  pinMode(PIN_TRIG, OUTPUT);
+  pinMode(PIN_ECHO, INPUT);
+
+  led.begin();
+  led.setBrightness(60);
+  color(0, 0, 150);                 // azul: esperando
+
+  Serial.println("Robot listo");
+}
+
+void loop() {
+  int distancia = medirDistanciaCm();
+  if (distancia < DISTANCIA_CM) {
+    saludar(distancia);
+  }
+  delay(100);
+}

@@ -1,7 +1,7 @@
 # Imágenes
 
-> Este archivo pertenece a: **Bloque 7: Proyectos innovadores y creatividad digital**
-> Ruta: `01_bloques-tematicos/07_creatividad-digital/07. Wearables/05. Proyecto 5 - Robot que saluda/06. Imágenes/README.md`
+> Este archivo pertenece a: **Bloque 7. Creatividad Digital, Proyecto 5: Robot que saluda**
+> Ruta: `01. Bloques Temáticos/07. Creatividad Digital/Proyecto 5. Robot que saluda/06. Imágenes/README.md`
 
 ---
 
@@ -9,89 +9,54 @@
 
 **Estado:** Borrador
 **Versión:** v1.0
-**Bloque:** 07_creatividad-digital
+**Bloque:** 07. Creatividad Digital
 
 ---
 
 ## Descripción
 
-Imágenes y fotos del Proyecto 5: Robot que saluda.
+Fotos del prototipo real y diagramas de conexión del Proyecto 5.
 
 ---
 
-## Propósito
+## Fotos del prototipo
 
-Guardar las imágenes del Proyecto 5: Robot que saluda: diagramas elaborados para Maker Academy y fotos del prototipo real.
+Fotos tomadas durante la construcción, en el orden en que se hizo el robot.
 
----
-
-## Contenido de esta carpeta
-
-### Diagramas e imágenes ya incluidos
-
-| Archivo | Descripción |
+| Archivo | Qué muestra |
 |---|---|
-| [`diagrama-robot.png`](./diagrama-robot.png) | Partes del robot. |
-| [`robot-brazo-abajo.png`](./robot-brazo-abajo.png) | Render del robot con el brazo abajo. |
-| [`robot-brazo-arriba.png`](./robot-brazo-arriba.png) | Render del robot saludando. |
-| [`circuito-wokwi-robot.png`](./circuito-wokwi-robot.png) | Simulación en Wokwi. |
-| [`ideaboard-conectores.png`](./ideaboard-conectores.png) | Conectores de la IdeaBoard. |
-| [`soporte-servo-carton.png`](./soporte-servo-carton.png) | Soporte del servo. |
-| [`servo-en-soporte.png`](./servo-en-soporte.png) | Servo en el soporte. |
-| [`adaptador-brazo.png`](./adaptador-brazo.png) | Adaptador del brazo. |
-| [`marco-ojos-sensor.png`](./marco-ojos-sensor.png) | Marco de los ojos. |
-
-### Fotos pendientes del prototipo real
-
-Tome cada foto, guárdela con el nombre indicado en esta carpeta y reemplace el aviso de la guía por la imagen:
-
-| Archivo sugerido | Qué debe mostrar | Guía donde se usa |
-|---|---|---|
-| `foto-p-01-cabeza-pegada-sobre-cuerpo-robot.jpg` | cabeza pegada sobre el cuerpo del robot | 02. Versión primaria |
-| `foto-p-02-servo-colocado-hombro-eje-saliendo.jpg` | servo colocado en el hombro, con el eje saliendo por el frente | 02. Versión primaria |
-| `foto-p-03-brazo-carton-pegado-patita-servo.jpg` | brazo de cartón pegado a la patita del servo | 02. Versión primaria |
-| `foto-p-04-robot-saludando-brazo-arriba.jpg` | robot saludando con el brazo arriba | 02. Versión primaria |
-| `foto-p-05-robots-carton-terminados-exposicion.jpg` | robots de cartón terminados en exposición | 02. Versión primaria |
-| `foto-s-01-cuerpo-robot-huecos-hombro-ojos.jpg` | cuerpo del robot con los huecos del hombro y los ojos | 03. Versión secundaria |
-| `foto-s-02-robot-conectado-ideaboard-saludando-led.jpg` | robot conectado a la IdeaBoard saludando con el LED verde | 03. Versión secundaria |
-| `foto-s-03-boceto-robot.jpg` | boceto del robot en la bitácora con el sensor y el brazo marcados | 03. Versión secundaria |
-| `foto-s-04-piezas-impresas.jpg` | soporte del servo, adaptador del brazo y marco de los ojos recién impresos | 03. Versión secundaria |
-| `foto-s-05-servo-en-soporte.jpg` | servo atornillado en el soporte impreso | 03. Versión secundaria |
-| `foto-s-06-brazo-pegado.jpg` | brazo de cartón pegado al adaptador, robot de frente | 03. Versión secundaria |
-| `foto-s-07-ojos-sensor.jpg` | sensor ultrasónico colocado en el marco de los ojos | 03. Versión secundaria |
-| `foto-s-08-protoboard.jpg` | protoboard con el divisor del ECHO conectada a la IdeaBoard | 03. Versión secundaria |
-| `foto-s-09-prueba-visitantes.jpg` | visitante acercándose al robot durante la prueba | 03. Versión secundaria |
+| [`foto-01-plantilla-cuerpo-medidas.jpg`](./foto-01-plantilla-cuerpo-medidas.jpg) | Plantilla del cuerpo en forma de cruz, con las medidas de 13 cm, 5 cm y las pestañas de 0,5 cm. |
+| [`foto-02-cuerpo-pegado-silicon.jpg`](./foto-02-cuerpo-pegado-silicon.jpg) | Plantilla del cuerpo con las pestañas pegadas con silicón, antes de cerrar la caja. |
+| [`foto-03-cuerpo-y-cabeza.jpg`](./foto-03-cuerpo-y-cabeza.jpg) | Cuerpo cerrado, abierto arriba, junto a la cabeza con los LEDs puestos. |
+| [`foto-04-resistencia-pata-larga.jpg`](./foto-04-resistencia-pata-larga.jpg) | Resistencia de 220 Ω enrollada en la pata larga del LED. |
+| [`foto-05-leds-dentro-cabeza.jpg`](./foto-05-leds-dentro-cabeza.jpg) | LEDs pegados por dentro de la cabeza, vistos desde atrás. |
+| [`foto-06-servo-y-brazo.jpg`](./foto-06-servo-y-brazo.jpg) | Servo con su patita y la pieza del brazo antes de pegarla. |
+| [`foto-07-servo-en-el-cuerpo.jpg`](./foto-07-servo-en-el-cuerpo.jpg) | Servo pegado al costado del cuerpo, a la altura del hombro, con el brazo puesto. |
+| [`foto-08-servo-jumpers-lagartos.jpg`](./foto-08-servo-jumpers-lagartos.jpg) | Conector del servo con jumpers macho y lagartos: amarillo a la señal, negro a GND y rojo al portapilas. |
+| [`foto-09-portapilas-lagartos.jpg`](./foto-09-portapilas-lagartos.jpg) | Cables del portapilas de 4 AA con lagartos. |
+| [`foto-10-microbit-lagartos.jpg`](./foto-10-microbit-lagartos.jpg) | Lagartos sujetos a los pines de la micro:bit. |
+| [`foto-11-cables-dentro-cabeza.jpg`](./foto-11-cables-dentro-cabeza.jpg) | Lagartos conectados a las patas de los LEDs por dentro de la cabeza. |
+| [`foto-12-robot-primaria-terminado.jpg`](./foto-12-robot-primaria-terminado.jpg) | Robot de Primaria terminado, con los ojos encendidos y el brazo arriba. |
+| [`foto-13-robot-primaria-en-mesa.jpg`](./foto-13-robot-primaria-en-mesa.jpg) | Robot de Primaria con la micro:bit y el portapilas sobre la mesa. |
+| [`foto-14-componentes-secundaria.jpg`](./foto-14-componentes-secundaria.jpg) | Componentes de Secundaria: sensor HC-SR05 con 4 jumpers, servo, buzzer e IdeaBoard. |
+| [`foto-15-buzzer-jumpers.jpg`](./foto-15-buzzer-jumpers.jpg) | Buzzer con dos jumpers hembra. |
+| [`foto-16-portapilas-ideaboard.jpg`](./foto-16-portapilas-ideaboard.jpg) | Portapilas de 4 AA conectado a la bornera verde de la IdeaBoard. |
+| [`foto-17-ideaboard-conexiones.jpg`](./foto-17-ideaboard-conexiones.jpg) | IdeaBoard con los jumpers en los dos bloques de pines. |
+| [`foto-18-ideaboard-io27.jpg`](./foto-18-ideaboard-io27.jpg) | Detalle del bloque derecho de la IdeaBoard, donde llega el Echo al IO27. |
+| [`foto-19-robot-secundaria-terminado.jpg`](./foto-19-robot-secundaria-terminado.jpg) | Robot de Secundaria terminado, con el sensor ultrasónico como ojos. |
 
 ---
 
-## Cómo insertar una foto
+## Diagramas de conexión
 
-1. Guarde la foto en esta carpeta con el nombre sugerido (letras minúsculas, sin tildes ni espacios).
-2. En la guía, busque el aviso "Insertar próximamente una imagen" que menciona ese archivo.
-3. Reemplace el aviso por esta línea, cambiando el nombre del archivo y el texto alternativo:
+Hechos sobre la imagen oficial de la IdeaBoard de CRCibernética y sobre la micro:bit V2.
 
-```html
-<img width="500" alt="descripción breve de la foto" src="./06.%20Im%C3%A1genes/nombre-del-archivo.jpg" />
-```
-
-Use fotos horizontales, con buena luz y fondo despejado. Reduzca cada foto a 1600 px de ancho como máximo para que el repositorio no pese demasiado.
-
----
-
-## Relación con XperiencED Maker
-
-- **Inspiración:** las fotos del prototipo terminado muestran el reto.
-- **Experimentación:** las fotos de cada paso guían el armado.
-- **Reflexión:** las fotos de pruebas y errores alimentan la bitácora.
-
----
-
-## Recursos relacionados
-
-- [`README.md — Proyecto`](../README.md): Índice del proyecto.
-
----
-
-## Nota docente
-
-Las fotos de estudiantes requieren autorización de las familias. Prefiera fotos de manos y prototipos, sin rostros.
+| Archivo | Qué muestra |
+|---|---|
+| [`conexion-microbit-general.png`](./conexion-microbit-general.png) | Primaria: todas las conexiones en la micro:bit. |
+| [`conexion-microbit-servo.png`](./conexion-microbit-servo.png) | Primaria: servo en P0 con su portapilas de 4 AA. |
+| [`conexion-microbit-ojos-led.png`](./conexion-microbit-ojos-led.png) | Primaria: ojos LED en P1 y P2, cada pata corta a GND con su propio lagarto. |
+| [`conexion-ideaboard-general.png`](./conexion-ideaboard-general.png) | Secundaria: tabla y pines usados en la IdeaBoard. |
+| [`conexion-ideaboard-servo.png`](./conexion-ideaboard-servo.png) | Secundaria: servo en la fila IO25. |
+| [`conexion-ideaboard-ultrasonico.png`](./conexion-ideaboard-ultrasonico.png) | Secundaria: sensor HC-SR05 en IO26 (Trig) e IO27 (Echo). |
+| [`conexion-ideaboard-buzzer.png`](./conexion-ideaboard-buzzer.png) | Secundaria: buzzer en la fila IO05. |
