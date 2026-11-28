@@ -1,7 +1,7 @@
 # Imágenes
 
-> Este archivo pertenece a: **Bloque 7. Creatividad Digital, Proyecto 5: Robot que saluda**
-> Ruta: `01. Bloques Temáticos/07. Creatividad Digital/Proyecto 5. Robot que saluda/06. Imágenes/README.md`
+> Este archivo pertenece a: **Bloque 7: Proyectos innovadores y creatividad digital**
+> Ruta: `01_bloques-tematicos/07_creatividad-digital/07. Wearables/05. Proyecto 5 - Robot que saluda/06. Imágenes/README.md`
 
 ---
 
@@ -9,7 +9,7 @@
 
 **Estado:** Borrador
 **Versión:** v1.0
-**Bloque:** 07. Creatividad Digital
+**Bloque:** 07_creatividad-digital
 
 ---
 
@@ -19,7 +19,15 @@ Fotos del prototipo real y diagramas de conexión del Proyecto 5.
 
 ---
 
-## Fotos del prototipo
+## Propósito
+
+Apoyar visualmente cada paso de las guías. Las fotos muestran el robot construido para Maker Academy y los diagramas muestran las conexiones de cada placa.
+
+---
+
+## Contenido de esta carpeta
+
+### Fotos del prototipo
 
 Fotos tomadas durante la construcción, en el orden en que se hizo el robot.
 
@@ -32,10 +40,10 @@ Fotos tomadas durante la construcción, en el orden en que se hizo el robot.
 | [`foto-05-leds-dentro-cabeza.jpg`](./foto-05-leds-dentro-cabeza.jpg) | LEDs pegados por dentro de la cabeza, vistos desde atrás. |
 | [`foto-06-servo-y-brazo.jpg`](./foto-06-servo-y-brazo.jpg) | Servo con su patita y la pieza del brazo antes de pegarla. |
 | [`foto-07-servo-en-el-cuerpo.jpg`](./foto-07-servo-en-el-cuerpo.jpg) | Servo pegado al costado del cuerpo, a la altura del hombro, con el brazo puesto. |
-| [`foto-08-servo-jumpers-lagartos.jpg`](./foto-08-servo-jumpers-lagartos.jpg) | Conector del servo con jumpers macho y lagartos: amarillo a la señal, negro a GND y rojo al portapilas. |
-| [`foto-09-portapilas-lagartos.jpg`](./foto-09-portapilas-lagartos.jpg) | Cables del portapilas de 4 AA con lagartos. |
-| [`foto-10-microbit-lagartos.jpg`](./foto-10-microbit-lagartos.jpg) | Lagartos sujetos a los pines de la micro:bit. |
-| [`foto-11-cables-dentro-cabeza.jpg`](./foto-11-cables-dentro-cabeza.jpg) | Lagartos conectados a las patas de los LEDs por dentro de la cabeza. |
+| [`foto-08-servo-jumpers-lagartos.jpg`](./foto-08-servo-jumpers-lagartos.jpg) | Conector del servo con jumpers macho y cables lagarto: amarillo a la señal, negro a GND y rojo al portapilas. |
+| [`foto-09-portapilas-lagartos.jpg`](./foto-09-portapilas-lagartos.jpg) | Cables del portapilas de 4 AA con cables lagarto. |
+| [`foto-10-microbit-lagartos.jpg`](./foto-10-microbit-lagartos.jpg) | Cables lagarto sujetos a los pines de la micro:bit. |
+| [`foto-11-cables-dentro-cabeza.jpg`](./foto-11-cables-dentro-cabeza.jpg) | Cables lagarto conectados a las patas de los LEDs por dentro de la cabeza. |
 | [`foto-12-robot-primaria-terminado.jpg`](./foto-12-robot-primaria-terminado.jpg) | Robot de Primaria terminado, con los ojos encendidos y el brazo arriba. |
 | [`foto-13-robot-primaria-en-mesa.jpg`](./foto-13-robot-primaria-en-mesa.jpg) | Robot de Primaria con la micro:bit y el portapilas sobre la mesa. |
 | [`foto-14-componentes-secundaria.jpg`](./foto-14-componentes-secundaria.jpg) | Componentes de Secundaria: sensor HC-SR05 con 4 jumpers, servo, buzzer e IdeaBoard. |
@@ -47,7 +55,7 @@ Fotos tomadas durante la construcción, en el orden en que se hizo el robot.
 
 ---
 
-## Diagramas de conexión
+### Diagramas de conexión
 
 Hechos sobre la imagen oficial de la IdeaBoard de CRCibernética y sobre la micro:bit V2.
 
@@ -55,8 +63,35 @@ Hechos sobre la imagen oficial de la IdeaBoard de CRCibernética y sobre la micr
 |---|---|
 | [`conexion-microbit-general.png`](./conexion-microbit-general.png) | Primaria: todas las conexiones en la micro:bit. |
 | [`conexion-microbit-servo.png`](./conexion-microbit-servo.png) | Primaria: servo en P0 con su portapilas de 4 AA. |
-| [`conexion-microbit-ojos-led.png`](./conexion-microbit-ojos-led.png) | Primaria: ojos LED en P1 y P2, cada pata corta a GND con su propio lagarto. |
+| [`conexion-microbit-ojos-led.png`](./conexion-microbit-ojos-led.png) | Primaria: ojos LED en P1 y P2, cada pata corta a GND con su propio cable lagarto. |
 | [`conexion-ideaboard-general.png`](./conexion-ideaboard-general.png) | Secundaria: tabla y pines usados en la IdeaBoard. |
 | [`conexion-ideaboard-servo.png`](./conexion-ideaboard-servo.png) | Secundaria: servo en la fila IO25. |
 | [`conexion-ideaboard-ultrasonico.png`](./conexion-ideaboard-ultrasonico.png) | Secundaria: sensor HC-SR05 en IO26 (Trig) e IO27 (Echo). |
 | [`conexion-ideaboard-buzzer.png`](./conexion-ideaboard-buzzer.png) | Secundaria: buzzer en la fila IO05. |
+
+---
+
+## Cómo usar esta carpeta
+
+Las guías ya insertan estas imágenes en el paso que corresponde. Use esta tabla para encontrar una imagen y proyectarla o imprimirla durante la clase.
+
+---
+
+## Relación con XperiencED Maker
+
+- **Inspiración:** las fotos del robot terminado sirven para presentar el reto.
+- **Experimentación:** las fotos del proceso y los diagramas guían la construcción y las conexiones.
+
+---
+
+## Recursos relacionados
+
+- [`README.md` — Proyecto 5](../README.md): Índice del proyecto.
+- [`02. Versión primaria.md`](../02.%20Versi%C3%B3n%20primaria.md): Guía de Primaria, donde se usan las fotos 01 a 13.
+- [`03. Versión secundaria.md`](../03.%20Versi%C3%B3n%20secundaria.md): Guía de Secundaria, donde se usan las fotos 14 a 19.
+
+---
+
+## Nota docente
+
+Si agrega fotos nuevas, use el mismo formato de nombre (`foto-NN-descripcion.jpg`) y regístrelas en esta tabla.
