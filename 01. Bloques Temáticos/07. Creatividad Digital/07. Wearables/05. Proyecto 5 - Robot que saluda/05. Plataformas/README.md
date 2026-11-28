@@ -15,52 +15,44 @@
 
 ## Descripción
 
-Guías técnicas para desarrollar el mismo proyecto con distintas placas.
+Guías de conexión y programación de cada placa del Proyecto 5. Cada guía corresponde a un nivel.
 
 ---
 
 ## Propósito
 
-Permitir que el proyecto se realice con la placa disponible en el makerspace.
+Permitir que el docente y los estudiantes consulten las conexiones y el programa sin buscar dentro de la guía completa del nivel.
 
 ---
 
 ## Contenido de esta carpeta
 
-A continuación se listan los archivos y subcarpetas disponibles en este directorio, en orden de lectura sugerido:
-
-| Archivo o carpeta | Descripción |
-|---|---|
-| [`01. IdeaBoard.md`](./01.%20IdeaBoard.md) | Guía con IdeaBoard (plataforma principal). |
-| [`02. Microbit.md`](./02.%20Microbit.md) | Guía con micro:bit. |
-| [`03. Arduino.md`](./03.%20Arduino.md) | Guía con Arduino Uno. |
-| [`04. ESP32.md`](./04.%20ESP32.md) | Guía con ESP32 genérico. |
-
-> Los archivos están ordenados en el orden en que se recomienda consultarlos.
+| Archivo | Nivel | Descripción |
+|---|---|---|
+| [`01. IdeaBoard.md`](./01.%20IdeaBoard.md) | Secundaria | Conexiones del servo, el sensor y el buzzer, preparación de Arduino IDE y programas. |
+| [`02. Microbit.md`](./02.%20Microbit.md) | Primaria | Conexiones del servo y de los ojos LED y programa en MakeCode. |
 
 ---
 
 ## Cómo usar esta carpeta
 
-Abra solo la guía de la placa que usará el grupo.
+Abra la guía de la placa que usa su nivel. Haga todas las conexiones con la placa desconectada y compárelas con el diagrama antes de energizar.
 
 ---
 
 ## Relación con XperiencED Maker
 
-- **Inspiración:** se muestra la placa y sus componentes.
-- **Experimentación:** se conecta, programa y prueba.
-- **Reflexión:** se registran las limitaciones encontradas.
+- **Experimentación:** estas guías se usan cuando los equipos conectan y programan el robot.
 
 ---
 
 ## Recursos relacionados
 
-- [`README.md — Proyecto 5`](../README.md): Índice del proyecto.
-- [`02. Guía de plataformas.md`](../../../02.%20Gu%C3%ADa%20de%20plataformas.md): Guía general de plataformas.
+- [`README.md` — Proyecto 5](../README.md): Índice del proyecto.
+- [`07. Código/`](../07.%20C%C3%B3digo/): Programas listos para cargar.
 
 ---
 
 ## Nota docente
 
-Todas las guías siguen la misma estructura para facilitar el cambio de placa.
+Imprima o proyecte el diagrama general de la placa durante la sesión de conexión. Ayuda a que los equipos revisen su trabajo sin depender siempre del docente.
